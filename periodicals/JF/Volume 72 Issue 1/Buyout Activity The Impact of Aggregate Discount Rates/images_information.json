@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Time series of buyout volume and aggregate risk premium. This figure plots quarterly deal volume of buyout transactions. The equity risk premium is predicted using annual returns for a three-year period usingD/P,cay, and the three-month T-bill as factors.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of buyout activity measures. This figure plots time-series variation in buyout activity. The volume-based measure is quarterly deal volume as a fraction of public firms (in bps). The value-based measure is the log of target assets (in 2010 millions of dollars).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Density of LBO risk measures in low and high risk premium periods. Panel A plots the kernel density of unlevered beta for buyout transactions in the top and bottom quartiles of the risk premium. Panel B plots the kernel density of idiosyncratic risk (thestd. dev. of unlevered residuals from the market regression) for buyout transactions in the top and bottom quartiles of the risk premium. Unlevered betas and residuals are trimmed at the top and bottom 5% to remove extreme outliers. The risk premium is predicted using annual returns for a three-year period usingD/P,cay, and the three-month T-bill as factors.",
+        "correlation": []
+    }
+}

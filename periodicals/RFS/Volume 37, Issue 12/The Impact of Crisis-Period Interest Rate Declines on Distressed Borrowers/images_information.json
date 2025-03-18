@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "PLS and 6-month LIBOR ARM modifications",
+        "correlation": []
+    },
+    "2": {
+        "description": "Monetary policy, LIBOR shocks, subprime ARM rates, and modifications",
+        "correlation": []
+    },
+    "3": {
+        "description": "The LIBOR change first stage and reduced form For the 1st and 4th quartiles of loan-level LIBOR changes by first payment adjustment year-quarter, panel A1 plots the mean probability of an interest rate modification (first stage), and panel A2 shows the mean log difference in interest rate payments (reduced form). The binscatters in panels 1B and 2B group loan-level LIBOR changes into bins as in Cattaneo et al. (2024). For each bin, we calculate the mean probability of an interest rate modification (first stage; panel B1) or the mean log difference in interest rate payments between first interest rate measurement and first payment adjustment (reduced form; panel B2). Baseline estimates in column B (blue) only control for first payment adjustment date fixed effects. The credit risk-adjusted estimates (purple) also partial out origination credit scores, combined loan-to-value ratios (CLTVs), and the ARM interest rate margin. The data consist of subprime ARMs indexed to 6-month LIBOR originated between 2002 to 2006 in line with our main sample.",
+        "correlation": []
+    },
+    "4": {
+        "description": "First-stage and 2SLS estimates: LIBOR change-induced modifications Confidence bands are based on ±2.5 robust standard errors clustered at the three-digit ZIP code level. Controls are listed in footnote 4.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Reduced-form binscatters at first payment adjustment For each panel, the binscatters group loan-level LIBOR changes into bins as in Cattaneo et al. (2024). Then, within each panel, we calculate the mean of the variable plotted on the vertical axis by bin. Baseline estimates (blue) only control for first payment adjustment date fixed effects. The credit risk-adjusted estimates (purple) also partial out origination credit scores, combined loan-to-value ratios (CLTVs), and the ARM interest rate margin. The data consist of subprime ARMs indexed to 6-month LIBOR originated between 2002 to 2006 in line with our primary sample.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Falsification tests: the loan-level LIBOR IV and credit or mortgage performance metrics Confidence bands are based on ±2.5 robust standard errors clustered at the three-digit ZIP code level. Controls only include the origination loan characteristics listed in footnote 4.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Loan-level LIBOR change falsification test regression estimates Estimates correspond to separate regressions by year-month. Controls include the number of lookback days, first payment adjustment date fixed effects, and the following variables at origination: The FICO credit score, CLTV, the ARM interest rate margin, the interest rate, and the loan balance.",
+        "correlation": []
+    },
+    "8": {
+        "description": "LIBOR change-induced modification rates, the NPV of modified loans, and investor losses by origination risk proxy quintiles Estimates correspond to separate regressions by quintile within each panel. Controls are listed in footnote 4.",
+        "correlation": []
+    },
+    "9": {
+        "description": "LIBOR change-induced modification rates and investor losses by category Estimates correspond to separate regressions by category within each each panel. Controls are listed in footnote 4.",
+        "correlation": []
+    },
+    "10": {
+        "description": "The dynamic impact of LIBOR change-induced modifications on foreclosures and repayments Red lines use a baseline set of controls described in Section 6.3. Green lines use a full set of controls listed in footnote 4. Confidence bands are based on ±2.5 robust standard errors clustered at the three-digit ZIP code level.",
+        "correlation": []
+    },
+    "11": {
+        "description": "The dynamic impact of LIBOR change-induced modifications on foreclosures and defaults Red lines use a baseline set of controls described in Section 6.3. Green lines use a full set of controls listed in footnote 4. Confidence bands are based on ±2.5 robust standard errors clustered at the three-digit ZIP code level.",
+        "correlation": []
+    },
+    "12": {
+        "description": "2SLS estimates by Bartik quintile: LIBOR change-induced modification performance 48 months after first adjustment Estimates correspond to separate regressions by 2006M01 to 2010M12 Bartik quintile within each panel. Controls are listed in footnote 4, except for the household income for each borrower’s ZIP code in 2006, the log difference in ZIP-code-level house price growth from 2006M01 to 2007M08, and the county Bartik labor demand shock from 2006M01 to 2010M12. Confidence bands correspond to ±2.5 robust standard errors clustered at the three-digit ZIP code level.",
+        "correlation": []
+    }
+}

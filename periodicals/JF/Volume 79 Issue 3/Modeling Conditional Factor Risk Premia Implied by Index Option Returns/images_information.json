@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Delevered option exposures. The figure presents fitted exposures for the three factors in the baseline model. The left panels correspond to puts and the right panels to calls. We consider three maturities: one, three, and six months. For each factor and a given maturity, we compute exposures using the estimated model parameters by varying moneyness and by settingil,t$\\bm {i}_{l,t}$inzl,tO$\\bm {z}^{O}_{l,t}$to the medianVIXt2$\\mathrm{{VIX}_t^2}$. The sample period is from January 1996 to June 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of the MKT and VAR risk premiums. The figure plots the daily time series of annualized (using 252 days per year) risk premia for the market (MKT) and variance (VAR) factors obtained using the baseline model specification. The MKT premium is estimated via a predictive regression of MKT on the state variables. The VAR premium is estimated via cross-sectional regressions as described in SectionIIIof theInternet Appendix. The sample period is from January 1996 to June 2019.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Decomposition of expected option returns. The figure presents the decomposition of the expected delevered excess option returns according to the contributing factors. The top panels correspond to puts and the bottom panels to calls. The contribution of factorfl$f_l$to option returns is calculated as1/T∑tβ̂l,tBλ̂l,t$1/T \\sum _t \\widehat{\\beta }_{l,t}^B \\widehat{\\lambda }_{l,t}$, whereβl,tB$\\beta _{l,t}^B$is the average option exposure to factorfl$f_l$on daytfor a given moneyness-maturity bucket and option payoff, whileλ̂l,t$\\widehat{\\lambda }_{l,t}$is factorl’s estimated premium on dayt. We consider three maturity and moneyness buckets. We group together options with maturities of one to two months, two to three months, and three to six months. For ATM options,K/St∈(0.975,1.02]$K/S_t \\in (0.975, 1.02]$. For OTM puts (calls),K/St∈(0.9,0.975]$K/S_t \\in (0.9, 0.975]$(K/St∈(1.02,1.07]$K/S_t \\in (1.02, 1.07]$). For DOTM puts (calls),K/St∈(0.8,0.9]$K/S_t \\in (0.8, 0.9]$(K/St∈(1.07,1.15]$K/S_t \\in (1.07, 1.15]$). The sample period is from January 1996 to June 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

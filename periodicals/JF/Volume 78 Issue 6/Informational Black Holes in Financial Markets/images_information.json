@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Social surplus. The solid line plots social surplus as a function of the number of investors in the setting of the motivating example. The dashed line plots maximum possible surplus if all signals are used efficiently.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium market size. Panel A shows social surplus gross of investor costs (dashed line) and the expected revenues to the entrepreneur (solid line) as a function of market size. Panel B shows expected gross profits to investors from participating in the auction as a function of market size (solid line), as well as a particular specification for the costof information gathering for each investor (dashed line). The parameters are as follows. The project is good or bad with equal probabilities. A good project hasand a bad project has;andis the normal distribution with unit mean and standard deviation truncated to the interval [0,1].",
+        "correlation": []
+    },
+    "3": {
+        "description": "Scalable investments. The figure plots social surplus as a function of number of investors in a setting with scalable investment. The production function is,,,. Investors get a high or a low signal about the project, with,.",
+        "correlation": []
+    }
+}

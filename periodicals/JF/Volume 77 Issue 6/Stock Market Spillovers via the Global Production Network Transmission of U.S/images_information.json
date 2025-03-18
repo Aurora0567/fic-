@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Distribution of weighted outdegree for WIOD. The first row of this figure plots the countercumulative distribution function (CCDF) of the weighted outdegree using the average of the WIOD annual database over 2000 to 2014. The second row plots changes in the distribution of country-sector weighted outdegrees, where the change is measured as the correlation of the vector of each year's country-sector outdegree measures with the vector of these measures for 2000. The panels representing World Linkages are based on the full WIOD table, while the panels for International Linkages use internationally connected country-sector cells only (i.e., we omit domestic-only linkages across sectors) in constructing the weighted outdegree measure. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Closeness to U.S. consumers. This figure presents the distribution of a country-sector's sales of final consumption goods to the United States relative to the country-sector's total output using 2000 data from WIOD. Panel A presents the distribution for all country-sector cells in the 26 countries and 54 sectors in our full sample, while Panel B omits U.S. country-sector cells to construct the international sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Correlation of stock returns over the entire sample. This figure plots the distribution of pairwise correlations of annualized U.S. dollar monthly stock returns over 2000 to 2016 across 26 countries and 54 sectors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "WIOD network distance of supply linkages and the correlation of stock returns. This figure plots correlations of U.S. dollar annualized monthly stock returns over the 2000 to 2016 period across 26 countries and 54 sectors on they-axis, across network distance bins based on the direct bilateral supply linkage using the average of the WIOD annual database over the 2000 to 2014 period. The elements of the IO matrix are defined as country-sectormi$mi$'s usage of country-sectornj$nj$'s good as an intermediate goods divided bymi$mi$'s gross output. Panel A is based on the full WIOD table, while Panel B extracts the correlation and distance variable for internationally connected country-sector cells only (i.e., we omit domestic-only linkages across sectors). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Distribution of direct and network effects across country-sectors. This figure plots the distribution ofDirectandNetworkacrossmifrom the estimation of equation (13) for 2000 to 2007, using Jarociński and Karadi (2020) monetary policy shocks forM̂US${\\widehat{M}}_{\\textit{US}}$. The averages of these distributions are reported in TableIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Distribution of direct and network effects across countries and sectors. This figure plots averages ofDirectandNetworkacrossiplotted for eachmand averages acrossmplotted for eachifrom the estimation of equation (13) for 2000 to 2007, using Jarociński and Karadi (2020) U.S. monetary policy shocks forM̂US${\\widehat{M}}_{\\textit{US}}$and usingDecomposition 1(AAK16). The overall averages of these distributions are reported in TableIII. In Panel A, blue labels are for advanced economies, green labels are for emerging economies, and the red label is for the United States. In Panel B, financial and real estate industries are labeled in red. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

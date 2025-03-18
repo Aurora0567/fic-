@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "The figure plots the cross-currency median of the average proportional costs (Section 2.3) for the spot market, med0.5Ci,tS++0.5Ci,tP− (solid line), and the forward market, med0.5Ci,tP++0.5Ci,tS− (dashed line). The sample includes 13 developed and 13 emerging currencies against the USD for the period from February 1986 to January 2024."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "The asterisks in the figure plot the natural logarithm of the average volume lnv̄iS against the natural logarithm of the average proportional bid–ask spread lnPBA¯iS for the 12 currencies i∈I= {AUD, EUR, GBP, NZD, CAD, CHF, JPY, NOK, SEK, MXN, SGD, ZAR}. The average is taken over the daily sample between September 3rd 2012 through September 24th 2021. The linear line is the fitted regression lnv̄iS=9.83−1.46lnPBA¯iS, and the circles on the line represent the fitted values lnv̄iS corresponding to lnPBA¯iS for the 6 currencies BRL, CZK, HUF, KRW, PLN, and TWD (for which CLS trading volume data is unavailable)."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "The figure plots the cross-currency median of Ai,tSz̄ifunds for spot (solid line) and Ai,tFz̄ifunds for forwards (dashed line). Ai,tS and Ai,tF are the realized Amihud measures for spot and forwards. z̄ifunds is the time-series average of the absolute value of the daily order flow imbalance of funds. The sample includes 13 developed and 13 emerging currencies against the USD for the period from February 1986 to January 2024."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "The figures plot the after-cost cumulative excess returns of MV (solid line), MVTC (bold solid line), HML (dashed line), and MOM (dotted line). The strategies are described in Section 3. The top graph assumes no price impact, while the middle and bottom graphs assume an initial AUM of USD 100 million respectively 1 billion. The sample includes 13 developed and 13 emerging currencies against the USD for the period from February 1987 to January 2024."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "The figure plots the annualized after-cost Sharpe ratio as a function of the initial AUM of a fund for our FX trading strategies, and the US stock market (SPY; horizontal line at 0.51). The FX strategies are described in Section 3. The sample includes 13 developed and 13 emerging currencies against the USD for the period from February 1987 to January 2024."
+        ],
+        "correlation": []
+    }
+}

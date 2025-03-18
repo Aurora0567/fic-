@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Time series of convenience premia by tenor. These graphs show the time series of the average premium for each tenor by maturity category.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of convenience premia by maturity category. These graphs show the time series of the average premium for each maturity category by tenor.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Time series of the percentage of negative convenience premia by tenor. These graphs show the time series of the percentage of negative premia by tenor. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Time series of the percentage of negative convenience premia by maturity category. These graphs show the time series of the percentage of negative premia by maturity category. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Term structures of convenience premia for selected dates. These graphs show the term structure of month-end convenience premia for the indicated dates.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Results from cross-sectional regressions of convenience premia on maturity. These graphs show the results from the cross-sectional regressions of the convenience premiaPREMi,t${\\textit{PREM}}_{i,t}$of individual Treasury securitiesi$i$on time to maturityMATURITYi,t${\\textit{MATURITY}}_{i,t}$measured in years. The upper panel shows the time series of interceptsαt$\\alpha _t$. The middle panel shows the time series of slope coefficientsβt$\\beta _t$for the maturity of the Treasury securities. The lower panel plots the regressionsR2s$R^2{\\rm s}$. The regressions are estimated each month over the sample period from January 1997 to December 2022. The regression specification isPREMi,t=αt+βtMATURITYi,t+εi,t$ {\\textit{PREM}}_{i,t} = \\alpha _t + \\beta _t \\, {\\textit{MATURITY}}_{i,t} + \\epsilon _{i,t}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Time series of the on-the-run spread. These graphs show the time series of the on-the-run spread for individual tenors, where the on-the-run spread is defined as the difference between the convenience premium of the current on-the-run Treasury and that of the first off-the-run (the previous on-the-run) Treasury. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Average convenience premia for monthly maturity categories. These graphs show the average premium for monthly maturity categories ranging fromT=2$T=2$months toT=24$T=24$months, where each categoryT$T$includes Treasury securities with maturities in the interval(T−1,T]$(T-1,T]$. The upper graph shows the averages taken across all Treasuries in each maturity categoryT$T$; the lower graph shows the averages taken across just Treasury notes and bonds in each maturity categoryT$T$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Average convenience premia by remaining maturity. These graphs show the median premium by remaining maturity for the 2-, 3-, 5-, and 10-year tenors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Term structure of changes in convenience premia associated with selected market events. These graphs show the change in the term structure of month-end convenience premia measured over a window±$\\pm$one month surrounding the event date (event dates shown in parentheses).",
+        "correlation": []
+    },
+    "11": {
+        "description": "Changes in convenience premia on the SLR event date as a function of the price of the Treasury security. This graph plots the change in the convenience premium of individual Treasury securities on the SLR event date as a function of the full price of the individual Treasury note or bond. The change in the premium is computed as the difference between the end-of-day premium on April 1, 2020 and the end-of-day premium on March 31, 2020. Securities with a maturity of one year or less are excluded. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

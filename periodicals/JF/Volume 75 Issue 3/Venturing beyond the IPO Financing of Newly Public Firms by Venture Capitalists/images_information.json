@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Fraction of VC-backed firms that receive VC financing after the IPO. Our initial sample consists of VC-backed IPOs between 1995 and 2010, defined as IPOs for which SDC identifies the company as having received funding from a VC prior to the IPO. We exclude REITs, ADRs, closed-end funds, unit offerings, reverse LBOs, and IPOs with an offer price of less than $5. We further require all firms to have CRSP and Compustat data. Post-IPO VC funding is defined as a firm receiving funding from a VC between eight days and five years post-IPO, as reported in VentureXpert and verified through SEC filings. The solid line shows the percentage of firms that receive VC financing between eight days and five years post-IPO, and the dashed line shows the percentage of firms that receive VC financing during this same interval from a VC that also funded the company prior to the IPO. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Extent to which firms rely on multiple sources of financing. The sample consists of VC-backed IPOs between 1995 and 2010, as described in Figure1and TableI. The figure plots the percentage of firms that raise capital during the first 60 months after the IPO from a VC, via a PIPE (where no VC belongs to the funding syndicate), through an SEO, and through a syndicated loan. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Variation across financing types in cyclicality. The sample consists of VC-backed IPOs between 1995 and 2010, as described in Figure1and TableI. For each calendar year in the sample, the figure plots the percentage of firms (among those that have gone public within the past five years) that raise capital through one of the following forms of financing: post-IPO VC rounds, PIPEs (without VC participation), SEOs, and syndicated loans. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "VC fund age at the time of firm financing rounds. The sample consists of VC-backed IPOs between 1995 and 2010, as described in Figure1and TableI. For each VC round investment in these firms, we determine the VC's fund age at the time of investment. The solid line plots median VC fund age at the time of investment, across VCs investing both pre- and- post IPO. The dashed line plots median VC fund age at the time of investment across VCs investing only pre-IPO (as depicted by years –5 through –1 in the figure) or only post-IPO (as depicted by years +1 through +5 in the figure). Year –1 (year +1) is defined as the 12 months preceding (following) the IPO. Other years are defined analogously. Thus, among VCs investing pre- and post-IPO, median fund age was four years among the investments that occurred one year prior to the IPO and six years among the investments that occurred one year after the IPO. Among VCs that invested only prior to the IPO, median fund age was a similar four years among the investments that occurred one year prior to the IPO. Among VCs that invested only after the IPO, median fund age was four years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

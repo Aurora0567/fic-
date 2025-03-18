@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "SBA and PLP loan size distributions, non-PLP versus PLP lenders. This figure shows the loan amount distributions in 1991–2009 in real 2010 dollars, separately for SBA loans issued by non-PLP lenders, SBA loans issued by PLP lenders, and PLP loans.",
+        "correlation": []
+    },
+    "2": {
+        "description": "OLS estimates of the SBA loan effect, year-over-year. This figure shows loan amount coefficients from OLS regressions where the dependent variable is the firm's employment in the respective year minus employment in yeart –1.Loan Amountis in millions of 2010 dollars.County-Industry Employment Growth, Bank Branch Employmentt –1/Total County Employmentt– 1,CRA Loan Amount ≤ $1mt– 1/County Empt– 1Ratio, treatment yearAge,Age Squared, and treated firm-control fixed effects are also included in the regressions.Bank Branch Employmentt– 1/Total County Employmentt– 1andCRA Loan Amount ≤ $1mt– 1/County Empt– 1Ratioare defined in TableIII, andCounty-Industry Employment Growthis defined in TableIV. The sample is the same in the regressions in yearst,t +1,t +2,t +3,t +4, andt +5. To be in the samples for the pretreatment years, treated firms and at least one control must have positive employment in the respective year, as well as int –1 throught +5. The dotted lines are the bounds of the 99% confidence interval, based on standard errors clustered by treated firm-control groups.",
+        "correlation": []
+    },
+    "3": {
+        "description": "IV estimates of the SBA loan effect, year-over-year. This figure showsLoan Amountcoefficients from IV regressions where the dependent variable is the firm's employment in the respective year minus employment in yeart –1.Loan Amountis in millions of 2010 dollars.County-Industry Employment Growth, Bank Branch Employmentt– 1/Total County Employmentt– 1,CRA Loan Amount ≤ $1mt– 1/County Empt– 1Ratio, treatment yearAge,Age Squared, and treated firm-control fixed effects are also included in the regressions.Bank Branch Employmentt– 1/Total County Employmentt– 1andCRA Loan Amount ≤ $1mt– 1/County Empt– 1Ratioare defined in TableIII, andCounty-Industry Employment Growthis defined in TableIV. The sample is the same in the regressions in yearst,t +1,t +2,t +3,t +4, andt +5. To be in the samples for the pretreatment years, treated firms and at least one control must have positive employment in the respective year, as well as int –1 throught +5. The dotted lines are the bounds of the 99% confidence interval, based on standard errors clustered by treated firm-control groups. 1st stageFstatistics:PLPct– 1: 109.06 (t –5), 135.39 (t –4), 150.16 (t –3), 163.57 (t –2), 174.85 (t…t +5).SumSharesIVct– 1: 653.20 (t –5), 709.05 (t –4), 747.26 (t –3), 793.28 (t– 2), 851.08 (t…t +5).BranchSharect– 1: 476.87 (t –5), 537.55 (t –4), 562.90 (t –3), 584.81 (t –2), 649.25 (t…t +5).",
+        "correlation": []
+    }
+}

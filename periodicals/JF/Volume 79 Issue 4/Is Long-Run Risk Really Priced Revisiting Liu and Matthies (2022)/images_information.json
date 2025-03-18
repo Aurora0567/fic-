@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Factor loadings and risk premia. This figure plots the factor loadings (Betas), risk premia in % (ER), and pricing errors in % (Alphas) for the 25 size-BM portfolios (SBM25), 10 momentum portfolios (M10), 10 industry portfolios (IND10), and six Treasury bond portfolios (GB6). The factor isNI$NI$. The loadings associated withNI$NI$are multiplied by 100. The pricing errors are obtained from an estimation including all 51 portfolios. The sample period is 1952:07 to 2013:12. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

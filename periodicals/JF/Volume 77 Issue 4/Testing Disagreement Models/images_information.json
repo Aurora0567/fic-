@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Timeline of EDGAR implementation. The figure shows the major milestones in the SEC's implementation of EDGAR. SEC Release 33-6977 is the SEC's announcement of its plan to require all registered firms to submit their filings electronically, in ultimately 10 waves. The release contains the phase-in dates for four “significant test groups,” to be followed by a six-month evaluation period in the first half of 1994 leading to a final rule concerning the phase-in dates for the remaining firms. SEC Release 33-7122 contains final rules on EDGAR implementation, including the dates of the remaining six waves. The National Science Foundation announced on October 22, 1993 funding for a project to make all EDGAR filings available for free online, hosted by New York University's Stern School of Business. The SEC took over online access in October 1995.",
+        "correlation": []
+    },
+    "2": {
+        "description": "EDGAR phase-in waves. The figure shows the average equity market capitalization of firms included in each of the 10 EDGAR phase-in waves. See TableIfor further details. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Dynamics of the treatment effect. The figure graphs dynamic difference-in-differences estimates of the effects of inclusion in EDGAR on investor disagreement. Treated firms are those included in EDGAR at time 0; control firms are nearest-neighbor propensity score matched on equity market capitalization (in levels and logs) and fiscal quarter using a 0.05 caliper. We include data from a nine-fiscal quarter window centered on the fiscal quarter in which a treated firm's EDGAR inclusion takes place. All specifications are estimated using OLS and include controls (the one-quarter lag of log market cap as well as fixed effects for calendar-quarter, fiscal-quarter, and firm). For variable definitions and details of their construction, see theAppendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Quantile regressions: Disagreement measures. The figure graphs quantile-regression DD estimates of the effects of inclusion in EDGAR on investor disagreement. Treated firms are those included in EDGAR at time 0; control firms are nearest-neighbor propensity score matched on equity market capitalization (in levels and logs) and fiscal quarter using a 0.05 caliper. All specifications are estimated using quantile regressions (Koenker and Bassett (1978)) and include controls (the one-quarter lag of log market cap as well as fixed effects for calendar-quarter, fiscal-quarter, and firm). The dashed lines indicate 95% bootstrapped confidence intervals. For variable definitions and details of their construction, see theAppendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Quantile regressions: Stock price crash risk measures. The figure graphs quantile-regression DD estimates of the effects of inclusion in EDGAR on stock price crash risk for our two continuous crash measures. Treated firms are those included in EDGAR at time 0; control firms are nearest-neighbor propensity score matched on equity market capitalization (in levels and logs) and fiscal quarter using a 0.05 caliper. All specifications are estimated using quantile regressions (Koenker and Bassett (1978)) and include controls (the one-quarter lag of log market cap, momentum, and stock price as well as fixed effects for calendar-quarter, fiscal-quarter, and firm). The dashed lines indicate 95% bootstrapped confidence intervals. For variable definitions and details of their construction, see theAppendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Distribution of abnormal snow cover. This figure presents the distribution of abnormal snow cover during the first calendar quarter for the 102,742 firm-years in our 2SLS sample. The distribution in Panel A is constructed based on the average daily snow cover during the first calendar quarter, while Panel B uses the 95thpercentile of snow cover during the first calendar quarter. Abnormal snow cover is defined relative to the time-series average of Q1 snow cover in each county over the previous 10 years.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Quarterly credit line draw and abnormal snow. This figure presents the relation between the current (Panel A) and future (Panel B) year'sAbormalSnowand quarterly credit line draw activity. The figure is estimated from four regressions, one for each calendar quarter. The point estimates (i.e., the solid line) reflect the cumulative effect ofAbormalSnowon credit line drawdowns from the end of the previous year until the end of the calendar quarter indicated on thex-axis. Specifically, each regression regresses the change in credit line activity between December 31 of the previous year and the end of the calendar quarter on thex-axis onAbormalSnowin both the current and the following year. The solid line presents the point estimates forAbormalSnowin the current year (Panel A) and in the following year (Panel B). The short dashed lines present the 95% confidence intervals on this estimate.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Quarterly credit line size and abnormal snow. This figure presents the relation between the current (Panel A) and future (Panel B) year'sAbormalSnowand quarterly credit line size changes. The figure is estimated from four regressions, one for each calendar quarter. The point estimates (i.e., the solid line) reflect the cumulative effect ofAbormalSnowon credit line drawdowns from the end of the previous year until the end of the calendar quarter indicated on thex-axis. Specifically, each regression regresses changes in credit line activity between December 31 of the previous year and the end of the calendar quarter denoted on thex-axis onAbormalSnowin both the current and the following year. The solid line presents the point estimates forAbormalSnowin the current year (Panel A) and in the following year (Panel B). The short dashed lines present the 95% confidence intervals on this estimate.",
+        "correlation": []
+    }
+}

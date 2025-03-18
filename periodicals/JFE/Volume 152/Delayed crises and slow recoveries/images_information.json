@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "The setup of the baseline model. Notes: The speculative sector has a higher cash flow than the traditional sector (cH > cL) but is more fragile with a crisis. Fig. 1 illustrates the choices of three typical types of banks. Bank 1 exits the speculative sector early, while Bank 2 exits a bit late but still before the crisis, enabling it to obtain the higher cash flow cH for a longer time. In contrast, Bank 3 exits too late and is caught by the crisis, leading to fire sales at an endogenous fire-sale price ℓ. So Bank 3 can only reinvest in the traditional sector with a probability ."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Determine the crisis time (ζ) for a given waiting strategy (τ). Notes: The exit function x(t) represents the number of banks that have exited the speculative sector by time t, given the waiting strategy τ. The resilient function S(t) represents the sector's capacity to withstand banks' exits, which decreases over time because of the declining fundamentals of the sector. The crisis occurs when the two lines intersect, that is, ζ solves x(t0 + ζ)=S(t0 + ζ), which also implies ."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Comparative statics of the numerical exercise. Notes: Fig. 3 plots the equilibrium waiting time τ as a function of parameters v,cL and cH for the two equilibria. When v,cL or cH changes, other parameters are kept the same as in Table 1."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "The setup of the full model. Notes: The speculative sector starts to have good fundamentals, α, from t = ts, and maintains the good fundamentals for a duration of m > 0, and then declines. Banks sequentially become informed of the arrival of ts over [ts,ts + η]. Each bank sets the strategy of staying in the sector for a duration of m + τ."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Aggregate output. Notes: Fig. 5 depicts the process of the aggregate output. Y(t) represents the total aggregate output of the speculative sector and the traditional sector at time t whereas Ys(t) represents the aggregate output of the speculative sector at time t. For the planner's second-best equilibrium (the decentralized equilibrium), the time at which banks start to exit the speculative sector is t0 + τSB (t0 + τ⁎), and the time of the crisis is t0 + ζSB (t0 + ζ⁎)."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Simple calibration — aggregate output Y(t). Notes: Fig. 6 displays the aggregate output Y(t) for the decentralized equilibrium and for the second best. We set ts = 2003 and t0 ≡ ts + m = 2007 (that is, m = 4 years). The social planner chooses τSB = 0.33 (years), under which ζSB = 2 (years). For the decentralized equilibrium, individual banks choose τ⁎ = 0.61 (years), under which ζ⁎ = 2.2 (years)."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Simple calibration — annual GDP percent change. Notes: Fig. 7 plots the annual GDP percent change according to the model, in comparison with the U.S. data. The annual GDP in year x is calculated as Yannual(x)=∫xx+1Y(t)dt, where the aggregate output Y(t) for the decentralized equilibrium and for the second best has been calculated in Fig. 6. The data of the U.S. annual GDP percent change is from the Federal Reserve Bank of St. Louis."
+        ],
+        "correlation": []
+    }
+}

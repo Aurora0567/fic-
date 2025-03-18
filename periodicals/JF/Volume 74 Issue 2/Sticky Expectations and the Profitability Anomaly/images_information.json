@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Forecast errors and forecast revisions. This figure shows the forecast errors as a function of forecast revisions. We sort observations into 20 bins of forecast revision(Ft−1πf,t−Ft−2πf,t)/Pf,t−2and calculate the average forecast error (defined as(πf,t−Ft−1πf,t)/Pf,t−2) and the average forecast revision for each of the 20 ordered bins. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Forecast error and cash flows. This figure shows forecast error as a function of past cash flows. We sort observations into 20 ordered bins of the previous fiscal year's operating cash flows to assets ratio. For each of the 20 ordered groups, we then calculate both average previous year's cash flows-to-assets ratio and current fiscal year's average forecast error. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "t-statistics of double-sorts under the null of rational expectations: Results from simulations. These histograms present the distribution oft-statistics from double-sorts by profitability and stickiness for 10,000 simulations under the null hypothesis that expectations arenotsticky. Each simulation works as follows. For 2,000 firms over 12 years, we simulate our baseline model assumingλ=0. Signals have persistence ρ and predict profits one period in advance:πt+1=st+εt+1st=ρst−1+ut−1.Expectations are fully rational (the trueλ=0), so realized returns are thus given byεt+1+ut+1/(1+r−ρ). For each firm, we then estimate the stickiness level λ by regressing profit expectation errors (given byεt+1) on expectation updating (utin this rational model). Since expectations are rational, the averageλ̂is zero, but for a given firm,λ̂can be positive or negative. We then implement the double-sort on stickiness and profitability. We first allocate each firm-year into a quintile ofλ̂(each quintile thus contains 400 firms). For each of these quintiles ofλ̂, we then compute the realized return of a long-short portfolio in which stocks are weighted by their rank in terms of past profitability, which is normalized to range between −0.5 and +0.5. We obtain the time series of five profitability portfoliosRtq, one per quintileqof firm-levelλ̂. We then regress these returns on λ quintile dummies:Rtq=∑qβq1q+νt. We retrieve thet-statistic on β5. We repeat this procedure 100 times and present the histograms of thet-statistics below. Panel A uses as a profitability signal the past profitπtof the firm. Panel B uses the change in past profitπt−πt−1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

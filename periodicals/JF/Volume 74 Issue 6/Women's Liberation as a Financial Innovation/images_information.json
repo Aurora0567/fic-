@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Timing of women's rights by state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "State borders, 1860 to 1870 portfolio exercise. County borders are outlined for states included in the sample. Counties on the border between a state granting rights between 1860 and 1870 and control states are highlighted for emphasis.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Interest rates before and after women's rights, net of year effects.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Randomization test. Results of 50,000 simulations of randomly assigned women's liberation dates. The top left panel shows the coefficient α in the regression for the interest rate, the top right panel shows the coefficient for deposits, and the bottom panel shows the coefficient for loans.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Cross-state comparison of nonagricultural employment. “National Average” is the fraction of male workers in nonagricultural employment in a given year for the entire United States. When ranking states in each year by this measure, “90thPercentile” is the value for the state with the 90thpercentile of male nonagricultural employment, whereas “10thPercentile” is the value for the state with the 10thpercentile of male nonagricultural employment.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Cross-state comparison of the high to low capital intensity employment. “National Average” is the log of the ratio of male employment in capital-intensive relative to noncapital-intensive industries in a given year for the entire United States. When ranking states in each year by this measure, “90thPercentile” is the value for the state with the 90thpercentile of this log-ratio, whereas “10thPercentile” is the value for the state with the 10thpercentile of this log-ratio.",
+        "correlation": []
+    }
+}

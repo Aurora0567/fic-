@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Ranks and risk-taking in experiment PROF. This figure plots the average percentage invested in the risky asset (RISK) in periodtconditional on rank in the previous period (RANKt−1) across all treatments in the professional sample.RANKt−1indicates the position in the ranking, with higher numbers indicating weaker relative performance. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Ranks and risk-taking in experiment STUD. This figure plots the average percentage invested in the risky asset (RISK) in periodtconditional on rank in the previous period (RANKt−1) across all treatments in the student sample.RANKt−1indicates the position in the ranking, with higher numbers indicating weaker relative performance. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Preferences for social status, financial success, relative performance, and risk-taking, by gender (left panel) and field of study (right panel). This figure shows average postexperimental survey responses on a 7-point Likert scale, with higher values indicating stronger preferences, for the following variables:GENERAL_RISK,SOCIAL_STATUS,FINANCIAL_SUCCESS, andRELATIVE_PERFORMANCE. Several risk attitudes (GENERAL_RISK) are measured using the German SOEP survey question, with higher values indicating higher self-reported risk-taking in real life.Students—econ/manrefers to economics and management students. Data from the PROF and STUD experiments are split by subject pool and gender (left panel) and by field of study for the student sample (right panel). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Ranks and risk-taking in treatments TRANK,TRANKLOT,andTRANKFAMin the professional sample. This figure plots the average percentage invested in the risky asset (RISK) in periodtconditional on rank in the previous period (RANKt−1) across all included treatments.RANKt−1indicates the position in the ranking, with higher numbers indicating weaker relative performance. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Ranks and risk-taking in treatmentsTRANKPRIVandTRANKFINin the online experimentPROFONLINE. This figure plots the fraction of professionals investing in the risky lottery conditional on professionals' rank at the beginning of the period, by prime (top panel) and by gender and prime (bottom panel).RANKindicates position in the ranking with higher numbers indicating lower initial wealth levels. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

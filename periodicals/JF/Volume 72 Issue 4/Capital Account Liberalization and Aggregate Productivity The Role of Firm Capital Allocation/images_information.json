@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Evolution of capital account openness index by country. The figure plots the evolution of the Chinn and Ito (2006) capital account openness index for the 10 countries in our sample over the period 1996 to 2013. The Chinn and Ito index is based on four of the IMF's AREAER measures for capital mobility restrictions: (1) openness of the capital account, (2) openness of the current account, (3) stringency of requirements for repatriation of export proceeds, and (4) existence of multiple exchange rates. The index is normalized to take values between zero and one. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dispersion in the return to capital and external financial dependence. The figure plots the dispersion in the return to capital in each sector against the Rajan and Zingales (1998) external financial dependence index of that sector. The dispersion is calculated by first computing the variance of the log marginal revenue product of capital (MRPK) in each country-sector-year cell and then averaging the variance across all countries and years for that sector. We take the average across the 10 countries in our sample over the period 1996 to 2013. The figure includes the 22 two-digit manufacturing sectors in our sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Dynamic effect of capital account liberalization. The figure plots the dynamic impact of capital account liberalization on the dispersion in the return to capital, as in equation8. To obtain precise capital account liberalization dates, we define a liberalization event as an upward increment of one standard deviation or larger in the Chinn and Ito (2006) openness index. We consider a 14-year window, spanning from 4 years before opening until 10 years after opening. We exclude the year of opening, thus estimating the dynamic effect of capital account opening relative to that year. The dashed lines denote 95% confidence intervals, where standard errors have been clustered at the country-sector and country-year level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Relative return to capital of young versus old firms and external financial dependence. The figure plots the difference between the average return to capital (MRPK) of all young and old firms in a sector against the Rajan and Zingales (1998) external financial dependence index of that sector. Young firms are defined as firms founded in 1998 or later (the median founding year across all firms). We take the average return to capital across the 10 countries in our sample over the period 1996 to 2013. The figure includes the 22 two-digit manufacturing sectors in our sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

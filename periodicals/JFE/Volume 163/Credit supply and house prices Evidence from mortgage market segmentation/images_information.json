@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Transaction-loan value surface . This figure shows the frequency of transactions at each house price-loan value combination for the year 2000 and 2004, and the 10 MSAs covered in our data, where both house prices and loan values were binned at $10,000 intervals. The mass of transactions on the diagonal have a loan-to-value of approximately 0.8."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Borrower composition for the regression sample. This figure shows the number of transactions by month for transactions within $10,000 of the threshold of 125% of the CLL. Transactions below and above this threshold are tracked from the year prior to the CLL being in effect to the year after the CLL is lifted to its new value. We decompose transactions by the LTV range to show the differences that emerge between houses above and below 125% of the CLL."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Frequency of transactions as a percentage of the CLL threshold. This figure graphs the frequency of transactions by their distance to the threshold of 125% of the conforming loan limit. The vertical red line represents the threshold, and the transactions for all years are centered on that value. The x-axis represents one minus the transaction value as a percentage of each year’s threshold of 125% of the conforming loan limit (e.g., if the threshold is 200,000, a transaction of 150,000 will appear as −25%)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Value per square foot by house value and by ZIP code income. Note: This figure shows the average value per square foot plotted against the value of the house. We split ZIP codes into quartiles according to their median income, where 1 includes the ZIP codes in the lowest income quartile and 4 includes the ZIP codes with the highest median income. We use the average of the median yearly income over the whole sample to place ZIP codes into the quartiles. The x-axis is represented as one minus the transaction value as a percentage of each year’s threshold of 125 percent of the conforming loan limit (e.g. if the threshold is 200,000, a transaction of 150,000 will appear as −25 percent). The vertical red line is the threshold and the transactions for all years are centered around that value."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Share of unused mortgage applications. To test whether the CLL serves as a focal point, we construct the share of unused mortgages from HMDA as the number of “withdrawn” or “unused” mortgage applications as a percentage of the total number of applications. The horizontal axis represents the difference between loan amounts and the conforming loan limit as a percentage of the conforming loan limit. We aggregate these proportions into 1% bins, and each dot in the figure represents the share of unused mortgages for each bin. We also plot third-degree polynomials (to the left and right of the conforming loan limit) as well as 95% confidence intervals (dashed lines). Data extracted from HMDA, 1998–2006."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Illustration of weighted average spread over conforming loan rate. This figure provides an illustration of the weighted average spread over the conforming loan rate for transaction prices close to the threshold of 125% of the conforming loan limit. Prices are expressed as a proportion of the CLL (i.e., House Price =m×CLL) and we plot the cost of 80% LTV loans. Above 1.25×CLL, borrowers put up larger down payments at a cost of rDP−c over the conforming loan rate while the weighted average cost of funds is below the jumbo loan rate. Borrowers with access to jumbo loans switch to an 80% LTV jumbo loan when the additional down payment is large enough that the weighted average cost of a conforming loan and the additional down payment is higher than the jumbo loan rate (the jumbo-conforming spread was about 10 to 24 basis points for the time period in this study). Borrowers without access to the jumbo loan market still obtain a conforming loan and make larger down payments to fund more expensive homes. The graph assumes that the best available option for additional funds for a down payment is significantly larger than the cost of a first mortgage, which is the case for the vast majority of home buyers, whether the source is savings or other forms of debt (for example, second lien mortgages). The spread of the cost of additional funds rDP−c may vary by borrower, and we plot a hypothetical borrower with a low cost of additional funds (rLowDP−c) in blue and one with a higher cost (rHighDP−c) in red. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

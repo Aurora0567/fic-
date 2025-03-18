@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Frequency distribution of ratings. This figure presents the frequency of S&P and EJR ratings in our monthly sample (Panel A) as well as a test statistic for whether there is a significant discontinuity around a given rating (Panel B). We follow Bollen and Pool (2009) to test for discontinuities around the HY-IG boundary, assuming that the true underlying distribution has the density of a Gaussian kernel distribution matched to the underlying empirical distribution. The horizontal lines in Panel B display the 99% critical values of the test statistic. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

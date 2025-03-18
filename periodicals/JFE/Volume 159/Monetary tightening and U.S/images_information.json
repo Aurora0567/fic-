@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Fed Tightening and Asset Prices.Panel (a) plots the time series of the Fed funds rates (in%). Panel (b) plots the market price of the portfolio of RMBS, CMBS, and U.S. Treasurys relative to their values in Q1 2022 (normalized to one). Panel (c) plots the corresponding market prices of U.S. Treasurys with different maturities, relative to their value in Q1 2022. The maturity structure is chosen to match the asset maturity breakdowns in the call reports. We plot the prices from Q1 2022 till Q1 2023. Data sources: Fed funds rate is from the Federal Reserve System data, RMBS market price is from the SPDR Portfolio Mortgage-Backed Bond ETF (SPMB), CMBS market price is from the iShares CMBS ETF (CMBS), and the U.S. Treasury market price indexes are from the S&P U.S. Treasury Bond Index and the iShares Treasury ETF."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Distribution of Change in Asset Value (“Marking to Market”).This figure plots the histograms (density) of the percentage of a bank's asset value decline when assets are marked to market according to market price growth from Q1 2022 to Q1 2023 (Panel a), as well as bank asset value decline by bank size (Panel b). We describe the steps to calculate the mark-to-market asset values in the main text. The reference line in Panel (a) indicates SVB's asset value decline. SVB's asset value declines by 15.7 %, or $34 billion, after their assets are marked to market. The reference line is at 89th percentile. The 5th, 25th, median, 75th, and 95th percentiles in Panel (a) are 4 %, 6 %, 9 %, 13 %, and 19 %, respectively. In Panel (b), the x-axis is asset value in log terms. The size distribution of the U.S. banking industry has a fat left tail, meaning that there are many extremely small banks. The largest 50 banks’ asset sizes range from $58.9 billion to $3.5 trillion, while the bottom 10 percentiles have asset values less than $68 million. Log assets of 18, 20, 22, and 24 are about $66 million, $485 million, $3.6 billion, and $26 billion, respectively. The decline at the right end starts around log asset value of 24, which is about $26 billion. Data sources: Bank call reports in Q1 2022 and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Distribution of Uninsured Deposit to Asset Ratio (With and Without “Marking to Market”).This figure plots the histograms (density) of uninsured deposit to asset ratios calculated based on Q1 2022 balance sheets and mark-to-market values using various ETFs and indices according to the method described in the main text (Panel a), as well as uninsured deposit ratio against bank size (Panel b). The reference lines in Panel (a) indicate SVB's values. SVB's uninsured deposit ratio is 78 % based on its Q1 2022 balance sheet, which is about $169 billion. Its uninsured deposit to mark-to-market asset ratio is 92 %. Both reference lines are at the 100th percentile. The 5th, 25th, median, 75th, and 95th percentiles of the mark-to-market distribution in Panel (a) are 6 %, 17 %, 24 %, 33 %, and 52 %, respectively. In Panel (b), the decline at the right end starts around log asset value of 24, which is about $26 billion. Data sources: Bank call reports in Q1 2022 and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Distribution of Insured Deposit Coverage Ratio under Different “Run” Cases.This figure plots the histograms (density) of the insured deposit coverage ratio calculated based on Q1 2022 balance sheets and mark-to-market values as described in the main text (Panels a and c), as well as these values across bank size (Panels b and d). We simulate two cases. In the first case (Panels a and b), we assume all uninsured depositors run and withdraw their uninsured deposits from banks (i.e., s = 1). In the second case (Panels c and d), we assume half of uninsured depositors withdraw their uninsured deposits from banks (i.e., s = 0.5). We remove the outliers by truncating the sample at the 98th and 1st percentiles. The 5th, 25th, median, 75th, and 95th percentiles of the mark-to-market distribution in Panel (a) are −12 %, −2.5 %, 4 %, 11 %, and 34 %, respectively, and in Panel (b) are 1.3 %, 12.5 %, 21 %, 36 %, and 59 %, respectively. A negative value of the insured deposit coverage ratio means that the remaining mark-to-market asset value after paying uninsured depositors who withdraw their deposits is not enough to repay all insured deposits. Data sources: Bank call reports and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Full Set of Insolvent Banks if All Uninsured Depositors Run (Insured Deposit Coverage Ratio Metric).This figure plots the full set of “insolvent” banks. A bank is considered insolvent if the mark-to-market value of its assets—after paying all uninsured depositors—is less than the face value of all insured deposits. On the y-axis we plot mark-to-market losses as a percentage of initial bank asset value. On the x-axis we plot uninsured deposits as a percentage of mark-to-market bank asset value. The assets are based on bank call reports as of Q1 2022, and banks with larger asset size are marked with bigger dots. Banks in the top right corner, where SVB is, have the most severe asset losses and the largest runnable uninsured deposits to mark-to-market assets. The red dots correspond to the 10 largest insolvent banks. Out of these, one has assets above $1 trillion, three have assets above $200 billion (but less than $1 trillion), three have assets above $100 billion (but less than $200 billion), and the remaining three have assets greater than $50 billion (but less than $100 billion). We also show SVB (assets of $218 billion in the plot). Data sources: Bank call reports and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Insolvent Banks under Different Uninsured Deposits Runs Cases (Insured Deposit Coverage Ratio Metric).This figure presents the number of insolvent banks (Panel a) and their aggregate assets (Panel b) associated with a given uninsured deposits withdrawal case. We consider 10 cases ranging from 10 % to 100 % of uninsured deposits being withdrawn at each bank. The bank is considered insolvent if its mark-to-market value of assets—after paying a given share of the uninsured depositors—is insufficient to repay all insured deposits. Sources: Bank call reports and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Insolvent Banks under Different Uninsured Deposits Runs Cases (Capital Ratio Metric).This figure presents the number of insolvent banks (Panel a) and their aggregate assets (Panel b) associated with a given uninsured deposits withdrawal case. We consider 10 cases ranging from 10 % to 100 % of uninsured deposits being withdrawn at each bank. The bank is considered insolvent if its book value of equity after paying a given share of the uninsured depositors is negative. Sources: Bank call reports and various ETF and indices price data as described in the main text."
+        ],
+        "correlation": []
+    }
+}

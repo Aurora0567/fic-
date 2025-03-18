@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "Model output, consumption, and exchange rate. This figure illustrates the response of global output, both countries' consumptions and their ratio, and the real exchange rate as a function of relative productivity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Import ratio spread:log(IRc−IRp). This figure illustrates the spread in import ratios as a function of relative productivity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Trade and trade costs. This figure illustrates the exports-to-output ratio of the producer and commodity countries and the average trade cost,τ(z), as a function of relative productivity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Carry trade risk premium. This figure illustrates the carry trade risk premium for three levels of risk aversion as a function of relative productivity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Import ratios vs. forward discounts and FX returns. This figure plots forward discounts and excess FX returns against the import ratio for each country in our IMF Advanced Economies sample. The import ratio is calculated asNetImportsofComplexGoods+NetExportsofBasicGoodsManufacturingOutput. Both forward discounts and FX returns are calculated from the perspective of a U.S. investor. Underlined observations are the averages for the pre-euro period and nonunderlined observations are the average of the post-euro period. For each period, both average returns and discounts are adjusted by subtracting the period mean for all countries.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Import ratios and exposure to global output growth. This figure plots each country's slope coefficient from the regressionΔProductivityi,t=βi(ΔGlobalOutputt)+εtagainst the country's import ratio. Here,Productivityi,tis real labor productivity for countryi, andΔGlobalOutputtis real GDP growth for the full set of OECD countries. The import ratio is calculated as in Figure5. The trend line is from a regression of the countries'βion the countries' import ratios. The regression equation is reported with OLS standard errors in parentheses.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Real exchange rates and relative productivity. This figure plots relative productivity against real exchange rates. Each commodity country's exchange rate and relative productivity (the log difference of producer country and commodity country productivities) are calculated with respect to an equal-weighted basket of its primary trading partners among the producer countries. Germany's exchange rate is calculated using the euro after 1999. Real exchange rates are calculated by adjusting nominal exchange rates using the relative value of the country's CPI. Productivity is real labor productivity from the OECD. Data are quarterly. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Real interest rates and relative productivity. This figure shows plots of relative productivity against real interest rate differentials. Each commodity country's relative interest rate and relative productivity is calculated with respect to an equal-weighted basket of its primary trading partners among the producer countries as in TableIII. Real interest rates are constructed by using three-month-forward discount rates adjusted for predicted inflation calculated as a four-quarter moving average of CPI growth centered at the observation. Germany's interest rate is calculated using the euro post 1999. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Currencies, commodities, trade costs, and productivity during the crisis. This figure plots currency and economic variables during the global financial crisis. Panel A shows monthly cumulative currency returns on the four G10 “commodity countries” (Australia, Canada, New Zealand, and Norway) and four G10 “producer countries” (Germany, Japan, Switzerland, and Sweden). Panel B shows the monthly performance of the IMX strategy as well as monthly changes in the Commodity Research Bureau (CRB) all-commodity spot index and the Baltic Dry Index (BDI). Panel C shows the productivity growth of the countries excluding Switzerland (for which data on productivity are unavailable) and Panel D shows the productivity growth of GDP-weighted baskets of the two country groups. All exchange rate, commodity price, and productivity variables are indices normalized to one in December 2007. Data are from Datastream and the OECD.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Stationary density of relative productivity shock. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

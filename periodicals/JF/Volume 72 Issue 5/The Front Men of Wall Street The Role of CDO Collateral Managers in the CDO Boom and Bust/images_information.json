@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Past performance and changes in deal volume. This figure shows that collateral managers in the bottom and middle terciles of performance experienced larger increases in deal volume than managers in the top tercile of performance. At the end of each year, collateral managers are sorted into terciles based on the average IRR of the deals they closed during the year. The figure then reports the change (in dollar and percentage terms) in aggregate deal volume between yearstandt+1for managers in different terciles of performance.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Deal IRR and the collateral manager's CDO share. This figure shows binned scatterplots of deal IRR versus the collateral manager'sCDO Share. Panel A reports raw values, while Panel B adjusts for deal type-vintage fixed effects. Deals are first sorted into 20 equal-sized bins based on the value ofCDO Share. Because 26% of observations have 0%CDO Shareand another 14% have 100%CDO Share, the actual number of bins is 14 in Panel A and 19 in Panel B. Each dot then represents the average value ofCDO Shareand deal IRR in a given bin. When adjusting for deal type-vintage fixed effects, deal IRR and the manager'sCDO Shareare first residualized and then sorted into bins; as the last step, the sample averages of IRR andCDO Shareare added back in.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Changes in the distribution of CDO share. This figure shows how the distribution ofCDO Sharehas changed over time.CDO Shareis the share of ABS CDOs in the total AUM of the collateral manager's ultimate parent, and is measured as of the end of the year before a given deal.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Performance of collateral underwritten by the CDO's arranger. This figure presents a binned scatterplot of security-level IRR againstCDO Share, averaged across deals investing in each security. Security-level observations are binned into 20 equal-sized groups based on theirCDO Share. Each point then represents the mean of IRR andCDO Sharewithin each bin. IRR andCDO Shareare first adjusted for asset class-rating-vintage fixed effects. Separate results are presented for collateral securities underwritten by the same investment bank as that arranging the CDO versus securities that were not included in CDOs arranged by the security's underwriter. Quadratic fit lines are estimated using the underlying security-level data rather than the binned scatter points.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Number and volume of deals by collateral type. This figure shows the time series of deal activity, split into high-grade, mezzanine, and resecuritization deals. The sample consists of the union of ABS CDOs in Barclays Live and Pershing Square Capital Management's Open Source Model that were issued during the 2002 to 2007 period and rated by Moody's. TableA.IIreports the mapping from Moody's deal types to the three coarser deal type categories.",
+        "correlation": []
+    }
+}

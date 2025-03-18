@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Maturity shocks in the fiscal regime. This figure plots the impulse response functions to a negative government debt-maturity shock (εΩ<0$\\varepsilon _{\\Omega }&lt;0$) in the fiscal regime of the simple model for parameterizations in which the nominal term premium is positive (solid blue line), zero (dotted black line), and negative (dashed red line) for average debt maturity Ω, expected return on the nominal government bond portfolioE[rg]$\\text{E}[r_{g}]$, expected inflationE[π]$\\text{E}[\\pi ]$, and expected return on real surplusesE[rs]$\\text{E}[r_{s}]$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Maturity shock in the monetary regime. This figure plots the impulse response functions to a negative government debt-maturity shock (εΩ,t<0$\\varepsilon _{\\Omega ,t}&lt;0$) in the monetary regime of the simple model for parameterizations in which the nominal term premium is positive (solid blue line), zero (dotted black line), and negative (dashed red line) for average debt maturityΩt$\\Omega _t$, expected return on the nominal government bond portfolioEt[rg,t+1]$\\text{E}_t[r_{g,t+1}]$, expected inflationEt[πt+1]$\\text{E}_t[\\pi _{t+1}]$, and expected return on real surplusesEt[rs,t+1]$\\text{E}_t[r_{s,t+1}]$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal maturity in the fiscal regime. This figure plots the relation between the expected inflation deviation from targetE[π−π★]$\\text{E}[\\pi - \\pi ^{\\star }]$and the optimal debt maturityΩ̂$\\widehat{\\Omega }$for parameterizations in which the nominal term premium is positive (solid blue line), zero (dotted black line), and negative (dashed red line). The plots are obtained by evaluating the policy functions for optimal debt maturity and expected inflation deviations from target across different values of the exogenous state variablezt$z_t$. Policy functions are centered around the steady state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Maturity shortening in different regimes. This figure plots the impulse response functions to a negative shock to debt maturity (εΩ,t<0$\\varepsilon _{\\Omega ,t}&lt;0$) displayed in years, conditional on the fiscal and monetary regimes.E[rg]$\\text{E}[r_g]$is the expected nominal portfolio return,E[π]$\\text{E}[\\pi ]$is expected inflation,E[rs]$\\text{E}[r_s]$andPV$PV$are the expected return and present value of real surpluses,E[s]$\\text{E}[s]$is the expected surplus,E[r5Y−i]$\\text{E}[r^{5Y}-i]$is the term premium, andi(r) is the nominal (real) short rate. The units on they-axis are annualized basis point deviations from the steady state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "News decomposition of yield innovations. This figure plots the impulse response functions to a negative shock to debt maturity (εΩ,t<0$\\varepsilon _{\\Omega ,t}&lt;0$) displayed in years, conditional on the fiscal and monetary regimes for the five-year nominal yield innovation with the corresponding news components of inflation, real short rates, and excess returns. The units on they-axis are annualized basis point deviations from the steady state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effective lower bound. This figure plots the difference in impulse response functions to a negative shock to debt maturity (εΩ,t<0$\\varepsilon _{\\Omega ,t}&lt;0$), conditional on the fiscal regime with a binding ELB and the fiscal regime without a binding ELB. AMS is the average maturity structure,E[rg]$\\text{E}[r_g]$is the expected nominal portfolio return,E[π]$\\text{E}[\\pi ]$is expected inflation,E[rs]$\\text{E}[r_s]$is the expected return on real surpluses,ris the real short rate. The units on they-axis of the AMS plot are in years and not difference between the two models. The remaining plots are in annualized basis points. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "State-dependent maturity rule. This figure plots the impulse response functions to a negative shock to debt maturity (εΩ,t<0$\\varepsilon _{\\Omega ,t}&lt;0$), conditional on the fiscal regime for the benchmark exogenous maturity process (solid blue line) and for the maturity rule that depends on expected inflation deviations (dashed red line).E[rg]$\\text{E}[r_g]$is the expected nominal portfolio return,E[π]$\\text{E}[\\pi ]$is expected inflation,E[rs]$\\text{E}[r_s]$is the expected return on real surpluses, andris the real short rate. The units on they-axis are annualized basis point deviations from the steady state, except for AMS, which is in years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "AverageP/Dratio of dividend strips with maturities from 1 to 7 years. The graph shows the average price-dividend ratio of dividend strips with maturities from one to seven years.log(P/D)Ratios are demeaned and obtained from the ICAPM estimation or directly from traded S&P500 contracts. SectionIprovides details on traded dividend strips while SectionsIIandIIIdescribe the ICAPM, its solution, and its estimation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "The term structure of equity risk and risk premia: 2005 to 2017. The graphs display risk premia, CAPMα's, CAPMβ's, and different measures of exposure to expected returns for dividend strips (using data from 2005 to 2017). U.S. results are based on S&P500 dividend strips while Global results reflect averages based on dividend strips from the S&P500 (the United States), FTSE100 (the United Kingdom), EUROSTOXX50 (EU Area), and NIKKEI225 (Japan). All measures are constructed from monthly returns and are multiplied by 12 to roughly reflect annual units. All statistics are constructed using the longest available information for the equity index. For instance, risk premia are constructed fromE[Rd(h)−Rf]≡E[Rd(h)−Re]+E[Re−Rf], withE[Re−Rf]relying on the longest sample available for each equity index. To get a full term structure for dividend strips, I fit a Nelson and Siegel (1987) term structure model to each statistic and impose∑h=1∞w¯d(h)·Rd(h)=Reduring the estimation. Inference is based on bootstrap tests forH0:E[Rd(h)−Re]=0,H0:αd(h)=0, andH0:βd(h)−βe=0, with empty dots indicating significance at the 10% level, filled dots at the 5% level, and stars at the 1% level. SectionIprovides further details. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The ICAPM risk factors: Filtered shocks. The graphs display filtered shocks to the ICAPM log SDF,m∼t, and risk factors,r∼wandvw∼t, estimated in the model with time-varying risk aversion (with baseline preference parametersδ=0.98,ψ=1, andγ¯=5). Following Campbell et al. (2018), the filtering process for a generic risk factorxis based on a exponentially weighted moving average of normalized shocks,fx∼t=(1−π)·x∼t/σx+π·fx∼t−1, with a half-life of two years (π=0.51/2≈0.7). Shaded regions represent recessionary periods as defined by the National Bureau of Economic Research (NBER). Model details can be found in SectionIIand estimation details in SectionIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The ICAPM equity term structure with exogenous equity premium. The graphs display the equity term structure and its risk premia decomposition in the ICAPM with exogenous equity premium (with baseline preference parametersδ=0.98,ψ=1, andγ=5). The risk factors are market returns,r∼w=r∼e, interest rate news,Nir,t=(Et−Et−1)[Σj=1∞ρj·rf,t+j], and equity premium news,Nep,t=(Et−Et−1)[Σj=1∞ρj·(re,t+j−rf,t+j)]. Model details can be found in SectionIIand estimation details in SectionIII.A. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The ICAPM estimation results. The graphs display estimation results for the ICAPM with time-varying risk aversion (with baseline preference parametersδ=0.98,ψ=1, andγ¯=5). Shaded regions represent recessionary periods as defined by the National Bureau of Economic Research (NBER). Model details can be found in SectionIIand estimation details in SectionIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "The ICAPM unconditional equity term structure. The graphs display the equity term structure and its risk premia decomposition in the ICAPM with time-varying risk aversion (with baseline preference parametersδ=0.98,ψ=1, andγ¯=5).r∼w=r∼eandvw∼capture market and reinvestment risk, respectively. Panels E and F decompose thevwrisk premia into the effect of (i) interest rate news,Nir, equity premium news,Nep, and risk price news,Nrp, and (ii) each state variable. Model details can be found in SectionIIand estimation details in SectionIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Dividend strip equity yields: ICAPM versus data. The graphs display equity yields for dividend strips with maturities from one to seven years. Equity yields are given byeyt(h)=(1/h)·log(Dt/Pt(h))and obtained from the estimation of the ICAPM with time-varying risk aversion or directly from S&P500 traded dividend futures (both demeaned for comparability). Model details can be found in SectionIIand estimation details in SectionIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "The ICAPM conditional equity term structure. The graphs display the equity term structure (conditioned onγtordpt) and its risk premia decomposition in the ICAPM with time-varying risk aversion (with baseline preference parametersδ=0.98,ψ=1, andγ¯=5).r∼w=r∼eandvw∼capture market and reinvestment risk, respectively. Model details can be found in SectionIIand estimation details in SectionIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "The ICAPM cash flow channel and Lettau and Wachter(2007). The graphs display the equity term structure and its risk premia decomposition. Panels A and B focus on the ICAPM with time-varying risk aversion (withδ=0.98,ψ=1, andγ¯=5). Panel A provides an alternative equity term structure decomposition based on the ICAPM SDF in equation (21) while Panel B shows the ICAPM equity term structure after settingNir=Nep=Nrp=0orNg=0. Panels C and D provide the equity term structure and its decomposition based on the model proposed by Lettau and Wachter (2007). Further details are provided in SectionIV.A. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "The equity term structure in the leading CCAPMs. The graphs display the equity term structure and its risk premia decomposition in three Consumption CAPMs: the external habit model (Campbell and Cochrane (1999)), the long-run risks model (Bansal and Yaron (2004)), and the rare disasters model (Nakamura et al. (2013)). Further details are provided in SectionIV.B. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

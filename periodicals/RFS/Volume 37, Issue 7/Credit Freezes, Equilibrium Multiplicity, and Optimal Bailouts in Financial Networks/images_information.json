@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "An example of equilibrium multiplicity. Arrows point in the direction that debt is owed, that is, from debtors to creditors.",
+        "correlation": []
+    },
+    "2": {
+        "description": "An example of indirect cycles.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Arrows point in the direction that debt is owed. Let p1=p2=p3=0.2, p4=p5=1⁠, and p6=p7=p8=p9=0.5⁠. The only iteratively strongly solvent set is {{5},{4},{3},{2},{1}}⁠.",
+        "correlation": []
+    },
+    "4": {
+        "description": "An example where the order of bailouts matters. Let p1=0, p2=5⁠, and p3=1⁠.",
+        "correlation": []
+    },
+    "5": {
+        "description": "An example where the greedy algorithm performs poorly. Let p1=pn=0 and pi=D_ for all i≠1,n⁠. Suppose D¯>D_>0⁠.",
+        "correlation": []
+    },
+    "6": {
+        "description": "A star network with three peripheral banks, Din=2⁠, and Dout=1⁠.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Sample networks with nC=6 core banks, each exposed to nP=4 peripheral banks, when asymmetries across core banks are α=0 (left panel), α=0.5 (middle), and α=1 (right). To keep the graph readable, we only draw one link between any two counterparties, though there should be two (one pointing from i to j and one from j to i). The size of a node i captures the size of that bank’s outside assets pi and the width of an edge ij captures the associated exposure Dij⁠.",
+        "correlation": []
+    },
+    "8": {
+        "description": "How bailout policies perform as a function of the size of peripheral banks (averaged over 1,000 simulations). All peripheral banks have the same portfolio of outside assets pP, which is not drawn randomly but varied deterministically so as to plot total bailout costs as a function of pP. Interbank exposures and core banks’ outside assets are drawn i.i.d. from U(0, 1). (nC = 6, nP = 4, α = 1.)",
+        "correlation": []
+    },
+    "9": {
+        "description": "How the Periphery First bailout policy compares to the optimum as a function of the asymmetry among core banks. The parameter α captures how asymmetric core banks are. At one extreme (α = 1), all interbank exposures and outside assets are drawn independently. At the other extreme (α = 0), core banks are identical: they have the same exposures, assets, and peripheries. (nC = 6, nP = 4, pperi=0.1⁠.)",
+        "correlation": []
+    }
+}

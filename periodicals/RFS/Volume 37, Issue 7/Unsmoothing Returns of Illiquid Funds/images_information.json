@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Real estate and hedge fund return autocorrelation: Fund level versus aggregate Panel A plots the average first-order autocorrelation coefficient for returns of private commercial real estate (CRE) funds (quarterly returns from 1994 to 2017) and Hedge Funds (monthly returns from 1995 to 2017), with the latter sorted on strategy liquidity (see Subsection 2.2 for the details on the strategy liquidity sort). Panel B plots the analogous measure, but for average returns (ie, first taking the equal-weighted average of fund-level returns and then calculating the autocorrelations). We consider three definitions of returns: observed returns, 1-step unsmoothed returns (Geltner 1991, 1993 for private CRE funds and Getmansky, Lo, and Makarov (2004) for hedge funds), and 3-step unsmoothed returns. See Subsections 2.1 and 3.2 for further empirical details.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Hedge fund risk and performance by strategy liquidity The figure plots average fund-level results for three groups based on hedge fund strategy liquidity using observed returns, 1-step unsmoothed returns (as in Getmansky, Lo, and Makarov 2004), and 3-step unsmoothed returns. We sort strategies based on their first-order autocorrelation coefficient to form three groups: low liquidity strategies (the three strategies with autocorrelation above 0.40), high liquidity strategies (the two strategies with autocorrelation below 0.10), and midpoint liquidity strategies (the other five strategies). R2s and αs are based on the FH 8-factor model that builds on Fung and Hsieh (2001) and statistical significance for fund-level αs is at 10%. The sample goes from January 1995 to December 2017. See Section 1 for unsmoothing methods and Subsection 2.1 for further empirical details.",
+        "correlation": []
+    },
+    "3": {
+        "description": "αs of hedge fund quintile portfolios formed based on the t-stat of past α\ns The figure plots αs (with their tstat on the top of each bar) of quintile portfolios formed by sorting hedge funds based on the t-stat of their past αs (on a 24-month rolling window) measured using observed returns, 1-step unsmoothed returns (as in Getmansky, Lo, and Makarov 2004), and 3-step unsmoothed returns (with “+Dimson” further applying Dimson (1979) and “+CDimson” further applying our constrained Dimson method). Panels A, C, and E focus on αs for a strategy that buys the highest and sells the lowest past α quintiles. Panels B, D, and F focus only on the highest past α quintiles. Panels A and B use all funds during the sorting procedure; panels C and D use only funds in the low liquidity strategies; and panels E and F use only funds in the high liquidity strategies. αs are based on the FH 8-factor model that builds on Fung and Hsieh (2001). The sample goes from January 1995 to December 2017, but the first portfolio formation is on December 2000 so that we have at least 6 years of data to unsmooth the hedge fund returns. See Section 1 for unsmoothing methods and Subsections 2.1 and 2.2 for further empirical details.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Hedge fund risk and performance by strategy The figure plots average fund-level results by hedge fund strategy using observed returns, 1-step unsmoothed returns (as in Getmansky, Lo, and Makarov 2004), and 3-step unsmoothed returns. R2s and αs are based on the FH 8-factor model that builds on Fung and Hsieh (2001). The sample goes from January 1995 to December 2017. See Section 1 for unsmoothing methods and Subsection 2.1 for further empirical details.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Changes in hedge fund risk and performance by strategy The figure plots increases in R  2 (and declines in Sharpe ratios and α) with their tstat by hedge fund strategy as we move (a) from observed to 1-step unsmoothed returns and (b) from 1-step to 3-step unsmoothed returns. R2s and αs are based on the FH 8-factor model that builds on Fung and Hsieh (2001). The sample goes from January 1995 to December 2017. See Section 1 for unsmoothing methods and Subsection 2.1 for further empirical details.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Decomposing hedge fund  R2s  into the effect of each risk factor The figure plots, for each hedge fund strategy, the average R  2 from factor regressions decomposed into the effect of each risk factor (see Equation (18)). We use the risk factors in the FH 8-factor model that builds on Fung and Hsieh (2001). The sample goes from January 1995 to December 2017. See Section 1 for unsmoothing methods and Subsection 2.1 for further empirical details.",
+        "correlation": []
+    }
+}

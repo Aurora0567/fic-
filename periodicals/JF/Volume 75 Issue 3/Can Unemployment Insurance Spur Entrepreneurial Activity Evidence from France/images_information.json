@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Monthly number of new firms started with the ACCRE subsidy. This figure shows the monthly number of individuals receiving the ACCRE subsidy, which is granted to unemployed individuals creating a new firm. The sample period covers 1999 to 2006. Source: French Ministry of Labor. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Monthly number of new firms. Panel A plots the 12-month moving average of the number of firms created between January 1993 and January 2008 (1993 does not appear on the graph as we compute a 12-month moving average). Panel B zooms in on our 1999 to 2005 sample period (1999 does not appear on the graph as we compute a 12-month moving average). Panel C plots the number of new firms started with zero employees (dotted line) and the number of new firms with zero employees two years after creation including firms that have exited (plain line). Panel D plots the number of new firms started with at least one employee (dotted line) and the number of new firms with at least one employee two years after creation (plain). Source: Firm registry from the French Statistical Office. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Growth rate in firm creation: Treated versus control. Qk% is thekthquartile of our treatment intensity variable (the fraction of sole proprietorships among newly created firms in the industry, measured in the prereform period). Each monthtand for each quartileQk(k=1,2,3,4) of treatment intensity, we compute the average growth rate of the number of firms created in industries belonging to quartileQkfrom the beginning of the sample period (1999 to 2000) to montht:gtk=1#industriesinQk∑s∈Qk(log(#firmscreatedst)−124∑τ∈1999,2000log(#firmscreatedsτ)). The graph plots the 12-month moving average ofgtk. Source: Firm registry from the French Statistical Office. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

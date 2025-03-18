@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Log wage difference by firm-level number of employees. In Panels A and B, the vertical axis shows employees' log wage difference between 2008 and 2005 for male and female employees, respectively. In Panels C and D, the vertical axis shows employees' log wage difference between 2005 and 2003 for male and female employees, respectively. The horizontal axes show the number of employees in the firm minus 35. The employment number is based on yearT−1$T-1$. The blue center line corresponds to a third-order polynomial fit; the green dotted lines represent the 95% confidence interval. Scatter points are average changes in individual log wages between 2008 and 2005 for firms with a given employee size. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Diff-in-diff dynamics and placebo estimates. The black solid lines in Panels A and B show diff-in-diff year-by-year coefficient estimates for male employee wages. The black solid lines in Panels C and D show diff-in-diff year-by-year coefficient estimates for female employee wages. The black solid lines in Panels E and F show triple-difference year-by-year coefficient estimates for all-employee wages. Year 2005 is omitted. In Panels B, D, and F, the solid green lines represent the average coefficient estimates of placebo tests. The treatment threshold for the placebo tests is defined from 15 to 100 employees, excluding 20 to 50 employees, and the green dashed lines represent the 95% confidence interval for the placebo estimates. In Panels A, C, and E, the vertical lines represent 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Diff-in-disc dynamics. The black solid lines show difference-in-discontinuities year-by-year coefficient estimates for male (Panel A) and female (Panel B) employee wages. Year 2005 is omitted. The vertical lines represent 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

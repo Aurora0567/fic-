@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "AI brain drain from university. Panel A shows the number of tenure-track and tenured AI professor departures during 2004 to 2018, along with the citation ratio, which is the sum of citations (captured at the time of departure) from AI faculty who left for industry divided by the sum of citations from all AI faculty for each year and each university. We then take the average across universities for each year. Panel B shows North American universities with the largest numbers of tenure-track or tenured AI professors who reported an industry position during 2004 to 2018.",
+        "correlation": []
+    },
+    "2": {
+        "description": "AI brain drain to industry. Panel A lists publicly traded firms that hired full-time or part-time AI professors during 2004 to 2018. Panel B shows the universities, from which those public firms hired AI professors. Black, blue, and red lines indicate that one, two, and three professors, respectively, were hired by a given public firm from a given university between 2004 and 2018.",
+        "correlation": []
+    }
+}

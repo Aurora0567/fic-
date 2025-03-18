@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Number of ES and non-ES proposals over time The sample includes all firms with one or more shareholder proposals voted over the 2004–2016 period. For each year, we tabulate the total number of ES versus non-ES proposals.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Distribution of fund votes and ISS recommendations on ES proposals over time The sample includes all firms with one or more ES shareholder proposals, over the 2004–2016 period. In panel A, for each year, the solid line represents the percentage of proposals on which ISS recommends support for the proposal. The dashed line represents the average percentage of mutual funds that vote in favor of each proposal. panel B categorizes all mutual fund votes on ES proposals each year into one of four categories: both ISS and the fund supports, both ISS and the fund are against, only ISS supports, and only the fund supports, as described in the legend. Each year, we tabulate the percentage of votes that fall into each category.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Proposals by sponsor types The sample in panel A includes all firms with one or more ES shareholder proposals, over the 2004–2016 period, and the panel shows the percentage sponsored by an asset management company (dashed portion), by a religious sponsor (white dotted portion), and by others (black solid portion, which includes individual, unions, and NGOs). Panel B includes both ES (solid bars) and non-ES (dashed bars) proposals over this period, and it shows the number of each proposal type that are sponsored by asset management companies, by religious sponsors, and by others. Finally, it tabulates the percent of all shareholder proposals (by each sponsor type) that relate to ES issues.",
+        "correlation": []
+    }
+}

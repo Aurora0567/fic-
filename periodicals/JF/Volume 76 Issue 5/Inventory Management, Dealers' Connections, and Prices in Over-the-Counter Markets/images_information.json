@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Timeline. This figure shows the evolution of dealeri's inventory position (zit) in each periodt, given his trade (qit) in each period and his final inventory shock (εi3; set at zero for peripheral dealers).",
+        "correlation": []
+    },
+    "2": {
+        "description": "Trading in the periphery. This figure depicts the trading process in the peripheral market for a particular sequence of arrivals. Circles with a “b” designate buyers while circles with an “s” designate sellers. We denote bypbjthe offer made by a buyer of typej∈{C,U}and bypsjthe offer made by a seller of typej∈{C,U}, whereCdesignates a connected dealer andUdesignates an unconnected dealer. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Equilibrium configurations. An arrow going from one type of trader to another indicates that the former makes offers to the latter in equilibrium. “ACD”: active connected dealers; “ICS”: inactive connected sellers; “ICB”: inactive connected buyers. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equilibrium type as a function ofαpeandαco. In Panel A, the figure depicts the equilibrium strategy profile (ACD: active connected dealers; ICB: inactive connected buyers; ICS: inactive connected sellers) in the thick core market case that arises for different values ofαpeandαco, the masses of peripheral and core dealers with a long position at date 0. For illustration, we display the results for two different values of the mass of unconnected peripheral dealers,λ(0.3 and 0.4), where the additional area covered by the darker shades corresponds to a higher value ofλ. In Panel B, the figure provides the corresponding equilibrium strategy profile obtained when the core market is not thick. The shaded areas represent the(αpe,αco)pairs for which an ACD, ICS, or ICB equilibrium is obtained, whereas a mixed equilibrium obtains in the remaining white areas.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Equilibrium prices. This figure shows the position of equilibrium prices in the peripheral market relative to the equilibrium core market price (pco∗) in each possible equilibrium regime (ACD: active connected dealers; ICB: inactive connected buyers; ICS: inactive connected sellers) for each possible realization of the mass (αpe) of peripheral dealers with a long position (see Proposition2). We denote bypbjthe offer made by a buyer of typej∈{C,U}and bypsjthe offer made by a seller of typej∈{C,U}, whereCdesignates a connected dealer andUdesignates an unconnected dealer.",
+        "correlation": []
+    }
+}

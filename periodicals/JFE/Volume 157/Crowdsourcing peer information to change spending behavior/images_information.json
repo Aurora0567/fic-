@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Distance from peers’ spending and change in spending: Raw data.Fig. 1 is a binned scatterplot of dollar changes in spending (y-axis) for users who sign up to Status Money three months after signup relative to three months before. Dollar changes are the residuals from regressing actual changes on month-of-year signup dummies to account for seasonality in spending. The x-axis sorts users based on the difference in spending with respect to peers over the 30 days before signup, which we standardize to have a unit standard deviation. The binned scatterplot divides the 20,679 users into 80 groups. The solid lines plot the fitted values of a threshold regression that estimates different linear regression coefficients below and above the level of zero distance from the peers."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Sample peer group assignment for a demo account.This figure shows the graphic users observed during our sample period after signing up to the app, providing their individual characteristics, and being assigned to a peer group. Note that the users are required to report exact values for continuous variables such as their age, income, and credit score. After being assigned to a peer group, users are shown the characteristics of the peer group to which they are assigned as in the reported graphic."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Top of Status Money home page during our sample period.This figure shows the top part of the homepage of Status Money—the first image users see when signing in to the app during our sample period. The blue line reports the user’s spending aggregated across her accounts based on transaction-level data and varies at the daily level throughout the month (x-axis). The orange line represent a daily linear projection of the average monthly spending of the peer groups assigned to the user, which is based on monthly transaction-level data for a representative US population. The red line represents a daily linear projection for the average monthly spending of all observations in the same representative US population. The horizontal dashed line represents user’s average monthly income inflows. On top of the graph, users read their daily cumulative amount of spending within the month at the time they login to the app as well as the projected cumulative amount of spending for peers and the overall representative population. Note that some of this figure’s features, including its position and size, have changed after our sample period, as we show in the Online Appendix."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Distance from peers’ spending and changes in spending after signup—endogenous threshold models.This figure reports the fitted values of a threshold regression model, with the optimal threshold estimated using the procedure in Hansen (2000) in subfigure (a). Subfigure (b) reports the fitted values of a kink regression model with the optimal threshold estimated using the procedure in Hansen (2015). In addition to the fitted values, subfigure (b) reports 90% confidence intervals."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Dynamic effect of peer information on spending after sign-up.This figure plots average monthly changes in spending (and associated 95% confidence intervals) from the first month after sign up until the twelfth month after sign up with respect to the average monthly spending in the three months before signup. The left panel includes users who spent more than peers before signup, whereas the right panel includes users who spent less than peers before signup. Note that each monthly average is estimated separately for the subsamples of users who survive each month after signup and the connected lines do not imply that the estimated associations are continuous over time. We report these results in the form of connected lines rather than discontinuous point estimates for graphical purposes."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Average monthly spending over the three months before sign-up around income thresholds.This figure reports the average users’ monthly spending before signup to Status Money when sorting users by their reported income levels (x-axis). In each panel, income levels are reported at incremental intervals of $500. Each panel reports average spending pre-signup for users around the thresholds in our instrumental-variable analysis. Our strategy assumes that the levels of pre-spending are similar for users above and below each threshold, and hence we should fail to reject the null hypothesis of no differences in average spending across contiguous groups of income. To be conservative, we report tight confidence bandwidths of one third of a standard deviation above and below the point estimate."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Observable characteristics of users around the $50K income threshold.This figure reports the distribution of age, credit score, the log of asset balance and the log of debt balance around the $50,000 income threshold."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Bunching of users’ reported income at the IV and placebo IV thresholds.This figure plots the distribution of income levels reported by users in the IV sample to observe the bunching patterns at round values and especially at the IV and placebo IV thresholds. The IV thresholds are $35K, $50K, $75K, $100K, and $150K. The placebo IV thresholds are $45K, $60K, $90K, $110K, and $140K ."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Change in reported MPC after randomized peer information.This figure shows binned scatterplots of changes in reported marginal propensity to consume (MPC) elicited before and after provision of the MPC of income peers for both the time at which the randomized control trial was run (during the COVID-19 crisis) and in normal times. Information about income peers’ MPC is based on a representative US sample. In both subfigures, the x-axis measures the difference in MPC with respect to peers. The y-axis reports results for changes in reported MPC. Each binned scatterplot divides the 1015 respondents into 50 groups. In addition to the scatterplot, we report in red the fitted values of a threshold regression that estimates different linear regression coefficients below and above the zero threshold."
+        ],
+        "correlation": []
+    }
+}

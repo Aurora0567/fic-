@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Primary issuance and macroeconomic announcements: 1999–2020. Notes: Panel A of this figure shows the total number days (in a given year) on which new nominal or inflation-linked government debt was issued. Panel B shows the fraction of pre-news windows (in a given year) that coincided with new government bond issuance. Pre-new windows are defined as trading days that are either one or two days before days of monetary policy announcements (black line) or labour market data releases (magenta line). (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "A decomposition of long-term gilt yields: pre-MPC yield drift . Note: this figure documents that 15-year UK nominal bond yields tend to rise in the 2-day window before MPC meetings. This 2-day window includes for every MPC meeting the day prior to the meeting, and the day that is two days before the meeting. The black line shows the actual evolution of the yield. The red line shows a hypothetical time series that is constructed by taking into account only the yield changes that were realized in the 2-day window before MPC meetings; the yield changes that occurred on all days outside of this window are set to zero. The green line is an estimated linear trend associated with the red line. The grey line shows a hypothetical time series that is constructed by taking into account only the yield changes that were realized outside the 2-day window before MPC meetings. The analysis includes all 273 MPC meetings from May 1997 to June 2021. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "A decomposition of long-term gilt yields: pre-labour market data release drift. Note: this figure documents that 15-year UK nominal bond yields tend to rise in the 2-day window before scheduled labour market data releases. This 2-day window includes for every release date the day prior to the meeting, and the day that is two days before the meeting. The black line shows the actual evolution of the yield. The red line shows a hypothetical time series that is constructed by taking into account only the yield changes that were realized in the 2-day window before release dates; the yield changes that occurred on all days outside of this window are set to zero. The green line is an estimated linear trend associated with the red line. The grey line shows a hypothetical time series that is constructed by taking into account only the yield changes that were realized outside the 2-day window before data release dates. The analysis includes all 280 labour market data release days from April 1998 to June 2021. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

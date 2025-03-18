@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Time-series ofBrexitRiskandBrexitSentiment. This figure plots the semiannual mean of non-U.K.-headquartered (left) and U.K.-headquartered (right) firms'BrexitRisk(Panel A) andBrexitSentiment(Panel B).BrexitRiski,t$\\text{BrexitRisk}_{i,t}$for firmiat timetis normalized using the averageBrexitRiski,t$_{i,t}$of U.K.-headquartered firms over the period 2016 to 2019;BrexitSentimenti,t$\\text{{\\it BrexitSentiment}}_{i,t}$for firmiat timetis normalized using the average |BrexitSentimenti,t|$_{i,t}|$of U.K.-headquartered firms over the period 2016 to 2019. The Brexit referendum line indicates the quarter in which the referendum was held (2016Q2).",
+        "correlation": []
+    },
+    "2": {
+        "description": "MeanBrexitRiskby country. This figure shows the country-level mean ofBrexitRiski,t$_{i,t}$across all firms headquartered in a specific country. Countries with zero averageBrexitRiskcor countries for which we have fewer than five headquartered firms are excluded. Zero averageBrexitRiskccountries are Puerto Rico, Thailand, Cayman Islands, Portugal, Indonesia, Cyprus, Nigeria, Czech Republic, United Arab Emirates, Argentina, Peru, Phillipines, and Colombia. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "MeanBrexitSentimentby country. This figure shows the country-level mean ofBrexitSentimenti,t$_{i,t}$across all firms headquartered in a specific country for the same set of countries as in Figure2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Topic categories inBrexitRiskfragments. This figure shows, in Panel A, the share of each pre-specified topic category inBrexitRiskfragments (i.e., the proportion of text fragments that mention a specific topic) and, in Panel B, its time variation. For a description of each topic category, see TableIA.VIIIin theInternet Appendixand the audit guide available at our websitewww.firmlevelrisk.com. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Topic category riskiness and sentiment. This figure shows for each topic category the average risk (Panel A) and average sentiment (Panel B) of Brexit-related discussions. Specifically, Panel A (Panel B) shows, for each pre-specified topic category, the conditional mean number of text fragments in which Brexit is mentioned containing a risk synonym (sentiment words). Here, negative sentiment indicates that topic-specific discussions have, on average, more negative- than positive-tone words. Whiskers indicate 95% confidence intervals. For a description of each topic category, see TableIA.VIIIin theInternet Appendixand the audit guide available at our websitewww.firmlevelrisk.com.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effect ofBrexitRiski¯$\\overline{\\bm{BrexitRisk}_i}$onStock Returnsi:June 24–29, 2016. The figure shows binned scatter plots and a linear regression for the relation betweenStock Returnsi:June 24–29, 2016andBrexitRiski¯$\\overline{\\it {BrexitRisk}_i}$for firms headquartered in the United Kingdom (Panel A) and outside of the United Kingdom (Panel B). The relation is plotted after controlling forBrexitSentimenti¯$\\overline{{\\it BrexitSentiment}_i}$,log(assets), and industry (one-digit SIC) and country fixed effects. Standard errors are clustered by firm. Each scatter plot has 16 bins: the first bin has all firm-year observations with zeroBrexitRiski¯$\\overline{\\it {BrexitRisk}_i}$; the other 15 bins are equally populated by firm-year observations with nonzeroBrexitRiski¯$\\overline{\\it {BrexitRisk}_i}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "BrexitRiski, tand firm investment. This figure shows a binned scatter plot and linear regression for the relation betweenIi,t+1/Ki,t·100$ I_{i,t+1}/K_{i,t}\\cdot 100$andBrexitRiski,t$\\it {BrexitRisk}_{i,t}$, separately for U.K. firms (closed circle) and non-U.K. firms (open circle) over the 2011 to 2018 period. The scatter controls forlog(assets)and industry (one-digit SIC) and year fixed effects. Standard errors are clustered by firm. The scatter plot has 29 bins for U.K. and non-U.K. firms. The first nine bins correspond to all firm-year observations with zeroBrexitRiski,t$\\text{BrexitRisk}_{i,t}$grouped by nine one-digit SIC codes; the other 20 bins are equally populated by firm-year observations with nonzeroBrexitRiski,t$\\it {BrexitRisk}_{i,t}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Investment andBrexitRiski, t: Timing of the effect ofBrexitRiski, t. This figure plots the coefficients estimates along with 95% confidence intervals from a regression ofIi,t+1/Ki,t·100$I_{i,t+1}/K_{i,t}\\cdot 100$on interactions of post-referendum year (2016, 2017, 2018) indicator variables andBrexitRiski,t$_{i,t}$. The dependent variable is the one-year-ahead investment rate, and hence the coefficient estimate on the interaction between the 2016 indicator variable andBrexitRiski,t$_{i,t}$is reported as 2017 on the horizontal axis, and so on. The regression controls forlog(assets),BrexitSentimenti,t$_{i,t}$,NonBrexitRiski,t$_{i,t}$,NonBrexitSentimenti,t$_{i,t}$, and country-year and industry-year fixed effects. Industry fixed effects are based on two-digit SIC codes. The dependent variables are winsorized at the 1stand 99thpercentiles. Standard errors are clustered at the firm level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Placebo test: Counterfactual Brexit. This figure plots coefficient estimates and 95% confidence intervals forBrexitRiski,t$_{i,t}$from three separate panel regressions ofIi,t+1/Ki,t·100$I_{i,t+1}/K_{i,t}\\cdot 100$onBrexitRiski,t$_{i,t}$and the same control variables as in column (5) of TableV, Panel A. For the 2011 to 2013 and 2013 to 2015 sample periods, we reassigned each firm's time series of 2016 to 2019BrexitRiski,t$_{i,t}$to the sample period indicated; for the 2016 to 2019 sample period,BrexitRiski,t$_{i,t}$is firmi's actualBrexitRiski,t$_{i,t}$in that sample period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

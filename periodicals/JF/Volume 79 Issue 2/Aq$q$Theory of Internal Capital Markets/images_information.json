@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Comparison of a diversified firm (withz=0.5$z=0.5$)and a single-division firm. The top panels (A1 to A3) pertain to the liquidation case, the bottom panels (B1 to B3) to the refinancing case. In Panel A1, the vertical lines mark the payout boundaryw¯$\\overline{w}$. In Panel B1, the vertical lines mark the payout boundaryw¯$\\overline{w}$and the equity issuance amountm$m$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Liquidation case—comparison of diversified firms withz=0.1$z=0.1$andz=0.5$z=0.5$. In Panel A, the vertical lines mark the payout boundaryw¯$\\overline{w}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Refinancing case—comparison of diversified firms withz=0.1$z=0.1$andz=0.5$z=0.5$. In Panel A, the vertical lines mark the optimal payout boundaryw¯$\\overline{w}$and the equity issuance amountm$m$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Averageq$q$in the liquidation (Panel A) and refinancing (Panel B) cases. In Panel B, the fixed financing cost is set toϕ=0.1$\\phi =0.1$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Solution regions for a firm with two symmetric divisions in the liquidation (Panel A) and refinancing (Panels B and C) cases. Panel D plots the equity issuance amountm$m$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Early liquidation. This figure plots the solution regions for a diversified firm with asymmetric divisions withμa=24%$\\mu _a=24\\%$,μb=16%$\\mu _b=16\\%$, andρ=0.9$\\rho =0.9$. In Panel A, the more productive division (divisiona$a$) has a lower liquidation value (ℓa/qFBa=0.1$\\ell _a/q^{a}_{FB}=0.1$andℓb/qFBb=0.7$\\ell _b/q^{b}_{FB}=0.7$). In Panel B, it has a higher liquidation value (ℓa/qFBa=0.7$\\ell _a/q^{a}_{FB}=0.7$andℓb/qFBb=0.1$\\ell _b/q^{b}_{FB}=0.1$). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Resource allocation with different volatilities. This figure plots division-specific investment-to-capital ratios as a function ofw$w$(fixingz=0.5$z=0.5$) for a firm with asymmetric divisions withμa=20.5%$\\mu _a=20.5\\%$andσa=40%$\\sigma _a=40\\%$for divisiona$a$, andμb=19.5%$\\mu _b=19.5\\%$andσb=9%$\\sigma _b=9\\%$for divisionb$b$, respectively. The dotted line marks the payout boundaryw¯$\\overline{w}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Comparison of diversified firms with and without socialism in the liquidation case. The firms have asymmetric divisions withμa=24%$\\mu _a=24\\%$andμb=16%$\\mu _b=16\\%$. The divisions are of equal size (z=0.5$z = 0.5$). In Panel A, the vertical lines mark the payout boundaryw¯$\\overline{w}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Comparison of policy regions for diversified firms with and without socialism in the liquidation case. The firms have asymmetric divisions withμa=24%$\\mu _a=24\\%$andμb=16%$\\mu _b=16\\%$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Comparison of diversified firms with(θd=3$\\theta _d=3$)and without(θd=0$\\theta _d=0$)socialism costs with respect to the spinoff decision in the liquidation case. Both firms are subject to socialism costs with respect to their ongoing operations (θc=1$\\theta _c=1$). The firms have asymmetric divisions withμa=24%$\\mu _a=24\\%$andμb=16%$\\mu _b=16\\%$. The divisions are of equal size (z=0.5$z = 0.5$). In Panel A, the vertical lines mark the payout boundaryw¯$\\overline{w}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Comparison of diversified firms with(χ=0.5$\\chi =0.5$)and without(χ=0$\\chi =0$)redeployable capital in the liquidation case. The firms have asymmetric divisions withμa=24%$\\mu _a=24\\%$andμb=16%$\\mu _b=16\\%$. The divisions are of equal size (z=0.5$z = 0.5$). We setθa=θb=θre=8$\\theta _a=\\theta _b=\\theta _{re}=8$in the (scaled) quadratic adjustment cost functions at both the divisional and the firm level. In Panel A, the vertical lines mark the payout boundaryw¯$\\overline{w}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

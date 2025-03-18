@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Correlation of stock market returns with consumption growth rate. This figure plots the equilibrium correlation of stock market returns with the aggregate consumption growth rate by varying the no-dividend relative stock sizeSit/Stin our economy (blue circles). The corresponding correlation in the benchmark economy in which all stocks pay dividends is obtained by setting the no-dividend stock relative size to zero (black diamonds). Parameter values are reported in TableIand are discussed in SectionV. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Stock market risk premium versus volatility. Panel A plots the equilibrium relation between the conditional risk premium and volatility of stock market returns for different levels of no-dividend relative stock sizeSit/Stwithin the range of [0, 0.30] in our economy (blue circles). The corresponding relation in the benchmark economy is denoted by black diamonds. Panel B plots the fitted values of the two linear regressions of conditional risk premium on stock market return volatility when the no-dividend relative stock sizeSit/Stis in the range of [0, 0.15] (low-volatility region) and [0.15, 0.30] (high-volatility region). Parameter values are reported in TableIand are discussed in SectionV. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Term structure of equity risk premia. These panels plot the equilibrium risk premium of the short-term asset and the stock market against the maturity date of the short-term asset,T−t, in our economy in which the no-dividend stock relative size is 21.3% (Panel A) and 14.2% (Panel B). Parameter values are reported in TableIand are discussed in SectionV. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

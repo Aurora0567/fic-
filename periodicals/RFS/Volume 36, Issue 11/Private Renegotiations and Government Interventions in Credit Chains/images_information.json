@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "The figure illustrates a chain of renegotiation offers, payments, and default decisions.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Panel A illustrates agent 2’s optimal renegotiation offer d3 as a function of agent 2’s belief about how much it will owe to agent 1, denoted as d^2⁠. Panel B illustrates the associated default probabilities for agents 2 and 3, as well as agent 2’s default probability conditional on whether or not agent 3 fully pays its debt. The figure illustrates the baseline case detailed in subsection 2.5, where agent 2’s and agent 3’s endowment asset values are each uniformly distributed on the interval [1,2] and the default loss parameter is ρ = 1.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The figure illustrates agent 2’s optimal renegotiation offer d3 as a function of agent 2’s belief about the offer it will obtain from agent 1, denoted as d^2⁠. We vary the default-cost parameter ρ as indicated in the legend. All other parameters are identical to the baseline case detailed in subsection 2.5, where agent 2’s and agent 3’s endowment asset values are each uniformly distributed on the interval [1,2]⁠.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Panels A and B plot the PDF and CDF of the total value of agent 2’s assets, denoted as δa2=v2+δ3⁠. Panels C and D plot agent 1’s marginal profit function and expected profit from renegotiating agent 2’s debt to a face value of d2, conditional on agent 2 anticipating an offer d^2=2.5⁠. The optimal face value set by agent 1 is indeed d2=2.5⁠, which is a corner solution. The figure illustrates the baseline case detailed in subsection 2.5, where agent 2’s and agent 3’s endowment asset values are each uniformly distributed on the interval [1,2] and the default loss parameter is ρ = 1.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Panels A and B illustrate agent 2’s and agent 3’s default probabilities conditional on agent 2’s belief about how much it will owe to agent 1, denoted as d^2⁠. We consider subsidies to agent 2 and agent 3 as indicated in the legend. All other parameters are identical to the baseline case detailed in subsection 2.5, where agent 2’s and agent 3’s endowment asset values are each uniformly distributed on the interval [1,2]⁠, and the default loss parameter is ρ = 1.",
+        "correlation": []
+    }
+}

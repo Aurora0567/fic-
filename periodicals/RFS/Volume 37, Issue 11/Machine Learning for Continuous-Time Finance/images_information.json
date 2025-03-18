@@ -1,0 +1,66 @@
+{
+    "1": {
+        "description": "Activation functions Panel A shows the rectified linear unit (ReLu), the most common activation function used in machine learning applications. Panels B and C show two possible alternatives, the sigmoid function σ(x)=11+e−x and the hyperbolic tangent tanh⁡(x)=1−e−2x1+e−2x⁠.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Feedforward neural network The green circles represent each entry of the input vector X(i)=[X1(i),X2(i),X3(i),X4(i)]⊤⁠. The hidden units are represented by blue circles. Each hidden unit performs a composition of a nonlinear function (activation function) and a linear transformation of the outputs of the previous layer. The outputs of the final hidden layer are combined linearly to produce the final output. θ is the collection of all parameters of the network.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Ito’s lemma computational cost This figure shows how the cost of computing the drift of a function V scales with the number of state variables and with the number of Brownian shocks. We define the cost as the execution time of EdVdt(s) divided by the execution time of V(s)⁠. The left panel fixes the number of Brownian shocks at 1 and varies the number of state variables from 1 to 100, while the panel on the right fixes the number of state variables at 100 and varies the number of shocks from 1 to 100. In this example, V is represented by a two-layer neural network, and the executing times are computed 10,000 times on a mini-batch of 512 samples of the state space.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Two-tree economy The figure shows the plots of the risk-free rate, dividend yield, expected return, and instantaneous volatility as a function of the first tree dividend share. The solid lines represent the numerical solutions, and the dashed lines represent the analytical solutions evaluated on the random test set. The values of the parameters are as follows: ρ=0.04⁠, γ = 1, ϱ=−0.5,μ1=0.02,μ2=0.03,σ1=0.2⁠, and σ2=0.3⁠. We use a neural network to approximate normalized asset prices V=P⋅(D1+D2)−γ⁠. The iteration stops when the average error of the dividend yield is less than 10−5⁠.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Error distribution in a two-tree economy The left panel shows the distribution of the (⁠log10⁠) absolute difference between the numerical and the analytical solution of the dividend yield, while the right panel shows the (⁠log10⁠) HJB residuals for a test set of 10,000 randomly drawn points with s∈[0,1]⁠. The iteration stops when the average error is less than 10−5.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Accuracy and time-to-solution in a Lucas Orchard economy Panel A shows the time-to-solution of the DPI algorithm, measured by the number of minutes required for a given metric to be less than 10−8⁠. The blue line represents the mean squared errors, and the orange line represents the 90th percentile of the squared errors. Panel B shows the time-to-solution of the DPI method and the Smolyak methods of orders 2, 3, and 4. The tolerance is set to 10−3⁠, which is the highest threshold reached by all the Smolyak methods. The parameter values are as follows: ρ=0.04⁠, γ = 1, ϱ=0.0,μ=0.015⁠, and σ=0.1⁠. The HJB errors are computed on a random sample of 213 points from the state space.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Equilibrium quantities We discretize the interval (0, 1), representing the domain of the dividend share of the first risky asset s  1, into 100 equal parts. For each given point in the grid, we draw 10,000 samples of the remaining N—1 dividend shares (s2,s3,…,sN) from a symmetric Dirichlet distribution with parameter α. With 10,000 samples for each point s  1 in the grid, we then compute the equilibrium quantities by evaluating the trained neural network model at each point in space (s1,s2,…,sN) and averaging the result across the samples. We repeat this process for different levels of the concentration parameter α in the interval [1,3]⁠. The remaining parameter values are as follows: ρ=0.04⁠, γ = 4, ϱ=0.04,μ=0.02,σ=0.1⁠, and σagg=0.02⁠.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Optimal dividend policy and investment rate The figure shows the plots of the optimal dividend policy and optimal investment rate as a function of the capital stock for different values of TFP. The colored lines (dotted, dash-dotted, and solid lines) represent the solution using the DPI method, and the black dashed lines represent the solution using an upwind finite differences method with 23,001 grid points (451 for capital, 51 for TFP). The RMSE of the HJB residuals for the DPI solution is 2.0×10−5⁠, computed on a random sample of 8, 192, 000 observations (214 parallel simulations of size 2, 000) sampled from the ergodic distribution. The value of the parameters are as follows: δ=0.1,α=0.55,λ=0.059,θ=0.26⁠, and σz=0.123⁠. The network takes as inputs the states (k, z) and the vector of model parameters Φ⁠. The network was trained in approximately 1 hour.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Global sensitivity analysis The figure shows the plots of the following moments as a function of the parameters: (a) average equity issuance: E[min{Dt,0}]⁠, (b) average investment rate: E[it]⁠, (c) average profitability: E[pt],pt≡π(kt,zt)/kt⁠, (d) annual autocorrelation of profitability: the slope coefficient of the regression pt+1=α+βpt+σϵϵt+1⁠, and (e) the volatility of future profitability conditional on current profitability: σϵ⁠. The model solution is obtained by approximating value and policy functions by neural networks including the vector of parameters as inputs. For each column, we fix the parameters at the baseline values and then vary each parameter individually. The moments are computed by simulating 212 economies in parallel for 2, 000 periods, after dropping 1, 000 burn-in periods. The SDE is simulated using the Euler method with a time step of 0.05.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Moments scatterplots The figure shows the scatterplots of moments computed using the DPI method, as described in Figure 9, against the solution using an upwind finite-differences method with 23,001 grid points (451 points for capital and 51 points for TFP). For the computation of the model-implied moments using the finite differences solution, we interpolate the points outside the grid with nearest-neighbor interpolation.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Value-function shifter and portfolio share The figure shows the plots of the value-function shifter and the portfolio share as a function of the first predictor, x  1, given the value of the remaining predictors, x−1⁠, and W = 1. The colored lines (dotted, dash-dotted, and solid lines) represent the solution using the DPI method, and the black dashed lines correspond to the exact solution given by Equations (25) and (26). The RMSE of the HJB residuals for the DPI solution is 2×10−3⁠, computed on a random sample of 8, 192, 000 observations (214 parallel simulations of size 2, 000) sampled from the ergodic distribution. The value of the parameters are as follows: γ = 2, ρ=0.04,μx(x)=−0.45x,σx,i(x)=0.1ei,σr=0.2eN+1⁠, and N = 10. The functions ξ(x) and r(x) are given by Equations (23) and (24). The network was trained in approximately 1 minute.",
+        "correlation": []
+    },
+    "12": {
+        "description": "DPI vs exact solution scatterplots The figure shows the scatterplots of the value function (left panel) and portfolio share (right panel) computed using the DPI method against the exact solution given by Equations (25) and (26).",
+        "correlation": []
+    },
+    "13": {
+        "description": "Time series of bond yields and equity expected returns The figure shows the time series for nominal yields, real yields, and equity expected return for the model (solid black line) and the data (dashed blue line). The maturities for the nominal yields are 1, 5, and 10 years. The maturities for the real yields are 5 and 10 years.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Time series of expected returns and optimal allocations Panel A shows the time series of expected returns implied by the model for five asset classes: equities, nominal and real long-term bonds (ie, 10-year maturity), and nominal and real medium-term bonds (ie, 5-year maturity), for the period 1949–2019. The NBER recession periods are indicated as grey bars. Panel B shows the time series of the optimal asset allocation computed using the DPI algorithm for an investor with recursive utility solving the optimization problem in Equation (29), given the dynamics of expected returns shown in panel A and preferences parameters ρ=0.04⁠, γ = 20, and ψ=0.5⁠.",
+        "correlation": []
+    },
+    "15": {
+        "description": "Optimal policy functions The panels show the optimal policies computed with the DPI algorithm as a function of the 11 state variables. The effects on consumption-wealth ratio, stock, nominal long-term bond, real long-term bond, nominal medium-term bond, and real medium-term bond are represented in panels A, B, C, D, E, and F, respectively. Long-term bonds have 10-year maturity and medium-term bonds mature in 5 years. The x-axis is measured in standard deviations for each state variable.",
+        "correlation": []
+    },
+    "B.1": {
+        "description": "Value function: Model with jumps The figure shows the value-function shifter I(λ) for the solution using the DPI method (red solid line) and the exact solution (black dashed line). Parameter values are as in Wachter (2013). For the network architecture, we use LayerNormMLP with SILU activation with [32,32] hidden units. Each iteration is performed on a random batch of size 4,096. The optimizer is Adam with default parameters (learning rate = 10−3,β1=0.9⁠, and β2=0.999⁠).",
+        "correlation": []
+    }
+}

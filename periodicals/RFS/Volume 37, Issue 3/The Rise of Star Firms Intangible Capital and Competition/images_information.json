@@ -1,0 +1,66 @@
+{
+    "1": {
+        "description": "Rise in star firms: Conventional ROIC Metric This figure plots the 25th, 50th, 75th, and 90th percentiles of Return on invested capital, the conventional metric unadjusted for intangible capital, ROICunadj in each year across all large public firms (defined as firms with assets more than US$(2009)200 million, adjusted for inflation) in the U.S. economy. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Differences in intangible intensity: Conventional ROIC metric This figure plots the 25th, 50th, 75th, and 90th percentiles of Return on invested capital, the conventional metric unadjusted for intangible capital, ROICunadj in each year in industries with Low (< median) and High (⁠≥ median) intangible intensity. Intangible intensity includes the Peters and Taylor (2017) adjustment for intangible capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Rise in star firms: ROIC adjusted for intangible capital This figure plots the 25th, 50th, 75th, and 90th percentiles of Return on invested capital, adjusted for intangible capital (ROIC) in each year across all public firms in the U.S. economy. ROIC includes the Peters and Taylor (2017) adjustment for intangible capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Differences in intangible intensity: ROIC adjusted for intangible capital This figure plots the 25th, 50th, 75th, and 90th percentiles of Return on Invested Capital, adjusted for intangible capital (ROIC) in each year in industries with Low (< median) and High (⁠≥ median) intangible intensity. Intangible intensity includes the Peters and Taylor (2017) adjustment for intangible capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Divergence between the 90th percentile and median firm explained by Intangible capital This figure plots (Divergence in Unadjusted ROIC(⁠ROICunadj⁠)-Divergence in adjusted ROIC (ROIC))/Divergence in Unadjusted ROIC(⁠ROICunadj⁠), where Divergence is defined as the difference between the 90th percentile and median firm. Intangible intensity includes the Peters and Taylor (2017) adjustment for intangible capital and Low- and High-Intangible-intensity industries are defined based on the median value each year. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Markups in the U.S. economy This figure plots the 25th, 50th, 75th, and 90th percentiles of Markups in each year across all public firms in the U.S. economy. Markups are defined as Sales/Variable Cost, where we use operating expenses with intangible capital adjustments, OPEX*, as a measure of variable cost. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Markups in the U.S. economy: Differences in intangible intensity This figure plots the 25th, 50th, 75th, and 90th percentiles of Markups in each year in low (< median) and high (⁠≥ median) intangible intensity industries. Markups are defined as Sales/Variable Cost, where we use operating expenses with intangible capital adjustments, OPEX*, as a measure of variable cost in estimation of markups. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Persistence in markups This figure plots the persistence in markups using the portfolio approach in Lemmon, Roberts, and Zender (2008).",
+        "correlation": []
+    },
+    "9": {
+        "description": "Persistence in early markups This figure plots the persistence in initial markups using the portfolio approach in Lemmon, Roberts, and Zender (2008). The initial markups are measured 5 years after IPO.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Product life cycle and intangible intensity This figure plots the binscatter plots of Return on invested capital (ROIC), Age, Sales/Invested capital, and Life1 across Intangible intensity⁠. ROIC, Sales/Invested capital⁠, and Intangible intensity include the Peters and Taylor (2017) adjustment for intangible capital. Life1 is a firm product life cycle variable that measures the intensity of product innovation from Hoberg and Maksimovic (2022). Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "11": {
+        "description": "TFP, investment, and output This figure plots the binned scatterplots with robust pointwise confidence intervals and uniform confidence bands of Productivity, Capex/Invested Capital, R&D Investment/Invested Capital, SG&A Investment/Invested Capital, and Sales/Invested Capital on Intangible intensity for ROIC stars and all other firms, controlling for Markups, Size, Age, and industry x year fixed effects. ROIC stars are firms that are in the top 10% of ROIC in a particular year. Markups are defined as Sales/Variable Cost, where we use operating expenses with intangible capital adjustments, OPEX*, as a measure of variable cost in estimation of markups. Markups⁠, and Intangible intensity include the Peters and Taylor (2017) adjustment for intangible capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "12": {
+        "description": "ROIC of elite firms (Apple, Facebook, Amazon, Microsoft, Google) This figure plots the 90th percentile of Return on Invested Capital (ROIC) in each year across all public firms in the U.S. economy as well as the ROIC for five firms referred to as superstars anecdotally. ROIC includes the Peters and Taylor (2017) adjustment for intangible capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Markups of elite firms (Apple, Facebook, Amazon, Microsoft, Google) This figure plots the 90th percentile of Markups in each year across all public firms in the U.S. economy as well as the Markups for five firms referred to as superstars anecdotally. Markups are defined as Sales/Variable Cost, where we use operating expenses with intangible capital adjustments, OPEX*, as a measure of variable cost in estimation of markups. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Persistence in Star Status The top figure plots the percentage of firms that remain stars in the 2 to 5 consecutive years going forward. The figure below plots the persistence in star status using the portfolio approach in Lemmon, Roberts, and Zender (2008).",
+        "correlation": []
+    },
+    "15": {
+        "description": "Rise in star firms: Correcting for R&D capital versus SG&A capital This figure plots the 25th, 50th, 75th, and 90th percentiles of Return on Invested Capital (ROIC) in each year. In the first figure, the ROIC measure only includes correction for knowledge (R&D) capital and in the second figure, the ROIC measure only includes correction for organization (SG&A) capital. Appendix Table A9 defines the variables in detail.",
+        "correlation": []
+    },
+    "A.1": {
+        "description": "Difference between our markups and Traina (2018) markups",
+        "correlation": []
+    }
+}

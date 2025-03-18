@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Fig. A.1. Identification of model parameters."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. A.2. Semiparametric specification for TCI, sellers’ reserves, and BWIC failure costPanel A of the figure documents the quarterly total cost of immediacy in the CLO market using the semiparametric specification (5) for estimating the seller’s reserve price. Panel B of the figure documents sellers’ reserves (solid and dashed lines) and dealers’ expected best bids (dotted line) expressed in terms of par value in the CLO market at a quarterly frequency. Panel C of the figure shows the BWIC failure cost (solid and dashed line) expressed in terms of par value in the CLO market at a quarterly frequency. In all panels, the solid line depicts the mean value across BWICs at a quarterly frequency. The dashed line corresponds to the median across BWICs. The shaded area indicates the 5% to 95% range across BWICs. The dotted line in Panel A indicates the bid–ask spreads in the CLO market. The dotted line in Panel B indicates the dealers’ expected best bids. The sample period is 2012–2020 with grey areas indicating periods of market stress: the 2012 European debt crisis, the 2015–16 credit stress, and the 2020 COVID-19 pandemic. Results are split by tranche into the senior tranche rated AAA (left), mezzanine tranche rated AA–BBB (middle), and junior tranche rated BB–equity (right)."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "CLO trading volume and bid–ask spreadsThe figure documents quarterly trading volume (Panel A) and bid–ask spreads (Panel B) in the CLO market over the sample period 2012–2020, split by tranche into the senior tranche rated AAA, mezzanine tranche rated AA–BBB, and junior tranche rated BB–equity. Grey areas indicate periods of market stress: the 2012 European debt crisis, the 2015–16 credit stress, and the 2020 COVID-19 pandemic. The figure also documents market and funding conditions in the CLO market (Panel C) over the sample period 2012–2020. The left plot shows the evolution of the JPM leverage loan spread index and the right plot shows the evolution of the average CDS spread on all primary dealers active in the CLO market."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "BWIC activity and failure ratesThe figure documents quarterly BWIC activity (Panel A) and BWIC failure rates (Panel B) in the CLO market over the sample period 2012–2020, split by tranche into the senior tranche rated AAA (left), mezzanine tranche rated AA–BBB (middle), and junior tranche rated BB–equity (right). In Panel B, the solid line is actual, and the dashed line is predicted. Grey areas indicate periods of market stress: 2012 (European debt), 2015–16, and 2020 (COVID-19 pandemic)."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Selection bias in quantiles of accepted bidsThe figure illustrates the selection bias in observed accepted bids for different values of σR. The average reserve price, μR, and the bid price, μB, are both set to zero, μR=μB=0, and are shown by the vertical and horizontal dashed lines, respectively. The standard Normal distribution is used to draw best bid prices, B∼GB=N0,1, in both subplots for 1,000 BWICs. The standard Normal distribution is used to draw 1,000 reserve prices R∼GR from (i) the standard Normal distribution, GR=N0,1, in the left subplot, (ii) from GR=N0,0.25 in the middle subplot, and (iii) from GR=N0,0.01 in the right subplot. B and R are drawn independently in all subplots. The 45-degree dashed line, B=R, separates accepted, B≥R, and rejected, B<R, best bids. Green triangular accepted bids have B<μR (ɛɛB<0), and blue circular accepted bids have B≥μR (ɛɛB≥0). The mass of green triangular accepted bids relative to the total mass of accepted bids is τ∗ which corrects for selection bias."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Total cost of immediacyThe figure documents the quarterly total cost of immediacy in the CLO market using the parametric specification (1) for estimating the seller’s reserve price. The solid line depicts mean TCÎ over time. The dashed line corresponds to median TCÎ. The shaded area indicates the 5% to 95% range of TCÎ. The dotted line indicates the bid–ask spreads in the CLO market. The sample period is 2012–2020 with grey areas indicating periods of market stress: the 2012 European debt crisis, the 2015–16 credit stress, and the 2020 COVID-19 pandemic. Results are split by tranche into the senior tranche rated AAA (left), mezzanine tranche rated AA–BBB (middle), and junior tranche rated BB–equity (right). Fig. A.2 in the Internet Appendix documents the corresponding figure using the semiparametric specification (5) for estimating the seller’s reserve price."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Dealers’ expected bids and sellers’ reserves and BWIC failure costPanel A of the figure documents sellers’ reserves constructed using the parametric specification (1) (solid and dashed line) and dealers’ expected best bids (dotted line) expressed in terms of par value in the CLO market at a quarterly frequency. Panel B of the figure shows the BWIC failure cost (solid and dashed line) expressed in terms of par value in the CLO market at a quarterly frequency. In both panels, the solid/dashed line depicts the mean/median value across BWICs at a quarterly frequency. The shaded area indicates the 5% to 95% range across BWICs. The sample period is 2012–2020 with grey areas indicating periods of market stress: the 2012 European debt crisis, the 2015–16 credit stress, and the 2020 COVID-19 pandemic. In both panels, results are split by tranche into the senior tranche rated AAA (left), mezzanine tranche rated AA–BBB (middle), and junior tranche rated BB–equity (right). Fig. A.2 in the Internet Appendix documents the corresponding figures using the semiparametric specification (5) for estimating the seller’s reserve price."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Timeline of the baseline model.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Price informativeness. This figure plots the effects of commodity financialization on price informativeness. In Panels A1 to A3, we setλH=0.1$\\protect \\lambda _{H}=0.1$. In Panels B1 to B3, we setλS=0.1$\\protect \\lambda _{S}=0.1$. In Panels C1 to C3, we setϕH=ϕS=0.5$\\protect \\phi _{H}=\\protect \\phi _{S}=0.5$. The other parameters areτθ=τα=1,τε=τδ=τξ=τη=10$\\protect \\tau _{\\protect \\theta }=\\protect \\tau _{\\protect \\alpha }=1,\\protect \\tau _{\\protect \\varepsilon }=\\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{\\protect \\eta }=10$,γS=γH=β=10,h=1$\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10,h=1$, andρ=0.5$ \\protect \\rho =0.5$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Price informativeness and hedging motives. This figure plots the effects of the hedging motive parameterρ$\\protect \\rho$on price informativeness. The other parameters areτθ=τα=1,τε=τδ=τξ=τη=10,γS=γH=β=10$\\protect \\tau _{\\protect \\theta }= \\protect \\tau _{\\protect \\alpha }=1,\\protect \\tau _{\\protect \\varepsilon }= \\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{ \\protect \\eta }=10,\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10$,h=1$h=1$, andλS=λH=0.1$\\protect \\lambda _{S}=\\protect \\lambda _{H}=0.1$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Futures price biases. This figure plots the effects of commodity financialization on futures price biases. In Panels A1 and B1, we setλH=0.1$\\protect \\lambda _{H}=0.1$. In Panels A2 and B2, we setλS=0.1$\\protect \\lambda _{S}=0.1$. In Panels A3 and B3, we setϕH=ϕS=0.5$\\protect \\phi _{H}=\\protect \\phi _{S}=0.5$. The other parameters areτθ=τα=1$\\protect \\tau _{\\protect \\theta }=\\protect \\tau _{\\protect \\alpha }=1$,τε=τδ=τξ=τη=10$\\protect \\tau _{\\protect \\varepsilon }=\\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{\\protect \\eta }=10$,γS=γH=β=10$\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10$,θ¯=0,c¯=α¯=1$ \\bar{\\protect \\theta }=0,\\bar{c}=\\bar{\\protect \\alpha }=1$,h=1$h=1$, andρ=0.5$\\protect \\rho =0.5$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Commodity-equity market comovement. This figure plots the effects of commodity financialization on commodity-equity market comovement. In Panel A, we setλH=0.1$\\protect \\lambda _{H}=0.1$. In Panel B, we setλS=0.1$\\protect \\lambda _{S}=0.1$. In Panel C, we setϕH=ϕS=0.5$\\protect \\phi _{H}=\\protect \\phi _{S}=0.5$. The other parameters areτθ=τα=1$\\protect \\tau _{\\protect \\theta }=\\protect \\tau _{\\protect \\alpha }=1$,τε=τδ=τξ=τη=10$\\protect \\tau _{\\protect \\varepsilon }=\\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{\\protect \\eta }=10$,γS=γH=β=10$\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10$,h=1$ h=1$, andρ=0.5$\\protect \\rho =0.5$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Return predictiveness of financial trading. This figure plots the effects of commodity financialization on the correlation between financial positions and commodity returns. The parameter values areτθ=τα=1$\\protect \\tau _{\\protect \\theta }=\\protect \\tau _{\\protect \\alpha }=1$,τε=τδ=τξ=τη=10$\\protect \\tau _{ \\protect \\varepsilon }=\\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{\\protect \\eta }=10$,γS=γH=β=10$\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10$,θ¯=0$\\bar{\\protect \\theta }=0$,c¯=1$\\bar{c}=1$,h=1$h=1$,ρ=0.5$ \\protect \\rho =0.5$, andϕH=ϕS=0.5$\\protect \\phi _{H}=\\protect \\phi _{S}=0.5$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Operation profits and producer welfare. This figure plots the effects of commodity financialization on operation profits and producer welfare. In Panels A1 and A2, we setλH=0.1$\\protect \\lambda _{H}=0.1$. In Panels B1 and B2, we setλS=0.1$\\protect \\lambda _{S}=0.1$. In Panels C1 and C2, we setϕH=ϕS=0.5$ \\protect \\phi _{H}=\\protect \\phi _{S}=0.5$. The other parameters areτθ=τα=1$\\protect \\tau _{\\protect \\theta }=\\protect \\tau _{\\protect \\alpha }=1$,τε=τδ=τξ=τη=10$\\protect \\tau _{ \\protect \\varepsilon }=\\protect \\tau _{\\protect \\delta }=\\protect \\tau _{\\protect \\xi }=\\protect \\tau _{\\protect \\eta }=10$,γS=γH=β=10$\\protect \\gamma _{S}=\\protect \\gamma _{H}=\\protect \\beta =10$,θ¯=0$\\bar{\\protect \\theta }=0$,c¯=1$\\bar{c}=1$,h=1$h=1$, andρ=0.5$ \\protect \\rho =0.5$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Timeline of the dynamic model.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Implications of financialization in the dynamic model. This figure plots the implications of simultaneously increasing the masses of financial speculators and financial hedgers in the dynamic model. The parameter values are given by TableI. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

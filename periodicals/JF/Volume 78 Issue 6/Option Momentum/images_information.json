@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Straddle returns regressed on lagged values from the same firms. This figure plots slope coefficients and 95% confidence intervals from Fama-MacBeth (1973) regressions in which monthly straddle returns are regressed on a single lagged monthly straddle return for the same firm. The length of the lag is shown on the horizontal axis. The top and bottom panels are identical except for the range of lags considered. Confidence intervals are computed using Newey-West (1987) standard errors with three lags.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Five-year moving averages of strategy returns. This figure plots the rolling five-year average return on the short-term reversal (lag 1) and momentum (lags 2 to 12) factors. Dotted lines denote 95% confidence intervals, which use Newey-West (1987) standard errors with three lags.",
+        "correlation": []
+    }
+}

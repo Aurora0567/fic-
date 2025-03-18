@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "NDRs and the informativeness of institutional trading. At quarter end from March 2013 to December 2019, we sort all NDR firms during the quarter into terciles based on the order imbalances of institutions that are headquartered within 100 km of the NDR location (Local) and all other institutions (NonLocal). We defineLocal OIBas the total shares of firmibought by all local institutions in quartertless the total shares of firmisold by all local institutions in quartert, scaled by total local institutional trading volume of firmiin quartert. NonLocal OIBis defined analogously.Localreports the cumulative market-adjusted return to a strategy that buys stocks in the top tercile ofLocal OIBand sells stocks in the bottom tercile ofLocal OIBfor horizons ranging from 1 to 12 months after the end of the quarter.NonLocalreports the returns to the analogous strategy based onNonLocal OIB. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "NDRs and the informativeness of institutional trading—pre- and post-NDR. This figure examines the informativeness of local and nonlocal institutional trading in each of the three quarters prior to and after the NDR quarter. We repeat the regression in column (1) of TableIVafter shifting the timing of the NDR. For example, for quarter (−3) we examine local and nonlocal institutional trading three quarters prior to the firm conducting the NDR. Panel A (B) plots the estimates and 95% confidence intervals forLocal OIB(NonLocal OIB) for each of the seven regressions over the [−3,3] interval. The confidence intervals are computed from standard errors double-clustered by firm and quarter. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "NDRs and the informativeness of retail trading. This figure repeats the regressions reported in TableVI, after replacing the dependent variable with cumulative returns from weeks 1 to 12. Returns are computed assuming that all trades for stocks with positive (negative) retail order imbalances are executed at the retail-volume weighted average purchase (sale) price. The figure plots the estimates onRetail OIBandRetail OIB×NDRfrom 12 separate regressions (weeks 1 to 12). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Relative optimism of NDR brokers around non-deal roadshows. For each NDR, we plot the optimism of the brokerage firm that takes the firm on the NDR (NDR Broker) relative to all other brokerage firms covering the same firm during the same month (Abnormal Optimism). Panel A plots results corresponding to the optimism measure computed using recommendation levels (Abnormal Rec Level), where strong buy = 1 and strong sell = 5 (a more negative recommendation level indicates greater optimism). Panel B plots results corresponding to the optimism measure computed using target returns (Abnormal Target Return). We plotAbnormal Optimismfrom three years prior to the NDR (−36) to three years after the NDR (+36). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

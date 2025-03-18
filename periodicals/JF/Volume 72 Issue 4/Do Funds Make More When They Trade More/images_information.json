@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Average turnover across fund categories. Each panel splits funds into three categories and plots the time series of category-level average turnover. Average turnover in monthtis the equal-weighted average turnover across category funds in the 12-month period that includes montht. Panel A compares small-cap, mid-cap, and large-cap funds; we use Morningstar's stock size classification. Panel B compares growth, blend, and value funds; we use Morningstar's value-growth classification. Panel C categorizes funds according to their size, splitting the sample each month into terciles based on their lagged assets under management. Panel D categorizes funds according to their expense ratio, splitting the sample each month into terciles based on their lagged expense ratio. Data are from 1979 to 2011. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Average turnover, sentiment, volatility, and liquidity over time. Panel A plots the time series ofAvgTurnt, the equal-weighted average turnover across sample funds in the 12-month period that includes montht. Panel B plots the time series ofSentiment(from Baker and Wurgler (2007)),Volatility(the cross-sectional standard deviation in monthly stock returns), andLiquidity(the level of aggregate liquidity from Pástor and Stambaugh (2003)). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

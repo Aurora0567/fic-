@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Effects of lenders’ size These panels plot the equilibrium shorting fee ϕϕt (panel A), stock price St (panel B), stock risk premium πt (panel C), and stock volatility σ (panel D), against lenders’ size λ when disagreement is at its long-run mean θ¯⁠. The solid blue lines represent our economy with costly short-selling, while the dotted black lines represent the benchmark economy with costless short-selling. The parameter values follow from Table B1 of  Appendix B.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Short interest behavior This figure plots the equilibrium short interest SIt against the shorting fee ϕϕt⁠, where each point is obtained by varying the disagreement θt. The solid blue line represents our economy with costly short-selling, while the dotted black line represents the benchmark economy with costless short-selling. The parameter values follow from Table B1 of  Appendix B.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Effects of short-selling risk These panels illustrate the relations between the equilibrium short-selling risk ϕVϕ and stock risk premium πt and short-selling activity σσSI⁠, where each bar is obtained by varying the partial lending α when disagreement is at its long-run mean θ¯⁠. The partial lending parameter values for each bar (from left-to-right) are 0.960, 0.865, 0.765, 0.650, and 0.295, which are chosen so that the each bar is equally distanced on the x-axis for short-selling risk. The parameter values follow from Table B1 of  Appendix B.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effects of noise trader demand These panels plot the equilibrium shorting fee ϕϕt (panel A), stock price St (panel B), and short interest SIt (panel C), against the noise traders’ size m when disagreement and noise trader demand are at their long-run means θ¯ and Z¯⁠, respectively. Panel D plots the equilibrium correlation between the short interest and shorting fee ϕCorr[SIt,ϕt] against the noise traders’ size m. The solid blue lines represent our main economy with costly short-selling and no noise traders, while the dashed green lines represent the current economy with noise traders. The parameter values follow from Table B1 of  Appendix B.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Effects of noise traders’ lending fraction These panels plot the equilibrium shorting fee ϕϕt (panel A), stock price St (panel B), and short interest SIt (panel C), against the noise traders’ lending fraction αZ when disagreement and noise trader demand are at their long-run means θ¯ and Z¯⁠, respectively. The solid blue lines represent our main economy with costly short-selling and no noise traders, while the dashed green lines represent the current economy with noise traders. The parameter values follow from Table B1 of  Appendix B.",
+        "correlation": []
+    },
+    "E1": {
+        "description": "Effects of disagreement on search intensity and shorting fee These panels illustrate the relations between the disagreement θ and search intensity λ (panel A) and shorting fee ϕϕ when search intensity is endogenized (panel B). The parameter values are γ = 1, σσD=0.115⁠, Q = 5 as in Table B1 of  Appendix B, and the values for the new parameters are chosen so that the model is well-behaved: δδ=0.23 and W = 0.08.",
+        "correlation": []
+    }
+}

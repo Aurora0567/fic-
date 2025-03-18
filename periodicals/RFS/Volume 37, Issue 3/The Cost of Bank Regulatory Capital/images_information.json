@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Credit line origination activity by year This figure depicts the time series of the number (left) and dollar volume (right) of 364-day facility originations. Panel B plots the time series of the relative number and dollar volume of originations for 364-day facilities, and 2-, 3-, 4- and 5-year credit lines as a proportion of total credit facilities originated in a given year.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Undrawn fees around Basel I This figure plots the average annual undrawn fees on short- versus long-term credit lines around Basel I. Fees are scaled to 100 in 1992.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Conditional difference between short- and long-term undrawn fees This figures plots the average annual difference between undrawn fees on short- versus long-term credit lines around Basel I estimated on the sample of credit lines with maturities up to 4 years conditional on the full set of controls in Table 3.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Undrawn fees around Basel I and Basel II This figure plots the average annual undrawn fees on short- versus long-term credit lines around Basel I and Basel II. Fees are scaled to 100 in 1992 and 2004, respectively.",
+        "correlation": []
+    }
+}

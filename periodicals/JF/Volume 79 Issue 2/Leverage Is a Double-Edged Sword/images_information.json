@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Average returns in different bins of leverage (DLV). This figure presents average gross and net DRRs (in basis points) for different DLV bins. For each group of investors (all, unskilled, and skilled), we first separate all investor-day-level observations into 10 bins by DLV deciles. Reported are the equally weighted averages within each bin. The left (right) panels show results for gross (net) returns. Unskilled and skilled investors are identified in SectionII.C.1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Average return (in basis points) around forced buy (left plots) trades and forced sell (right plots) trades. This figure depicts results of an event study around investors' forced offsets. We plot average returns on VWAP (volume-weighted average price). Returns are calculated as the simple return with respect to the transaction price of the forced trade,rVWAP=VWAP−P0P0$r_{VWAP}=\\frac{\\text{VWAP}-P_0}{P_0}$, whereP0$P_0$is the transaction price of the forced trade. The average return after 60 minutes of forced liquidations is −19.34 (50.63) bps for forced buys (sells). The average return after 90 minutes of forced liquidations is −20.07 (47.24) bps for forced buys (sells). The average return after 120 minutes of forced liquidations is −20.39 (47.77) bps for forced buys (sells). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "VWAP around investors' open trades. This figure depicts results from an event study around investors' open buys and sells, separately. We plot the average returns of VWAP (volume-weighted average price) together with their 99% confidence intervals. Returns are calculated as the simple return with respect to the transaction price of the current traderVWAP=VWAP−P0P0$r_{VWAP}=\\frac{\\text{VWAP}-P_0}{P_0}$, whereP0$P_0$is the transaction price of the current trade. The upper panel depicts results for unskilled investors, and the lower panel shows results for skilled investors. Unskilled and skilled investors are identified as in SectionII.C.1. The upper (lower) horizontal dotted line in each plot represents investors' average transaction cost of buy-then-sell (sell-then-buy). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Average returns in different bins of number of transactions (NTR) and leverage (DLV) for skilled investors. We perform dependent double sorts across all investor-day observations. Only skilled investors' observations are included in this analysis. Skilled investors are identified as in SectionII.C.1. Specifically, we first sort all observations into NTR deciles. Then, in each NTR decile, we sort observations into DLV quintiles. For each double-sorted group, we report equally weighted average DRRs in basis points. The upper (bottom) panel shows results for gross (net) returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

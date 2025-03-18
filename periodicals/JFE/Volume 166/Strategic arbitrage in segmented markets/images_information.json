@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Pareto frontier. The solid line depicts the Pareto frontier of the stage game. The symmetric Nash equilibrium is denoted by the star symbol (❋), and the symmetric (cooperative) Pareto efficient equilibrium by a circle (⬤)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Abnormal trading volume on last cum-dividend dates for SPDR S&P 500 ETF (SPY). This figure plots daily trading volume for all call option contracts on SPY, in millions of U.S. dollars, as reported in OptionMetrics. The dashed lines indicate the last cum-dividend dates."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Total and floor trader profit from dividend play strategy. This figure illustrates the implied share of potential dividend play profits captured by arbitrageurs on the trading floor. The solid plot depicts the potential profit from the dividend play strategy, and the dashed plot depicts the profit harvested by floor traders (arbitrageurs)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Number of arbitrageurs in dividend play trades. This figure depicts the percentage split of trades executed on the exchange floor by the number of unique trade sizes, i.e., the number of arbitrageurs. We include only contracts in our dividend play sample. The largest gray-shaded area corresponds to the period of floor closures on all exchanges."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Distribution of the number of arbitrageurs in dividend play trades. These figures depict the distribution of the number of arbitrageurs in our sample. We include only contracts in our dividend play sample in which there was some floor entry. Figure (a) uses our baseline proxy for the number of arbitrageurs, calculated in the full sample. Figure (b) is for the alternative proxy, calculated in the full sample. Figures (c) and (d) are for our baseline proxy on the PHLX and all other exchanges, correspondingly. Values above 4 are set to 4. See the detailed statistics in Tables 12 and 13 in Appendix."
+        ],
+        "correlation": []
+    }
+}

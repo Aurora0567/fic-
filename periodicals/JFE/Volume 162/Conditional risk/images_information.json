@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Time-variation in the market risk premium. This figure shows two measures of the (annualized) market risk premium. The solid blue line shows the estimate obtained using the methodology in Kelly and Pruitt (2013). The dotted green line is expected returns estimated as the inverse of the CAPE ratio plus expected inflation on the 10-year horizon from the Michigan survey. The figure shows the equity premium as of December each year between 1982 (starting date of Michigan survey) and 2022 in the US."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Standard deviation in levels and changes of conditional betas. For each stock, we compute the monthly horizon conditional market beta in two ways: (1) using a five-year rolling window to compute the CAPM beta or (2) using the IPCA method of Kelly et al. (2021). For each stock, we use the conditional betas to compute the unconditional standard deviations of the levels and changes in the betas. Subfigure (a) shows the distribution of the unconditional standard deviation of the levels in the conditional betas for individual stocks. Subfigure (b) shows the distribution of the unconditional standard deviation of the changes in the conditional betas. The sample is US 1963–2014."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Conditional price of risk. This figure plots the time series of the conditional price of risk minus the unconditional price of risk. The (conditional) price of risk is the (conditional) market risk premium relative to the (conditional) variance. Panel A plots the price of risk in the U.S. sample and Panel B plots the price of risk in the global sample."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Compensation for conditional risk in HML for G10 countries. This figure shows the compensation for conditional risk and the fraction of the unconditional CAPM alpha in HML that is explained by conditional risk in ten G10 countries. “Compensation for conditional risk” is the difference between the alpha of the unconditional CAPM and the alpha of the conditional model in equation (41), measured in annual percentage points. HML is the Fama and French (1993) value factor. We exclude Italy because the value factor has negative alpha in this country."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Compensation for conditional risk around the world. This figure shows the annualized compensation for conditional risk in percentage points. We regress the tangency portfolio (TAN) in each country on: (i) the unconditional CAPM and (ii) the conditional model in equation (41). The compensation for conditional risk is the difference between the unconditional alpha and the conditional alpha. TAN refers to the tangency portfolio spanned by the five equity factors HML, RMW, CMA, UMD, and BAB along with the market."
+        ],
+        "correlation": []
+    }
+}

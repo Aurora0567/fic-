@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Block trading in the U.S. equity market This figure shows off-exchange block trading activities in the U.S. equity market for the period from 2008 to 2022. To identify block trades, we first restrict trades to be executed off-exchange (TAQ Market D). We then define a trade as a block if the trade is larger than X% of the average daily volume (ADV). We use two thresholds (X) to define a block trade: 5% of ADV (red solid line) and 1% of ADV (blue dotted line). The ADV is defined for each stock as the daily CRSP volume averaged over the past 30 days. Panel A shows the time series of block volume as a percentage of off-exchange volume. Panel B depicts the time series of block volume as a percentage of consolidated volume (measured by CRSP volume). Panel C reports the time series of the average block trades in thousand shares. Panel D depicts the time series of the average block trades in million dollars.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Institutional brokerage networks: A graphical representation This snapshot of institutional brokerage networks has been constructed using our mutual funds data at the end of June 2016. Blue nodes represent mutual fund families (institutions); red nodes represent brokers; and lines represent connections between institutions and their brokers. The size of a node is proportional to its eigenvector centrality.",
+        "correlation": []
+    }
+}

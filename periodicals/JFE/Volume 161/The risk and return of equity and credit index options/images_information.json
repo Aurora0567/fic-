@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Exposures to three sources of systematic risk. The figure graphs the three exposures implied by the model for the SPX/CDX (Panels A, B, and C), for SPX options (Panels D, E, and F), and for CDX options (Panels G, H, and I). We consider 1-month calls and puts with moneyness of 95, 100, and 105% for SPX options and 85, 100, and 115% for CDX options. To facilitate comparison, we normalize the exposures so that they capture the response to a one standard deviation change in one of the three sources of systematic risk. Specifically, the left panels plot ΔA,tVt, the center panels plot ΔV,tδVt, and the right panels plot Δ̄N,tλtm. The results are produced by setting the two state variables at (AD/Atr,Vt)=(0.38244,0.00619)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Filtered state variables. The figure presents the time series of the two filtered state variables: the relative default barrier AD/Aˆtr (Panel A) and systematic asset variance Vˆt (Panel B). The measurement frequency is monthly, where the values of the two filtered state variables are sampled at the end of each month. The sample period is from June 2004 to November 2020."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "CDX spreads and SPX physical volatility. The figure plots the monthly time series of the 3-, 5-, 7-, and 10-year CDX spreads and the physical SPX volatility in the data (yellow solid lines) and in the model (blue dotted lines). The CDX spreads are expressed in basis points. The SPX volatility is expressed in percentages. The sample period is from June 2004 to November 2020."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "SPX implied volatilities. The figure compares the Black–Scholes-implied volatilities for SPX options in the data and in the model. Panel A plots the time series of at-the-money SPX implied volatilities in the data (yellow solid line) and in the model (blue dotted line). Panel B presents the average SPX implied volatilities with moneyness of 95, 100, and 105% in the data (yellow bars) and in the model (blue bars). The data frequency is monthly, where the data and model values are sampled at the end of each month. The implied volatilities are expressed in percentages. The sample period is from June 2004 to November 2020."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Volatility risk premium. The figure plots the time series of the difference between the at-the-money SPX implied volatility and the physical SPX volatility, which is a proxy for the volatility risk premium, in the data (yellow solid lines) and in the model (blue dotted lines). Panels A, B, and C show the results for the 1-, 3-, and 6-month option maturities. The sample period is from March 2012 to November 2020."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "CDX implied volatilities. The figure compares the Black-implied volatilities for CDX options in the data and in the model. Panel A plots the time series of at-the-money CDX implied volatilities in the data (yellow solid line) and in the model (blue dotted line). Panel B presents the average CDX implied volatilities with moneyness of 85, 100, and 115% in the data (yellow bars) and in the model (blue bars). The data frequency is monthly, where the data and model values are sampled at the end of each month. The implied volatilities are expressed in percentages. The sample period is from March 2012 to November 2020."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "CDX industry subindices. The figure plots the monthly time series of the 5-year CDX subindex spreads. There are five industry subindices: consumer cyclical (CONS, Panel A); energy (ENRG, Panel B); financials (FIN, Panel C); industrial (INDU, Panel D); telecom, media, and technology (TMT, Panel E). In addition, Panel F calculates the weighted average spread among the five subindices (blue dotted line) and compares it with the CDX spread (yellow solid line). The spreads are expressed in basis points. The sample period is from March 2007 to November 2020."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Firm homogeneity vs. heterogeneity. The figure juxtaposes the average implied volatility skews under heterogeneity (lighter blue bars) and those under homogeneity (darker blue bars), along with the data (yellow bars). Panel A presents the average SPX implied volatilities with moneyness of 95, 100, and 105%, and the sample period is from March 2007 to November 2020. Panel B presents the average CDX implied volatilities with moneyness of 85, 100, and 115%, and the sample period is from March 2012 to November 2020. The data frequency is monthly, where the data and model values are sampled at the end of each month. The implied volatilities are expressed in percentages."
+        ],
+        "correlation": []
+    }
+}

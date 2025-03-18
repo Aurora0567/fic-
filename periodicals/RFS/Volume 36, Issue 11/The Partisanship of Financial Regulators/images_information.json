@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Unique phrase counts We report the counts of unique phrases in the SEC, Fed, and congressional samples, and their intersections. Regions A, B, and C represent the number of unique phrases only spoken in the SEC, the Fed, and Congress, respectively. Region D represents the number of unique phrases that occur in the SEC and Fed, but not Congress. Region E represents the number of unique phrases that occur in the SEC and Congress, but not the Fed. Region F represents the number of unique phrases that occur in the Fed and Congress, but not the SEC. Finally, region G represents the number of unique phrases that occur in all three samples.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dictionary-based partisanship We plot the time series of a dictionary-based measure of partisanship detailed in Equation (2). To calculate it, we define a list of regulatory costs and benefits phrases (detailed in Internet Appendix Table A2) by manually searching the top-100 most-partisan phrases (based on GST’s methodology) in each decade at both regulatory bodies. Then, we calculate the relative use of regulatory benefits phrases versus regulatory costs, or RelativeBenefits, detailed in Equation (1). Finally, dictionary-based partisanship is the absolute value of the difference in RelativeBenefits across parties.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Internal congressional partisanship validation",
+        "correlation": []
+    },
+    "4": {
+        "description": "Congress-based regulator partisanship We plot the average Congress-based regulator partisanship, πt, in the SEC (panel A) and Fed (panel B) as detailed in Section 1.2. In each graph, we plot the average partisanship using actual party affiliations as “real” (the solid line) and random party affiliations as “random” (the dotted line). For the random assignments, we repeat the procedure 100 times and report the average. Each speech’s party is randomly assigned using the probability that a speech is Republican in that given decade. The shaded regions around both lines represent a pointwise confidence interval consistent with Politis, Romano, and Wolf (1999). More specifically, we subsample 20% of the speeches without replacement 100 times, and for each subsample k, we compute the partisanship estimate, ππtk⁠. Similar to GST, let τk be the number of speeches in the kth subsample and τ be the number of speeches in the full sample. Also, define (Qtk)(b) to be the bth order statistic of τππQtk=τk(πtk−1100∑l=1100πtl)⁠. Then, the confidence interval on the partisanship estimate is πτπτ(πt−(Qtk)(90)τ,πt−(Qtk)(11)τ)⁠.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Expected posterior updating We repeat a procedure from GST that allows us to compute the updated expected posterior after multiple phrases. Specifically, we run 1,000 Monte Carlo simulations in which each regulator speech is simulated by randomly choosing with replacement 100 times from the multinomial distribution MN(100, qitj)⁠, where qitj is the frequency phrase j is said during speech i. That is, using the partisan phrase definitions from Congress, we plot the expected posterior of assigning the true party, ππtj⁠, across speeches in the SEC (panel A) and Fed (panel B) after the jth phrase as defined in Section 2.1. The vertical line in each graph represents the GST estimate of the number of preprocessed phrases (33) uttered in one minute of speech.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Robustness We plot the same tests as Figure 4, the average Congress-based regulator partisanship, πt, as detailed in Section 1.2 with varying aggregation levels for the qiP frequencies. Recall that the main results use the speech level frequencies. In panel A (panel B) we report the average partisanship when the qiP frequencies are aggregated to the decade-party (decade-speaker) level. In each graph, we plot the average partisanship using actual party affiliations as “real” (the solid line) and random party affiliations as “random” (the dotted line). For the random assignments, we repeat the procedure 100 times and report the average. Each speech’s party is randomly assigned using the probability that a speech is Republican in that given decade. The shaded regions around both lines represent a pointwise confidence interval consistent with Politis, Romano, and Wolf (1999). More specifically, we subsample 20% of the speeches without replacement 100 times, and for each subsample k,we compute the partisanship estimate, ππtk⁠. Similar to GST, let τk be the number of speeches in the kth subsample and τ be the number of speeches in the full sample. Also, define (Qtk)(b) to be the bth order statistic of τππQtk=τk(πtk−1100∑l=1100πtl)⁠. Then, the confidence interval on the partisanship estimate is πτπτ(πt−(Qtk)(90)τ,πt−(Qtk)(11)τ)⁠.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Partisanship decomposition We plot the components of average partisanship at the SEC (panel A) and Fed (panel B) as detailed in Equation (8) and Section 2.4. We omit the first component in Equation (8), detailed in line (8a) as π0, because it is simply a constant term. We find that the value of π0 is very close to 0.5 in both bodies of text. The remaining three components πρπtρ⁠, ππtq⁠, and πρπtρq are denoted as Congress, SEC/Fed, and Covariance, respectively. The “Congress” line represents the component of partisanship that varies across time due to variation only due to changes in congressional use of terms that are historically partisan among regulators. The “SEC/Fed” line represents the partisanship component that varies only due to changes in regulators’ use of terms that are historically partisan in Congress. Lastly, the “Covariance” line represents the component of partisanship that varies across time due to both bodies of speech.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Dissent activity by year We plot the number of dissenting votes at the SEC (panel A), the percentage of votes at the SEC that are dissents (panel B), the number of dissenting votes by Governors at Fed FOMC meetings (panel C), and the percentage of Governors’ FOMC votes that are dissents (panel D). We report the dissenting activity for all regulators, Democratic regulators, and Republican regulators. We aggregate the dissenting activity by year in the SEC sample and by decade for the FOMC sample.",
+        "correlation": []
+    }
+}

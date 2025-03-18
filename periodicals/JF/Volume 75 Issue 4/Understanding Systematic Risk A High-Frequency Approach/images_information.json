@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": "Number of HF factors. This figure plots the perturbed eigenvalue ratio statistics for the unbalanced panel of all high-frequency (continuous + jump) returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number of HF factors. This figure plots the perturbed eigenvalue ratio statistics for the balanced panel of high-frequency (continuous + jump) returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Portfolio weights of proxy factors. This figure shows the portfolio weights of the proxy factors for the four continuous PCA factors. The first proxy factor is an equally weighted market portfolio. The second proxy factors has 15%, and the third and fourth proxy factors have the 11%, largest portfolios weights of the corresponding statistical factors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Portfolio weights of four continuous PCA factors. This figure depicts the portfolio weights of four continuous PCA factors over the full time horizon from 2004 to 2016. Stocks are sorted according to industries. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Portfolio weights of four monthly PCA factors. This figure shows the portfolio weights of four monthly PCA factors over the full time horizon from 2004 to 2016. Stocks are sorted according to industries. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Time-variation in loadings. This figure plots the generalized correlations of continuous loadings estimated over the full time horizon and on a moving window of one month (21 trading days). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Time-variation in locally estimated continuous factors. This figure plots the generalized correlations of factor portfolio weights for the first seven continuous PCA factors estimated over the full time horizon and on a moving window of one month (21 trading days). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Time-varying portfolio weights of four continuous PCA factors. This figure plots the portfolio weights for the four continuous PCA factors in November 2006 (left) and April 2008 (right). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Time-variation in the percentage of explained variation for different factors. This figure plots the percentage of explained continuous variation calculated on a moving window of one month (21 trading days). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Decomposition of time-variation in factor structure for four continuous PCA factors. This figure plots the time-varying loadings and volatilities estimated on a moving window of one month (21 trading days) based on continuous returns. Left: Systematic impact of factorsΛk(t)⊤Λk(t)Nσk2(t), whereΛk(t)is the continuous loading of factorkin monthtandσk2is the continuous quadratic variation of factorkin montht, average loadingsΛk(t)⊤Λk(t)N, and volatilityσk2(t). Right: The same three quantities but normalized by the time average of the quantity of interest. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Decomposition of time-variation in factor structure for four continuous Fama-French Carhart factors. This figure plots the time-varying loadings and volatilities estimated on a moving window of one month (21 trading days) based on continuous returns. Left: Systematic impact of factorsΛk(t)⊤Λk(t)Nσk2(t), whereΛk(t)is the continuous loading of factorkin monthtandσk2is the continuous quadratic variation of factorkin montht, average loadingsΛk(t)⊤Λk(t)N, and volatilityσk2(t). Right: The same three quantities but normalized by the time average of the quantity of interest. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Expected intraday and overnight returns. This figure plots the expected intraday and overnight excess returns from 2004 to 2016 (T=3,273) for the balanced panel of all stocks (N=332), 14 industry portfolios based on the unbalanced panel and six Fama-French size- and value-sorted portfolios (two size and three book-to-market quantiles). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Normalized cumulative factor returns for intraday, overnight, and daily returns. This figure plots the continuous PCA and Fama-French-Carhart factors normalized by their daily standard deviation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "Asset pricing of industry portfolios. This figure depicts return predictions for 14 industry portfolios (unbalanced) based on four continuous PCA factors and the Fama-French-Carhart factors. Regressions are based on daily, intraday, or overnight data. Panel A shows the predicted and expected returns. Panel B plots the time-series pricing errors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Asset pricing of size- and value-sorted portfolios. This figure depicts return predictions for six Fama-French size- and value-sorted portfolios (two size and three book-to-market quantiles) based on four continuous PCA factors and the Fama-French-Carhart factors. Regressions are based on daily, intraday, or overnight data. Panel A shows the predicted and expected returns. Panel B plots the time-series pricing errors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

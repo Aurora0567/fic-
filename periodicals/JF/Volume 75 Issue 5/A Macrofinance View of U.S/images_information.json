@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "History of U.S. CDS premiums. In this figure, we plot the time series of premiums on five-year contracts. The dark line (black online) represents quotes in EUR from April 2007 to June 2016, and the light line (red online) corresponds to quotes in USD from August 2010 to June 2016. We also highlight major economic and political events during the sample periods. The premiums are expressed in basis points per year. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Liquidity of U.S. CDS. In this figure, we plot the time series of liquidity of the U.S. CDS market. CDS contracts on the Italian government are the most actively traded sovereign contracts. For this reason, our liquidity measure is equal to the ratio of the weekly net notional amount of U.S. CDS to that of Italian CDS. The corresponding USD (in MM) levels have an average (median) of 3,195 (3,293) and min (max) of 1,152 (5,946). We also highlight major economic and political events during the sample period October 2008 to September 2015. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Impulse responses. In this figure, we plot the responses of model variables (bold blue line) to a one-standard-deviation negative innovationεtto the long-run consumption trend over 40 quarters. We display their steady state values (thin red line) as well. Stock variables are expressed in levels. Flow rates are expressed in annualized percent. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cross-correlations with consumption growth. In this figure, we plot annual cross-correlations between model variables and consumption growth atjlags and leads. Standard errors are indicated. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Cross-correlations with government expenditures. In this figure, we plot annual cross-correlations between model variables and government expenditures atjlags and leads. Standard errors are indicated. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

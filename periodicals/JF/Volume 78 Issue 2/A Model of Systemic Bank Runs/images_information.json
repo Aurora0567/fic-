@@ -1,0 +1,70 @@
+{
+    "1": {
+        "description": "The model framework.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timeline of the asset payoff's uncertainty resolution.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Creditor-run payoff structure.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Timeline.",
+        "correlation": []
+    },
+    "5": {
+        "description": "EquationV(s*;μθ,k)=1$V(s^{\\ast };\\protect \\mu _{\\protect \\theta },k)=1$.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Amplification and multiplicity.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Aggregate inefficient fire sales(ηφ$\\protect \\eta \\protect \\varphi$)and aggregate liquidity shortage(Π)as a function of cash holding dispersionΔc$\\Delta _{c}$.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Effect of an increase in aggregate uncertaintyσμθ$\\protect \\sigma _{\\protect \\mu _{\\protect \\theta }}$.",
+        "correlation": []
+    },
+    "9": {
+        "description": "EquationV(s*;Q)=1$V(s^{\\ast };Q)=1$.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Where the liquidated assets with quantityφ$\\protect \\varphi$go.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Comparison of mechanism behind intervention measures in affecting run incentive(s*$s^{\\ast }$).",
+        "correlation": []
+    },
+    "12": {
+        "description": "Optimal combination of intervention measures.",
+        "correlation": []
+    },
+    "13": {
+        "description": "EquationV(s*;c,k)=1$V(s^{\\ast };c,k) =1$.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Comparative statics in Proposition2.",
+        "correlation": []
+    },
+    "15": {
+        "description": "Full creditor-run payoff structure.",
+        "correlation": []
+    },
+    "16": {
+        "description": "Alternative creditor-run payoff structure.",
+        "correlation": []
+    },
+    "17": {
+        "description": "Simplified alternative creditor-run payoff structure.",
+        "correlation": []
+    }
+}

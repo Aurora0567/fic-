@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Expected excess return and yearly markup of capital guarantee products and equity mutual funds. Panel A shows the histogram of the expected excess return offered by the 810 baseline CGPs issued in Sweden over the 2002 to 2007 period (left graph) and the histogram of the gross markup of the banks distributing them (right graph). Both measures are computed by following the asset pricing methodology outlined in SectionII. Panel B shows the histograms of the expected excess return (left graph) and gross markup (right graph) of the 1,376 equity mutual funds under management in Sweden over the 2002 to 2007 period.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Household median risk-taking index in 2002 and 2007. Panel A plots the median risk-taking index in 2002 and in 2007 for (i) CGP participants and (ii) a control group of equal size made of stock market participants matched by the 2002 risk-taking index. Panel B reproduces the graph after restricting the sample to households in the first quartile of the risk-taking index in 2002. Whiskers delimit the confidence band at the 95% level.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Incremental change in risk-taking associated with CGP investing. This figure shows the incremental change in risk-taking index associated with CGP investing between 2002 and 2007 as a function of household willingness to take risk. To construct the figure, we partition the set of 2002 equity market participants into buckets of households sorted by willingness to take risk. Each bucket has a length of 0.05. Using the coefficients reported in column (2) of TableV, for each bucket we compute the difference between the predicted risk-taking index of CGP participants and the predicted risk-taking index of households in the bucket that do not participate in CGPs over the period, which we divide by the average index,, of households in the bucket. The vertical dotted line plots the median 2002 risk-taking index. The shaded area represents the confidence band at the 95% level.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Life-cycle model with loss aversion and narrow framing. This figure displays the average portfolio allocation (Panel A), risk-taking index (Panel B), and consumption (Panel C) in a life-cycle model with equity funds, bonds, and CGPs. The investor has Barberis-Huang utility with baseline parameters,,,, and. The CGP is exposed to credit risk and is worthless at maturity with probability 1%.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Change in risk-taking: Life-cycle model versus data. This figure illustrates the relationship between household willingness to take risk and the change in risk-taking index triggered by the introduction of CGPs. In each panel, the dashed line corresponds to empirical data, while the solid line plots the value implied by the life-cycle model with Barberis and Huang (2009) utility (Panel A) or Prelec (1998) probability weighting (Panel B). Each point is an average over households with a head between 50 and 60. We obtain the solid line by varying the kink parameter λ (Panel A) or the pessimism parameterb(Panel B), while all other model parameters are held constant.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Life-cycle model with probability weighting. This figure displays the average portfolio allocation (Panel A), risk-taking index (Panel B), and consumption (Panel C) in a life-cycle model with equity funds, bonds, and CGPs. The investor has Prelec (1998) utility function with baseline parameters,,,, and.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Welfare implications of capital guarantee products. This figure plots the welfare implications of introducing CGPs under the life-cycle model with Barberis and Huang (2009) utility (Panel A) and Prelec (1998) probability weighting (Panel B). For each specification, we compute the certainty equivalent before and after the introduction of CGPs under decision utility (left subpanel) and experienced utility (right subpanel). The certainty equivalent is the deterministic level of yearly consumption, assumed for simplicity to be constant over the life cycle, that provides the same lifetime utility as the lifetime utility predicted by a model.",
+        "correlation": []
+    }
+}

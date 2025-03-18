@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Local inflation and stock trades This figure shows the average monthly buy-sell imbalance for stocks of clients experiencing different local inflation. We focus on the time period from January 1920 to September 1923. Each month, we sort towns into deciles based on their local inflation. We assign clients to the closest town for which we have inflation data within a 25-km radius based on the place of residence. Internet Appendix A describes all variables used throughout the study in detail. The figure shows point estimates together with 99% confidence intervals.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Nominal prices This figure shows the German consumer price index (CPI), the German stock market index, the dollar/Mark exchange rate, the price of one of the most liquid German government bonds, and German real estate prices in nominal terms between February 1920 and September 1923. All time series are normalized to one as of February 1920.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Local inflation This figure shows the inverse hyperbolic sine of monthly local inflation for towns in which at least one client lives or at least one firm was headquartered between January 1920 and December 1924. Each dot represents the monthly local inflation rate of one town. We assign clients and firms to the closest town for which we have inflation data within a 25-km radius based on the place of residence and the location of headquarters, respectively. Internet Appendix A describes all variables used throughout the study in detail.",
+        "correlation": []
+    }
+}

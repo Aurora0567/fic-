@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "Share of dollar amount invested in each asset class over time. In this figure we plot the dollar amount invested in each asset class over time at the monthly level."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Investors’ country of origin.This figure shows the fraction of investors by self-reported country of origin. We show the top 10 countries and collapse the rest into the “Other” category."
+        ],
+        "correlation": []
+    }
+}

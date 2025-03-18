@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Illustration of the theoretical underpinning. This figure summarizes the main result from Goldstein and Pauzner (2005) on the withdrawal decisions of depositors in equilibrium. Panel A shows that impatient depositors always withdraw to meet their liquidity needs regardless of bank performance, resulting in an outflow of deposits at the level of−λ$-\\lambda $. Patient depositors, contributing portion1−λ$1 - \\lambda $of bank funding, withdraw when they observe a (noisy) signal that indicates the bank's performance is below a threshold ofP∗${P^*}$. Panel B shows that the threshold for withdrawal is higher for banks with a greater degree of liquidity mismatch (r1${r_1}$). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Distribution ofROAfor our sample banks. This figure plots the distribution ofROA(centered on the sample median) for our sample bank-quarter observations. BecauseROAis winsorized at the 1stand 99thpercentiles, the distribution in these tails is omitted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Semiparametric estimates of the flow-performance relation. This figure illustrates the semiparametric estimates of the flow-performance relation using Robinson's (1988) estimator implemented using Gaussian local kernel regressions. Panels B and C plot the estimates for the uninsured deposit flows for banks in the top and bottom terciles ofAsset Illiquidityand%Uninsured, respectively. The plots are based on deposit flows measured as changes in deposit balances scaled by the beginning balance of total assets (see discussion in footnote 13 regarding appropriate scalar for deposit flows). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effect of liquidity mismatch on uninsured deposit flows by deciles ofROA. This figure plots the coefficient estimates onMisMatchfor each decile ofROAfrom estimating equation (4). Panels A and B plot the estimates when the measure ofMismatchisAsset Illiquidityand%Uninsured, respectively. The vertical bars present 90% confidence intervals based on two-way clustered standard errors at the bank and year-quarter level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

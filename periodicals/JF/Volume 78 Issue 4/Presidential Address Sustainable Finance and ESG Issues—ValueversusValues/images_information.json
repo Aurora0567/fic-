@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Valuesversusvaluein investment approaches. This figure illustrates a Venn diagram for the spectrum of investment approaches. Panel A shows the interlap between SRI, ESG, and traditional investing; Panel B shows the typical investor preferences related to the approaches; and Panel C shows the typical expected returns across the approaches. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Increasing interest in ESG according to Google Trends. This figure illustrates the time-series trends for worldwide searches for the Google search topics: “environmental, social and corporate governance,” “corporate social responsibility,” and “socially responsible investing” from January 2013 to January 2023. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Active mutual fund management and portfolio company ESG scores. This figure shows differences over time between active mutual fund ownership in the highest S&P Global ESG score quartile of S&P 500 firms and that in the lowest quartile, where scores are annually updated. Panel A plots results for total ESG scores, Panel B for E scores, Panel C for S scores, Panel D for G scores, and Panel E for ESG scores with DGTW characteristic adjustments. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Geographic differences in ESG fund assets under management (AUM). These figures show the changes in AUM from January 2019 to December 2022 for ESG and non-ESG mutual funds (Panels A and B) and ETFs (Panels C and D) as designated by Morningstar for the United States, Europe, and other regions. Note that these figures are on different scales. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average company environmental, social, and governance scores by country. Panel A shows average environmental scores, Panel B shows average social scores, and Panel C shows average governance scores for companies with available scores from S&P Global ESG scores. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Environmental scores by country. This figure illustrates a color-coded map of environmental scores by country where the environmental scores are from S&P Global ESG scores. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Yale Environmental Performance Index plotted against the S&P Global environmental score. This figure shows the 2022 Yale Environmental Performance Index per country plotted against the average S&P Global environmental scores for companies in the country. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

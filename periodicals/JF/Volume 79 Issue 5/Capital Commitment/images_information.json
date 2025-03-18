@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Timeline of a fund's life.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Model validation. This figure illustrates the output of our calibration procedure, described in SectionIII.A. In Panel A, the blue marks represent the empirical fraction of called capital aftern$n$quarters since capital commitment, forn$n$between 1 and 40. The red curve represents the model-implied fraction of capital calls for the our calibratedλC$\\lambda _C$of 0.344. Panel B displays the empirical cumulative distribution function (cdf) of PMEs in our data sample (blue marks) and the model-implied cdf (red line). We consider the first payment (fee) as capital commitment date. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal allocation and policies in the baseline economy. Panel A represents the value function of the investor during the commitment period (dashed line) and the holding period (plain line) after adjusting for the jump in liquid wealth. Default is represented as a circle, sale on the secondary market as a square. Panel B displays the distribution of the PE allocation during the commitment period (dashed line) and holding period (plain line). Panel C displays the optimal consumption of the investor given their PE allocation. Panel D displays the optimal stock allocation. The vertical dotted line represents the optimal PE commitmentξ∗$\\xi ^*$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Strategic default in the baseline economy. Panel A displays the value function of the investor during the commitment period, for fee levels equal to 1%, 2%, and 3% of the committed amount. The investor strategically defaults when their value function becomes lower than the value function in the Merton problem (no access to PE). Panel B displays the threshold allocation at which the investor strategically defaults during the commitment period, and at capital call, as a function of the fee level. Panel C displays the value function of the investor during the commitment period when fees are capped at thresholds of 0.15%, 0.2%, and 0.4% of liquid wealth. When the fee (2% of the committed capital to PE) exceeds the threshold, it is set equal to the threshold. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Consumption and stock allocation in Economies 0 to 5. This figure represents the optimal consumption rate and stock allocation before capital call (Panels A and C) and after capital call (Panel B) in the different economies. In Economies 2 to 4, the amount of capital invested in PE is chosen at capital call, and therefore, the relation between consumption and PE allocation before capital call is not displayed. After capital call, stock allocations overlap in Economies 0 to 5. Economies are summarized below.Baseline economy 0Model described in SectionIIAll risks onEconomy 1Deterministic call timeCommitment-timing risk offEconomy 2Choose quantity when calledCommitment-quantity risk offEconomy 3Choose quantity when called + deterministic call timeCommitment risk offEconomy 4No commitment delayCommitment risk offEconomy 5Deterministic payout delayDistribution-timing risk off[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Welfare cost of timing risk. This figure represents the welfare cost of commitment-timing risk as a function of the subjective discount factorδ$\\delta$. We only varyδ$\\delta$while keeping the other parameters constant and as given in our standard calibration (TableI). In the standard calibration, we useδ=0.05$\\delta =0.05$(vertical dotted line). The horizontal line is at zero. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Sensitivity of optimal PE allocation to model parameters. This figure shows the optimal PE commitmentξ∗$\\xi ^*$as we vary model parameters. Each panel varies one parameter around the standard calibration value (dotted vertical line), keeping the others fixed at their values in our standard calibration (TableI). The solid line represents PE commitment in the baseline economy (E0). The dashed line is for the economy without commitment-quantity risk (choose quantity on call, E2). The dot-dash red line is for an economy in which PE is fully liquid (the Merton two-risky-asset model). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Sensitivity of return premium and welfare cost of commitment-quantity risk to model parameters. This figure represents the return premium and the welfare cost of commitment-quantity risk, as functions of the risk-return parameters of the model. We only vary one parameter while keeping the other parameters constant. The fixed parameters are those of our standard calibration (TableI). The vertical dotted lines represent the value used in the standard calibration for the parameter that we vary. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Welfare in the baseline economy with cycles. This figure represents the investor's value function in the low-liquidity state during the commitment period (thick dashed line, point A marks the optimal PE commitment) and the holding period (thick plain line, point C marks the optimal PE allocation), and in the high-liquidity state (thin dashed line and thin plain line, points B and D mark the optimal commitment and allocation). Panel A uses the calibrated cycles parameters (TableV). In the other panels, we keep all calibrated parameters except those indicated. In Panel B,μ$\\mu$is set to its value in the economy with no cycles (μ=8%$\\mu =8\\%$in both liquidity states). In Panel C,μ$\\mu$andν$\\nu$are high (low) in the low- (high-) liquidity state:μ=8.6%$\\mu =8.6\\%$andν=15.3%$\\nu = 15.3\\%$(μ=7.7%$\\mu =7.7\\%$andν=13.4%$\\nu =13.4\\%$). In Panel D,μ$\\mu$is high- (low-) in the low- (high-) liquidity state:μ=8.6%$\\mu =8.6\\%$(μ=7.7%$\\mu =7.7\\%$). In Panel E,ν$\\nu$is high- (low-) in the low- (high-) liquidity state:ν=15.3%$\\nu = 15.3\\%$(ν=13.4%$\\nu =13.4\\%$). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "PE allocation and welfare in the two-fund model. Panel A shows the optimal commitment of the investor to the second fund,ξ2∗$\\xi ^{2*}$, as a function of their ongoing allocation to the first fundξ1$\\xi ^1$, if the first fund is (i) in the commitment period (dashed line) and (ii) in the holding period (solid line). The circle indicates strategic default in fund 1. The square indicates fund 1 being sold on the secondary market. The dotted vertical line marks the optimal allocation in the first fund,ξ1∗$\\xi ^{1*}$. Panels B and C display the value function of the investor as a function of the allocation in fund 1. Panel B corresponds to the case in which both funds are in the commitment period and Panel C to the case in which both funds are in the holding period. Thin lines correspond to the case in which the allocation in fund 2 is optimal, in Panel B at inception of the fund, and in Panel C at capital call. Thick lines correspond to the case in which the same fraction of wealth is allocated to both funds. Panel D represents the utility gain when fund 1 calls, if fund 2 is in its commitment period (dashed line) and if it is in its holding period (solid line). The utility gain is defined as the difference in the log value function after adjusting for the jump in liquid wealth at capital call. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "PE allocation in the infinite-fund case. This figure represents the optimal aggregate commitment of the investor,π∗$\\pi ^*$, as a function of the capital that is already invested,ξ$\\xi$, in the infinite-fund model. The diagonal line represents the committed capital as a function of the invested capital in the steady state; see equation (17). The steady state is defined as the state in which the expected change in invested capital is zero, that is,E[dYt∞]=0$E[dY_t^\\infty]=0$, whereYt∞$Y_t^{\\infty }$follows the dynamics given in equation (12). The dotted vertical line marks the optimal investment in the steady state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

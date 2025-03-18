@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Percentage change in total lender profits at alternative interest rates before and after the crackdown."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Effects of targeting borrowers on lender outcomes."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Heterogeneous effects of discounting interventions."
+        ],
+        "correlation": []
+    }
+}

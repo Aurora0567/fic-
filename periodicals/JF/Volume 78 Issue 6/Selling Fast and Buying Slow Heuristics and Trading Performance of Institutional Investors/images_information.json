@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Posttrade returns relative to counterfactual. This figure shows differences between average factor-neutral returns of stocks bought/sold and those of random buy/sell counterfactual strategies for buy and sell trades. The bracket at the top of each bar is the 95% confidence interval of the point estimate at each horizon. Confidence intervals in brackets are computed using double-clustered standard errors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Variation in buying and selling skill by manager characteristics. This figure shows the 95% confidence interval of the point estimate at each horizon. Confidence intervals are computed using double-clustered standard errors. Details on characteristics construction can be found in SectionsIIandVof theInternet Appendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Probability of buying and selling based on past returns. This figure shows daily buying (blue) and selling (red) probabilities for stocks in the portfolio sorted into 20 bins by various past return measures. Panel A sorts on cumulative past benchmark-adjusted returns since the purchase date or one quarter/year, whichever is shortest. Panel B sorts on past benchmark-adjusted returns of a position over one quarter and one year. Panel C sorts on past raw returns of a position over one week and one day. The 10 bins on the left are positions with negative returns and the 10 bins on the right are positions with positive returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

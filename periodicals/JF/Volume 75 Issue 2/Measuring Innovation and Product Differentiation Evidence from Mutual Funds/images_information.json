@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Word cloud of most frequently used words. This figure provides a word cloud that represents the words used most frequently in the Principal Investment Strategies section of the fund prospectus. The size of words in this word cloud represents their frequency of use across all funds in Morningstar. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number of fund starts by year. This figure presents the number of equity mutual funds that were started each year from 1999 to 2015. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Fund start rates by family size (AUM) quintiles. This figure shows average annualized fund start rates for fund families after being sorted into quintiles based on prior-month family size. The fund start rate is the number of fund starts divided by number of funds managed in the prior month. New families (with no funds advised in the prior month) have an undefined start rate and are dropped from the sample. Each quintile has the same number of prior-month mutual funds. Panel A shows start rates for the entire sample period and includes the confidence interval for each quintile using standard errors clustered by fund family. Panel B again shows the start rates for each family size quintile, but separately provides averages for the first half of the sample period (1999 to 2007) and the second half of the sample period (2008 to 2015). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative mutual fund flows in first five years of operations by fund uniqueness. This figure plots cumulative fund flows (in millions of dollars) in the first five years of a fund's operations for all fund starts from 1999 to 2014. Panel A shows the cumulative flows for high-uniqueness funds (above-medianText Uniqueness)in orange and low-uniqueness funds (below-median value ofText Uniqueness) in blue, along with confidence intervals (thin dashed lines of the same colors) using standard errors clustered by year. Panel B shows the difference in cumulative fund flows between high-uniqueness and low-uniqueness funds and confidence intervals (thin dashed lines). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

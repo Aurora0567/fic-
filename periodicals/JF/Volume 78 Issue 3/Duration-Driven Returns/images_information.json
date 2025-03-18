@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "The timing and pricing of the cash flows of the major risk factors. Panel A shows the relative present value of future dividends for firms in the long and short legs of a duration risk factor, which is a combination of the profit, investment, low-risk, and payout factors. All present values are calculated using a nominal discount rate of 10%. Standard error bars (±1 SE) are computed using the delta method and the procedure in Chen (2017, Appendix A), which accounts for serial correlation and cross-correlation across portfolio × maturity using the Driscoll-Kraay estimator with 15 lags. Panel B shows the Capital Asset Pricing Model (CAPM) alpha on single-stock dividend strips for firms in the long and short legs of the risk factor. Panel C shows the CAPM alpha of corporate bonds for firms in the long and short legs of the risk factor. The samples are 1929 to 2019 for Panel A, 2010 to 2019 for Panel B, and 2002 to 2016 for Panel C.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Loadings of expected growth rates on characteristics that predict returns: global evidence. This figure shows the loading of expected growth rates on characteristics that predict returns. In each country, we regress the expected growth rates on the below characteristics in multivariate panel regressions. In almost all cases, the characteristics that predict high also returns predict low expected growth.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative return and CAPM alpha to the duration factor. This figure shows the cumulative excess return and CAPM alpha to the duration factor. The duration factor is constructed as follows. We sort stocks into six portfolios based on ex ante size and duration. The breakpoints are the median market capitalization and the 30thand 70thpercentiles of duration. Portfolio weights are value-weighted and rebalanced monthly and the breakpoints are refreshed each June and based on NYSE firms. The duration factor is long 50 cents in the two short-duration portfolios and short 50 cents in each of the two long-duration portfolios. The alpha is the return to the duration factor minus the product of the duration factor's market beta and the excess return on the market portfolio. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Realized dividend growth rates for long- and short-duration firms. This figure shows the realized dividend growth rates for the long and short legs of our duration factor. We sort stocks into six portfolios based on ex ante size and duration. The breakpoints are the median market capitalization and the 30thand 70thpercentile of duration. Portfolio weights are value-weighted and rebalanced monthly, and the breakpoints are refreshed each June and based on NYSE firms. The figure shows the average cumulative growth rate of the two high-duration portfolios per year after the formation period and the average cumulative real growth rate of the two low-duration portfolios. The results are based on the 1929 to 2019 U.S. sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Risk-adjusted returns to the duration factor around the world. This figure shows thet-statistic for the CAPM alpha to the duration factor in different countries. The duration factor is constructed as follows. We sort stocks into six portfolios based on ex ante size and duration. The breakpoints are the median market capitalization and the 30thand 70thpercentiles of duration. Portfolio weights are value-weighted and rebalanced monthly, and the breakpoints are refreshed each June and based on NYSE firms. The duration factor is long 50 cents in the two short-duration portfolios and short 50 cents in each of the two long-duration portfolios. The alpha is the intercept in a regression of excess returns to the duration factor on the excess return to the market portfolio. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Single-stock dividend futures: two examples. This figure shows the price, open interest, and volume for single-stock dividend futures. The left figure shows the future for the 2020 dividend of AXA. Prices are measured in thousands of Euros on the lefty-axis, and open interest is measured in number of contracts on the righty-axis. Volume, shown in bar charts, is standardized for ease of reading. The figure to the right shows similar statistics for the future on the 2020 dividend of Deutsche Bank. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "A term structure of implied CAPM alphas. This figure shows an implied term structure of CAPM alpha for the first 100 dividend strips. We specify the following functional form for CAPM alphas:α̂m=k0−k1lnm$\\hat{\\alpha }^m=k_0-k_1 \\text{ln} m$, and choose YZ and YG such that the alphas are consistent with the evidence from dividend strips and such that the alpha on the market portfolio is equal to zero. The latter is based on assumptions about the weights on future cash flow for the market; see the text for details. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Consumption and discount rate risk for duration-sorted portfolios. This figure shows covariances between the returns on the duration-sorted portfolios considered in TableIIand two-year-ahead cumulative realized consumption growth and market returns. Panel A shows the covariances between each portfolio's realized alpha in quartert, measured asαti−rti−β̂i×rmktt$\\alpha ^i_t-r^i_t-\\hat{\\beta }^i \\times r^mkt_t$and log real consumption growth (PCE on nondurable goods and services, deflated by the CPI) summedt+ 1 throught+ 8. Panel B shows covariances between each portfolio's raw return in quartertand the same consumption measure. Panel C shows covariances between each portfolio's raw return in quartertand cumulativet+ 1 throught+ 8 market returns. Heteroskedasticity- and autocorrelation-robust standard errors (bars ±1 SE) are calculated using the quadratic spectral kernel with 13 lags, following the lag selection rule in Lazarus et al. (2018, eq. (22)). The samples are 1947 to 2019 for Panels A and B, and 1929 to 2019 for Panel C. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

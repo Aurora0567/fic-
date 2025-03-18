@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Daily aggregate stock price changes in response to Kuttner surprises. The figure plots daily changes in the S&P500 Index against Kuttner surprises on the FOMC announcement dates between January 2004 and December 2008. The line plots OLS fitted values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Daily aggregate stock price changes in response to GSS surprises. Panel A plots daily changes in the S&P500 Index against the target surprises on the FOMC announcement dates between January 2004 and December 2018, and the Panel B plots the same time series against the path surprises. The lines plot OLS-fitted values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Floating rate debt leverage, and bank debt leverage. Floating rate debt is all obligations whose interest rates are variable. Bank debt is the sum of term loans and (drawn) credit lines. They are expressed as fractions of total assets to give Floating Rate Debt Leverage and Bank Debt Leverage, respectively. The line plots OLS-fitted values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Floating rate exposure and bank debt leverage. Bank Debt Leverage is the ratio of bank debts (term loans + drawn credit lines) to total assets. Floating Rate Exposure is constructed by multiplying each floating rate debt item by its maturity and expressing the resulting sum as a fraction of total assets. The line plots OLS-fitted values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Floating rate exposure over deciles of bank debt leverage. The figure plots the simple average of the floating rate exposure in each decile of the bank debt leverage. “1” along the horizontal axis means between the bottom and the 1stdecile, “2” means between the 1stand the 2nddecile, and so on. The simple average of the bank debt leverage within each decile is reported above the corresponding bar. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Partial regression plots with floating-rate exposure and leverage for nonhedgers. The figure presents partial regression plots between stock returns and floating rate exposure (in triangles) and floating rate leverage (in squares) for nonhedgers, as well as the OLS-fitted line for the former. Panel A is for the FOMC announcement on March 28, 2006, which had a path surprise of 18 bps (contractionary). Panel B is for the FOMC announcement on August 8, 2006, which had a path surprise of −3 bps (expansionary). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Contagion and distribution of  Wt+1⁠. This figure illustrates how changes in p affect the distribution of Wt+1 within a simplified version of the baseline model. The left panel depicts an economy with five firms connected along a star network. The right panel depicts estimates of the density function of nWt+1 when p∈{0.1,0.5,0.9}⁠.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Benchmark Gn This figure illustrates the network of the benchmark economy.",
+        "correlation": []
+    }
+}

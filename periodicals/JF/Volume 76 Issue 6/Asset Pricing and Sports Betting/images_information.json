@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Timeline and return horizons. The figure depicts the timeline and return horizons of the sports betting contracts, showing the three betting prices for each contract in the sample.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Theoretical implications of price movements. The figures illustrate the theoretical implications of betting contract price movements from various theories in SectionI. The predictions pertain to regression equation (1), which regresses the close-to-end return on the open-to-close return of a generic betting contract, whereβ1is the regression coefficient. In the first case, the price movement contains some information, where the market can respond efficiently or inefficiently to the news, with the latter resulting in over- or underreaction. The second case illustrates the implications for noninformative price moves due to pure sentiment or noise.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Momentum return patterns. Plotted are the average returns of the momentum strategies in sports betting contracts over the life of the contract—the return from open-to-close and from close-to-end—for Point Spread, Moneyline, and Over/Under contracts in each sport, as well as the combination of all contracts within a sport and across all sports. The returns are calculated by ranking contracts within a contract type and sport based on their momentum characteristic (using the momentum index) and going long the highest quintile of momentum contracts and short the lowest, and calculating their returns from the opening of betting to closing line (open-to-close return) as well as from the closing line to the game outcome (close-to-end return). Average returns are reported for the NBA, NFL, MLB, NHL, and all sports combined.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Return predictability over various horizons. Plotted are the coefficients from return predictability regressions of past returns across various lags ranging from the most recent game to all games over the last three seasons. Specifically, the return from open-to-close and from close-to-end of each betting contract (across Point Spread, Moneyline, and Over/Under) in each sport are regressed on lagged measures of returns to betting on that team from the lastNgames (results are similar if using lagged win percentage or point differential relative to opponent) and the regression coefficients are plotted for open-to-close and close-to-end returns separately for lags ofN=1,2,…8games and one to three past seasons. The plot is for all sports (NBA, NFL, MLB, NHL) combined.",
+        "correlation": []
+    }
+}

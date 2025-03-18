@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Share of homeowners extracting equity by year. This figure shows the share of homeowners extracting housing equity in Denmark by year. Following Bhutta and Keys (2016), we define extraction of housing equity as instances in which a borrower's outstanding mortgage debt increases by more than 5% over a one-year period, with a minimum increase of 5,000 DKK. Since we do not observe the trade line information for each mortgage held, we further require that the borrower does not move over the one-year period to exclude second mortgages and new mortgages. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equity extraction by ETV in 1991. This figure shows a binned scatter of the probability of equity extraction and the share of housing equity extracted over the five-year period from 1992 to 1996 against the equity-to-value ratio (ETV) in 1991. Each dot contains the same number of individuals. The share of housing equity extracted is calculated as the amount of increase in outstanding mortgage debt normalized by the average housing price over the one-year period, and we sum up all of the shares for years between 1992 and 1996. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Effect of last move year on 1991 ETV and wages. Panel A plots the distribution of 1991 ETV (median and 10th, 25th, 75th, and 90thpercentile) against the last moving year before 1991 for the sample of homeowners in 1991. Panel B plots the normalized wage growth for four groups of homeowners in 1991 based on last moving year: before 1975, between 1976 and 1980, between 1981 and 1985, and between 1986 and 1990. The normalized wage is the residual after regressing log annual wage on year fixed effects interacted with fixed effects for birth cohort, municipality, wealth decile, education level, partner indicator, gender, and children indicator, each measured in 1991, with the 1991 wage level normalized to zero for each group. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effects of reform on wages over time. This figure shows dynamic treatment effects of the mortgage reform on earnings of individuals with an ETV higher than 0.2 in 1991 over time, that is, the coefficientsin equation (8). The dependent variable is log wage. Control variables include year fixed effects interacted with fixed effects for birth cohort, wealth decile, education level, partner indicator, gender, and children indicator, each measured in 1991, as well as person fixed effects and municipality-year fixed effects. Standard errors are clustered at the municipality level. Panel B plots the treatment effects for low-liquidity individuals (individuals with liquid assets less than one month's disposable income in 1991) and high-liquidity individuals separately. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

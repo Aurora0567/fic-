@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Payoff and information. The figure illustrates the customer's payoff as a function of the states. If the state is below λ, the customer receives a lossland otherwise he receives returnr. The shaded region represents the set of states for which the customer's private signal is positive, which occurs whensexceedsbλ.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time line.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Equilibrium information policy with scarce advisers. The plot on the left shows the equilibrium information policys★(b)as a function of the customer's typeb, which is represented by the thick black line. The thin straight line indicates the precision of the customer's private signal as a function of his type. The plot on the right shows the equilibrium information policys★(l), which is offered by adviser typel. The dashed line indicates the information policy offered by the lowest type adviserl̲.",
+        "correlation": []
+    }
+}

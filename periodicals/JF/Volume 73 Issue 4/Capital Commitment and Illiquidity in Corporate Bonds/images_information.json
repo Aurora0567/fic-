@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Monthly corporate bond trading costs on customer trades with dealers, 2006–2016. This figure plots estimated trade execution costs paid by customers in customer-to-dealer principal trades for the aggregate market sample described in TableI. Transaction costs are estimated following the regression-based model implemented by Bessembinder, Maxwell, and Venkataraman (2006).",
+        "correlation": []
+    },
+    "2": {
+        "description": "Overnight capital / volume (%) in corporate bonds, 2006–2016. This figure plots the six-month moving average aggregate overnight capital scaled by volume for the Top 70% dealers over the January 2006 to October 2016 period. Daily observations are averaged over each month. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Annual returns for portfolios formed on LTG. In December of each year between 1981 and 2015, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS and display the geometric average one-year return over the subsequent calendar year for equally weighted portfolios with monthly rebalancing. A portfolio that is long LLTG stocks and short HLTG earns an average yearly (log) return of 13.6%, with at-statistic of 2.22.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Evolution of EPS. In December of years (t) 1981, 1984, … 2011, and 2014, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS (LTG). We report the (bootstrapped) mean value of EPS for the highest (HLTG) and lowest (LLTG) LTG deciles for each year betweent– 3 andt+ 3. We exclude firms with negative earnings int– 3 and normalize to 1 the value of EPS int– 3. To do so, we restrict the computation to firms that have positive earnings att−3. The dotted lines indicate 5thand 95thconfidence levels determined via nonparametric bootstrapping using 1,000 samples (the results are robust to changing the size of sample draws).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Evolution of LTG. In December of each yeartbetween 1984 and 2013, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS (LTG) and report the (bootstrapped) mean value of LTG on December of yearst– 3 tot+ 3 for the highest (HLTG) and lowest (LLTG) LTG deciles. We include in the sample stocks with LTG forecasts in yeart– 3. Values fort+ 1,t+ 2, andt+ 3 are based on stocks with IBES coverage for those periods. The dotted lines indicate 5thand 95thconfidence levels determined via bootstrapping.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Realized EPS versus expected growth in long-term earnings. In December of each yeartbetween 1981 and 2013, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS. We plot the (bootstrapped) mean difference between the annual growth rate in EPS in each year betweentandt+ 3 and the forecast for long-term growth in earnings made in yeart. To compute earnings growth, here we restrict the sample to firms with positive earnings att=−1. The dotted lines indicate 5thand 95thconfidence levels determined via bootstrapping.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Twelve-day returns on earnings announcements for LTG portfolios. In December of each yeartbetween 1981 and 2013, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS. Next, for each stock, we compute the three-day market-adjusted return centered on earnings announcements in yearst−3,…,t+3. Next, we compute the annual return that accrues over earnings announcements by compounding all three-day stock returns in each year. We report the equally weighted (bootstrapped) average annual return during earnings announcements for the highest (HLTG) and lowest (LLTG) LTG deciles. Excess returns are defined relative to the equally weighted CRSP market portfolio. The dotted lines indicate 5thand 95thconfidence levels determined via bootstrapping.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Simulation of the estimated model. Using the parameters in TableIII, we simulate 4,000 firms over 140 time periods (quarters), generating time series of fundamentals, earnings, and growth expectations. The required rate of returnRis set so that the average return matches the historical value-weighted market return of 9.7%. Every year (four periods), we sort firms on LTG forecasts. Panel A shows the average return spread one-year postformation across LTG deciles (compounding over the four quarters, then averaging over the portfolio). Finally, we compute the geometric average of portfolio returns over time. Panels B, C, and E show the average EPS, LTG, and returns of the HLTG and LLTG portfolios from yeart−3to yeart+3. Panel D shows the forecast error on HLTG and LLTG portfolios in five years postformation. Panel F shows the distribution of realized earnings growth after five years (annualized) for HLTG and non-HLTG firms, together with the average long-term growth for HLTG firms (dotted vertical line) and the LTG forecast for HLTG firms (solid vertical line, see Figure9).",
+        "correlation": []
+    },
+    "7": {
+        "description": "Kernel density estimates of growth in EPS for LTG portfolios. In December of years (t) 1981, 1986, …, and 2011, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS (LTG). For each stock, we compute the gross annual growth rate of EPS betweentandt+ 5. We exclude stocks with negative earnings in yeartand we estimate the kernel densities for stocks in the highest (HLTG) decile and for all other firms with LTG data. The graph shows the estimated density kernels of growth in EPS for stocks in theHLTG(solid line) and all other firms (dashed line). The vertical lines indicate the means of each distribution (1.11 vs. 1.08, respectively). To compute earnings growth betweentandt+ 5, we restrict the sample to firms having positive EPS on these two dates.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Realized versus expected growth in EPS. In December of years (t) 1981, 1986, …, and 2011, we form decile portfolios based on ranked analysts’ expected growth in long-term EPS (LTG). We plot two series. First, we plot the kernel distribution of the gross annual growth rate in EPS betweentandt+ 5. Second, we plot the kernel distribution of the expected growth in long-term earnings at timet. The graph shows results for stocks in the highest decile of expected growth in long-term earnings at timet. The vertical lines indicate the means of each distribution (1.11 vs. 1.39, respectively).",
+        "correlation": []
+    },
+    "9": {
+        "description": "Evolution of analysts’ beliefs in response to earnings’ announcements. For each analystj, firmi, and fiscal yeart, we compute the difference between the LTG forecasts made 45 days following the announcement of earnings in (1) fiscal yeart(wsjt+45) and (2) fiscal yeart– 1 (wsjt–1+45). We measure forecast errors for earnings based on forecasts 45 days following the announcement for earnings in fiscal yeart– 1 (wsjt–1+45). We rank observations into deciles based on the ratio of the forecasting error for EPS in fiscal yeartto the stock price when the forecast was made (wsjt–1+45). The figure plots the bootstrapped mean LTG change betweenwsjt–1+45 andwsjt+45 for the HLTG and LLTG portfolios. The dotted lines indicate 5thand 95thconfidence levels determined via bootstrapping.",
+        "correlation": []
+    }
+}

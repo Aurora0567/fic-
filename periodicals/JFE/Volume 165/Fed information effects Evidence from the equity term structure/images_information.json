@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Stylized framework timing.This figure shows the timing of the stylized framework from Section 2."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Asset announcement return around monetary policy shocks.This figure plots the scatter plots of asset return in the 30-minute window around the FOMC announcements versus the monetary policy shocks. In Panel A, we plot the short-term asset announcement returns versus either the monetary policy shock (left) or the orthogonalized monetary policy shock (right) from Bauer and Swanson (2023b). In Panel B, we plot the same scatter plots for the long-term asset announcement return. The time period is January 2004 through December 2019 and includes 128 scheduled FOMC announcements."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Returns around the FOMC announcements.This figure plots the cumulative average asset returns around the FOMC announcements. The averages are reported separately for positive and negative monetary policy shocks (MPS) and positive and negative orthogonalized monetary policy shocks (OMPS) from Bauer and Swanson (2023b). In Panel A, we plot the cumulative average returns for the short-term asset and in Panel B, we plot the cumulative average returns for the long-term asset. The time period is January 2004 through December 2019 and includes 128 scheduled FOMC announcements."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Shock bounds with estimation.This figure plots the standard deviation of the information shock, σϵ (vertical axis), and the standard deviation of the policy preference shock, σμ (horizontal axis). The white region indicates σϵ and σμ pairs which generate the empirically documented positive loading of the short-term asset and negative loading of the long-term asset (the red shaded region indicates σϵ and σμ pairs where the short- and the long-term asset loadings on the monetary policy surprise are positive; the blue shaded region indicates σϵ and σμ pairs where the short- and the long-term asset loadings on the monetary policy shock are negative). The blue dot shows the estimated ratio of σϵσμ based on the calibrated parameters fitted to the data for the short-term and long-term asset announcement return and the monetary policy surprises. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Propagation of monetary policy surprise: Easing.This figure plots the model-implied change in expectations across the term structure following a monetary policy surprise of -10 basis points (unexpected easing). Panel A shows the change in expected quarterly economic growth. The x-axis indicates the number of quarters ahead (the monetary policy surprise occurs at quarter 0). The long-term and short-term asset return (in percent) are presented in the table in the top right corner. Panel B shows the change in expected target rate across the term structure. The dashed green “Mu” (blue “Epsilon”) line shows the change in expectations if the investor observes the information and policy preference shocks, μ and ϵ, and the entire monetary policy surprise is driven by the shock μ (ϵ). The black line labeled “Baseline” shows the change in investor expectations following the monetary policy surprise when the investor infers the information and policy preference shocks from the change in the target rate. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

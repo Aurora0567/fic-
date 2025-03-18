@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Fig. A1. Slow Learning. The figure reports the likelihood of rejecting the null hypothesis that the coefficient γ = 0 in a regression of insurer profit on the credit spread, controlling for the interest rate."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. A2. Linearity of Contract Value. The figure plots the value of a 10-year term life insurance contract under the benchmark parameters as a function of the state variables. In Panel A, we vary the interest rate, holding the credit return."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Fig. A3. Lapsation Rate Change vs. County-level Economic Variables. This figure plots the lapsation change between 2006 and 2009 against the county-level economic variables. The top panel plots the lapsation rate change ((ΔLapse06−09)c) against the housing price change ((ΔHousingPrice06−09)c) and the bottom panel plots the lapsation rate change ((ΔLapse06−09)c) against the unemployment change ((ΔUnemp06−09)c). Counties are sorted into 20 equal-size bins based on the economic variable on the X-axis. The blue dots are plotted at the equal-weighted averages for each bin and the orange dots are plotted at the weighted-averaged for each bin. The average in-force amount in 2006 are used as the weights, and the orange marker size indicates the bin-level sum of the weights. The blue lines show the OLS predictions while the orange lines show the WLS predictions."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Lapse Rates vs. Macro Variable (GDP) of the Largest Life Insurers. This figure plots the historical lapse rates against the firm-specific filtered GDP of the 12 largest insurance groups from the S&P Global Market Intelligence Database. For each life insurance company, the company-relevant GDP is calculated as the weighted-average of the state-level GDP, where the weights are based on the gross premium income from each state to reflect the economic exposures to each state. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Lapse Factors and Financial Market Variables. This figure plots the lapsation factors against the financial market variables. The blue line in the upper panel plots the Lapse Trend factor against the 10-year Treasury yield. The red line in the lower panel plots the Lapse Cycle factor against the Baa credit spread over 10-year Treasury yield. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "The Estimated Baseline Hazard Rate. This figure plots the estimated baseline hazard rate from the Cox proportional hazard rate model using the Firm Database. The Cox proportional hazard model specifies that for policy j in the Firm Database issued at time t: λj,t(n)=λ0(n)exp(β′Zj,t+n) where λ0(n) is the baseline hazard rate at policy age n ≥ 1, and the log relative risk is linear in the vector of the policy or policyholder characteristics Zj,t+n."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Lapse Rate Calibration. This figure plots the calibrated lapse rates from the model and compare it to the Data for 2007-2009 and 2009-2013 periods (Society of Actuaries and LIMRA, 2012, Society of Actuaries and LIMRA, 2019). See Section 5.5 for details of the calibration process. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Lapsation Model and Data. The top panel plots the historical paths of two state variables, (r¯t,s¯t), of the asset pricing model. The middle panel compares the actual lapse rate data with the model-implied lapse rates. For the details of model calibration, see Section 5.5. The bottom panel plots the model-implied market price of risk. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "The Impact of Heterogeneous Lapse Cycle Exposures on Premiums and Profits. The top panel reports the log lapse rate when the lapse cycle is equal to zero or to one standard deviation. The middle panel reports premium mispricing, and the bottom panel reports mispricing of insurers' profits. We decompose the total effect from mispricing on profits into the mortality effect and the fixed cost effect. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

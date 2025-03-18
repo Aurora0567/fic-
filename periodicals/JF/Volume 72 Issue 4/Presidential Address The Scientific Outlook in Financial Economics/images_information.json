@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Distribution of reportedt-statistics from factor studies, 1963 to 2012. Evidence from Harvey, Liu, and Zhu (2016).",
+        "correlation": []
+    },
+    "2": {
+        "description": "Percent of research papers reporting support for the tested hypothesis by field. Source: Fanelli (2010).",
+        "correlation": []
+    },
+    "3": {
+        "description": "“Positive” results increase over time in the science literature. Data from Fanelli (2012).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Impact of selection (file drawer effect) onp-values. Panels from Head et al. (2015). The solid lines represent the distribution ofp-values. The dashed lines show the impact of selection.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Impact ofp-hacking onp-values. Panels from Head et al. (2015). The solid lines represent the distribution ofp-values. The dashed lines show the impact ofp-hacking.",
+        "correlation": []
+    },
+    "6": {
+        "description": "The distribution ofp-values in factor studies. Data from Harvey, Liu, and Zhu (2016).",
+        "correlation": []
+    },
+    "7": {
+        "description": "The SD-MBF Illustrated. Figure from Nuzzo (2014).",
+        "correlation": []
+    }
+}

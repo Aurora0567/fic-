@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Heat map of eigenvector centrality This heat map shows eigenvector centrality across U.S. counties that serve as headquarters for publicly listed firms as of June 2016. Darker colors represent higher centrality value deciles. The 10 counties with the highest eigenvector centrality are Los Angeles (CA), Cook (IL), Orange (CA), San Bernardino (CA), San Diego (CA), Riverside (CA), Maricopa (AZ), New York (NY), Clark (NV), and Harris (TX). The 10 counties with the lowest eigenvector centrality are King (TX), McPherson (NE), Wheeler (NB), Slope (ND), Sioux (NE), Blaine (NE), Arthur (NE), Petroleum (MT), Thomas (NE), and Banner (NE).",
+        "correlation": []
+    },
+    "A1": {
+        "description": "Centrality and post-announcement dynamics This figure summarizes the regression coefficients of eigenvector centrality in explaining returns, trading volume, and message activities over the post-announcement windows [2, 3], [2, 4],…, [2, 40]. Panels A through D correspond to regressions in which the dependent variables are cumulative abnormal returns (CAR), average daily volume (LNVOL), and StockTwits new messages (ANM) and replies (ARM) for the corresponding windows. The solid lines represent the coefficients of eigenvector centrality (EC), and the shaded areas represent the region between the 90% confidence intervals.",
+        "correlation": []
+    }
+}

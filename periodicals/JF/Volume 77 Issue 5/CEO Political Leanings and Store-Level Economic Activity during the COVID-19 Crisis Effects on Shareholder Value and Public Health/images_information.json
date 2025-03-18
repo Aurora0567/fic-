@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Percentage change in store visits. Panel A reports the percentage change in establishment visits relative to a year before, averaged at the county level, for the universe of SafeGraph firms for the period March 2 through May 17, 2020. Panel B reports the percentage change in establishment visits relative to a year before, averaged at the county level, for a sample of 97,600 establishments owned by 108 firms for the same period, with available firm-level data and FEC data on CEO political donations. In each panel, the size of each circle indicates the relative population in the county. Hawaii and Alaska are not displayed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Changes in store visits over time. The figure shows the percentage change in establishment visits relative to a year before for a sample of 97,600 establishments owned by 108 firms with available firm-level data and FEC data on CEO political donations for the period January 6 through May 17, 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "CEO leanings weighted by store traffic. The figure reportsCEO_REP_WTAVG, the weighted average ofCEO_REP, which takes the value of 1 if the CEO contributed primarily to Republicans, 0 otherwise, weighted by store traffic at the county level for a sample of 97,600 establishments owned by 108 firms over the period March 2 through May 17, 2020. The size of each circle indicates the relative population in the county. Hawaii and Alaska are not displayed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Total confirmed cases as of 5/17/2020. The figure presents total confirmed COVID-19 cases by county as of 5/17/2020. The size of each circle indicates the relative population in the county. Hawaii and Alaska are not displayed.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Difference-in-differences coefficient time plot for the effect of CEO political leaning on changes in store visits: March 2019 to September 2020. The figure shows the coefficient time plot and the 95% confidence intervals for the interaction ofCEO_REPwith an indicator variable for each week of analysis. The DiD regression models the change in store visits as the dependent variable onCEO_REP, firm controls, industry-county fixed effects, a vector of indicator variables for each week of analysis, and an interaction of each week indicator variable andCEO_REP(equation (2)). The sample period is March 2019 through September 2020 for a sample of 97,600 establishments owned by 108 firms with available firm-level data and FEC data on CEO political donations. The orange line displays the average weekly interacted coefficient pre-COVID (0.0002), and the light blue line shows the average weekly interacted coefficient post-COVID (0.0514). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "2016 Presidential election results in Duval County, Florida. The figure presents the county-level (Panel A) and precinct-level (Panel B) election results in the 2016 Presidential elections for Duval County, Florida. Shades of red indicate Trump share of the vote, and shades of blue indicate Clinton share of the vote. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

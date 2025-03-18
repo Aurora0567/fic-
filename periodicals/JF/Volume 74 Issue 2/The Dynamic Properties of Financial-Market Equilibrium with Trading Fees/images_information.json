@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Securities demand curves. The figure shows the traders' demands for the stock, the aggregate demand for the stock, and the traders' demands for the bond, plotted against the posted price of the stock (on thex-axis). The figure is drawn conditional on a high realized endowment shock for Trader 1, for a small, positive, but finite value of η and for trading fees of 0.5% and 3.0%. Note that, in Panel D, the scale of thex-axis is magnified to better show the intersection point. The no-trade regions of the two traders are indicated by double-headed arrows. The figure is based on the numerical illustration described in SectionI.C. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "A sample path. Panels A and B depict a sample path of (i) the stock holdings in a zero-trading-fee economy, (ii) the stock holdings with a 3% trading fee, and (iii) the boundaries of the no-trade zone. Panels C and D plot the holdings of the bond. Panel E shows the behavior of the stock price, and Panel F displays the bid and ask prices of both traders, computed as the percentage difference from the posted price. In all panels, periods during which Trader 1 receives a high endowment share are highlighted in shaded gray, and transaction dates are indicated by a red circle. The figure is based on the numerical illustration described in SectionI.C. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Transition probabilities of the shadow price ratioR1/(R1+R2). The figure shows the probability of a value of the shadow price ratio at timet+1conditional on a value of it at timet, with the probability at both times being integrated over the remaining state variables. The figure is based on the numerical illustration described in SectionI.Cand is drawn for the case in which Trader 1 is currently in his high endowment state. The trading fee is set to 3%. Thus, a ratio of 1.03 means that Trader 1 buys, while a ratio of 0.97 means that he sells. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Optimal consumption behavior and welfare. Panels A to C plot the conditional consumption growth volatility, the conditional consumption growth correlation, and welfare (in terms of an equivalent permanent drop in output for the no-fee case) for different levels of trading fees. The figure is based on the numerical illustration described in SectionI.Cand averages are computed across 500,000 simulation paths. All curves are bracketed by dotted lines that depict the two-sigma confidence intervals for the estimate of the mean. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Asset prices. The solid lines in Panels A and B show, respectively, the mean bond and stock prices for different trading fee levels. In Panel B, the dashed curve shows the effect on the stock price of the expected discount factors and the perpetually expected future dividends, while the dotted curve (with a separate axis scale on the right-hand side) shows the effects on their future covariances (perpetual risk premium). The figure is based on the numerical illustration described in SectionI.Cand averages are computed across 500,000 simulation paths. The curves are not bracketed by dotted lines showing confidence intervals because these are so tight as to make all curves appear to be solid curves. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Trading strategies. Panels A and B depict the (dollar) change in the first trader's stock holdings as well as bond holdings (the value of the bond purchased or sold minus the redemption value of the bond having matured), conditional on the realized endowment share for Trader 1 and normalized by aggregate output, for different trading fee levels. The figure is based on the numerical illustration described in SectionI.C, and averages are computed across 500,000 simulation paths. The curves are not bracketed by dotted lines showing confidence intervals because these are so tight as to make all curves appear to be solid curves. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Rates of return. Panels A to E show the risk-free rate, the conditional expected stock return, the conditional equity premium, the conditional volatility, and the conditional Sharpe ratio, respectively, for different trading fees. The figure is based on the numerical illustration described in SectionI.C, and averages are computed across 500,000 paths. All curves are bracketed by dotted lines that depict the two-sigma confidence intervals for the estimate of the mean. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "CCAPM deviations. Panels A and B show the unconditional deviations from the classic CCAPM and the two components of the deviation—the expected liquidity change and the liquidity risk premium—for different trading fees. Panel C shows the decomposition of the unconditional variance (across paths) of the deviations from the conditional CCAPM. The figure is based on the numerical illustration described in SectionI.Cand 500,000 simulation paths. The curves are not bracketed by dotted lines showing confidence intervals because these are so tight as to make all curves appear to be solid curves. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Two- versus three-trader economy. Panels A to D show the trading volume for the stock, welfare changes, the probability of a trade in the stock market occurring, and an individual trader's waiting time between stock trades for two- versus three-trader economies and different trading fees. Welfare is expressed in terms of an equivalent permanent reduction in output for the corresponding no-fee economy. The figure is based on the numerical illustrations described in AppendixA, and averages are computed across 500,000 simulation paths. The curves are not bracketed by dotted lines showing confidence intervals because these are so tight as to make all curves appear to be solid. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Impulse-response functions. The figure shows the difference in the price of the stock between two sets of paths, normalized by the stock price in the frictionless economy. The first set of paths is selected conditional on a positive endowment shock for Trader 1 at the impulse time, and the second set is selected conditional on a positive endowment shock for Trader 2 at the impulse time. Panel A depicts the impulse response for the case of ongoing future shocks, that is, it comparesexpected paths conditionalon the shock at time-0. Panel B depicts the impulse response in the absence of future shocks. The figure is based on the numerical illustrations described at the beginning of SectionV.C. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Dynamics of consumption share. The figure illustrates the existence of a time window starting aroundt=250within which the probability distribution of the consumption share is unchanged. Panel A shows the standard deviation (across paths) of the first trader's consumption share over time. Panel B shows the simulated density of the consumption share for two dates. The figure is based on the numerical illustration described in SectionI.Cand 500,000 simulation paths. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

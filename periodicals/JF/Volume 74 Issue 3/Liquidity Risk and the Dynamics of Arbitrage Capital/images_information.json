@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Arbitrageur dynamic risk aversionA(wt)and positionsytas a function of arbitrageur wealthwt. The plots in the left column showA(wt). The plots in the middle column showyntfor assetn, expressed as a fraction of the positionunthat hedgers want to hedge. All of these plots concern the case in which hedgers are long-lived. The plots in the right column express positions relative to the case in which hedgers are short-lived. All plots assume two symmetric and uncorrelated risky assets, and set the annualized standard deviation of hedgers' endowmentu⊤Σuto 15%, arbitrageurs' subjective discount rate ρ to 4%, and the riskless raterto 2%. In the baseline case, represented by the blue solid line in all plots, hedgers' risk-aversion coefficient α is set to 2 and arbitrageurs' relative risk-aversion coefficient γ to 0.5. (By normalizing hedgers' wealth to one via a choice of numeraire, we can interpret α as their coefficient of relative risk aversion andu⊤Σuas the annualized standard deviation of their endowment as a fraction of their wealth.) Under these choices, the parameterszandKare 2.25 and 0.59, respectively. The plots in the top row examine the effect of raising α to 4, and the plots in the bottom row examine the effect of raising γ to 2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Assets' Sharpe ratios, expected excess returns, volatilities, and correlations as a function of arbitrageur wealthwt. The plots assume two symmetric and uncorrelated risky assets, and setu⊤Σu=15%,α=2,ρ=4%, andr=2%. In the baseline case, represented by the blue solid line, γ is set to 0.5. The plots examine the effect of raising γ to 2. The baseline case is identical to that in Figure1, which also examines the effect of raising γ to 2 (on dynamic risk aversion and positions). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

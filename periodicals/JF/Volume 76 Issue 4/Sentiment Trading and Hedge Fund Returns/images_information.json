@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Spread in risk-adjusted return (i.e., alpha) between top and bottom sentiment beta hedge funds. Each month starting in December 1996, we form 10 decile portfolios based on hedge fund sentiment beta estimated over the past 36 months and track their returns over the next month. Panel A plots the time series of the spread in monthly risk-adjusted returns between the two extreme decile portfolios of top versus bottom sentiment beta hedge funds. Panel B plots the cumulative spread in risk-adjusted returns between the two extreme decile portfolios. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

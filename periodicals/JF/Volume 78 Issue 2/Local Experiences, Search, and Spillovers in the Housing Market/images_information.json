@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Search breadth, attention allocation, and local price growth. This figure displays binned scatter plots showing the relationship between users' monthly search behavior (y-axis) and two-year price growth in their postcode of residence (x-axis). They-axis displays the number of listings browsed (top left panel), the number of postcodes (top right panel), the number of market segments (bottom left panel), or the average number of seconds spent browsing each listing (bottom right panel). See SectionIfor a detailed description of how these different measures are constructed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Spatial distribution of users. This figure displays the spatial distribution of the users in our sample. Each dot denotes the centroid of a postcode in which at least one user has her residence. The names of the state capital cities are also highlighted on the map: Adelaide (South Australia), Brisbane (Queensland), Canberra (Australian Capital Territory), Darwin (Northern Territories), Hobart (Tasmania), Melbourne (Victoria), Perth (Western Australia), and Sydney (New South Wales). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of postcode-level price growth. This figure displays histograms of the pooled distribution of two-year postcode-level price growth. The top left plot displays raw growth rates. The remaining three plots display growth rates demeaned by monthly averages (top right plot), area averages (bottom left plot), and month by area averages (bottom right plot). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Search breadth and market outcomes: Postcode-level results from the model. This figure displays the relation between the change in search breadth and the changes in prices (left column) and inventories (right column) at the postcode level. Dots in Panels A and B represent postcodes in the metropolitan areas of Melbourne and Sydney, respectively. For each metro area, we first calibrate the model of Piazzesi, Schneider, and Stroebel (2020) to the data, and then simulate an average metro area-level expansion in search breadth of 5% (see SectionVof theInternet Appendixfor details). Search breadth at the level of postcodepis measured as the average number of postcodes included in the search ranges of the buyers who may visitpin their search. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

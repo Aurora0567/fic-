@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Aggregate U.S. household debt-to-income ratio, Chinese net imports to the United States, U.S. manufacturing employment, and U.S. weekly wages. This figure presents the time series of the U.S. aggregate household debt-to-income ratio from 1991 to 2011 (Panel A) obtained from the Enhanced Financial Accounts maintained by the Federal Reserve Board, real Chinese imports to the U.S. over the same period (Panel B), total employment for the U.S. private sector and manufacturing sector both normalized to one in 1990 (Panel C), and weekly wages for the U.S. private sector and manufacturing sectors only both normalized to one in 1990 (Panel D). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Labor market outcomes and household debt across high and low exposure areas. This figure presents the log change in unemployed workers (Panel A), the log change in income (Panel B), cumulative debt growth (Panel C), and debt-to-income (Panel D) for commuting zones (CZs) in the top (low-exposure) and bottom (high-exposure) quintiles of shipping costs (SC) measured in 1998. Information from the County Business Patterns data sets on the structure of employment across six-digit NAICS industries by CZ is used to compute SC at the CZ level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "U.S. aggregate house prices. The figure shows the national Case-Shiller index deflated by the GDP price index, normalized to one in 1990. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Change in Chinese import penetration. This figure presents the contribution of high-, medium-, and low-shipping-cost (SC) industries to U.S. import penetration (Panel A) and net import penetration (Panel B) from China. The contribution to import penetration is defined as imports divided by total U.S. expenditures, themselves measured as domestic shipments plus net imports. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average shipping costs by commuting zones. This figure presents the distribution of shipping costs (SC, %) across commuting zones (CZs) measured in 1998. Information from the County Business Patterns data sets on the structure of employment across six-digit NAICS industries by CZ is used to compute SCs at the CZ level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Household debt across high- and low-exposure areas interacted with house price appreciation. This figure presents the cumulative debt growth for commuting zones (CZs) in the top (low-exposure) and bottom (high-exposure) quintiles of shipping costs (SC) measured in 1998. Information from the County Business Patterns data sets on the structure of employment across six-digit NAICS industries by CZ is used to compute SC at the CZ level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Heterogeneous treatment effects. This figure presents the point estimates and confidence intervals of cross-sectional regressions of the change in the debt-to-income ratio from 1999Q4 to 2007Q4 on shipping costs, our proxy for import competition, at the individual level. The specifications are similar to column (10) of TableVIand are run separately across deciles of (a) individual age, (b) individual credit score (b), (c) zip code income, and (d) zip code share of the population with at least college education. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Realized and expected duration of unemployment spells. This figure presents realized and expected duration of unemployment spells. We draw from the Health and Retirement Study (HRS), a longitudinal survey conducted every two years. Individuals are asked about their current job status (employed, unemployed, retired) and their expectations of future labor outcome. In particular, they are asked: “Suppose you were to lose your job this month. What do you think are the chances that you could find an equally good job in the same line of work within the next few months?” Red bars present the average perceived probability to find a job after becoming unemployed, computed across participants in the HRS waves of 2000, 2002, and 2004. Blue bars present the probability of an individual employed in 2000 (according to HRS) but not in year 2002 finding a job in year 2004. High SC (Low SC) denote commuting zones that lie in the top tercile (bottom tercile) of the distribution of shipping costs (SC). Information from the County Business Patterns data sets on the structure of employment across six-digit NAICS industries by CZ is used to compute SC at the CZ level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

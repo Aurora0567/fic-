@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": [
+            "Understanding the robo advisor's asset allocation."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "How the robo wealth distribution changes after expanding access."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Change in representativeness of robo wealth distribution."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Event study. The effects of the reduction in account minimum on the middle class."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Event study. Bunching behavior by the middle class."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Advertising spending by the robo advisor."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Participants across robo advisors. Assessing business stealing."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Model mechanics. Policy rules under the previous minimum of $5,000."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Rationalizing the data with a benchmark model of asset allocation."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Understanding why middle-age investors gain more."
+        ],
+        "correlation": []
+    }
+}

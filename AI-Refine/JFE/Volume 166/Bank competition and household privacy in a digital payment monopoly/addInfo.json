@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Breaking Data's Grip: New Solution to Stop Payment Giants from Exploiting Consumers and Lenders\"",
+    "AIsummary": "This academic paper studies the field of digital payments and lending, specifically focusing on the problem of data monopolization by private payment providers. The issue arises when a monopolist collects data on households' habits to help them signal their creditworthiness to lenders, but uses this position to exploit both households and lenders. Previous solutions have not addressed this issue effectively.The authors propose a new approach to solve this problem by introducing socially optimal data regulation that aims to shield households from being exploited. The challenge is to balance the benefits of data collection during economic downturns with the privacy losses of households during upturns. The authors suggest that regulation should trade off these two competing interests.The paper proposes a framework for analyzing the impact of digital payment systems on credit markets and presents a model that captures the complex interactions between households, lenders, and the monopolist payment provider. The authors use this model to derive the socially optimal level of data collection and show how it can be implemented through regulation. Overall, the paper provides a new perspective on the issue of data monopolization in digital payments and lending, and proposes a practical solution to address this problem.",
+    "AIkeys": [
+        "Data Monopolization",
+        "Digital Payment Systems",
+        "Credit Market Regulation",
+        "Household Exploitation",
+        "Lender Manipulation",
+        "Socially Optimal Data Collection",
+        "Payment Provider Regulation",
+        "Economic Downturns and Uptrends"
+    ],
+    "AItitle-cn": "“打破数据控制：阻止支付巨头剥削消费者和贷款人的新解决方案”",
+    "AIsummary-cn": "本文研究了数字支付和贷款领域，特别关注私人支付提供商的数据垄断问题。当垄断者收集家庭习惯数据以帮助他们向贷款人发出信誉信号，但利用这一地位剥削家庭和贷款人时，问题就出现了。以前的解决方案并没有有效地解决这个问题。作者提出了一种新的方法来解决这个问题，即引入社会最优的数据监管，旨在保护家庭免受剥削。挑战在于平衡经济衰退期间数据收集的好处与经济好转期间家庭隐私的损失。作者建议，监管应该权衡这两种相互竞争的利益。本文提出了一个分析数字支付系统对信贷市场影响的框架，并提出了一种捕捉家庭、贷款人和垄断支付提供商之间复杂互动的模型。作者使用该模型推导出了数据收集的社会最优水平，并展示了如何通过监管来实现。总体而言，本文为数字支付和贷款中的数据垄断问题提供了新的视角，并提出了解决这一问题的切实可行的解决方案。",
+    "Highlights": "学术要点 1：数据收集侵入性（Intrusive Data Collection） 数据收集侵入性是指数字支付系统对用户数据的收集程度，其会影响信用市场的供给与需求。|||\n学术要点 2：部分市场崩溃（Partial Market Unraveling） 部分市场崩溃描述了高质量借款人的信息披露如何促使更多的家庭使用数字支付工具，从而影响整个信用市场。|||\n学术要点 3：数据监管困境（Data Regulation Dilemma） 数据监管困境指的是在经济周期中的不同时期，数据收集对信用供给的影响可能是正面的，也可能是负面的，政府需要权衡监管的利弊。|||\n学术要点 4：信贷市场异质性（Credit Market Heterogeneity） 信贷市场异质性描述了不同类型借款人的存在以及他们如何受到数字支付系统数据收集程度的影响。|||\n学术要点 5：状态依赖信用供给（State-Dependent Credit Supply） 状态依赖信用供给是指在经济周期中的不同时期，信贷市场供给会根据经济状态发生变化，从而影响政府监管策略。",
+    "AIfig": "图中展示了数字支付工具对家庭现金使用、信用获得和福利的影响，以及科技垄断企业如何操纵信息不对称来获取更有利的数据合同。"
+}

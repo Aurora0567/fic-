@@ -1,0 +1,8 @@
+{
+    "1": {
+        "description": [
+            "Monthly time series of realized volatility of the betting-against-beta factor. This figure depicts the monthly time-series of realized volatility, defined in Eq. (6), of the betting-against-beta factor. The sample period is July 1968 to December 2016."
+        ],
+        "correlation": []
+    }
+}

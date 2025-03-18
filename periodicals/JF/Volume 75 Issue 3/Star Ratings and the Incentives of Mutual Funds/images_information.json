@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Timing of the game.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The fund's reputation,μ∗, as a function of investor prior belief, ρ.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The fund's information acquisition strategy, σ, as a function of investor prior belief, ρ.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Multiple SREs. The panels plot the existence of multiple SREs and how the set of SREs changes with the information acquisition cost,c. The other parameters areδ=0.9,λ=0.2, andφ=1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average reputation. The panels plot the average reputation across equilibria with two stars, for different information acquisition costsc. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "An example of the fund's candidate equilibrium reputation set.",
+        "correlation": []
+    },
+    "7": {
+        "description": "The information premium functionWI(ρ)−WU(ρ). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "An equilibrium with three groups. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "An equilibrium with three groups. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

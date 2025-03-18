@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "The binomial tree under theR$\\mathbb {R}$measure. This figure shows a two-year binomial tree structure for the stock price and the expected call price under theR$\\mathbb {R}$measure. TheR$\\mathbb {R}$measure follows a physicalP$\\mathbb {P}$distribution until beforeH=1$H=1$years, and a risk-neutralQ$\\mathbb {Q}$distribution beginning at timeH=1$H=1$years. The following parameters are used:St=100$S_t=100$,K=100$K=100$,μ=0.1$\\mu =0.1$,r=0.03$r=0.03$,σ=0.15$\\sigma =0.15$, andΔt=1$\\Delta t =1$. The up and down node values of the future stock price evolution are computed using the binomial-tree method given by Cox, Ross, and Rubinstein (1979). The up and downR$\\mathbb {R}$probabilities are the same as the corresponding up and downP$\\mathbb {P}$probabilities at time 0 equal to 0.812 and 0.188, respectively, and the up and downR$\\mathbb {R}$probabilities are the same as the corresponding up and downQ$\\mathbb {Q}$probabilities at time 1 equal to 0.564 and 0.436, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

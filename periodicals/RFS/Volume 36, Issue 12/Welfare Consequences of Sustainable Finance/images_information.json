@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Aggregate mitigation spending x⁠, investment i⁠, consumption c⁠, and welfare measure b as functions of the scaled decarbonization capital stock n in state G⁠. Table 1 reports the parameter values.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Aggregate mitigation spending x⁠, investment i⁠, consumption c⁠, and welfare measure b in state G for both the planner’s and mandated market economies with x¯=0.35%⁠. Table 1 reports all other parameter values.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Firm-level mitigation spending mandate m(n;G) and the required rate of return wedge rU(n;G)−rS(n;G) for the αα=0.1,0.2,0.3 cases in the market economy with welfare-maximizing mandates and the aggregate mitigation constraint: xt≤x¯=0.35%⁠. Table 1 reports all other parameter values.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Capital pledge for sustainable investment αα(n;G) and the required rate of return wedge rU(n;G)−rS(n;G) for the m=0.01,0.02,0.03 cases in the market economy with welfare-maximizing mandates and the aggregate mitigation constraint: xt≤x¯=0.35%⁠. Table 1 reports the parameter values.",
+        "correlation": []
+    },
+    "5": {
+        "description": "The transition path of nt in the market economy with optimal mandates conditional on being in state G⁠. Table 1 reports the parameters.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Aggregate mitigation spending (xt), investment (it), consumption (ct) and welfare measure (bt) dynamics conditional on being in state G⁠. The parameter values are reported in Table 1.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Mitigation spending mandate (mt) and the required rate of return wedge rtU−rtS dynamics conditional on being in state G⁠. Table 1 reports the parameters.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Transition dynamics of tipping-point arrival rate (ζt), weather disaster arrival rate (λt), and the expected growth rate (gt) conditional on being in state G⁠. Table 1 reports the parameters.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Transition dynamics of the equilibrium interest rate (⁠rtf⁠), stock market risk premium (rpt), and average Tobin’s q for the aggregate capital stock (qt) conditional on being in state G⁠. Table 1 reports the parameter values.",
+        "correlation": []
+    }
+}

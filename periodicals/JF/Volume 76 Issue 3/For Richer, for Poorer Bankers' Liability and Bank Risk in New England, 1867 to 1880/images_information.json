@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Leverage and relative wealth. This figure plots results from a nonparametric local mean smoothing using kernel weighted means. Vertical lines indicate 5thto 95thpercentile confidence intervals (based on standard errors clustered at the bank level). Before plotting, thexandyvariables are residualized with the fixed effects and control variables of TableV, column (2). “Wf” and “Wm” are the wife's and husband's 1850 familial assets. “Wf/(Wm+Wf)” captures how wealthy the wife was at marriage relative to the husband. For presentational purposes, we exclude the 33 unmarried bankers in the sample. “Protected”: married after an MWPA.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Ex post performance. This figure plots the coefficientβ, and its 5thto 95thpercentile confidence interval, from the regressionYi,t−1873=βPi+Γ′Xi+τl+εi,wheret∈[1874,1880], andYi,t−1873isEarnings/Capitali,t−1873(banki′saccumulated profits and losses between 1873 andt, divided by the banks capital in 1873),Log(Depositsi,t)−Log(Depositsi,1873), orLog(Loansi,t)−Log(Loansi,1873).Piis a dummy that takes the value of 1 if the president of the bank in 1873 was married before the passage of married women's property law.τlare county fixed effects.Xiincludes a dummy for Boston and dummies for different town sizes (<6,000, 6,000 to 50,000,>50,000).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Ex post performance and relative wealth. This figure plots results from a nonparametric local mean smoothing using kernel weighted means. Vertical lines indicate 5thto 95thpercentile confidence intervals. Before plotting, thexandyvariables are residualized with the fixed effects and control variables of TableIX, column (2). “Wf” and “Wm” are the wife's and husband's 1850 familial assets. “Wf/(Wm+Wf)” captures how wealthy the wife was at marriage relative to the husband. “Protected”: married after an MWPA. For presentational purposes, we exclude the 33 unmarried bankers in the sample.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Log change in deposits, 1873 to 1878 (quantile regressions). This figure plots results from quantile regressions. Specifically, the figure plots the coefficientβ, and its 5thto 95thpercentile confidence interval, from the regressionLog(Depositsi,1878)−Log(Depositsi,1873)=βPi+Γ′Xi+τl+εi,wherePiis a dummy that takes the value of 1 if the president of the bank in 1873 was married before the passage of married women's property law.τlare county fixed effects.Xiincludes a dummy for Boston and dummies for different town sizes (<6,000, 6,000 to 50,000,>50,000). We estimateβfor different quantiles with intervals of 0.1. For reference, we also include the OLS coefficient and corresponding confidence interval.",
+        "correlation": []
+    }
+}

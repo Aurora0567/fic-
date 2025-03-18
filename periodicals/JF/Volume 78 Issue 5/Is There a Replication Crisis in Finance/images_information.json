@@ -1,0 +1,58 @@
+{
+    "1": {
+        "description": "Replication rates versus the literature. This figure summarizes analyses throughout the paper. Refer to SectionIIIfor estimation details. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Out-of-sample performance of marginally significant factors. The figure shows the cumulative CAPM alpha of an average of factors significant under our empirical Bayes framework, but not with the Benjamini-Yekutieli adjustment suggested by Harvey, Liu, and Zhu (2016). The significance cutoffs are reestimated each year with the available data. Factors are eligible for inclusion after the sample period in the original paper, so all returns are out-of-sample. The table shows the IR (alpha divided by residual volatility) for the full sample (1990 to 2020) and the post–Harvey, Liu, and Zhu (2016) sample (2013 to 2020) witht-statistics in parentheses. The vertical dotted line is at December 2012. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Simulation comparison of false discovery rates. The upper panels show the realized FDR computed as the proportion of discovered factors for which the true alpha is negative, averaged over 10,000 simulations. The lower panels show the true discovery rate computed as the number of discoveries for which the true alpha is positive divided by the total number of factors for which the true alpha is positive. The left and right panels use low and high values of idiosyncratic variation in alphas (τw$\\tau _w$), respectively. Thex-axis varies cluster alpha dispersion,τc$\\tau _c$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Alpha distributions for U.S. factors. The figure shows point estimates and confidence intervals for U.S. factors. The upper left panel depicts OLS estimates. The upper right panel uses the OLS point estimate but adjusts the confidence interval following the BY procedure. The lower left panel shows our EB posterior confidence intervals using only U.S. data. The lower right panel continues to show EB results for U.S. factors, but estimates the U.S. factor posterior from global data rather than U.S.-only data. Solid blue (dashed red) confidence intervals correspond to factors that were significant in the original study and that we find to be significant (insignificant) based on the method in each panel. Dotted green intervals correspond to factors that the original study find to be insignificant or that the original study does not evaluate in terms of average return significance. The order of factors is the same in all panels and is arranged from lowest OLS alpha to highest. TableIA.IIIlists the factor names arranged in the same order. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "U.S. replication rates by size group and theme cluster. Panel A summarizes replication rates for U.S. factors formed from subsamples defined by stocks' market capitalization using our EB method. Panel B shows replication rates for U.S. factors in each theme cluster. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Replication rates in global data. We summarize replication rates for factors in three regions (U.S., developed ex.-U.S., and emerging) and for the world as a whole. A factor in a given region is the capitalization-weighted average factor for countries in that region. We report OLS replication rates with no adjustment and with MT adjustment of BY. We also report replication rates based on the EB posterior. We consider two EB methods. In both methods, the replication rate corresponds only to factors within the region of interest, but the posterior is computed by conditioning either on data from that region alone (“Empirical Bayes – Region”) or on the full global sample (“Empirical Bayes – All”). We deem a factor successfully replicated if its 95% confidence interval excludes zero for a given method. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "U.S. factor alphas versus world ex.-U.S. The figure compares OLS alphas for U.S. factors versus their international counterpart. Each world ex.-U.S. factor is a capitalization-weighted average of the factor in all other countries of our sample. Blue circles correspond to factors that were significant in the original study, while red triangles are those for which the original paper did not find a significant effect (or did not study the factor in terms of average return significance). The dotted line is the 45o$^{\\text{o}}$line. The figure also shows a regression of world ex.-U.S. alpha on U.S. alpha. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "In-sample versus out-of-sample alphas for U.S. factors. The figure shows OLS alphas for U.S. factors during the in-sample period (i.e., the period studied in the original publication) versus out-of-sample alphas. In Panel A, out-of-sample is the period before the in-sample period. In Panel B, out-of-sample is the period after the in-sample period. In Panel C, out-of-sample includes both the period before and the period after the in-sample period. We require at least five years of out-of-sample data for a factor to be included, amounting to 102, 115, and 119 factors in Panel A, B, and C. The figure also shows feasible GLS estimates of out-of-sample alphas on in-sample alphas. To implement feasible GLS, we assume that the error variance-covariance matrix is proportional to the full-sample CAPM residual variance-covariance matrix,Σ̂/T$\\hat{\\Sigma }/T$, described in AppendixB. The dotted line is the 45o$^{\\text{o}}$line. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "World factor alpha posterior distribution over time. The top panel depicts the CAPM alpha and 95% posterior confidence interval for an equal-weighted portfolio of world factors based on EB posteriors reestimated in December each year. That is, each blue circle isE(1N∑iαi|data until timet)$E(\\frac{1}{N}\\sum _i\\alpha ^i |\\text{ data until time }t)$and the vertical lines are ±2 times the posterior volatility. Red triangles show average OLS alpha at each point in time,1N∑iα̂t0i,ti$\\frac{1}{N}\\sum _i\\hat{\\alpha }^i_{t_0^i ,t}$, estimated using data through datet. The bottom panel reports the average monthly alpha for all factors in a rolling five-year window. The results are based on factors found to be significant in the original paper with data available since 1955. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Replication rate with prior estimated in light of unobserved factors. The figure shows how the replication rate in the United States varies when changing theτc$\\tau _{c}$parameter. Theτw$\\tau _{w}$parameter is fixed at the estimate value of 0.21%. The dotted line shows our replication rate of 82.4%. The green square highlights the value estimated in the dataτc=0.35%$\\tau _c=0.35\\%$. The red triangle and the blue circle highlight values that are found by estimating the EB model according to assumptions about unobserved factors from Harvey, Liu, and Zhu (2016). The values areτc=0.28%$\\tau _c=0.28\\%$in the baseline scenario andτc=0.20%$\\tau _c=0.20\\%$in the conservative scenario. A description of this approach can be found in SectionIVof theInternet Appendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "World alpha posterior by factor and cluster. The figure reports the EB posterior 95% confidence interval for the true alpha of a world factor create as a capitalization-weighted average of all country-specific factors in our data set. We only include factors that the original paper finds significant. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Alphas by stock size group and geographic region. The figure presents average cluster-level alphas for factors formed from subsamples defined by different stock market capitalization groups (Panel A) and regions (Panel B). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Tangency portfolio weights. The returns are from U.S. portfolios. We compute the cluster return as the equal-weighted return of all factors with data available at a given point in time. We further add the U.S. market return. We estimate the tangency weights following the method of Britten-Jones (1999) with a nonnegativity constraint. The error bars are 90% confidence intervals based on 10,000 bootstrap samples and the percentile method. The data start in 1952 to ensure that all clusters have nonmissing observations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "The evolution of the tangency Sharpe ratio. The top panel shows the Sharpe ratio on the ex post tangency portfolio. A factor is included in the tangency portfolio only after the end of the sample in which the factor was studied in the original publication (we only include factors that were found to be significant in the original paper). We highlight selected factors that significantly improve the optimal portfolio, starting with the market portfolio. We use the longest available balanced U.S. sample, 1972 to 2020 (i.e., when all factors are available).",
+        "correlation": []
+    }
+}

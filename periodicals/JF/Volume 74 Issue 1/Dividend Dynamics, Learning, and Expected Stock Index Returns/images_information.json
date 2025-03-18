@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Impulse response functions of dividend shocks. This figure plots the immediate change to real annual dividend growth rates and expected real dividend growth rates over the next 10 years as a result of a unit change in shocks to the dividend process, that is,εd,t,εx,t,εq,t, andεπ,t. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Evolution of dividend model parameter estimates over time. This figure plots estimates of the eight parameters in our dividend model, assuming that these parameters are estimated based on data up to time τ for τ between 1975 and 2016. The shaded regions are recessions. A year is in recession if any of its months corresponds to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Expected long-run dividend growth rates. This figure plots long-run dividend growth expectations, computed using our dividend model, for the period between 1975 and 2016. Dividends are estimated based on nonoverlapping annual data since 1946. Assuming full information, parameters are estimated once based on the full data sample. Assuming learning, parameters are estimated at each point in time based on the data available at the time. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Stock yields. This figure plots stock yieldssyt, computed using our dividend model, and log price-to-dividend ratios (scaled) for the period between 1975 and 2016. Dividends are estimated based on nonoverlapping annual data since 1946. Assuming full information, parameters are estimated once based on the full data sample. Assuming learning, parameters are estimated at each point in time based on the data available at the time. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Evolution of long-run risks model parameter and coefficient estimates over time. This figure plots estimates of the parameters in our long-run risks model, aside from those in the dividend process, and coefficientsA·that relate price-to-dividend ratios, the latent variablext, the retention ratio, and the inflation rate to expected returns, assuming that these parameters are estimated based on data up to time τ for τ between 1975 and 2016. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Evolution of long-run risks model state variables, expected excess stock index returns, and risk-free rate over time. This figure plots estimates of the state variables for our long-run risks model, as well as expected excess returns and the risk-free rate from our model, assuming full information, learning about dividends, or learning about all parameters in our long-run risks model (i.e., full learning), between 1975 and 2016. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Cumulative sum of squared errors difference. Panel A plots the cumulative sum of squared errors difference (SSED) of our long-run risks model, assuming learning about dividends, in predicting stock index returns. Panel B plots the SSED of our long-run risks model, assuming learning about all parameters in our long-run risks model (i.e., full learning). Dividends are estimated based on nonoverlapping annual data since 1946. Statistics are based on nonoverlapping annual data between 1975 and 2016. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Incremental gain in cumulative sum of squared errors difference from learning. Panel A plots the incremental gain in the cumulative sum of squared errors difference (SSED) of our long-run risks model, assuming learning about dividends versus full information. Panel B plots the incremental gain in SSED of our long-run risks model, assuming learning about all parameters in our long-run risks model (i.e., full learning), versus full information. Dividends are estimated based on nonoverlapping annual data since 1946. Statistics are based on nonoverlapping annual data between 1976 and 2015. The shaded regions are recessions. A year is in recession if any of its months correspond to NBER recession dates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Autocorrelation function and partial autocorrelation function of inflation rate. This figure plots the autocorrelation function (Panel A) and the partial autocorrelation function (Panel B) of inflation rates, up to 10 years lag. Correlations are estimated based on data between 1946 and 2016. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

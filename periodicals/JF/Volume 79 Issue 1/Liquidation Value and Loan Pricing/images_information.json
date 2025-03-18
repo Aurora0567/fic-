@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Collateral types in repo borrowing. This figure shows the average volume share (by type of collateral) for the bilateral repo trades of the euro-area banks in our sample between October 3, 2016 and April 16, 2020. The collateral categories are government bonds, bank bonds, nonbank financial bonds, and nonfinancial bonds. Volume shares are calculated by averaging quarterly bank-level volume shares for each collateral category over the year. Own calculations based on Money Market Statistical Reporting (MMSR) data.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Domestic versus nondomestic collateral. This figure shows the share of repo volume traded that is backed by domestic or nondomestic government bonds, as a percentage of the total volume traded that is backed by government bonds. Volume shares are calculated by averaging quarterly, bank-level volume shares for each category (domestic and foreign) over the year. The sample covers all bilateral repo trades backed by sovereign collateral of the EU banks in our sample between October 3, 2016 and April 16, 2020. Own calculations based on MMSR data.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of the unconstrained ratio. This figure shows the distribution ofUnconstrained ratio. The ratio is defined as the volume of nondomestic sovereign debt in a bank's securities portfolio divided by the total repo borrowing of the bank that is backed by sovereign collateral. The red bar indicates the observations for which the unconstrained measure belongs to the [0,1) interval. The data come from the ECB Securities Holdings Statistics Group (SHSG). The sample period is 2018Q4 to 2020Q2.",
+        "correlation": []
+    }
+}

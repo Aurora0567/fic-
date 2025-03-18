@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Equilibrium characterization of the no-trade benchmark. The figure plots functionG(b)$G(b)$, which is the cdf of shareholders' biases at the voting stage in the no-trade benchmark. Thex-axis shows the location of the median voter.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium characterization of the no-vote benchmark. The two panels illustrate the two possible equilibria in the no-vote benchmark, when the proposal is approved based on an exogenous cutoffq*$q^{\\ast }$. Each panel plots functionG(b)$G(b)$, which is the cdf function of shareholders' biases pre-trade. Thex-axis in each panel shows the location of the marginal shareholder (ba$b_{a}$andbc$b_{c}$, respectively). If the proposal is likely to be approved (q*$q^{\\ast }$is small), the equilibrium is activist and is presented on the left. If the proposal is likely to be rejected (q*$ q^{\\ast }$is large), the equilibrium is conservative and is presented on the right.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Equilibrium characterization of the model with trading and voting. The two panels illustrate the two possible equilibria in the model with trading and voting. In the activist (conservative) equilibrium, depicted on the left (right), the post-trade shareholder base has mass1−δ$1-\\delta$and consists of shareholders with bias larger (smaller) than that of the marginal shareholderba$b_{a}$(bc$b_{c}$). Each panel also plots the median voter (−qa$ -q_{a}$in the activist equilibrium and−qc$-q_{c}$in the conservative equilibrium), who is more extreme than the marginal shareholder.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Opposing effects on shareholder welfare and prices in the activist equilibrium. The figure plots the share pricepa$p_{a}$and shareholder welfareWa$W_{a}$as functions of the median voter (−q*$-q^{\\ast }$) in the activist equilibrium. It shows that price (shareholder welfare) is maximized when the median voter coincides with the marginal shareholderba$b_{a}$(the average post-trade shareholderβa$\\beta _{a}$). The figure considers the case in which the equilibrium median voter (−qa$-q_{a}$) is located betweenba$b_{a}$andβa$\\beta _{a}$. The arrows illustrate that if a change in parameters makes the median voter less activist (−qa$-q_{a}$moves to the left) without changing the marginal and average shareholdersba$b_{a}$andβa$\\beta _{a}$, then the share price increases whereas shareholder welfare decreases.",
+        "correlation": []
+    }
+}

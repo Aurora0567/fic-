@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Measures of aggregate bank portfolio overlap (Panel A) and bank portfolio diversification (Panel B). Series are normalized to one in 1995. The shaded area marks the Great Recession according to the NBER timing. The measures are constructed using syndicated loan portfolios from DealScan following Cai et al. (2018).Variable construction: For each lenderiin quartert, the loan share originated over the previous year to nonfinancial firms operating in a particular one- or two-digit SIC industry, or in a particular statejisωijt$\\omega _{ijt}$. A distance between lendersiandkisdi↔k,t=12∑j(ωijt−ωkjt)2$d_{i\\leftrightarrow k,t}=\\frac{1}{\\sqrt {2}}\\sqrt {\\sum _{j}(\\omega _{ijt}-\\omega _{kjt})^{2}}$. Contribution of lenderito the aggregate portfolio overlap isPOit=1−1Nt−1∑kdi↔k,t$PO_{it}=1-\\frac{1}{N_{t}-1}\\sum _{k}d_{i\\leftrightarrow k,t}$, whereNt$N_{t}$is the number of lenders in the sample. Aggregate portfolio overlap isPOt=∑iζitPOit$PO_{t}=\\sum _{i}\\zeta _{it}PO_{it}$, whereζit$\\zeta _{it}$is the ratio of loans originated by lenderiover the previous year to the total loan amount originated by all banks over the same period. Diversification for each lender isDivit=1−∑jωijt2$Div_{it}=1-\\sum _{j}\\omega _{ijt}^{2}$and in aggregate isDivt=∑iζitDivit$Div_{t}=\\sum _{i}\\zeta _{it}Div_{it}$.Internet AppendixSectionI.Eprovides further details on variable construction.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Economy's structure and intraperiod timing. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Comparative statics with respect to the total amount of assetsAand the aggregate productivityzin the calibrated model. The calibration is described in SectionIII. Solid blue lines are obtained underlogz=0.0255$\\log z=0.0255$(0.80 standard deviations above average). Red dashed lines are obtained underlogz=−0.0255$\\log z=-0.0255$(0.80 standard deviations below average). Vertical gray lines mark asset amounts at which the constraintμ≤μ¯$\\mu \\le \\bar{\\mu }$becomes slack. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equilibrium asset accumulation policy functionsA′(A,z,x)$A^{\\prime }(A,z,x)$. Policies are obtained from solving the calibrated model. The solution method is discussed inInternet AppendixSectionIX. The calibration is described in SectionIII. Shock values:logzav=0$\\log z_{av}=0$;logzboom=0.0537$\\log z_{boom}=0.0537$(1.69 standard deviations above average);xig=0$x_{ig}=0$for five projects and 0.0339 for two projects (1.36 standard deviations above average);xib=0.0339$x_{ib}=0.0339$for seven projects.A*(zav,xb)$A^{\\ast }(z_{av},x_{b})$is the systemic-crisis threshold defined in Corollary2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average paths of the economy around systemic and nonsystemic crises. Crises events happen att=0$t=0$. The model is simulated for 500,000 periods. Series in Panels A, C, D are in percentage deviations of respective variables from their long-run averages. Series in Panel B are in standard deviations from the long-run mean. Series in Panels E and F are in percentages. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Behavior of credit (Panel A), output (Panel B), and the output-to-credit ratio (Panel C) around systemic financial crises in the data and in the model. All series are HP-filtered with a smoothing parameter of 6.25 and are expressed in percentage deviations from their HP-trends. Shaded areas show two-standard-deviation bands. Systemic crises are defined as in Romer and Romer (2017). Credit and output data come from Jorda, Schularick, and Taylor (2016). Model series are based on 500,000 simulations. Credit in the model is defined as the amount of assets invested in the risky technology,A1−μ¯1−μ$A\\frac{1-\\bar{\\mu }}{1-\\mu }$. Crises happen att=0$t=0$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Measures of aggregate bank portfolio overlap (Panel A), bank portfolio diversification (Panel B), and correlation across bank profitabilities (Panel C) in the model and in the data. The shaded area marks the Great Recession according to the NBER timing. For Panels A and B, the measures are constructed using syndicated loan portfolios from DealScan. Loan portfolios are constructed at the industry (one- and two-digit SIC) and state levels. In the model, portfolio overlap is1−(α−(1−α)/(N−1))$1-(\\alpha -(1-\\alpha )/(N-1))$and portfolio diversification is1−α2−(1−α)2/(N−1)$1-\\alpha ^{2}-(1-\\alpha )^{2}/(N-1)$. For Panel C, the measure is the asset-weighted average correlation of bank-specific returns on equity with the aggregate return on equity. Correlations are computed using a 12-quarter rolling window. The data come from the FR Y-9C reports. In the model, profitability cross-correlation is an average pairwise correlation ofαxi+1−αN−1∑j≠ixj$\\alpha x_{i}+\\frac{1-\\alpha }{N-1}\\sum _{j\\protect \\ne i}x_{j}$across investing banks (computed numerically). For all panels, model series are average paths of corresponding variables around systemic financial crises. They are based on 500,000 simulations. Series in Panels A and B are normalized to one at the beginning of the sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Average paths of the benchmark (DE) and the constrained efficient (SB) economies around systemic crises (t= 0). The models are simulated for 500,000 periods. Series in Panels A and C are in percentage deviations of the respective variables from their long-run averages. Series in Panel B are in standard deviations from the long-run mean. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "An average path of the optimal tax rateτ(A,z,x)$\\tau (A,z,x)$around systemic crises (t=0). The horizontal line marks the long-run average of the tax rate. The model is simulated for 500,000 periods. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

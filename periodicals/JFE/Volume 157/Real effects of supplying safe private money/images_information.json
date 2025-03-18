@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Minimum Monetary transaction frictions between towns. Notes: Fig. 1 provides a visual example of the different cases for calculating the minimum monetary transaction frictions between towns. When both towns each have a national bank (NB = 1), then μ=1 (Case 1). When only one town is in the network (B: NB = 1) while the other is not (A: NB = 0) as in Case 2, there are two possibilities. If there is a third town (C: NB = 1) near town A with a national bank such that the distance between A and C (AC¯) is less than the distance between A and B, then A can access the network via C and the transaction frictions are based on the distance between A and C. Otherwise, the monetary distance is AB¯. Finally, in Case 3, both towns are not in the network and so there are two possibilities again: the first is that each town is close to a national bank and can therefore each access the network independently; the second is that one of the towns uses the currency of the other by traveling there."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Geographical distribution of national banks and monetary market access. Notes: Fig. 2(a) plots the density of the national banking network at the county level using the Annual Report of the Comptroller of the Currency published in 1875. Fig. 2(b) plots our calculated measure of MMA from Eq. (1). Darker shading reflects higher levels of MMA split into seven equally sized bins. Oklahoma was an unincorporated territory that did not have the legal status to allow for national banks and so we do not include it in our data, but distances are calculated allowing for travel through Oklahoma. Fig. 2(c) maps the change in national bank presence from 1875 to 1885. Fig. 2(d) maps the change in MMA between 1875 and 1885 where we calculate MMA in each decade holding the transportation network fixed to its 1870 appearance. Bilateral physical transport costs in 1870 are from Donaldson and Hornbeck (2016). The data for the locations of national banks each year are from the Annual Reports of the Comptroller of the Currency ."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Covariate balance. Notes: Fig. 3 plots the coefficients and 95% (in dark bands) and 99% (in light bands) confidence intervals of individually estimated and normalized regressions of: ɛXi,s=βI(Pop1880<6k)+ηs+ɛi,s where Xi is a location-level characteristic and ηs are state fixed effects. All variables are normalized to have mean zero and standard deviation of one. Population is measured at the town level and all other outcomes are at the county level. The conditional regressions include state fixed effects and the population change from 1870 to 1880 as well. Railroads are from Atack (2016) and measured in 1876. State and other non-national bank financial institutions are obtained from the Banker’s Almanac and Register of 1876. Monetary market access is calculated in 1875 using the physical transport network in 1870, and transport market access (tMA) is calculated in 1870. Manufacturing and agricultural measures are from their respective censuses of 1870. Standard errors are clustered by county."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Persistent positive effect on patenting and manufacturing activity. Notes: Fig. 4(a) plots the cumulative growth of patent number (normalized to equal 1 in 1880) relative to the base years (1860–1865) for each group of locations: those with above median changes in their monetary market access (dark squares) and those with below median changes (light crosses). Fig. 4(b) shows the annual diff-in-diff coefficients for the estimated effect of standardized values of ΔMMA−O on cumulative patent growth each year. Fig. 4(c) shows the decadal diff-in-diff coefficients for manufacturing output per capita. We control for location fixed effects, state-by-year fixed effects, and the full vector of control variables interacted with year fixed effects. Regressions are weighted by the share of town population within a county measured in 1880, and standard errors are two-way clustered at the county and year (decade) level. 1880 is the omitted year (decade), and the vertical bars represent the 95% confidence intervals."
+        ],
+        "correlation": []
+    }
+}

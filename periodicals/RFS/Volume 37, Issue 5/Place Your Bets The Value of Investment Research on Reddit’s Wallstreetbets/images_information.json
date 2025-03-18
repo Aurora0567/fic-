@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Growth in Reddit’s Wallstreetbets This figure plots the total number of users on Wallstreetbets (WSB) from July 2018 through June 2021. This data can be found at https://subredditstats.com/r/wallstreetbets.",
+        "correlation": []
+    },
+    "2": {
+        "description": "WSB reports and future returns by week This figure reports the estimates from Table 3 for return horizons ranging from 1-week (ie, x = 5) through 12 weeks (ie, x = 60). We report the coefficient estimates and 95% confidence intervals on Net DD Net DD × Post for each horizon. The dashed red line represents the 21-day holding period studied in Specifications 2 and 4 of Table 3. Panels A and B report the results for the full sample and the sample that excludes GME and AMC, respectively.",
+        "correlation": []
+    },
+    "3": {
+        "description": "WSB reports and future returns: Results by calendar quarter This figure reports the estimates from Specifications 2 and 4 of Table 3 over the following intervals: the-pre 2020 sample, quarters 1 and 2 of 2020, and each of the remaining quarters in 2020 and 2021. We include the small number of pre-GME DD reports in January of 2021 in the Q4 2020 estimates. The blue bars represent the estimates for the full sample of stocks (ie, Specification 2 of Table 3), and the orange bars represent the estimates for the sample that excludes GME and AMC (ie, Specification 4 of Table 3).",
+        "correlation": []
+    },
+    "4": {
+        "description": "The frequency of price pressure and high attention reports by calendar quarter This figure reports the frequency of price pressure and high-attention reports over the following intervals: the-pre 2020 sample, quarters 1 and 2 of 2020, and each of the remaining quarters in 2020 and 2021. We include the small number of pre-GME DD reports in January of 2021 in the Q4 2020 estimates. The blue bars represent the estimates for the full sample of stocks, and the orange bars represent the estimates for the sample that excludes GME and AMC. We classify a report as a price pressure report if the number of price pressure words exceed the number of fundamental words (see  Appendix C for the list of price pressure and fundamental words). We classify as a report as High attention if it meets one of the following conditions: (1) the absolute return on the day prior to the DD report was in the top decile (High absolute return) or (2) the firm had more than one nonresearch post issued on WSB over the previous 5 trading days (High WSB posts).",
+        "correlation": []
+    },
+    "5": {
+        "description": "WSB reports and future returns by week: Price pressure and attention reports This figure plots the estimates from Table 9 for horizons ranging from 1-week (ie, x = 5) through 12 weeks (ie, x = 60). Panel A reports the coefficient estimates and 95% confidence intervals for estimates of the informativeness of price pressure reports in the pre-GME period (ie, Net DD + Net DD PP in Table 9), and the change in informativeness in the post-GME period (ie, Net DD × Post + Net DD PP × Post). Panels B and C report analogous results for attention-based reports and PP or Attention reports, respectively. All results are based on the sample that excludes GME and AMC. The dashed red line corresponds to the 21-day holding period studied in Table 9.",
+        "correlation": []
+    },
+    "6": {
+        "description": "DD reports and small investor order imbalances: Extreme quantiles This figure reports estimates from Specification 6 of Table 11 after replacing Small retail SD abnormal imbalance with indicators equal to one if the imbalance is greater than the 90th, 95th, or 99th percentile or less than the 10th, 5th, or 1st percentile. We convert the estimates into a percentage effect by scaling the percentage point increase by the mean of the dependent variable. The figure plots the percentage estimates on Net DD and Net DD + Net DD × Post-GME. Standard errors are clustered by firm and month, and the error bars represent 95% confidence intervals.",
+        "correlation": []
+    }
+}

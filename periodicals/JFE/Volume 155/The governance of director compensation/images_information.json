@@ -1,0 +1,8 @@
+{
+    "1": {
+        "description": [
+            "Parallel trend.The sample period is from 2008 to 2015. We exclude firms from financial industries (SIC 6000–6999) and firms with missing or changing states of incorporation. All variables are defined in Appendix A. We estimate a specification that is analogous to Eq. (2), except that we replace the Post indicator with separate indicators for each of the three years preceding and following the court ruling: Year(t=−3), Year(t=−2), Year (t=−1), Year (t = 0), Year (t = 1) and Year (t = 3). We use Year (t=−4) as the base year. This figure displays the coefficient estimates for each year and their 95 % confidence intervals."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Manufacturing imports from China to the United States and to other high-income countries. Panel A plots total manufacturing imports (in 2007 billion USD) from China to the United States (blue line) and to a group of eight other high-income countries (red line: Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland). Panel B plots China's import penetration in the United States (blue line) and in a group of eight other high-income countries (red line; Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland) by broad manufacturing industry. For each broad industry, import penetration is measured as imports (in 2007 k$) from China in the industry divided by industry employment in 1990. Panel C plots the 1991 to 2007 change in China's import penetration in the United States on they-axis against China's import penetration in a group of eight other high-income countries (Australia, Denmark, Finland, Germany, Japan, New Zealand, Spain, and Switzerland) on thex-axis. Each dot represents a four-digit manufacturing industry. For each industry, change in import penetration is measured as the change in imports (in 2007 k$) from China in the industry from 1991 to 2007 divided by industry employment in 1990.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number and average value of state R&D tax credits in the United States. Blue bars represent the number of U.S. states with R&D tax credits (left scale). Red dots plot the average effective R&D tax credit rate across the 50 states (right scale).",
+        "correlation": []
+    }
+}

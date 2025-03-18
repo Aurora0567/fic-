@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Default probability functions. The figure shows the default probability as a function of IPO prices in both treatments.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Fundamental values. The figure shows the equilibrium fundamental values in both treatments (solid lines). It also shows the price that yields the highest expected joint earnings for the subjects (dotted line).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Timeline of the experiment. The four rounds are identical. For each participant the earnings of one of the rounds are randomly selected for payment. Period 0 is the IPO period; period 10 is the final period of a round, in which no more trading takes place.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Input fields of the computer interface to submit a demand function.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Equilibrium fundamental values. The figure shows the equilibrium fundamental values in both treatments (circles) as determined in numerical simulations. The equilibrium fundamental value in treatmentDEC(Experiment I) is indicated by a solid line.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Equilibrium default probabilities. The figure plots the equilibrium default probabilities in all periods in both treatments as determined in numerical simulations. The equilibrium default probability of treatmentDEC(Experiment I) is indicated by a solid line.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Examples of market prices in Experiment I. Market prices are indicated with red circles. Red crosses indicate means of the highest bid and lowest offer price when no trade is realized. The solid black line shows the equilibrium fundamental value and the dashed black line shows the price that maximizes expected joint earnings. The actual fundamental value within a round (which depends on the IPO price) is represented by the dotted blue line. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "IPO prices in all rounds in Experiment I (top) and Experiment II (bottom). Each cross represents the IPO price of one group in one round. The prices of each group across rounds are connected by a dotted line. The dashed horizontal line is the equilibrium fundamental value in the IPO. The solid red line depicts the average of the eight IPO prices per round (see TableI). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

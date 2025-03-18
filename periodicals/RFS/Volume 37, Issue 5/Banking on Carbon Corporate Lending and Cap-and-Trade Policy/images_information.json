@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Emissions by county This figure shows the 2012 GHG emissions by county based on the EPA data on high GHG-emitting firm facilities. Only GHG emissions from firms in the Y14 data are included. Darker-shaded counties represent higher emissions.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Identification strategy for the California cap-and-trade bill analysis Panel A illustrates the identification strategy that assigns firm treatment by exploiting the share of GHG emissions in California for the analysis of California’s cap-and-trade bill. In this example, we consider treated firms as those having at least 50% of their GHG emissions in California. In our empirical analyses, we also use a continuous measure of the share of GHG emissions in California. Panel B shows the relevant pre/post timeline for the analysis.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Identification strategy for the Waxman-Markey bill analysis Panel A illustrates the identification strategy that assigns firm treatment by exploiting the free permit threshold based on energy intensity for the analysis of the Waxman-Markey cap-and-trade bill. Firms below the 5% energy intensity threshold do not receive free permits and are treated. We also conduct analyses allowing for differential effects by energy intensity across the treated firms. Panel B shows the relevant pre/post timeline for the analysis.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Firm emissions inefficiency This figure shows the median firm CO2e emissions (in kg) divided by revenues, assets, or debt (in $) in 2012 by sector, for private and public firms separately.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Lenders’ exposure to high GHG-emitting firms This figure shows the distribution in 2008 of the lenders’ credit commitment to high GHG-emitting firms as a share of total credit commitment, LenderHighEmissionExposurel, defined in Equation (8). Panels A and B include all lenders that lend to firms within the baseline and wide bandwidths of the Waxman-Markey analysis, respectively. This variable is used in Equation (9), the estimates of which are presented in Table 9.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Placebo tests for the Waxman-Markey cap-and-trade bill This figure shows the difference between treated and control firms in the Waxman-Markey analysis for a range of pre and post years based on the coefficient estimates from corresponding regressions using both the baseline and wide bandwidth samples. Panels A and B cover maturity (in months) and panels C and D cover the term loans share of total committed credit (0 to 1). They show coefficients for treated firms in the high energy intensity bucket for regressions on private firms as given in Equation (6). Panels E and F cover cash flow covenants (0 or 1) and show coefficients for treated firms based on regressions as given in Equation (4). The regressions are separately estimated for samples of 2 consecutive years: (2004, 2005), (2005, 2006), (2006, 2007), (2007, 2008), (2008, 2009), (2009, 2010), (2010, 2011), and (2011, 2012). The year shown on the x-axis is the “post” year in a specific test. The Waxman-Markey bill passed the U.S. House of Representatives in 2009 (red), but ultimately failed in the U.S. Senate in 2010 (gray). The cash flow covenant variable is not available prior to 2006. The bands show the 90% confidence interval.",
+        "correlation": []
+    }
+}

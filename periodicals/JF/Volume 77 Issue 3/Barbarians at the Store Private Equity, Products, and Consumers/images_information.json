@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Private equity deals over time. This figure shows the monthly number of PE deals in our sample from January 2007 to December 2015. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time trend of total sales and average price. This figure plots the coefficient estimates for regressions following equation (2), in which the dependent variables are total sales in Panels A and C and average price in Panels B and D. The unit of analysis is a firm-month-cohort in Panels A and B and a firm-category-month-cohort in Panels C and D. The coefficient estimate at timet$t$represents the difference in the outcome variables between target firms/firm-categories and matched control firms/firm categoriest$t$months away from the PE deal closing date. The estimation period runs from −24 months to +60 months around the date of the closing of the PE deal. The closing date is indicated by the vertical line. Dotted lines show the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Time Trend of Product Innovation. This figure plots the coefficient estimates for regressions following equation (2), in which the dependent variables are number of products in Panels A and B and the number of product categories for Panel C. The unit of analysis is a firm-month-cohort in Panels A and C, and a firm-category-month-cohort for Panel B. The coefficient estimate at timet$t$represents the difference in the outcome variables between PE firms/firm-categories and matched non-PE firms/firm-categoriest$t$months away from the PE deal closing date. The estimation period runs from −24 to +60 months around the closing date of the PEdeal. The closing date is indicated by the vertical line. Dotted lines show the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Time trend of geographic availability. This figure plots the coefficient estimates for regressions following equation (2), in which the dependent variables are number of stores in Panels A and B, the number of retail chains in Panels C and D, and the number of three-digit ZIPs in Panels E and F. The unit of analysis is a firm-month-cohort in Panels A, C, and E, and a firm-category-month-cohort in Panels B, D, and F. The coefficient estimate at timet$t$represents the difference in the outcome variables between PE firms/firm-categories and matched non-PE firms/firm-categoriest$t$months away from the PE deal closing date. The estimation period runs from −24 to +60 months around the date of the closing of the PE deal. The closing date is indicated by the vertical line. Dotted lines show the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Trend in Competitor Response. This figure plots the coefficient estimates for regressions following equation (2), in which the dependent variables are average monthly prices in Panel A and number of products in Panel B. The coefficient estimate at timet$t$represents the difference in the outcome variables between treated product-stores/firm-category-stores and matched controlst$t$months away from the PE deal closing date. This sample only includes product-stores/firm-category-stores for control firms that did not go through a PE deal. In Panel A, each cohort comprises a treated product that is sold in a store category in which a PE deal occurred and the best match (with the same UPC) selected from 10 random stores across the United States in which there is no PE competitor. In Panel B, each cohort comprises a firm-category in which the PE deal occurred and the average of the same firm-category from 10 random stores across the United States in which there is no PE competitor. The estimation period runs from −24 to +60 months around the PE deal closing date. The closing date is indicated by the vertical line. Dotted lines show the 90% confidence interval. Regressions are estimated using the fixed point iteration procedure implemented by Correia (2014). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

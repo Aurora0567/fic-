@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Returns and characteristic-matched returns We plot annualized average returns and characteristic-matched average returns of the high-minus-low decile portfolios sorted on size, book-to-market, profitability, and investment. We consider horizons from one month up to five years after portfolio formation. The sample period runs from July 1972 through December 2019."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Alphas of old-versus-new sorts This figure presents the unconditional and conditional alphas (αu and αc in Panel A and associated White (1980) heteroskedasticity-consistent t-statistics in Panel B) of the old sorts with respect to the newest sort for 56 characteristics. We report this alpha for a single combination of five old sorts: RX,(t−60:t−12),t+1 = 1/5(RX,(t−12),t+1 + RX,(t−24),t+1 + ... + RX,(t−60),t+1), such that it represents the abnormal average return from one to five years after portfolio formation. To facilitate interpretation, we sort the characteristics from low to high αc. The sample period runs from July 1972 through December 2019."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Increases in Sharpe ratio. This figure presents the maximum improvement in Sharpe ratio from combining the newest sort, RX,t,t+1, with a single combination of five old sorts, RX,(t−60:t−12),t+1. The improvement Δ Sharpe = Max. Sharpe(RX,(t−60:t−12),t+1, RX,(t),t+1) - Sharpe(RX,(t),t+1). We color code these improvements to highlight the relative increase in Sharpe ratio: Δ Sharpe / Sharpe(RX,(t),t+1)-1. To calculate the maximum Sharpe ratio, we optimally combine the newest sort with either the old sort (Panel A) or the conditionally hedged return of the old sort (Panel B, see Eq. (3)). The sample period runs from July 1972 through December 2019."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Old-versus-new sorts, old-minus-new stocks, and PC1 loadings. Panel A of the figure presents a scatter plot showing the correlation across characteristics between the conditional alpha of old-versus-new sorts (see also Fig. 2) and the average return of the old-minus-new stock strategy (defined in Section 5.3). Panel B presents a scatter plot showing the correlation across characteristics between the conditional alpha of old-versus-new sorts and the loadings of the first principal component of the newest sorts (PC1, see Section 6.1). The sample period runs from July 1972 through December 2019."
+        ],
+        "correlation": []
+    }
+}

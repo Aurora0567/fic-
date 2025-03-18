@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Graphical Illustration of Theorem 1.Notes - This illustration assumes no uncertainty () and hence there is no distortion arising from deposit insurance. The blue line is the loan demand (). The black dashed lines are the supply of funds curve for given levels of the capital requirement , that is . Noting that , the cost function is increasing and convex in , unless capital is fully abundant (and ). Furthermore, an increase in  steepens the relationship between  and . If a cost of funds curve is drawn for the corresponding , its intersection with the loan demand pins down the equilibrium. The red dot is then the point at which  is maximised, which implicitly defines . The area of the red rectangle is given by , and we have seen in the simplified example above (also with ), that maximising this object with respect to  also maximises return on equity when .. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Illustration of  over the cycle."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Case with more than 2 countries.Notes - Parameter choices: , , , . NB: This violates  but amounts to a simple rescaling of the return function. Panel A:  is denoted by the blue circle;  (for the two-country case) is denoted by the red square at the intersection of the best response curves (i.e. the red dashed lines);  (for the atomistic-countries case) is denoted by the green square further away from ; and , and its Foreign counterpart, are denoted by the grey diamonds. Panel B: May 2023 CCyB rates against the country’s share of PPP GDP of Basel Committee members (plus Norway) and a line of best fit."
+        ],
+        "correlation": []
+    }
+}

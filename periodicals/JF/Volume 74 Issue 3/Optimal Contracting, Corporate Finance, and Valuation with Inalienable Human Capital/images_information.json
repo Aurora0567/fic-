@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Certainty-equivalent wealthm(s)and investor's valuep(w). The dotted lines depict the first-best results:m(s)=qFB+sandm′(s)=1fors≥−qFB=−1.264,p(w)=qFB−w, andp′(w)=−1forw≥w̲FB=0. The solid lines depict the inalienability case:m(s)is increasing and concave, wheres≥s̲=−0.21, andp(w)is decreasing and concave, wherew≥w̲=0.96. The debt limits̲is determined bym(s̲)=αm(0)andm′′(s̲)=−∞, andw̲is determined byp(w̲/α)=0andp′′(w̲)=−∞. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Idiosyncratic risk management policies,φh(s)andxh(w),and idiosyncratic volatilities forsandw,σhs(s)andσhw(w). The dotted lines depict the first-best results:φhFB(s)=−qFB=−1.264andxhFB(w)=0. The solid lines depict the inalienability case: The entrepreneur hedges less than under the first-best,|φh(s)|<|φhFB(s)|=qFB, and her idiosyncratic risk exposure is thus positive,xh(w)>0. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Endogenous relative risk aversion for the entrepreneur and the investor,γe(s)andγp(w). The dotted lines depict the first-best results:γeFB(s)=γ=2andγpFB(w)=0. The solid lines depict the inalienability case: Both measures of risk aversion are larger than the first-best values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Systematic risk exposures,φm(s)andxm(w),and systematic volatilities forsandw,σms(s),andσmw(w). The dotted lines depict the first-best results. The solid lines depict the inalienability case: The entrepreneur's systematic risk exposures are lower than under the first-best,φm(s)<φmFB(s)andxm(w)<xmFB(w). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Investment-capital ratio and its sensitivity. The dotted lines depict the first-best results:qFB=1.264andiFB=0.132. The solid lines depict the inalienability case: The firm always underinvests andi(s)increases withs(equivalently,i(w)increases withw). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Consumption-capital ratio and the MPC. The dotted lines depict the first-best results:cFB(s)=χm(s)=χw=cFB(w). The solid lines depict the inalienability case: The entrepreneur always underconsumes andc(s)is increasing and concave ins(equivalently,c(w)is increasing and concave withw). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Comparative statics with respect toα. The lower the value ofα, the less inalienable the entrepreneur's human capital, the higher the debt capacity|s̲|, the less the firm underinvests and undercompensates the entrepreneur, the higher the idiosyncratic risk hedging demand, and the higher the entrepreneur's exposure to the stock market. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Recontracting versus autarky. Panels A and B plot the autarky case forγ=2andγ=5. Panels C and D plot the recontracting case forγ=2andγ=5. Under recontracting, the solutions forγ=2andγ=5are similar. For example,s̲=−0.21forγ=2ands̲=−0.20forγ=5. However, under autarky, whenγ=5, the solution features the first-best and hences̲=−qFB, but whenγ=2,s̲=−0.76. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Insurance demand under persistent productivity shocks:πH(s)andπL(s). StateHproductivity isAH=0.25in both panels. In Panel A, stateLproductivity isAL=0.14,s̲H=−0.217,s̲L=−0.178, andπL(s)=s̲H−swhen−0.178<s<−0.129. In Panel B, stateLproductivity isAL=0.05,s̲H=−0.200,s̲L=−0.128, andπL(s)=s̲H−swhen−0.128<s<0.023. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "The case with persistent productivity shocks. TableIIIcontains parameter values unless otherwise stated here:AH=0.25,AL=0.14, andλL=λH=0.2. Under inalienability,s̲H=−0.217ands̲L=−0.178. Under the first-best,qHFB=1.357,qLFB=1.115,iHFB=0.179, andiLFB=0.057. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "The deterministic case(σK=0andη=0),where the firm is financially constrained. ProductivityA=0.185and other parameter values are given in TableIII. Under the first-best, the firm's debt capacity is−s̲=0.25. The dotted lines depict the first-best results withqFB=1.271andiFB=0.136. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Two-sided limited commitment. The endogenous upper boundarys¯=0. Compared with the first-best,slies in the range(s̲,s¯)=(−0.25,0)under two-sided limited commitment. The firm underinvests whensis close tos̲=−0.25and overinvests whensis close tos¯=0. The credit limit under the two-sided limited commitment|s̲|=0.25is larger than the credit limit|s̲|=0.21in our baseline case with only inalienable human capital. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

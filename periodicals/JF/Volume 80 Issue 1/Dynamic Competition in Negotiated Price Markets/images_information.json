@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Distribution of mortgage rates residualized against observables. Following the OLS regression of mortgage rates on observable transaction characteristics (column (2) of TableII), this figure displays the distributions of residualized rates (bps). We winsorize rates below –50 bps and above 50 bps. The left panel compares loyal renewal and purchase rates, while the right panel contrasts loyal renewal rates with switch renewal rates.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Expected marginal benefit of adding an extra bank. In each contract category (purchase/renewal), for each choice set of sizen=1,2,3,…,10$n=1,2,3,\\ldots,10$, we simulate 10,000 mortgages for a borrower with median observable characteristics and calculate the average cost of financing (equilibrium price plus switching cost incurred). The expected marginal benefit of adding an extra bank to a choice set of sizen$n$is calculated as the change in the cost of financing.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Search and switching costs by credit score, income, and age. Each subplot shows variation in search (switching) costs by credit score, FSA income, and age, while fixing the two other factors at the median level. For example, the upper middle plot displays the average search cost for borrowers with median credit score and median age but at different income percentiles, while the lower middle plot shows the switching cost for renewers with median origination amount, median credit score, and median age, but at different income percentiles.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effect of number of lenders on switching probability: Data, benchmark model, and single-friction models. Using the data sample, we define an indicator variableI(high credit score)that equals one if the new borrower or renewer has a credit score above the median. We similarly define indicator variablesI(high income)andI(high age). We regressI(Switch)on the number of lenders,I(high credit score),I(high income),I(high age), the interaction between these indicator variables and the number of lenders, along with other control variables, including amortization and loan size. The asterisk and vertical dash line represents the point estimate for the effect of number of lenders on switching probability in different groups classified by credit score, income, and age. We then examine whether our benchmark model and single-friction models can reproduce such patterns. For each estimated model, we simulate 1,000 samples of 34,554 borrowers. For each sample, we run the same switching decision regression. The solid horizontal line represents point estimates from the benchmark-model-generated samples. The dashed horizontal line represents point estimates from the switching-cost-model-generated samples. The dotted horizontal line represents point estimates from the search-cost-model-generated samples. In each case, the top and bottom 0.5% point estimates are excluded. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Impacts of changing search costs and switching costs. The contour plots show how equilibrium outcomes change as search costs and switching costs increase from 0% to 200% of the estimated levels. For each combination of search and switching costs, we simulate 10,000 borrowers' purchase and subsequent renewal contracts. In each panel, a contour line joins points that lead to the same value for the equilibrium outcome of interest. For example, in Panel B, each point on an isocurve represents the same level of total cost at renewal, which is increasing as we move in the north (higher switching costs) or east (higher search costs) direction. Units are in $1,000 in Panels A to D. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1.": {
+        "description": "Model timing",
+        "correlation": []
+    },
+    "2.": {
+        "description": "Equilibrium comparative statics This figure illustrates the equilibrium outcomes as a function of the mass of high-turnover investors (α). In particular, we plot the equilibrium ETF management fees (left), bid-ask spread (right), as well as the fee and spread differentials. Parameters: η = 10, σ = 1, λλℓ=1⁠, and λλH=4⁠.",
+        "correlation": []
+    },
+    "3.": {
+        "description": "Types of institutional investors in ETFs The top-two panels in this figure show the breakdown of ETF holdings between tax sensitive investors (TSI) and tax insensitive investors (TII), as well as between short-term (transient) and long-term (quasi-indexer) investors. We measure ETF holdings separately for high- and low-fee funds (High fee, Low fee) in a given index. The middle-two panels show the relative holding share of investor groups in high- and low-fee funds. The bottom-two panels illustrate the distribution of holding duration, computed as in Cremers and Pareek (2016), for the different investor types. The error bars correspond to 95% confidence intervals.",
+        "correlation": []
+    },
+    "4.": {
+        "description": "ETF investor clienteles This figure plots the average residual AUM share of transient investors (panel A) and investor holding duration (panel B) between 2016Q1 and 2020Q4 for low- and high-fee ETFs. The residuals are obtained after controlling for index and quarter fixed effects, log AUM for the index, lending income, marketing and other expenses, and name recognition as proxied by StockTwits message count, tracking error, performance drag, ETF age, and the age of the investor base. The error bars correspond to 95% confidence intervals.",
+        "correlation": []
+    },
+    "5.": {
+        "description": "Liquidity in the cross-section of competing ETFs This figure plots the average bid-ask spread, market share, trading volume, and turnover for high- and low-fee same-index ETFs. The top panels illustrate raw averages, that is, without including control variables. The bottom panels plot residuals that are obtained after controlling for index and quarter fixed effects, as well as all control variables in Table 4. The error bars correspond to 95% confidence intervals.",
+        "correlation": []
+    },
+    "6.": {
+        "description": "First-mover advantage This figure illustrates the proportion of high-fee ETFs that are first to track a given index versus subsequent ETFs tracking the index. The left panel shows the unconditional share of high-fee ETFs, whereas the center and right panels plot the residual share of high-fee ETFs after controlling for all variables in Table 7. Additionally, the center (right) panel separates ETFs that track the same versus slightly different benchmark (track a major brand index or not). A “major brand index” is one licensed by FTSE, Russell, S&P, NASDAQ, MSCI, or Dow Jones. The error bars correspond to 95% confidence intervals.",
+        "correlation": []
+    },
+    "7.": {
+        "description": "Leader ETF fee dynamics around follower entry This figure plots the management fee and assets under management (AUM) for first-mover ETFs 1 year before and after the entry of their initial competitors. The daily data, sourced from ETF Global, encompasses 17 entry events between 2016 and 2020. All variables are normalized to a value of one on the entry day of the competitor. Panels B and C plot the average fee and AUM across two distinct groups of ETFs: those that increased their fees and those that decreased them prior to the entry of competitors. Panel D plots the AUM growth for entrant funds, separately for indices where the incumbent raised or decreases their fees upon entry.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "States covered in the Longitudinal Employer-Household Dynamics data The map shows states for which worker-firm matched panel data are available through the U.S. Census Bureau’s Longitudinal Employer-Household Dynamics (LEHD) program in our sample. No data are available for states in white.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Industry pairwise correlation by HCT index The map shows the distribution of industry pairwise correlation by HCT index group. The top-20 pairs are selected based on HCT Index (panel A) or HCT Index (>$75,000) listed in Table 2 (panel B). The pairwise correlations are estimated based on industry total employment from 1980 to 1994.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Noncompete states identified in our sample The map shows states in our sample with the noncompete index (computed based on Starr 2019) in the top quartile.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Trade ideas and abnormal stock returns: Trading buys versus trading sells. This figure presents DGTW characteristic-adjusted buy-and-hold abnormal returns to trading buys/sells over the [−6, +63] trading day window relative to the announcement of a trade idea between 2000 and 2015. Trade ideas are obtained from Thomson Reuters Investext and from Thomson Reuters Eikon. An analyst report is defined as a trade idea only if the analyst report explicitly states it is a trading idea (or variants), includes a direction (e.g., trading buy/sell, go long/short, buy/sell, short-term buy/sell), and includes an investment horizon for the call. We eliminate trade ideas for which firm-specific news or fundamental research outputs (i.e., stock recommendation, EPS, or target price) are announced over the five-day event window ([−2, +2]) surrounding the announcement of a trade idea. We exclude anonymous analysts, trade ideas for which the lagged stock price is less than one dollar, non-U.S. listed firms, and noncommon shares (CRSP share codes other than 10 and 11). Information on analysts and fundamental research (i.e., EPS, recommendations, target prices) is from I/B/E/S while stock price and financial accounting data are from CRSP and Compustat.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "This figure shows the distribution of the average number of domestic common stocks held by institutional investors over 1980-2017. The institutional investors who hold at least two stocks are included in the sample. The x-axis shows the bins for the time series average number of common stocks in institutional portfolios. The y-axis shows the number of institutional investors. Distribution of number of institutional holdings from 1980 to 2017."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Panel A shows the time trend of the number of institutional investors (dotted line) and the cross-sectional median number of domestic common stocks held by institutional investors (solid line) for each quarter from Q1 1980 to Q4 2017. Panel B shows the average of institutional investors' ETF holdings as a portfolio percentage. The institutional investors who hold at least two stocks are included in the sample. Panel A: Institutional investors and the number of stocks they hold. Panel B: Percentage ETF holdings by institutional investors. Time trend of institutional investments from 1980 to 2017."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "This figure provides an example of how I calculate common ownership. I assume that there are four firms, A, B, C, and D, and three investors, 1, 2, and 3. Investor 1 holds firm A, firm B, and firm C; investor 2 holds firm A, firm C, and firm D; investor 3 holds firm A and firm B. The common ownership measure is 1.5 (=0.5 + 1) between firm A and B, 1 (=0.5 + 0.5) between firm A and C, and 0.5 between firm A and D. Hence I infer that firm B is the most connected to A, C is the next, and D is the least. Note that the common ownership is not necessarily symmetric, for instance, firm A is inferred as being the most connected to firm C, but not vice versa. Illustration of common ownership measurement."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "This figure shows the cumulative returns of the value-weighted (VW) and equal-weighted (EW) long-short equity portfolios based on the CIO momentum up to 12 months after the initial formation. CIO momentum is the weighted average DGTW return of CIO-linked peer firms with weights being the common ownership measure defined in Equation (2). Firms with prior month-end stock price higher than $5 and market value above the bottom 10% of NYSE breakpoints are included in the sample. The cumulative returns are averaged over the sample period from April 1980 to March 2018. Cumulative returns of long-short equity portfolios."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "This figure illustrates the preference of institutional investors and analysts towards stocks with different characteristics over the sample period from January 1984 to March 2018. Analyst Only is for stocks only followed by analysts, not owned by institutional investors. Institutional Only is for stocks only held by institutional investors by the most recent quarter-end. Size is the last June market value. Age is the number of years since the first record of the firm on Compustat. CAPM beta the estimated using CAPM over the 60-month rolling window. Volatility is measured by the residual standard error from regressing the firm's daily stock returns on Carhart (1997) four factors over the previous calendar year. Bid-Ask Spread is the annual average of daily bid-ask spread scaled by the midpoint for the previous year. Probability of Informed Trading (PIN) is computed using the Venter and DeJong model from Professor Stephen Brown's website. Analyst dispersion is calculated by scaling the standard deviation of the most recent earning forecasts by the absolute median forecast. Trading Volume is the standardized percentage of shares traded during the prior month to the month-end shares outstanding. Analyst data starts in 1984. PIN data are from 1993 to 2010. Firms with a prior month-end stock price lower than or equal to $5 and market value below the bottom 10% NYSE breakpoints are excluded. Stock preference by institutional investors and analysts."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "This figure illustrates the conditional performance of CIO and shared-analyst momentum strategies over the sample period from January 1984 to March 2018. Stocks with prior month-end stock price higher than $5 and market value above the bottom 10% NYSE breakpoints are included. Within each quintile subsample of stocks sorted by one of the firm characteristics, an arbitraging portfolio is formed by long holding the top quintile by CIO (shared-analyst) momentum and short selling the bottom quintile. Carhart (1997) 4-factor alphas of the long-short portfolios are shown in the chart. For each firm characteristic, the difference of the long-short strategy alpha from the top and bottom quintiles and its t-statistics are reported in parentheses. ***, **, or * indicates that the coefficient estimate is different from zero at the 1%, 5%, or 10% level, respectively. CIO momentum, since April 1980, is the weighted average DGTW return of CIO-linked peer firms with the weight being the common ownership measure defined in Equation (2). Shared-analyst momentum, since January 1984, is the weighted average gross return of analyst-linked peer firms following Ali and Hirshleifer (2020). Size, age, beta, volatility, bid-ask spread, PIN, analyst dispersion, and volume are described in Fig. 5 caption. Conditional performance of CIO and shared-analyst momentum strategies."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "This figure shows the Carhart 4-factor (FF3M) alphas of long-short CIO-momentum portfolios among institutional investors with various numbers of common stock holdings, over the period of May 1980 to April 2018. The institutional investors need to hold at least two stocks to be included in the sample. The construction of long-short CIO-momentum portfolios is described in Section 3.2.1. The x-axis axis shows the number of common stocks institutional investors hold less than (Panel A) or more than (Panel B). The solid line shows the monthly FF3M alphas. The dotted lines show the FF3M alphas +/- 2 standard errors. The tested data points are 20, 40, 60, 80,..., and 500. Plotted lines are smoothed over the tested data points. Panel A: CIO Momentum by Including Less Focused Institutional Investors. Panel B: CIO Momentum by Excluding More Focused Institutional Investors. Number of institutional holdings and CIO momentum portfolio."
+        ],
+        "correlation": []
+    }
+}

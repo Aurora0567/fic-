@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Commerzbank's equity capital, write-downs, and profits. The left panel shows Commerzbank's profits and write-downs plus equity capital. Write-downs arise from changes in revaluation reserves, cash flow hedges, and currency reserves. Panel B shows the composition of Commerzbank's profits. Interest income is interest received from loans and securities minus interest paid on deposits. Trading and investment income is the sum of net trading income, net income on hedge accounting, and net investment income. Pretax profit is interest income plus trading and investment income minus costs. The values are in 2010 billion euro. The positions of Commerzbank and Dresdner Bank for the years before the 2009 takeover are aggregated. Data Source: Bank Annual Reports, Huber (2018), own calculations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Lending by German banks. The figure plots the log lending stock to German nonfinancial customers for different groups of banks, relative to 2004. The values are in 2010 billion euro. We include lending by branches of Commerzbank and Dresdner Bank to calculate lending by Commerzbank (provided in the bank annual reports). We subtract lending by Commerzbank from aggregate lending by all German banks (provided by the Deutsche Bundesbank) to calculate lending by all other banks. We subtract lending by Commerzbank, savings banks, Landesbanken, and cooperative banks from aggregate lending by all German banks to calculate lending by all other commercial banks. Data Source: Bank Annual Reports, Deutsche Bundesbank, Huber (2018), own calculations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of parent Commerzbank dependence. The figure shows a histogram of Commerzbank dependence for the 655 German parents in our data set in 2006. Data Source: Research Data and Service Centre of the Deutsche Bundesbank, MiDi 2002 to 2015, own calculations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Impact of parent Commerzbank dependence on affiliate sales. The figure plots coefficients onParent Commerzbank Dependence, interacted with year fixed effects. The gray, dashed lines represent 90% confidence intervals. The coefficients are estimated in a single regression. The outcome is log(Affiliate sales). The following time-invariant control variables are calculated for affiliates in 2006 and interacted with a full set of year fixed effects: industry fixed effects, fixed effects for deciles of total sales, fixed effects for deciles of leverage, and country fixed effects. The specification also contains affiliate and year fixed effects. The coefficients are scaled to reflect the effect on an affiliate whose parent had average Commerzbank dependence, which was 0.23. Standard errors are two-way clustered at the level of the country and the parent. Data Source: Research Data and Service Centre of the Deutsche Bundesbank, MiDi 2002 to 2015, own calculations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Impact on affiliate sales by bins of parent Commerzbank dependence. The figure plots the relationship between bins ofParent Commerzbank DependenceandAffiliate salesfrom 2008 to 2010. The bins represent the quintiles of parent Commerzbank dependence for positive values of parent Commerzbank dependence. The gray-dashed lines represent 90% confidence intervals. The coefficients are estimated in a single regression. The following time-invariant control variables are calculated for affiliates in 2006 and interacted with indicator variables for 2008 to 2010 and 2011 to 2015: industry fixed effects, fixed effects for deciles of total sales, fixed effects for deciles of leverage, and country fixed effects. The specification also contains affiliate and year fixed effects and parent Commerzbank dependence interacted with the 2011 to 2015 indicator. The coefficients are scaled by the average parent Commerzbank dependence, which was 0.23, to make them comparable to the previous results. Standard errors are two-way clustered at the level of the country and the parent. Data Source: Research Data and Service Centre of the Deutsche Bundesbank, MiDi 2002 to 2015, own calculations.",
+        "correlation": []
+    }
+}

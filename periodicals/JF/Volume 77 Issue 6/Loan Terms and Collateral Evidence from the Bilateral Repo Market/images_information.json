@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Sample repo rates and MBS GCF rates. Daily value-weighted average repo rates observed in the sample (“o” and “x” markers for AAA and BBB collateral, respectively) are juxtaposed against the general collateral financing (GCF) rate for MBS collateral (represented as a line).",
+        "correlation": []
+    },
+    "2": {
+        "description": "Simultaneous contract sets. Each of the two sets consists of simultaneous loans made by the same lender and secured by tranches of the same securitization conduit.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Contract terms by coarse collateral rating. This plot displays regression coefficients on the coarse collateral rating indicators, estimated using equation (1) and presented in TablesIV,V, andVI. The coefficients correspond to our baseline specification with tranche set fixed effects and no control variables (column (2)). Note that forHaircut$Haircut$andSpread$Spread$a higher value on the vertical axis corresponds to a stricter contract, while forMaturity$Maturity$a lower value corresponds to a stricter contract. Tranche credit rating is on the horizontal axis. AAA is always the baseline category, so its coefficient is always zero. The shaded area around the point estimates shows the 95% confidence interval.Spread$Spread$is the contract interest rate minus maturity-matched LIBOR.Haircut$Haircut$is the contract margin as a percentage of collateral value.Maturity$Maturity$is the loan maturity in days.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Repo expected return and return volatility by coarse collateral rating. This plot displays the regression coefficients on rating indicators estimated using equation (6) and presented in TableVII. The coefficients correspond to our baseline specifications with tranche set fixed effects (columns (2) to (4)). Tranche credit rating is on the horizontal axis. AAA is always the baseline category, so its coefficient is always zero. The shaded area around the point estimates shows the 95% confidence interval. Haircut Gap (HGap$HGap$) is the observed haircut over the 1% VaR Haircut from the model (i.e., the haircut level such that the collateral value at maturity drops below the repayment amount with probability 1%), Return St. Dev. (St.Dev$St.Dev$) is the standard deviation of the loan return distribution, and Return Gap (RGap$RGap$) is the difference between the actual repo rate and the breakeven rate from the model.",
+        "correlation": []
+    }
+}

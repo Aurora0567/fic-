@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Time series of sea-level rise projections and climate scenarios This figure plots the different summary statistics of studies surveyed in Garner et al. (2018). Panels A and B plot the annual values for mean (dashed line in panel A), worst-case (solid line in panel A). All measures are computed by first calculating the statistic for each study and then averaging across all studies in the rolling 2-year window. Mean (Standard deviation) is computed by taking the average 2100 SLR estimate (standard deviation for 2100 SLR estimate) for every scenario considered in a study, then averaging these within-scenario means (standard deviations) across all scenarios considered in the study, and finally averaging across all studies in the rolling 2-year window. Worst is the maximum upper-bound estimate across all scenarios used in a study, averaged across all studies in a 2-year rolling window. We omit measures between 2001 and 2007 because there were no new projections of global SLR between 2002 and 2006. Panel C plots the ratio of total obtained from Google Scholar of the number of studies which discuss high forecast models (RCP8.5 or SRES A) divided by the total number of studies which cite medium or high scenarios (e.g., RCP 8.5, RCP 4.5, SRES A, and SRES B). Panel D plots the total combined counts of the results of the two searches.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Sea-level rise exposure in Fairfield County, Connecticut This figure maps housing locations and exposure to sea-level rise for a portion of Fairfield County, Connecticut. Black dots represent residential dwelling units; the green area represents the three-foot NOAA SLR scenario; the light blue area represents the six-foot scenario; and the red lines delineate school districts.",
+        "correlation": []
+    },
+    "3": {
+        "description": "School district exposure to six feet of global average sea-level rise This figure maps the fraction of properties in each coastal school district that is exposed to chronic tidal flooding after six feet of global average sea-level rise. Gray areas represent districts that do not appear in the sample of municipal bonds described in Section 2. For ease of presentation, we break the states into regions, with panel A focusing on the Northeast and panel B on the Southeast and Gulf Coast.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effect of sea-level rise exposure on bond credit spreads This figure plots the annual effect of SLR exposure on municipal bond credit spreads. Each point represents a coefficient from the regression specified in Equation (1), while the vertical bars represent 95% confidence bands based on standard errors clustered by county and year-month. The dependent variable is the volume-weighted average credit spread of a municipal bond, defined as the difference between yield-to-maturity and the maturity-matched yield from the Municipal Market Advisors AAA-rated tax-exempt benchmark curve, in basis points. SLR Exposure is the fraction of residential properties that would be inundated by six feet of sea-level rise, normalized to zero mean and unit standard deviation. The regression includes county-year-month and school district fixed effects; the logarithm of the bond’s time to maturity, callability, and insured status interacted with year indicators; and district-level average income, the number of years since issuance, the ratio of trading volume to amount outstanding, the standard deviation of transaction prices by bond-month, and an indicator for general obligation issues. The baseline period for the district fixed effects is 2007.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Model-implied asset volatility as a function of leverage This figure plots the model-implied volatility (σ) from Equation (3) as a function of the leverage ratio (K/V). The other model parameters are y=3.24%, r=2.68%⁠, and T = 7.5.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effects of asset value and volatility shocks on municipal bond yields This figure plots the change in yield associated with changes in the distribution of cash flows backing municipal bond repayment. Panel A considers reductions in the present value of cash flows, while panel B considers proportional increases in the volatility of the underlying asset value. Panel C considers the combination of asset value and volatility shocks that match our main reduced-form estimate of a 5.3-bp increase in yield. Panel D considers the combination of shocks that matches the 23.4-bp increase in yield estimated by Painter (2020). Each panel considers four parameter specifications based on leverage ratios (K/V) of 10%, 30%, 50%, and 70%, along with the associated model-implied volatilities from Figure 5. The other model parameters for panels A, B, and C are y=3.24%, r=2.68%⁠, and T = 7.5. The parameters for panel D, which match the typical long-maturity bond in Painter (2020), are y=4.70%, r=4.00%⁠, and T = 22.5.",
+        "correlation": []
+    }
+}

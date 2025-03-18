@@ -1,0 +1,74 @@
+{
+    "1": {
+        "description": "A bonding curve. From an initial amount of ETH and tokens ofE0$E_0$andT0$T_0$, respectively, a trader deposits (sells)T1−T0$T_1-T_0$tokens in exchange forE0−E1$E_0-E_1$ETH. The price impact of this trade is determined by the bonding curve. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Uniswap orderbook depth. The graph shows how many Token B could be bought or sold at a given price for a large (orange) and small (blue) liquidity pool. The parameters are:τ=0.003$\\tau =0.003$andT=20,E=200$T=20, E=200$(T=10,E=100$T=10, E=100$) for the large (small) pool. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Sequence of events in the limit order market.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Sequence of events in the automated market maker.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Optimal pool size. The left panel shows the optimal trade size by the arbitrageur upon a price innovation (orange) and the liquidity trader (blue) as a function of pool size. The right panel shows fee revenue (blue) and adverse selection cost (orange) as a function of pool size. The parameters areP0=10,σ=1,q=1,α=0.1$P_0=10, \\sigma =1, q=1, \\alpha =0.1$, andτ=0.003$\\tau =0.003$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Number of transactions on Uniswap. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Trading volume on Uniswap. The graph shows the daily volume of transactions including flash loans in USD. The graph is capped at 2.4 billion USD. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Pool size as function of innovation sizeσ$\\sigma$andα$\\alpha$. Unless otherwise stated, the parameters areα=0.01,p0=10,σ=4,q=3$\\alpha =0.01, p_0=10, \\sigma =4, q=3$, andτ=0.003$ \\tau =0.003$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Liquidity withdrawals and extreme market events. Panel A shows the block-by-block price of Ether around May 19, 2020 (in orange, left axis), the aggregate percentage liquidity withdrawals from the four largest ETH-USD stablecoin pools on Uniswap (blue, right axis), and the fee revenue for the liquidity pools in thousand USD (green, far right axis). Panel B depicts the price of Ether and the median gas cost of a liquidity withdrawal in USD. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Region of the parameter space in which AMMs dominate limit order markets. The figure shows the region of the parameter space in which trading costs for the liquidity trader in the liquidity pool are lower than in the limit order market. Unless otherwise stated, the parameters areP0=100,σ=10,q=10,a=45$P_0=100, \\sigma =10, q=10, a=45$, andτ=0.003$\\tau =0.003$[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Pricing error and pool size. This figure shows the pricing error for the USDC/ETH pair in percent of the Binance price (blue line, right axis) and the pool size of the Uniswap USDC/ETH pool (orange, log-scale, left axis). Prices are calculated at minute intervals. The figure plots these errors sampled every eight hours. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Intraday prices for the USDC/ETH pair on October 21, 2020. The graph shows minute-by-minute prices of the USDC/ETH pair on Binance and Uniswap. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Price impact of USDC/ETH on Uniswap (orange, green) and Binance (blue). Price impact is computed as the change in price over volume (green and blue lines) as well as analytically as the price change for a marginal unit bought using the bonding curve formula (green line). Binance price impact is cut off at 0.00001. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "Trading volume of USDC/ETH on Uniswap (orange) and Binance (blue). The graph shows the trading volume excluding flash loans in ETH. Trading volume is aggregated over rolling eight-hour intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Example swap transaction. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "16": {
+        "description": "Example swap transaction—Log entries. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "17": {
+        "description": "Network graph of pools between all tokens that are part of the 50 largest pools by total aggregate volume in USD. The size of a node is proportional to the log of the number of pools a token is part of, its color is proportional to the total aggregate liquidity staked for a given token across all the pools, an edge between two tokens indicates that two tokens are in a common pool, and the thickness of the edge is proportional to trading volume. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "18": {
+        "description": "Incremental fees of a swap transaction over two token transfers measured in USD. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

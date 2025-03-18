@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Initial margin requirement and security market line. This graph plots the empirical relation between beta and average excess return in subsamples with different initial margin requirements. The test assets are 10 beta-sorted value-weighted portfolios. The solid line gives the theoretical security market line predicted by the CAPM, and the dashed line gives the empirical security market line. The top left panel includes the 197 months for which the initial margin requirement is between 40% and 55%, the top right panel includes months for which the requirement is between 55% and 75% (183 months), and the bottom left panel includes months for which the requirement is above 75% (112 months). The bottom right panel presents the security market lines for the full sample of 492 months from 10/1934 to 9/1975.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Initial margin requirement. This graph plots the level of the initial margin required on positions in listed U.S. equities. The initial margin requirement is set by the Board of Governors of the Federal Reserve System via Regulation T. The sample period is 10/1934 to 9/1975.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Margin requirement changes and margin credit. This graph plots the average cumulative change in margin credit 12 months before and after an increase (solid line) or a decrease (dashed line) in the minimum initial margin requirement in Regulation T. Month 0 is the margin change month. There are 12 margin requirement increases and 10 decreases during the sample period from 10/1934 to 9/1975.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Margin requirement regimes. The dots in this figure plot the margin requirement and the average security market line slope for the 23 Regulation T margin requirement regimes during the sample period from 10/1934 to 9/1975. The area of the dots is proportional to the length of the regimes. The solid line gives the ordinary least squares fit of the data, whereas the dashed line gives the weighted least squares fit. The cross depicts the margin requirement and average security market line slope for the period from 10/1975 to 12/2012.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,74 @@
+{
+    "1": {
+        "description": "Israeli house prices and implementation of macroprudential policies The number represents the monthly change in home values (at an annual rate). The vertical lines indicate the months in which various MPPs implemented. The analyzed event windows for the two loan-to-value (LTV) limits are colored red. The timeline and descriptions of each of the five MPP tools implemented are provided in Table 1. Source: Israel Central Bureau of Statistics.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Change in average mortgage interest rate for risky borrowers (loan-to-value > 60%) This graph depicts the average mortgage interest rate for mortgages with LTVs greater than 60% for two time periods: before the soft LTV limit, between January 2010 and October 2010 (N = 16,100), and after the policy, between November 2010 and May 2011 (N = 11,224). In both figures, an Epanechnikov kernel distribution with a bandwidth of 0.0606 is used. According to a Kolmogorov-Smirnov test (p < .001), the two distributions are statistically distinct. Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Loan-to-value (LTV) distribution before and after the soft LTV limit The figure plots the LTV ratio distribution for two periods: before the soft LTV limit, that is, between January 2010 and October 2010 (N = 16,100), and after the policy, between November 2010 and May 2011 (N = 11,224). In both figures, an Epanechnikov kernel distribution with a bandwidth of 2.9601 is utilized. The Kolmogorov-Smirnov test reveals statistically significant differences between the two distributions (p < .001). Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Loan-to-value (LTV) distribution by buyer type, before and after the strict LTV limit This graph depicts the change in the LTV distribution for each borrower type before and after the strict LTV limit was implemented. The vertical dashed line in the graph represents the strict LTV limit cutoff: 75% for first-time homebuyers, 70% for upgraders (who must sell their current home within 18 months), and 50% for investors (who own two or more homes). A Kolmogorov-Smirnov test indicates that the two LTV distributions are statistically distinct for all three panels (p-values: .006, .003, and .000, respectively). Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Changes in borrower characteristics and activity in the credit and housing markets, before and after the loan-to-value (LTV) limits Panels A and B depict the distributions of income and age before and after the soft limits, respectively. In the meantime, panels C and D depict the distributions of income and age before and after the strict LTV limit, respectively. In the final two panels, E and F, the transaction amount in the housing and mortgage markets before and after the strict LTV limit, by buyer type, from January 2012 to August 2013, are represented, respectively. The vertical line denotes the time of the strict limit imposition. A Kolmogorov-Smirnov test for equality of distribution functions cannot be rejected for panels A through F. (p-values: 0.58, 0.72, 0.60, 0.48, 0.19, and 0.24, respectively). Source: Israel Tax Authority for housing transactions and Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Loan-to-value (LTV) distribution before and after the soft LTV limit imposition: Treatment and control groups This graph depicts the change in the LTV distribution for the treatment and control groups before and after the soft LTV limit. The control group consists of individuals who borrowed between 600,000 and 700,000 NIS, which is just below the threshold. A Kolmogorov–Smirnov (KS) test for distribution functions function equality in panel A cannot be rejected at the 1% significance level (p-value: 0.65). In contrast, the treatment group consists of individuals who borrowed between 900,000 and 1,000,000 NIS, just above the threshold. A KS test for equality of distribution functions is rejected at the 1% significance level for panel B. In both figures, an Epanechnikov kernel distribution with a bandwidth of 2.9472 is utilized. Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Israeli population distribution The Israeli population distribution is calculated according to the population that is relevant to the sample. The variable distance from Tel Aviv was censored at 40 km, to focus on the most populated areas in Israel, where 55% of Israel’s population resides. Source: Israel Central Bureau of Statistics.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Distribution of change in neighborhood socioeconomic level, by distance from Tel Aviv The socioeconomic status of a neighborhood is measured by an index composed of 16 variables, including demographics and education. On the basis of this index, all neighborhoods are divided into 20 clusters, with 1 the lowest socioeconomic status. The changes in socioeconomic status of neighborhoods can be categorized into three groups: an increase in socioeconomic status, a decrease in socioeconomic status, and no change. The additional covariables in this figure are the borrowers’ age and income. The variable distance from Tel Aviv was set at 40 km in order to focus on only the most populous regions in Israel. Source: Israel Central Bureau of Statistics and Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Withdrawals from several financial resources, 2011–2013 This graph depicts withdrawals from various financial resources prior to and after the loan-to-value (LTV) and after the loan-to-value (LTV) cap was imposed. Training fund is a provident fund that was originally intended to be used by employees to pay for training courses; however, it is now commonly used as a medium-term savings vehicle that provides tax benefits in Israel. Mutual funds are professionally managed investment funds that pool the capital of numerous investors to buy securities. Israel’s Provident Fund is a mandatory, government-managed retirement savings plan. The final financial term is deposit, which refers to money held at a bank, including checking and savings accounts. The vertical line represents the date of strict LTV limitation implementation. Source: Bank of Israel.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Changes in mortgages and consumer credit over time Using two ordinary least squares (OLS) regressions, this graph illustrates the quarterly growth rate of mortgages and consumer credit prior to and after the strict LTV limit. For the changes in mortgages, the OLS regression controls for interest rate, housing transactions, real estate taxes, and rent prices. For the changes in consumer credit, the OLS regression controls for vehicle imports, interest rate, private consumption, and taxes. The vertical line represents the date of strict LTV limitation implementation. Source: Bank of Israel.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Changes in downpayment distribution before and after the strict loan-to-value (LTV) limit This graph depicts the change in the distribution of downpayment for affected borrowers—that is, those who had an LTV ratio above the cutoff before the policy intervention, for each (affected) borrower type. The years 2011–2012 are prior to the policy’s implementation, which occurred at the end of 2012, and 2013 is after the strict LTV limit. For panels A through C, the rightward shift of the density in the figures in 2013 is significant, as a Kolmogorov-Smirnov (KS) test for equality of distribution functions is rejected at the 1% significance level. A KS test for equality of distribution functions cannot be rejected at the 1% significance level for the difference in downpayment distribution between 2012 and 2011 (p-value: .27). Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "A.1": {
+        "description": "The distribution of key variables in the mortgages and CARMAN Datasets The graphs depict the distribution of three important variables from the mortgage dataset, the housing characteristics dataset (CARMAN), and the employee dataset. A Kolmogorov–Smirnov test for equality in the distributions of mortgage amounts, house prices, and borrower income reveals no statistically significant differences between the three datasets. Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "A.2": {
+        "description": "Impacts of soft loan-to-value (LTV) limit on interest rates Notes: The graphs depict the estimated event time coefficients from Equation (A.1) for leveraged and nonleveraged borrowers. Additional covariables include the borrower’s age and income, the lending institution, and the loan’s duration. The shaded 95% confidence intervals are based on robust standard errors. Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "A.3": {
+        "description": "Average change in loan-to-value (LTV) ratio after the soft LTV limit This figure presents the average change in LTV ratio after the soft LTV limit, by groups of borrowers’ characteristics using matching method, controlling for borrower’s age and income, bank, and loan duration. Source: Bank of Israel mortgage data.",
+        "correlation": []
+    },
+    "A.4": {
+        "description": "Observed and counterfactual histogram frequency plot of LTV in 2011",
+        "correlation": []
+    },
+    "A.5": {
+        "description": "Placebo test: Observed and counterfactual plot of LTV in 2009",
+        "correlation": []
+    },
+    "A.6": {
+        "description": "Observed and counterfactual histogram frequency plot of LTV in 2013",
+        "correlation": []
+    },
+    "A.7": {
+        "description": "Changes in macroeconomic variables around the LTV limits",
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Case-study evidence on stock prices around the global tax reform announcement This figure shows the minute-level normalized stock prices of Walmart and Apple in a narrow time window surrounding July 1, 2021, 12:19:26 EDT. At this time, it was first released to the public that 130 countries had agreed to the international tax reform (Pillars 1 and 2 of the OECD’s reform proposal). The red dotted line represents the exact time of the OECD’s press release.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Global tax reform event dates in 2021 This figure shows the evolution of the consensus process for the global tax reform in 2021. We depict the key political events and summarize the information content at each event date. Red indicates the most important events from January 14, July 1, and October 8. The press release from July 1, 2021, and the document containing the specific rules are available here and here.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stock returns and companies’ exposure to the global tax reform We first sort companies into 10 bins based on their CompanyExposurei measure. We then compute both average CompanyExposurei and average stock returns for each of the bins. The lines represent the linear regression fit lines. The left panel uses Foreign earnings ratio as the sorting variable. The panel in the center uses the Foreign low tax benefit as the sorting variable. The right panel uses the Foreign tax differential to minimum tax variable. These variables are described in Section 2.2.1 and in Table A.1 in the Internet Appendix.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Event-study plot: Minutes around the event This figure shows the effect of the global tax reform on stock prices for various event windows. First, we sort stocks into 10 deciles based on their Foreign tax differential to minimum tax exposure measure. Then, for each stock in each decile, we compute the cumulative return from 20 minutes before the tax event to 100 minutes afterward. The figure displays the average difference in cumulative returns between the high- and low-exposure stocks for the main tax events. The blue shading represents the 95% error bands.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Event-study plot: Days around the event This figure shows the effect of the global tax reform on stock prices for various event windows. First, we sort stocks into 10 deciles based on their Foreign tax differential to minimum tax exposure measure. Then, for each stock in each decile, we compute the cumulative return from four days before the tax event to 12 business days afterward. The figure displays the average cumulative return difference between the high- and low-exposure stocks for the main tax events. The blue shading represents the 95% error bands.",
+        "correlation": []
+    },
+    "6": {
+        "description": "High-frequency stock price responses on October 8, 2021, around the EUR 10 billion sales threshold This figure shows discontinuities in stock price responses of companies around the US$12 billion sales threshold on October 8, 2021. The graphs plot average values of changes in log stock prices around the tax event t in an 80-minute window surrounding October 8, 2021, 13:01 EDT, for evenly spaced bins of the companies’ sales in fiscal year 2020. The graph on the left also shows a linear regression line. The graphs on the right show second-order polynomial fits. At 13:01 EDT on October 8, the OECD announced that 136 countries had agreed on the specific rules of the global tax reform. This was the first announcement that companies with sales of greater than EUR 10 billion (which we approximate by US$12 billion) would be subject to the new rules under Pillar 1.",
+        "correlation": []
+    },
+    "7": {
+        "description": "MNC Revenues to Market Size: Selected countries This figure plots the relationship between MNCs’ revenues reported in a given country and the country’s consumer market size of selected sample countries. The y-axis shows a country’s value of our variable of interest, MNC revenues to market size. The x-axis shows a country’s market size (the denominator in our variable of interest MNC revenues to market size). MNC revenues is the sum of revenues reported by MNCs in the CbC files. Consumer market size is defined as household consumption in billions (purchasing power parity-adjusted in current national currency per USD).",
+        "correlation": []
+    },
+    "8": {
+        "description": "Changes in sovereign CDS spreads and countries’ exposure to the global tax reform We first sort countries into bins based on their CountryExposurek measure. We then compute both average CountryExposurek and average CDSs’ percentage changes for each of the 10 ordered bins. The blue circles represent CDS changes that occurred during tax event dates, while the red circles represent nontax event dates. The lines represent the regression fit lines. The left panel uses MNCs’ reported revenues scaled by a country’s market size as the sorting variable. The middle panel uses MNC revenues to market size weighted by a country’s tax rate differential to the minimum tax rate. The right panel uses MNCs’ reported pretax earnings scaled by revenues as the sorting variable. These variables are described in Section 3.2.1 and in Table A.1 in the Internet Appendix.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Event-time cumulative CDS spread This figure shows differences in cumulative CDS changes between countries highly exposed to the tax reform and those with less exposure. We first sort countries into 10 bins based on their reported taxable income margin. Countries in the first (last) decile have a low (high) exposure. The blue line represents the average difference in cumulative CDS changes from 4 days before the tax event to 12 business days afterward. The red line represents cumulative changes in CDS during any other day not overlapping with the tax event dates. The shaded areas represent the 95% error bands.",
+        "correlation": []
+    }
+}

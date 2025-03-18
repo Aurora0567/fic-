@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Capital share betas. This plot depicts betas constructed from Fama-MacBeth (1973) regressions of average returns on capital share beta for different equity characteristic portfolios or using all equity portfolios together (size/BM, REV, size/INV, and size/OP).Hindicates the horizon in quarters over which capital share exposure is measured. The sample spans the period 1963Q3 to 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Capital share, eight-quarter log difference. The vertical lines correspond to NBER recession dates. The sample spans the period 1963Q3 to 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Growth in aggregate consumption times income share. Panel A plots annual observations on the annual value ofCtCt−1[Yti/YtYt−1i/Yt−1]corresponding to the years for which the SZ data are available.Yti/Ytis shareholders' income share for groupicalculated from the SZ data. Panel B reports quarterly observations on quarterly values ofCtCt−1[Yti/Yt̂Yt−1i/Yt−1̂]using the mimicking income share factorYti/Yt̂=α̂i+β̂iKSt. The annual SZ data spans the period 1963 to 2012. The quarterly sample spans the period 1963Q3 to 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Capital share betas. This figure plots betas constructed from Fama-MacBeth (1973) regressions of average returns on capital share beta using all assets (size/BM, REV, size/INV, size/OP, plus bonds, sovereign bonds, CDS, and options).Hindicates the horizon in quarters over which capital share exposure is measured. The sample spans the period 1963Q3 to 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

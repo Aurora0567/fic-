@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "The distribution of firm-level uncertainty in Japan. Fig. 1a plots the histogram of TFP forecast errors ϵFEˆ, and Fig. 1b plots the density of firm-level uncertainty in Japan (sd(ϵFEˆ|z˜−1)σϵ|z−1), where we construct ϵFEˆ and sd(ϵFEˆ|z˜−1)σϵ|z−1 per the discussion in Section 2.2.2. To construct Fig. 1b, we construct a histogram by sorting firms into centiles ranked by TFP. Each data point represents the standard deviation of ϵFEˆ relative to the standard deviation of ϵ within each centile."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Distribution of investment plan deviations. Fig. 2 plots the histogram of investment plan deviations, defined as i−ipkt,i−1, for the full sample of manufacturing firms."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Model timing. This figure illustrates the three sub-periods of our model."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Marginal benefit and marginal cost of improving signal precision. The figures plot illustrative graphs of how the marginal benefit and cost of learning vary with firm productivity. Graphs are plotted against V−1 (i.e., increasing signal precision). Panel a plots two representative solutions when marginal costs are constant (i.e., ζμ = ζz = 0). Panel b plots two representative solutions when the net benefit is constant in productivity (i.e., ζz=ζ¯z and ζμ=ζ¯μ). Vertical dash lines indicate where the marginal cost meets marginal benefit for each value of productivity."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Comparative statics. The figures plot a series of comparative statics exercises for each parameter. The y-axis reports the predicted moments relative to their corresponding target: “sd(ϵFE)σϵ” (solid blue line) refers to the dispersion of forecast errors relative to TFP volatility, “σ(k′kp)” (red line with crosses) refers to the dispersion of investment plan deviations, “ρ(z−1,|ϵ˜|)” (yellow line with circles) corresponds to the correlation of productivity with forecast errors having accounted for firm fixed effects, and “ρ(z−1,|ϵ˜|) no FE” (purple line with triangles) corresponds to the correlation of productivity with forecast errors without accounting for firm fixed effects. The black vertical solid dashed line is a reference line indicating our estimated parameter. χ refers to the flexibility of investment, ξ refers to the average marginal cost, ζz refers to the correlation of marginal cost with z−1, and ζμ the correlation of marginal cost with μ."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "The value of flexibility and information across firms. The figures plot ΔΠ against μ for three values of z−1. The range of μ covers three standard deviations around the mean, while the three values of z−1 cover three standard deviations of z−1 around the mean. Solid blue line plots ΔΠ for z−1 = 0, dashed red line plots ΔΠ for z−1 three standard deviations left of the mean, and dashed-dotted black line plots ΔΠ for z−1 three standard deviations right of the mean. Fig. 6a reports ΔΠ for our counterfactual analysis of the value of investment flexibility, while Fig. 6b plots ΔΠ for our counterfactual analysis of the value of information allocation. Both figures are plotted for the analysis under partial equilibrium."
+        ],
+        "correlation": []
+    }
+}

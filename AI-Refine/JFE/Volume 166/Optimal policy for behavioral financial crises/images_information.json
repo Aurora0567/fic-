@@ -1,0 +1,8 @@
+{
+    "1": {
+        "description": [
+            "Time-series variation of proxies for λ2 and Ω3.For the financial health of intermediaries λ2, I rely on He et al. (2017) which computes an intermediary capital ratio. The inverse of this capital ratio is proportional to λ2 when agents have log-utility. For Ω3, I use the inverted forecast errors made by stock market analysts on the long-term growth of stocks, a measure of Bordalo et al. (2024) which is directly constructed from survey data."
+        ],
+        "correlation": []
+    }
+}

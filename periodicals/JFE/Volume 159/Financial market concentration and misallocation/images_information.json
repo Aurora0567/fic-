@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Fig. B.1. Interest rate data."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. B.2. Data on cost of capital and discount rates."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Fig. B.3. Interquartile range of firm-level TFP. Raw data are plotted in solid lines, linear trend is plotted in dashed lines."
+        ],
+        "correlation": []
+    }
+}

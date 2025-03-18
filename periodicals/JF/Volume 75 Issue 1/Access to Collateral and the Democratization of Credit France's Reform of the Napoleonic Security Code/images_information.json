@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Comparison of French security law regimes. The table compares the old French security law introduced by the Napoleonic Civil Law Code in 1804, the noncodified laws enacted in the late 1970s and early 1980s, and the new security law introduced byOrdonnance 2006-346in 2006.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Evolution of mean total leverage. This figure shows the evolution of the mean total leverage ratio by fixed assets quartile (Q) over the 2001 to 2009 period. Q1, Q2, Q3, and Q4 indicate the first, second, third, and fourth fixed assets quartile, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Evolution of mean short-term versus mean long-term leverage. This figure shows the evolution of mean short-term and mean long-term leverage by fixed assets quartile (Q) over the 2001 to 2009 period. Q1, Q2, Q3, and Q4 indicate the first, second, third, and fourth fixed assets quartile, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Evolution of the proportions of zero short-term leverage versus zero long-term leverage firms. This figure shows the evolution of the proportion of zero short-term and zero long-term leverage firms by fixed assets quartile (Q) over the 2001 to 2009 period. Q1, Q2, Q3, and Q4 indicate the first, second, third, and fourth fixed assets quartile, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The effects of the reform on long-term leverage financing. The maps depict the probability that the proportion of firms that experienced an above 5 percentage point increase in long-term leverage from before to after the reform lies above the median across departments in an area (Panel A) and that the proportion of firms with no long-term leverage before the reform but with a positive long-term leverage after the reform lies above the median across departments in an area (Panel B). The deeper red (blue) an area's color in the maps, the higher (lower) is the probability of an above median change. The black-rimmed departments contain cities with more than 1 million inhabitants.",
+        "correlation": []
+    },
+    "6": {
+        "description": "The effects of the reform on credit access inequality, by department. The maps depict each department's long-term debt Gini index for the pre-reform (Panel A) and the post-reform (Panel B) periods. We first calculate the Gini index by department and year and then average by department over the pre-reform (2001 to 2005) or post-reform (2006 to 2009) period. Darker (lighter) blue departments have a higher (lower) Gini index value. The black-rimmed departments contain cities with more than 1 million inhabitants.",
+        "correlation": []
+    },
+    "7": {
+        "description": "The effects of the reform on enterprise birth rates. The map depicts the probability with which the department-level median change in the ratio of start-up businesses per 1,000 workers from before to after the reform lies above the top decile across all departments. The deeper red (blue) an area's color in the map, the higher (lower) is the probability. The black-rimmed departments contain cities with more than 1 million inhabitants.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Evolution of mean long-term leverage in the placebo countries. The figure shows the evolution of mean long-term leverage for each placebo country and fixed assets quartile (Q) over the 2001 to 2009 period. The placebo countries are Belgium, Italy, Portugal, and Spain. Q1, Q2, Q3, and Q4 indicate the first, second, third, and fourth fixed assets quartile, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Pre-reform fixed assets intensity and asset size distributions. The maps depict the probability that the fraction of firms operating in the three industries that rely most heavily on fixed assets exceeds the median across departments (Panel A), and the probability that the fraction of small firms exceeds the median across departments (Panel B) in 2005. The deeper red (blue) an area's color in the maps, the higher (lower) is the probability of being above the median. The black-rimmed departments contain cities with more than 1 million inhabitants.",
+        "correlation": []
+    }
+}

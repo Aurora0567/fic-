@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Compensation and benefits news around proxy filing dates. This figure plots the average fraction of firms in our sample with news related to the “Compensation and Benefits” SASB news category between 35 days before and after the proxy filing date (Event time = 0) in 2017 (red circles) and 2018 (blue squares), based onTruValue Labsdata. The sample is based on all firms that could be matched toTruValue Labsnews data and includes 2,154 firms. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equity market reaction and pay ratio intervals. This figure plots the relation betweenCAR[−1, +5] defined according to three asset pricing models (in basis points, vertical axis) and different pay ratio intervals (horizontal axis). For each line, we estimate the regressionCAR[−1, +5]i= a + Σ bk×II(Pay Ratioi∈$ \\in $Intervalk) + c ln(MktCap)i+ d Book-to-Marketi+ ei., where II(Pay Ratioi∈$ \\in $Intervalk)is an indicator for a firm's pay ratio being in one of the following intervals: [0,10), [10, 50), [50, 100), [100, 300), [300, 500), or [500, ∞). The cumulative abnormal returns,CAR[−1, +5] are defined in three ways: relative to the overall market return as described in SectionII.A(blue solid line with circles), relative to the CAPM (orange dotted line with squares), and relative to the Carhart (1997) four-factor model (red dashed line with triangles). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Compounded abnormal returns over 60 trading days. This figure plots 1 + abnormal returns compounded over a period of up to 60 trading days, starting one day before the pay ratio announcement date for the equally weighted portfolios of stocks with pay ratios in the bottom (solid blue line) and top (red dashed line) terciles of the pay ratio distribution. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

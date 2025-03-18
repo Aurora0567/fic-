@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Responses to concentrated sector productivity shocks This figure displays 10-year impulse response functions of salient firm-level and aggregate variables to a (one-standard-deviation) positive productivity shock in the concentrated sector. Unless specified, the firm-level variables refer to the concentrated sector. We scale all impulse responses by a factor of 10,000.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Responses to low-concentration sector productivity shocks This figure displays 10-year impulse response functions of salient firm-level and aggregate variables to a (one-standard-deviation) positive productivity shock in the low-concentration sector. The sectoral location (concentrated or low-concentration sector) of firm-level variables is typically identified, except for capacity utilization, which varies only in the concentrated sector. RP refers to the risk premium. We scale all impulse responses by a factor of 10,000.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Industry concentration and equity returns with high operating leverage This figure displays, through a three-dimensional surface plot, the relation of mean equity returns and industry concentration (inversely related to the number of industry firms) for high ratios of fixed-to-marginal costs, or high (operating leverage/operating profits) ratios, in the industry equilibrium analyzed in Section 4.1. The mean returns are computed from 1,000 simulations of 59 yearly observations.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Industry concentration and equity returns with low operating leverage This figure displays, through a three-dimensional surface plot, the relation of mean equity returns and industry concentration (inversely related to the number of industry firms) for low ratios of fixed-to-marginal costs, or high (operating profits/operating leverage) ratios, in the industry equilibrium analyzed in Section 4.1. The mean returns are computed from 1,000 simulations of 59 yearly observations.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Industry concentration and equity returns with high adjustment costs This figure displays, through a three-dimensional surface plot, the relation of mean equity returns and industry concentration (inversely related to the number of industry firms) for high levels of adjustment costs in the industry equilibrium analyzed in Section 4.1. The mean returns are computed from 1,000 simulations of 59 yearly observations.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Number of transactions per quarter. In this figure, we plot the number of PE transactions we observe per quarter after cleaning the data as described in the paper and AppendixE. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Indices over time. This figure illustrates the value of investing $1 in various indices at the beginning of 2006 as labeled. The Market PE indices are the indices based on secondary market transactions. The Public Market index is based on the public market return as posted on Ken French's website. We build the Preqin indices based on NAVs reported in Preqin. The Burgiss index is a NAV-based buyout index. The S&P Listed Private Equity Index is an index composed of publicly traded PE funds. The chart uses a log scale for the vertical axis.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cash flows for the representative fund. This figure illustrates the cash flows of the representative fund we use to create synthetic funds that invest in stock deciles. These cash flows are the average cash flows of all funds in our index based on fund inception time. We build our index using funds with recorded cash flows in Preqin from 2006 to 2018 with vintages spanning from 1988 to 2016. We scale all fund flows to a $1 commitment, align flows in fund inception time (as if they all made their initial capital call at the same moment), and calculate the average net flows across funds each quarter from fund inception to liquidation. We use NAV as a terminal value for funds not yet liquidated by the end of the sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

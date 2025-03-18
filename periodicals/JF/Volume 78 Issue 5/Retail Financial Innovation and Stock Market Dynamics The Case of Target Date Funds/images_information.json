@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Size of assets in TDFs, target date CITs, and balanced funds by year. This figure plots the sum of total net assets of target date funds (TDFs), target date collective investment trusts (CITs), and balanced funds (BFs) during 2000Q1 to 2021Q4. Assets in TDFs and BFs are estimated usingCRSP. Assets in CITs are collected from annualMorningstarTDF research reports. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Distribution of index fund share in TDF portfolios. This histogram presents the fractions of TDF portfolios invested in index mutual funds. Observations are for each TDF quarter and include only TDFs for which the value of available holdings (including cash) is larger than 90% of fund assets. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Median rebalancing by equity share. The connected line plots the median ratio of rebalancing for each equity-share-based bin. The outcome variable is calculated as(Rebal.tradeq/TNAq−1)/(RE−RB)×0.1$(Rebal.\\:trade_{q}/TNA_{q-1})/(R^E-R^B)\\times 0.1$, the amount of rebalancing trade (in equity or bonds) for each dollar of TDF asset divided byRE−RB$R^E-R^B$and multiplied by 0.1 so as to show the amount of rebalancing for each 10% movement inRE−RB$R^E-R^B$. Each bin represents the interval with a length of 0.1, and the median is taken across time and across TDFs. The bin that centers at 0.25 includes all TDFs whose equity share is at or below 30% (several bins are combined into one due to small numbers of observations). The dotted line represents the theoretical predicted magnitude of the ratio at the midpoint of each interval. Panels (a) and (b) use the full sample, (c) and (d) use the sample of passive TDFs whose holdings in index mutual funds are at least 50% of their portfolio values, and (e) and (f) use the sample of active TDFs whose holdings in index funds are less than 50% of their portfolio values. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Aggregate retail/institutional flows and TDF flows to U.S. domestic equity funds. This figure plots the aggregate quarterly dollar flows to U.S. domestic equity mutual funds through retail and institutional share classes (Panel A) and TDF rebalancing (Panel B) during 2008Q3 to 2018Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Returns from TDF-based long-short trading strategy. This figure shows the cumulative seven-factor alphas from investing in a portfolio of stocks with the highest TDF ownership and shorting a portfolio with the lowest TDF ownership when the excess stock market return in the current month (Panel A) or previous month (Panel B) is negative, and the reverse when the excess stock market return is positive. The sample includes NYSE-, NASDAQ-, and AMEX-traded stocks with market capitalizations that are above the fifth percentile on the NYSE and with beginning-of-month prices above five dollars. In each quarter and within each size group based on market capitalization (the size groups are defined according to NYSE size breakpoints that are at five-percentile increments), stocks are sorted two ways into quintiles, first by mutual fund ownership (calculated as the sum of ownership by mutual funds that are not held by TDFs), and second by TDF ownership. Cells with fewer than five stocks are dropped. The trading strategy in the top panels (bottom panels) invests in the highest TDF portfolio and shorts the lowest TDF portfolio in monthtif(RE−RB)m<0$(R^E-R^B)_{m}&lt;0$((RE−RB)m−1<0$(R^E-R^B)_{m-1}&lt;0$) and takes the reverse positions (long the lowest TDF portfolio and short the highest TDF portfolio) if(RE−RB)m>0$(R^E-R^B)_{m}&gt;0$((RE−RB)m−1>0$(R^E-R^B)_{m-1}&gt;0$). Betas are estimated using the pre-PPA window of 1996 to 2005. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "TDF contrarian trades and cumulative stock returns. This figure plots the effect of TDFs on cumulative seven-factor alphas from the month of the return shock (monthm) to monthm+h$m+h$. The estimation follows equation (8), and the coefficientsλĥ$\\widehat{\\lambda _{h}}$are plotted as a function ofh. Betas are calculated using the pre-PPA window 1996 to 2005. Confidence intervals are based on standard errors that are clustered two ways, by stock and time.",
+        "correlation": []
+    }
+}

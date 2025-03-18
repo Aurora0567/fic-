@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Distribution of trade size and subpenny prices for marketable retail orders. These figures graph summary statistics for the marketable retail investor trading we identify. Our sample period is January 2010 to December 2015, and our sample firms are all common stocks listed on U.S. stock exchanges with a share price of at least $1. In Panel A, we compute the trade size in dollars as the number of shares multiplied by transaction price. For each year, we report the cross-sectional median, 25thpercentile, and 75thpercentile. In Panel B, we separate trades into 12 groups based on subpenny increments: trades at the whole penny, at the half penny, and in buckets that are 0.1 cent wide. We show the cross-sectional median of the daily number of shares traded in each group. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of marketable retail investor order imbalances. These figures plot time-series statistics of identified marketable retail investor trading activity. Our sample period is January 2010 to December 2015, and our sample firms are all common stocks listed on U.S. stock exchanges with a share price of at least $1. We plot the cross-sectional mean, median, 25thpercentile, and 75thpercentile for each day. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Portfolio return difference using previous week's marketable retail order imbalance. These figures plot weekly value-weighted portfolio return differences between quintile 5 and quintile 1, where stocks are sorted on the previous week's marketable retail order imbalance calculated using the number of shares traded (mroibvol). Our sample period is January 2010 to December 2015, and our sample firms are all common stocks listed on U.S. stock exchanges with a share price of at least $1. Portfolio returns are computed using the end-of-day bid-ask average price (bidaskret) in Panel A and the CRSP closing price (crspret) in Panel B. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

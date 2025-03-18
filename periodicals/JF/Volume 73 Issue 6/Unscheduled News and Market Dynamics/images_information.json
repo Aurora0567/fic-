@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "The asset value dynamics.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium dynamics around positive news arrival.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Market depth steady-state dynamics.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Dynamics of market depth. At the ask price following arrival of positive news.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Effects of news arrival frequency. I analyze the effects of an increase in news arrival frequency, keeping unconditional price variability constant. The square root of price variability is set toσ=20(thick curves) orσ=40(dashed curves). The probability of news arrival increases from 0 to 0.5 as μ increases from 0 to 1. Panel A plots equilibrium market depth,αeq. Panel B plots equilibrium limit order execution rate,φeq. Panel C plots the transition durationT, expressed in seconds when the game horizon is a day (eight hours). Panel D plots the trades' share in orders' outflow due to news,TSnews. Panel E plots the ratio of trades' share (RTS). Panel F plots the trading volume-price variability covariancecovP,V. I set the other parameters tor=1(intensity of termination date),ρ=2(intensity of private valuation changes),Δ=1(tick size),δ=6(asset holding cost of a low private valuation investor), andλ=10,000 (intensity of news reaction delay).",
+        "correlation": []
+    },
+    "6": {
+        "description": "Market dynamics around news. In this figure, news is positive and occurs att=0. Time is in seconds when the trading horizon is a trading day (eight hours). Panel A plots the asset price dynamics when the price change occurs att=0.5. Panel B plots the trading intensity. Panel C plots the depth imbalance between ask and bid sides,DEimbA/B(up). Panel D plots the market order imbalance,MOimbA/B. Panel E plots the cancelation imbalance,CAimbA/B. I set the parameters toμ=1(news arrival frequency),ω=20(jump size),r=1(intensity of termination date),ρ=2(intensity of private valuation changes),Δ=1(tick size),δ=6(asset holding cost of a low private valuation investor), andλ=10,000 (intensity of news reaction delay).",
+        "correlation": []
+    }
+}

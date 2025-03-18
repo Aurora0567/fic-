@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "States of nature. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timing and decisions in period 1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Δ1B(D⌢1B)as a function ofD⌢1B. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The effect of anticipated liquidity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Δ1B(D⌢1B)as a function ofD⌢1B. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Weakness of internal control. This figure plots the series of percentage of firms that were reported as having weak internal controls. The data are obtained as the variable AUOPIC from the Compustat Annual database. This dummy variable is set to one for firms reporting an internal control deficiency, which is a material weakness in the client's internal control systems, in the restatement year and/or the two subsequent years, otherwise it is set to zero. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Covenant-lite loans and as fraction of leveraged loans.",
+        "correlation": []
+    }
+}

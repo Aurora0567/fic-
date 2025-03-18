@@ -1,0 +1,8 @@
+{
+    "1": {
+        "description": [
+            "The Estimated Effect of the BlackRock-BGI Merger on Cash Holding (upper panel) and on Square Root of Fragility at the Level of Family of Funds (lower panel). The figure shows the estimated coefficients on treatment (leads and lags) surrounding the BlackRock-BGI merger together with the 95% confidence intervals. The regressions include firm fixed effects as well as quarter-industry (SIC 3) fixed effects and are reported in Table IA.4 in the Online Appendix. Standard errors are adjusted for clustering at the firm level. The data is quarterly from 2008Q1-2010Q4. Merger Treatment equals one if the stock was jointly held by Blackrock and BGI in 2008 Q4 and 0 if the stock was held by only one of Blackrock and BGI in 2008Q4."
+        ],
+        "correlation": []
+    }
+}

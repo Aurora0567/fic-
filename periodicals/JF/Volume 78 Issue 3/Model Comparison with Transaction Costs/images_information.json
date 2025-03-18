@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Maximum squared Sharpe ratios of the CAPM, the Fama-French three-factor (FF3) model, and the low-volatility industry-relative-reversal factor (LV-IRR). The blue (left) bars, “Gross SR2,” use factor returns that ignore transaction costs. The red (right) bars, “Net SR2,” use factor returns that account for transaction costs. A negative squared Sharpe ratio indicates that the corresponding Sharpe ratio is negative before squaring. The sample period is January 1972 to December 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Maximum squared Sharpe ratios of factor models. This figure presents maximum squared Sharpe ratios from the factors in the models listed on thex-axis. The blue (left) columns, “Gross SR2,” use factor returns that ignore transaction costs. The red (right) columns, “Net SR2,” use factor returns that account for transaction costs. The sample period is January 1972 to December 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Performance of ex ante optimal portfolios of candidate model factors. The figure shows the performance over time, net of transaction costs, of $1 invested in portfolios constructed using factors from each of the six candidate models (FF5, FF6, HXZ4, BS6, FF5C, and FF6C). Each month, a portfolio holds each factor in proportion to the optimal weights estimated using only returns prior to portfolio formation in expanding windows. The data cover January 1972 through December 2021, but we require a minimum of 10 years to estimate portfolio weights, so the returns begin in January 1982. AppendixBprovides details of our calculation of cumulative returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Frontier expansion (squared Sharpe ratio improvement) from adding anomalies to asset pricing models. For each asset pricing model we consider,M, and each of the 205 anomalies,A, described in SectionIV, we compute the maximum ex post squared Sharpe ratio attainable from the model's factors,SR2(M)$\\text{SR}^2(M)$, along with the maximum squared Sharpe ratio attainable from the model's factors and the anomaly,SR2(M,A)$\\text{SR}^2(M,A)$. We then compute the squared Sharpe ratio improvement,%ΔSR2(M,A)=SR2(M,A)/SR2(M)−1$\\%\\Delta \\text{SR}^2(M,A) = \\text{SR}^2(M,A)/\\text{SR}^2(M)-1$. This figure depicts plots of the percentiles from the distribution of the 120%ΔSR2(M,A)$\\%\\Delta \\text{SR}^2(M,A)$for each model specified by the plot legend. Panel A (B) ignores (accounts for) transaction costs. For ease of visualization, they-axis is truncated at 250%. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Net-of-costs maximum squared Sharpe ratios with cost mitigation.This figure presents maximum squared Sharpe ratios, accounting for trading costs, for versions of the six candidate factor models constructed to be transactionally efficient. The blue columns, which serve as a baseline, use the standard academic factors, which are designed without any specific concerns for minimizing transaction costs. The red columns assume that traders can realize the full benefits of trading diversification. The yellow columns are based on factors that use the banding strategy with a 20% buy/hold spread described in SectionV. The purple columns employ both cost mitigation strategies. The sample period is January 1972 to December 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Performance of transactionally efficient ex ante optimal portfolios. The figure shows the performance over time, net of transaction costs, of portfolios constructed from factors, using both netting and banding, for each of the six candidate models (FF5, FF6, HXZ4, BS6, FF5C, and FF6C). Portfolios are constructed each month using only returns prior to portfolio formation in expanding windows. The data cover January 1972 through December 2021, but we require a minimum of 10 years to estimate portfolio weights, so the returns begin in January 1982. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

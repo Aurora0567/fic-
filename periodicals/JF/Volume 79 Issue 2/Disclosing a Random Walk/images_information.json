@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "The no-disclosure price in a one-period model as a function of the thresholdx. The unique equilibrium threshold isx∗$x^*$and, as the graph shows, it equals the minimum no-disclosure price. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium prices and thresholds in a two-period model as functions ofw1$w_1$. Each of the two random steps has a Normal distribution with zero mean and a standard deviation of 10. In addition,V0=100$V_0=100$andπ=0.9$\\pi =0.9$. In this example, the equilibrium is unique for any value ofw1$w_1$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

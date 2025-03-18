@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Weekly 15- and 30-year mortgage rates.Source: Freddie Mac.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Monthly production of MBS. All issuers are included. [Color figure can be viewed at wileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Abnormal trading costs for SPs with LTV ratios greater than 0.95 and less than 1.15. [Color figure can be viewed at wileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Daily trading volume of 30-year TBA dollar rolls and 30-year SPs. [Color figure can be viewed at wileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

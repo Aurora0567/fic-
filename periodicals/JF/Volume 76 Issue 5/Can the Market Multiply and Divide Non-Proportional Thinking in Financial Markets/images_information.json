@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Display of changes in the value of stocks.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Shape of volatility-price relation. Panel A of this figure shows the non-parametric shape of the volatility-price relation. It repeats the regression from column (4) of TableIIPanel A, which controls for size categories and year-month fixed effects, replacing the continuous Log(Lagged Price) variable with 20 lagged share price bin indicators, with each bin containing the same number of observations. The resulting coefficients are plotted with vertical bars indicating 95% confidence intervals. Quantile 20 is omitted. Panel B repeats the analysis of Panel A, with the modification that each bin represents an equal range of logged prices, again controlling for size and time fixed effects. The omitted category represents log lagged share price in the range of 5.0 to 5.25. Standard errors are double-clustered by stock and year-month.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cross-sectional estimation. For each of the 1,085 calendar year-months in our full data sample, we estimate a cross-sectional regression of log volatility on lagged log price, controlling for 20 size categories. This figure plots a histogram of the estimated coefficients on lagged log price from the 1,085 regressions. The mean of the coefficients is −0.31, and the standard deviation is 0.10.",
+        "correlation": []
+    },
+    "4": {
+        "description": "How price affects the size-volatility and size-beta relations. This figure explores the extent to which nominal price differences explain the negative volatility-size and beta-size relations. Panel A shows the coefficients from a regression of log volatility or log absolute beta on 20 size category indicators (defined using the Fama–French size category cutoffs in the corresponding year-month, with the largest size bin as the omitted category) as of the end of the previous month, after controlling for year-month fixed effects. Panel B shows the same set of coefficients after adding in a single additional control variable for the log of the lagged nominal share price. Dots represent coefficient estimates and vertical lines represent 95% confidence intervals. Standard errors are double-clustered by stock and year-month.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Regression discontinuity: Intraday price range around stock splits. This figure shows changes in volatility around 2-for-1 stock splits. It examines 45 days before and after the pre-announced split execution date. Volatility is proxied for by the intraday price range percentage, defined as100×High−LowHigh. The day of the split execution event is excluded. The thick lines represent non-parametric estimates of the mean on a given day, estimated using a local linear regression with a triangular kernel and MSE-optimal bandwidth. The thin lines represent 95% confidence intervals. Dots show raw means for each event day.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Event study: Volatility and beta around stock splits. This figure show changes in total volatility (Panel A), idiosyncratic volatility (Panel B), and market beta (Panel C) in each event-month around stock splits. Observations are at the stock-month level, and the sample is limited to the six months before and after a split. Event month−1is the omitted category. Dots in the left graphs represent point estimates for theβkcoefficients in equation (7) (Single Difference), separately for 2-for-1 and 3-for-2 splits. Dots in the right graphs represent point estimates for theβkcoefficients in equation (8) (Difference-in-Differences). Vertical lines represent 95% confidence intervals. The coefficientβ0is not shown, since event monthk=0contains both pre-split and post-split days. Standard errors are double-clustered by stock and year-month.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Event study: Volume around stock splits. This figure shows how volume changes around splits. We repeat the analysis in Figure6, with total volume turnover as the dependent variable.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Retail trading activity around splits. This figure shows changes in retail trading frequency around 2-for-1 stock splits. The data come from Odean (1998) and cover all retail trades for a large discount broker (LDB). In Panel A, dots show the number of executed trades by LDB clients. In Panel B, dots show the number of executed buy orders by LDB clients. In Panel C, dots show the number of executed sell orders by LDB clients. The lines come from local linear regressions estimated with a 10-day bandwidth and triangular kernel. The dots show raw means for each event day.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Nature of retail investors holding stocks around splits. This figure shows changes in retail ownership around 2-for-1 stock splits. The data come from Odean (1998) and covers all retail trades for a large discount broker (LDB). The dots show the mean income of associated LDB accounts that hold the stock around the split event. The inner lines come from local linear regressions estimated with a 10-day bandwidth and triangular kernel. The outer lines represent 95% confidence intervals. The raw data provide income ranges rather than exact income. Following Barber and Odean (2001), we assign income according to the midpoint of an individual's income range. We classify individuals in the top income range (>$125,000) as having an income of $137,500.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Nature of mutual funds holding stocks around splits. This figure shows how the nature of mutual funds holding each stock changes around stock splits. We repeat the analysis in Figure6, with the log of the average size of mutual funds holding the stock and the log of the average concentration of mutual funds holding the stock as the dependent variables in Panels A and B, respectively. Both averages are weighted by the size of mutual funds' positions in the stock. Concentration is measured as the Herfindahl index of the funds' positions.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Long-run reversal, sorted by lagged price. This figure plots cumulative abnormal returns to holding equal-weighted winner and loser portfolios in each lagged share price quintile. Stocks are first sorted in each year-monthtby past cumulative abnormal returns over the interval[t−36,t−1]. The winners portfolio consists of all stocks in the top decile of past performance, and the losers portfolio consists of all stocks in the bottom decile of past performance. The winner and loser portfolios are then partitioned into quintiles in terms of lagged share price as of montht−37, which precedes the period used to categorize winners and losers. Past performance and subsequent cumulative abnormal returns are measured using market-adjusted returns as in De Bondt and Thaler (1985).",
+        "correlation": []
+    },
+    "12": {
+        "description": "Option-Implied Volatility Around Splits and Trading Strategy. Panel A of this figure plots implied volatility and realized volatility around stock splits. Implied volatility is calculated by OptionMetrics as a linear combination of implied volatilities from call options with approximately 30-day maturities. Realized volatility represents the realized volatility over the matching subsequent 30-day period. The sample is limited to 2-for-1 stock splits or greater, and includes 921 firm-split events from 1995 to 2015 where data are available from OptionMetrics. Panel B plots the returns to a straddle trading strategy. We identify all call and put options on a given stock of matching time-to-maturities that satisfy basic filtering criteria. These filters are: (1) option prices are at least $0.125; (2) underlying stock prices are at least $5; (3) options have positive open interest; (4) basic no-arbitrage bounds hold (e.g., bid>0, bid<offer, strike price≥bid and offer≥max(0, strike price – stock price) for put options); (5) time to maturities are between 10 to 60 days; and (6) at the time of straddle formation, options must have an absolute delta between 0.375 and 0.625. For each pair of puts and calls with matching maturities and strike prices, we construct a delta-neutral straddle. A delta-neutral straddle involves purchasing a put and a call. The weights of the put and call in the portfolio are given by−(δp)/(δc-δp) and (δc)/(δc-δp), respectively, whereδcandδpare the delta of the call and put option, respectively. For splits with multiple straddles available, we weight each straddle using the minimum open interest of the call or put side of the straddle. For each split event, we construct the straddle portfolio on the split execution date (and reconstruct it every fifth day for the next 35 days) and measure the returns to holding the portfolio for five days, using the median of end-of-day bid and ask quotes to construct returns. There are 819 split events in this sample. The figure plots the average daily compounded return of the straddle strategy, with vertical lines representing 95% confidence intervals.",
+        "correlation": []
+    }
+}

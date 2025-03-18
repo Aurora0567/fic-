@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Illustration of the data-generating process τ indexes days, t for months, i for stocks, and m for articles. L is the number of narratives, and V is the size of the vocabulary.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Full-sample estimates with varying λ values",
+        "correlation": []
+    },
+    "3": {
+        "description": "L2 norm of Γ in expanding training samples The horizontal axis is the end of the expanding training samples. The start is always 1985.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Out-of-sample MVE Sharpe ratio versus λ Out-of-sample MVE Sharpe ratios for different regularizing constant (λ) values.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Out-of-sample MVE cumulative returns Cumulative returns of the OOS fMVE in different specifications. The left panel fixes K = 3 and plots the benchmark specification in green, the unregularized in blue, and the market factor in red for comparison. The right panel always uses regularization but varies K=1∼6⁠. In both figures, the return sequences are standardized with the same standard deviations as the market return.",
+        "correlation": []
+    },
+    "6": {
+        "description": "News-based pricing kernel (⁠xMVE⁠) forecasts future macroeconomic variables Each figure reports the estimation results of predictive regression (9) for a macroeconomic variable. The red line plots coefficient (bh) estimates, and the shaded band represents the 90% confidence interval. We use the Newey-West standard errors computed with h lags to account for the autocorrelation.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Risk factor interpretation at the narrative level This figure plots the narrative-level impact vectors. The length of the bars represents the absolute values of corresponding entries, with red for negative impact and blue for positive.",
+        "correlation": []
+    },
+    "8": {
+        "description": "MVE state variable (⁠xMVE⁠) interpretation at the term level The figure illustrates each term’s impact on the MVE state variable (⁠Iw→MVE⁠). A term’s font size corresponds to the absolute magnitude of its impact. The construction method is detailed in Section 6.1.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Event retrieval for market returns Blue curve: Daily market returns adjusted by conditional volatility, τστfτMktστMkt⁠, where στστMkt is EWMA volatility. We tag large spikes with retrieved news events. The article titles are reported in this figure, and the text bodies are in Internet Appendix D.2.",
+        "correlation": []
+    }
+}

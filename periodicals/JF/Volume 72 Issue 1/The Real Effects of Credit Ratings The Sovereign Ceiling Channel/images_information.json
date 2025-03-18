@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Sovereign ceiling rule. This figure shows the relation between sovereign and corporate credit ratings. The sample consists of WRDS-Factset Fundamentals Annual Fiscal (North America and International) nonfinancial firms over the 1990 to 2013 period. Panel A shows the frequency of S&P long-term foreign-currency corporate credit ratings by the sovereign rating of their country of domicile. Observations for countries with AAA ratings are excluded as, by definition, the sovereign ceiling policy does not represent a constraint for corporations when the sovereign has the maximum attainable rating. Panel B plots the distribution of the difference between corporate ratings and sovereign ratings.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Frequency of corporate downgrades around a sovereign downgrade by distance from sovereign. This figure shows the fraction of firms in each group whose rating is downgraded in the month before, the month of, and the month after a sovereign downgrade. Observations are grouped according to the predowngrade difference between the corporate rating and sovereign rating. The sample consists of WRDS-Factset Fundamentals Annual Fiscal (North America and International) nonfinancial firms over the 1990 to 2013 period.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Corporate ratings around a sovereign downgrade. This figure shows the evolution of corporate ratings of treatment and control groups around a sovereign downgrade (which occurs between year −1 and year 0). Corporate ratings are converted to a numerical scale with 22 corresponding to the highest rating (AAA) and one to the lowest (default). Treated firms have a credit rating equal to or above the sovereign rating in the year before a sovereign downgrade. Control firms are matched firms using the Abadie and Imbens matching estimator. The covariates are country, year, size, investment, Tobin'sQ, cash flow, cash, leverage, foreign sales, government ownership, and exposure to government spending (pretreatment values). In Panel B, the covariates also include industry (Fama-French 12-industry classification).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Investment around a sovereign downgrade. This figure shows the evolution of the investment rate of treatment and control groups around a sovereign downgrade (which occurs between year −1 and year 0). Investment rate is the ratio of annual capital expenditures to lagged net property, plant, and equipment. Treated firms have a credit rating equal to or above the sovereign rating in the year before a sovereign downgrade. Control firms are matched firms using the Abadie and Imbens matching estimator. The covariates are country, year, industry (two-digit SIC in Panel A and Fama-French 12-industry classification in Panel B), size, investment, Tobin'sQ, cash flow, cash, leverage, foreign sales, government ownership, and exposure to government spending (pretreatment values).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Debt and equity issuance around a sovereign downgrade. This figure shows the evolution of net debt and net equity issuance of treatment and control groups around a sovereign downgrade (which occurs between year −1 and year 0). Net debt issuance is the ratio of debt issuance to lagged total assets. Net equity issuance is the ratio of sales of common and preferred stock minus repurchases of common and preferred stock to lagged total assets. Treated firms have a credit rating equal to or above the sovereign rating in the year before a sovereign downgrade. Control firms are matched firms using the Abadie and Imbens matching estimator. The covariates are country, year, industry (two-digit SIC), size, investment, Tobin'sQ, cash flow, cash, leverage, foreign sales, government ownership, and exposure to government spending (pretreatment values).",
+        "correlation": []
+    },
+    "6": {
+        "description": "Corporate bond yields around a sovereign downgrade. This figure shows estimates of linear regressions of corporate bond yield of treatment and control groups around a sovereign downgrade (between month −1 and month 0). The dependent variable is the corporate bond yield. The explanatory variables are event-time dummies (month relative to the sovereign downgrade) for the treatment and control groups, and bond-event fixed effects (a dummy variable for each bond-sovereign downgrade pair). The coefficients can be interpreted as the change in bond yields around sovereign downgrades. Treated firms have a credit rating equal to or above the sovereign rating in the year before a sovereign downgrade. Control firms are matched firms using the Abadie and Imbens matching estimator. The covariates are country, year, size, investment, Tobin'sQ, cash flow, cash, leverage, foreign sales, government ownership, and exposure to government spending (pretreatment values). The sample consists of treated and control firms for which yields on local currency bond issues are available. A bond issue is required to have at least one observation in the predowngrade period and one in the postdowngrade period.",
+        "correlation": []
+    }
+}

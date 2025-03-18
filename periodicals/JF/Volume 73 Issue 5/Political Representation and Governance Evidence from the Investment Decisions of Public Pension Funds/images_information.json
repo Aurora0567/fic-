@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Average board composition (weighted by the number of PE investments). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Histograms of board composition. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Percentage of trustees with relevant experience. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Board composition and performance distribution. This figure presents the distribution of returns for the five main categories of board members and resembles a value-at-risk analysis. Observations are at the LP-investment level. Performance is measured using net IRR minus the (vintage × fund type) group mean. When calculating group means, we split investments into the following fund types: buyout, VC, RE, natural resources, funds of funds, and other PE funds. For each category of board members, we split observations into three groups. The first group includes investments made by a board that has no members belonging to that category. The second group includes investments made by a board that has a below-median percentage of members belonging to that category. Finally, the third group includes investments made by a board that has an above-median percentage of board members belonging to that category. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Explaining pension fund performance: Comparison of coefficient estimates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

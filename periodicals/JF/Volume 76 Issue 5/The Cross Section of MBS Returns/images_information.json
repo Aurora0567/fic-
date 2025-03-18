@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "Prepayment function. This figure plots prepayment as a function of borrower moneyness and realization of the level (x) and incentive-sensitivity (y) prepayment factors,ϕti=xt+ytmax(0,li−lPMMS). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Prepayment shocks. This figure plots forecast and realized prepayment as a function of borrower moneyness and a realization of the level (x), and incentive-sensitivity (y) prepayment factors. Prepayment shocks are measured as the difference between realized and forecasted factors,xt=x̂trealized−x̂tforecastandyt=ŷtrealized−ŷtforecast. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Examples of realized and forecasted prepayment. This figure plots four examples of the monthly forecast and realized conditional prepayment rate data used to estimate the innovations to the level and incentive-sensitivity prepayment risk. From top left to bottom right the data are from January 1994, May 1998, January 2010, and January 2015. They-axis is prepayment rates in percent, and thex-axis ismi−mtPMMS, or borrower moneyness. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Prepayment risk factors. This figure plots the estimated time series for the two prepayment risk factors, level (x) and incentive-sensitivity (y). Each series is the difference between realized and forecasted conditional prepayment rates in percentage terms, or prepayment surprises. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Risk loadings. This figure plots the results for the loadings on the two prepayment risk factors, level (x) and incentive-sensitivity (y), by relative coupon. Colored bars depict estimated loading values. Thin bars represent standard errors for estimated loadings. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Discount and premium RPB. This figure plots the Fannie Mae 30-year MBS market composition between discount and premium securities. We define market type by classifying any month in which more than 50% of total remaining principal balance (RPB) is discount at the beginning of the month as a discount market (DM). The remaining months are classified as premium markets (PM). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Conditional and unconditional average returns by relative coupon. This figure plots annualized average monthly returns for the full sample, within discount months, and within premium months only. The pattern of average returns is U-shaped overall, declining in discount markets, and increasing in premium markets. We exclude coupons that would require averaging over less than five observations in a particular market type. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Realized versus predicted returns, unconditional models. This figure plots annualized realized returns versus predicted returns for two passive benchmark models, by market type, and for the full sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Realized versus predicted returns, conditional models. This figure plots annualized realized returns versus predicted returns for the two- and one-factor models implied by our theory, by market type, and for the full sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Cumulative returns. This figure plots cumulative returns for our model-implied PRP portfolio (black) relative to three passive benchmarks. Max-Min (blue) is a passive long-maximum-premium-coupon short-minimum-discount-coupon portfolio, Max-Par (green) is a passive long-maximum-premium-coupon short-par-portfolio, and VWall(red) is the RPB weighted MBS index. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Firm-level ClimateRiski,t These panels report the average of firm-level ClimateRiski,t over time. Panels A and B show the time-series average of firm-level acute risk, chronic risk, and transition risk (divided by its SD in the time series), respectively. We label each spike with the corresponding topics discussed in the conference calls which contribute to the increase in each type of climate risk. Panel C plots the time-series average of proactive and nonproactive components of transition risk, divided by their corresponding SDs, based on a subsample of firms with positive transition risk.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Industry variations in ClimateRiski,t These panels plot the coefficients for industry (NAICS two-digit) fixed effects and their corresponding 95% interval from regressions of acute climate risk (panel A), chronic climate risk (panel D), transition risk (panel C), and the proactive transition risk (panel D). Time and state fixed effects are controlled in each regression. The reference industry is other services (NAICS 81).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Scatterplots of transition climate risk and external measures The panels describe the correlation between the transition climate risk and two external measures. Panel A presents the (binned) scatterplot between transition climate risk and MSCI CCI for firms that have both measures available. Panel B illustrates the (binned) scatterplot of the average transition climate risk and the direct CO2 intensity at NAICS six-digit level for the manufacturing sector, sourced from Shapiro (2021).",
+        "correlation": []
+    }
+}

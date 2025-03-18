@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Trillions Unlocked: How US Firms Spent (or Didn't Spend) Their Cash Windfall After Tax Reform\"",
+    "AIsummary": "This academic paper studies the field of economics, specifically the impact of the Tax Cuts and Jobs Act (TCJA) on US multinational firms' real and financial policies. The problem it aims to solve is understanding how the TCJA's unlocking of $1.7 trillion in cash trapped in foreign operations affects firms' decisions on capital expenditures, employment, research and development, mergers and acquisitions, dividend payments, stock repurchases, and leverage. Previous studies have used indirect measures of exposure to this policy change, but this paper proposes a direct measure using detailed data from the Bureau of Economic Analysis. The author solves the problem by implementing a difference-in-differences research design, which finds no significant association between the policy change and firms' real decisions, but a moderate positive association with stock repurchases. Additionally, the study reveals that firms retain about half of the freed cash, reducing their consolidated cash holdings post-TCJA. The method proposed by the author is a novel approach to measuring the impact of the TCJA on US multinational firms, providing valuable insights into the effects of this significant policy change.",
+    "AIkeys": [
+        "Tax Cuts and Jobs Act (TCJA)",
+        "Multinational firms",
+        "Cash repatriation",
+        "Capital expenditures",
+        "Share buybacks",
+        "Leverage",
+        "Financial policy",
+        "Corporate finance"
+    ],
+    "AItitle-cn": "“万亿解锁：美国企业如何在税制改革后花费（或不花费）现金”",
+    "AIsummary-cn": "本文研究了经济学领域，特别是《减税和就业法案》（TCJA）对美国跨国公司实际和金融政策的影响。它旨在解决的问题是了解TCJA释放被困在国外业务中的1.7万亿美元现金如何影响公司在资本支出、就业、研发、并购、股息支付、股票回购和杠杆方面的决策。之前的研究使用了间接的方法来衡量这一政策变化的影响，但本文使用经济分析局的详细数据提出了一种直接的方法。作者通过实施差异研究设计来解决这个问题，该设计发现政策变化与企业的实际决策之间没有显著关联，但与股票回购之间存在适度的正相关关系。此外，该研究表明，公司保留了大约一半的自由现金，减少了TCJA后的合并现金持有量。作者提出的方法是一种衡量TCJA对美国跨国公司影响的新方法，为这一重大政策变化的影响提供了有价值的见解。",
+    "Highlights": "学术要点 1：差异化研究设计（Difference-in-Differences Research Design） 本文采用此方法来评估税法变动对公司行为的影响。|||\n学术要点 2：贝劳经济分析局（Bureau of Economic Analysis, BEA） 数据来源于该机构，提供了详细的公司海外业务数据。|||\n学术要点 3：流动性陷阱（Liquidity Trap） 公司因税法而将大量现金锁定在海外，直到税改后才得以解脱。|||\n学术要点 4：财务弹性度量（Financial Flexibility Measures） 用于衡量公司的财务能力和应对外部冲击的灵活性。|||\n学术要点 5：股权回购（Stock Repurchases） 公司利用解禁资金进行的大规模股票回购活动，影响公司价值和股东利益。",
+    "AIfig": "本图展示了对美企海外现金流动性的影响分析结果，包括投资、就业、现金持有和股息支付等方面。"
+}

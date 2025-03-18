@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Prelec probability weighting functions and corresponding density functions. The top panels show the Prelec probability weighting functions and the density functions for the inverse-S shape withβ=1and several values ofα≤1. The bottom panels show the Prelec probability weighting and density functions for the concave shape withα=1and several values ofβ≤1.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Fraction of portfolio allocated to the active value fund. We use funds' gross holdings-based returns from 1985 to 2008 and subtract median fees from passive and active funds, respectively, to generate bootstrapped time series of monthly returns. The passive fund is the SBM-matched benchmark portfolio. Monthly returns are cumulated into three- and five-year holding periods. Portfolio assets include a passive fund, an active fund, and a risk-free asset with a constant return. The figures showθf(n), the fraction of risky assets allocated to the active fund (n={3,5}is the holding period) as a function of Prelec β. Utility is CRRA with power parameterγ=5.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Fraction of portfolio allocated to the active growth fund. We use fund gross holdings-based returns from 1985 to 2008 and subtract median fees from passive and active fund to generate bootstrapped time series of monthly returns. The passive fund is the SBM-matched benchmark portfolio. Monthly returns are cumulated into three- and five-year holding periods. Portfolio assets include a passive fund, an active fund, and a risk-free asset with a constant return. The figures showθf(n), the fraction of risky assets allocated to the active fund (n={3,5}is the holding period) as a function of Prelec α. Utility is CRRA with power parameterγ=5.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Implied value of active portfolio. We use fund gross holdings-based returns from 1985 to 2008 to generate bootstrapped time series of monthly returns. The passive fund is either the SBM-matched benchmark or the market index. Monthly returns are cumulated into three- and five-year holding periods. Portfolio assets include a passive fund, an active fund, and a risk-free asset with a constant return. The implied value is calculated as the difference between the annualized CE returns of optimal portfolios with and without the active fund and adjusted by the fraction invested in the active fund. The top panels show results for value funds and bottom panels show results for growth funds.",
+        "correlation": []
+    }
+}

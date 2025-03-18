@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Subsamples: factor first selection rate. The figure shows the control factor selection rates for the tests of TableI(i.e., the factors selected by the first LASSO step of the double-selection procedure by cross-validation), across 200 random seeds shown in the heat maps in Figure2(corresponding to the 200 dots). In particular, for each factor identified by the factor ID (on theX-axis), the figure shows in what fraction of the 200 random seeds each factor is selected by cross-validation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Factors introduced in the 2012 to 2016 period: robustness to tuning parameters (t-statistics). The figure provides heat maps for double-selection tests of factors introduced in the 2012 to 2016 period, as in the first column of TableI, using a wide range of tuning parameters, for the first LASSO stage on theX-axis and for the second LASSO stage on theY-axis. The heat maps displayt-statistics for each factor in different models. Dots are the result of 200 time-series cross-validation estimations of the tuning parameter. The red “× ” is the average of the 200 dots, which corresponds to the model used in TableI. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Factors introduced in the 2012 to 2016 period: robustness to tuning parameters (# selected controls). The figure provides heat maps for double-selection tests of factors introduced in the 2012 to 2016 period, as in the first column of TableI, using a wide range of tuning parameters, for the first LASSO stage on theX-axis and for the second LASSO stage on theY-axis. The heat maps display numbers of controls selected for each factor. Dots are the result of 200 time-series cross-validation estimations of the tuning parameter. The red “× ” is the average of the 200 dots, which corresponds to the model used in TableI. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

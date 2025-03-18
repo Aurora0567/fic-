@@ -1,0 +1,18 @@
+{
+    "AItitle": "Revolutionizing Business Network Analysis: AI-Powered Insights Unlock Hidden Economic Connections",
+    "AIsummary": "This academic paper studies the field of finance and economics, specifically focusing on the problem of constructing accurate business networks to analyze economic connections between firms. Previous methods have relied on word-based approaches, which are limited in handling synonyms and word context. The authors propose a novel solution using open-source language models to construct time-varying global business networks based on historical business descriptions. They utilize a proprietary embedding model that handles synonyms and word context to determine the similarity of business descriptions. The authors also investigate the usability of their context-sensitive networks in predicting M&A deals and revisiting the lead-lag effect, demonstrating significant results. Additionally, they fine-tune open-source language models to distinguish between competitor, supplier, and customer relations, enabling a more focused analysis depending on the specific research question. Overall, this study contributes to the development of more accurate business networks for analyzing economic connections between firms.",
+    "AIkeys": [
+        "Business network analysis",
+        "Language models in finance",
+        "Economic connection mapping",
+        "Mergers and acquisitions prediction",
+        "Lead-lag effect analysis",
+        "Context-sensitive networks",
+        "Text-based business descriptions",
+        "Entity relationship extraction"
+    ],
+    "AItitle-cn": "革新商业网络分析：人工智能驱动的洞察解锁隐藏的经济联系",
+    "AIsummary-cn": "这篇学术论文研究了金融和经济领域，特别关注构建准确的商业网络来分析企业之间的经济联系的问题。以前的方法依赖于基于单词的方法，这些方法在处理同义词和单词上下文方面存在局限性。作者提出了一种新的解决方案，使用开源语言模型基于历史业务描述构建时变全球业务网络。他们利用专有的嵌入模型来处理同义词和单词上下文，以确定业务描述的相似性。作者还研究了他们的上下文敏感网络在预测并购交易和重新审视领先滞后效应方面的可用性，并展示了显著的结果。此外，他们还微调了开源语言模型，以区分竞争对手、供应商和客户关系，从而根据具体的研究问题进行更集中的分析。总的来说，这项研究有助于开发更准确的商业网络来分析企业之间的经济联系。",
+    "Highlights": "学术要点 1：全球商业网络（Global Business Networks） 本研究构建了一个历史性的全球商业网络数据集，涵盖2000-2021年间91.6%至99.8%的美国和79.9%至98.3%的国际股票市场资本化。|||\n学术要点 2：商业描述嵌入（Business Description Embeddings） 本研究使用了开源和专有嵌入模型来构建时间变异的全球商业网络，能够处理同义词和词语背景以确定商业描述之间的相似性。|||\n学术要点 3：领先-滞后效应（Lead-Lag Effect） 本研究重温了领先-滞后效应，并发现了显著的七因素alpha在美国和全球范围内，表明商业网络可以用来预测股票市场表现。|||\n学术要点 4：并购预测（M&A Prediction） 本研究使用商业相似性预测了并购交易，并发现了显著的关系在美国和全球范围内，即使控制其他特征。|||\n学术要点 5：LLM潜在偏差（LLM Look-Ahead Bias） 本研究探讨了大语言模型（LLM）在金融和经济应用中的潜在偏差，并发现其程度取决于具体任务，但建议最好将信息处理的LLM匿名化以最小化偏差。",
+    "AIfig": "该图显示了不同US（全球）掩码商业网络中M&A目标公司的回忆分数。阴影区域表示数据的95%置信区间。"
+}

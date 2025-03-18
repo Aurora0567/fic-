@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Globe rating changes, fund flows, and performanceThis figure compares the cumulative flows for funds that experienced a globe upgrade or downgrade (Panel A) and funds that were upgraded to globe 2 or globe 5 and had experienced good (bad) performance over the prior month (Panel B). We classify a fund as having good (bad) performance if the fund's performance between t=−1 and t = 0 belongs to the top (bottom) quartile, compared to other funds during the same month. Fund flows are adjusted by the average fund flows within each Morningstar category during each month. The 90 % confidence intervals are also reported."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Google Trends searches for “Globe rating”This figure presents the search volume of the term “Globe rating” from Google Trends between March 2016 and February 2018. The monthly search volume is the four-week moving average of the weekly measure."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Globe rating distribution for ESG-focused funds and other fundsThis figure presents the distribution of globe ratings in the sample of ESG-focused funds and other funds. ESG funds are identified by searching for words associated with social and environmental objectives in the funds’ prospectuses. Morningstar gives five globes and rates a fund as “High” sustainability if the fund is in the top 10 % of funds in its category. Similarly, Morningstar assigns four globes (“Above Average”) if a fund is ranked between 10 % and 32.5 %; three globes (“Average”) if a fund is ranked between 32.5 % and 67.5 %; and two globes (“Below Average”) if a fund is ranked between 67.5 % and 90 %. A fund is given one globe and rated “Low” sustainability if it is ranked in the bottom 10 % of its category."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Differences in ESG trading across fundsThis figure compares the Abnormal ESG Trading (as defined in the Appendix) of border funds and other funds after the official publication of the globe ratings. We consider only active mutual funds and separately present the average ESG trading during March to December 2016, when border funds appear to have incentives to improve their globe ratings, and from January to September 2017, when border funds do not appear to trade in a way to improve their globe ratings. Border funds are funds with portfolio sustainability scores within +/−2.5 % of the rating cutoffs for globe 1 and globe 5."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Fund flows, ESG trading, and globe upgradesThis figure compares the cumulative flows for active mutual funds that were upgraded to globe 2 or globe 5 at t = 0. Specifically, we separate active funds into two groups based on the extent to which they have engaged in Abnormal ESG Trading (as defined in the Appendix) between t=−1 and t = 0. We classify a fund as High (Low) ESG trade if the fund's Abnormal ESG Trading belongs to the top (bottom) quartile, compared to other funds within the same Morningstar category during the same month. Fund flows are adjusted by the average fund flows within each Morningstar category during each month. The 90 % confidence intervals are also reported."
+        ],
+        "correlation": []
+    }
+}

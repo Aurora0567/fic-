@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "The main empirical construct using business combination laws. This figure illustrates the use of business combination laws to identify empirical tests. Massachusetts adopted a business combination law on July 18, 1989. Researchers assume that Massachusetts firms’ level of takeover protection was low before the law was adopted, and high afterward. Any changes in firm characteristics (e.g., investment, innovation) are attributed to the change in takeover protection afforded by the law. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "The effect of first-generation state antitakeover laws. This figure illustrates the effect of first-generation state antitakeover laws on the identification of tests that infer a change in the level of takeover protection when a business combination law is adopted, using Massachusetts' law for illustration. In the period before the U.S. Supreme Court decision inEdgar v. MITE Corp. on June 23, 1982, first-generation state antitakeover laws provided a very high level of takeover protection. By comparison, the period after the business combination law was passed on July 18, 1989 has a moderate level of takeover protection. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Effects of other state antitakeover laws. This figure illustrates the effect of the adoption of another type of antitakeover law before a business combination law is adopted. In this example, Massachusetts adopted a control share acquisition law on July 21, 1987 and a business combination law on July 18, 1989. As illustrated, the preexistence of the control share acquisition law decreases the incremental effect of the business combination law on Massachusetts firms’ takeover protection. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effects of prior firm-level defenses. This figure illustrates the effect of firm-level defenses on the incremental takeover protection afforded by a business combination law for one firm incorporated in Massachusetts. Soon after theEdgar v. MITE Corp. decision on June 23, 1982, many firms adopted firm-level protections. Cullinane Database Systems, Inc., for example, adopted a supermajority vote requirement on July 26, 1982. Massachusetts adopted a business combination law on July 18, 1989. This diagram illustrates a scenario in which the state antitakeover laws have no incremental effect on Cullinane's takeover protection. Karpoff and Malatesta (1989,1995), Szewczyk and Tsetsekos (1992), Fields and Todd (1995), Pugh and Jahera (1995), and Alexander, Spivey, and Marr (1997) report evidence that state antitakeover laws have little to no effect when the firm has a prior takeover defense. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

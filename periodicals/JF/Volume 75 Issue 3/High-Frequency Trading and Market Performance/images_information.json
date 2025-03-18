@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Illustration of equilibrium (LOB). One equilibrium scenario: (i) the investor sends orders att∈T, to either one or all exchanges depending on his type, and (ii) at least one order receives the shorter latency and is processed att+ε(solid black arrow), while any remaining orders receive the longer latency and are processed att+3ε(dashed black arrow). HFTs react to the trade(s) att+εby sending orders that may be processed att+2εort+4ε(dashed gray arrows). With a single trade att+ε, only the liquidity provider reacts. With two or more trades att+ε, snipers react as well.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Illustration of equilibrium (0ND). One equilibrium scenario: (i) the investor sends orders att∈T, to either one or all exchanges depending on his type, and (ii) at least one order receives the shorter latency, being received att+εbut not processed untilt+δND+ε(solid black arrow), while any remaining orders receive the longer latency and are processed att+δND+3ε(dashed black arrow). The liquidity provider reacts to the trade(s) att+δND+εby sending cancellations that will be processed att+δND+2εort+δND+4ε(dashed gray arrows). Sniper orders are not processed untilt+2δND+2εat the earliest, by which time all quotes have been cancelled.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Illustration of equilibrium (1ND). One equilibrium scenario: the investor sends orders att∈T, to either one or all exchanges depending on his type. LetT1denote the time at which the first of these orders is processed (solid black arrow). The liquidity provider reacts to the trade atT1by sending cancellations that will be processed atT1+εorT1+3ε(dashed gray arrows). Sniper orders are not processed untilT1+δND+εat the earliest, by which time all quotes have been cancelled. Any subsequent orders that the investor had sent (e.g., dashed black arrow) will be processed almost surely after all quotes have been cancelled.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Illustration of equilibrium (FBAs). One equilibrium scenario: the investor sends orders att∈T(dashed black arrows), to either one or all exchanges depending on his type. With probability one, these are processed during the same batch interval. LetTndenote the time at which the auctions for that interval take place and corresponding trades are announced. The liquidity provider reacts to the trade(s) atTnby sending cancellations that may be processed atTn+εorTn+3ε(dashed gray arrows). Sniper orders are processed in the same batch interval as the liquidity provider's cancellations and thus result in no trades.",
+        "correlation": []
+    }
+}

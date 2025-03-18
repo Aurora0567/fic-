@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Total number of legislation changes by year. This figure shows the cumulative number of state-level legislation changes that restricted debt collection practices between 2000 and 2015. The legislation changes that I study are described in SectionIIIof theInternet Appendix. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Contiguous border counties. This figure shows the number of borrowers in 2004, the first year of the credit sample, residing in counties at the border of a state that share a border with a county in a different state. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Timing of effect on debt collectors. This figure shows the timing of the effect of debt collection restrictions on debt collection employees (Panel A) and on the number of debt collectors per establishment (Panel B). This figure plots coefficient estimates and 95% confidence intervals from a dynamic version of equation (3), replacing theIndex$Index$variable with dummies equal to 1 exactly τ years after (or before if τ is negative) a state enacts a new piece of legislation. Observations are at the state-year level and standard errors are clustered at the state level. Controls include unemployment, income per capita, health expenditures per capita, log population, and a house price index. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Timing of effect on credit balances. This figure shows the timing of the effect of debt collection restrictions on the total credit balance (Panel A) and revolving credit balance (Panel B) of low-income borrowers. This figure plots coefficient estimates and 95% confidence intervals from equation (2). Observations are at the consumer-year level and standard errors are clustered at the state level. Controls include unemployment, income per capita, health expenditures per capita, log population, and a house price index. Also included are fixed effects to control for unobservable time-varying differences across subprime and prime consumers and across borrowers with and without accounts in collection. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Timing of effect on revolving credit limits and usage. This figure shows the timing of the effect of debt collection restrictions on the revolving credit limit (Panel A) and revolving balance-to-limit ratio (Panel B) of low-income borrowers. This figure plots coefficient estimates and 95% confidence intervals from equation (2). Observations are at the consumer-year level and standard errors are clustered at the state level. Controls include unemployment, income per capita, health expenditures per capita, log population, and a house price index. Also included are fixed effects to control for unobservable time-varying differences across subprime and prime consumers and across borrowers with and without accounts in collection. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Timing of effect on payday loans. This figure shows the timing of the effect of debt collection restrictions on the number of payday loans (Panel A) and total payday loan amount (Panel B). This figure plots coefficient estimates and 95% confidence intervals from equation (2). Observations are at the consumer-year level and standard errors are clustered at the state level. Controls include unemployment, income per capita, health expenditures per capita, log population, and a house price index. Also included are fixed effects to control for unobservable time-varying differences across subprime and prime consumers and across borrowers with and without accounts in collection. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

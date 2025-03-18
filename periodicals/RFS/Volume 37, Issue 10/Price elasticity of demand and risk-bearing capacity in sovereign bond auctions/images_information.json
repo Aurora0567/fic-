@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Example of an auction demand curve The figure presents all the bid prices for the auction of May 11, 2016 of a 10-year Treasury Bond. The range of bids was between 96.00 and 97.13 with a cut-off price of 96.78. The secondary market price at the end of the day on the same bond was 96.993. The IGCP indicated it would like to issue between €750 million and €1 billion, the bid amount was €1.83 billion, and the final allocated amount was €1.15 billion. The figure also presents four slopes used to construct four different elasticity measures. Marginal represents the slope of the demand curve using untapped demand, given by the cut-off price point and 4 unsubscribed price points to the right of the cut-off price. Total represents the slope of the demand curve using all price points. Gross represents the slope of the demand curve using just the cut-off price point and the maximum price point. Subscribed represents the slope of the demand curve using the last of the subscribed bids, given by the cut-off price point and 4 subscribed price points to the left of the cut-off price. These slopes yield the elasticity values for ME of 5.23, TE of 4.89, GE of 5.60, and SE of 6.21, respectively.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Histograms of the various elasticity measures The figure plots the histograms for ME, SE, TE⁠, and GE with a fixed domain and bin width of 0.25. The data are from 2014 to 2019.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Proportion of bins with maximum marginal revenue at and around the cut-off price For each auction and conditional on an interval of +/- €0.05 around the cut-off price, the figure plots the fraction of auctions between 2014 and 2019 whose marginal revenue is maximized at each price. Negative values to the left of the cut-off price indicate unsubscribed prices –€0.05 to –€0.01 below the cut-off price. Positive values to the right of the cut-off price indicate subscribed prices €0.01 to €0.05 above the cut-off price.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative log abnormal returns around auction day The figure displays the average cumulative log abnormal returns (in bps) between 5 days prior and 5 days after the auction day for all auctions between 2014 and 2019. The returns are normalized to 0 at the close of auction day (day 0). 90% confidence bands are also reported. The top panel presents the results for all auctions. The bottom panel presents the results partitioning the auctions between high (black line) and low (gray line) marginal elasticity according to the median value of ME⁠.",
+        "correlation": []
+    }
+}

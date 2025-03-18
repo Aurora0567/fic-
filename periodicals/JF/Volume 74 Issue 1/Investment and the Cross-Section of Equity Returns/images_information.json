@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Cross-sectional distribution of gross quarterly investment rates.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Total expenditures implied by different levels of gross investment. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Timing.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Firm dynamics after portfolio formation—with operating leverage. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Wage rate and TFP. Quarterly time series plot of deviations from a log-linear trend for the period 1964q1 to 2016q1: real wage (dashed line) and Total Factor Productivity (solid line). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

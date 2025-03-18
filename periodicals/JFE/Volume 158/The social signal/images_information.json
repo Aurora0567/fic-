@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Examples of posts across three social media platforms. Note: This figure presents example posts for StockTwits, Twitter, and Seeking Alpha. For ease of direct comparison, all three examples are about Apple stock (AAPL) on the same day (September 28, 2022). Only the summary is presented for the Seeking Alpha post; the full post is much longer."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Cross-platform correlation of social signals. Note: This figure reports the bivariate correlations of attention and sentiment signals between StockTwits and other platforms or news sources at the firm-day level. Attention is measured as the fraction of messages, reports, or articles about a firm across all firms on a platform in a day. Sentiment is measured as the average sentiment of all messages about a firm on a platform in a day."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Informativeness of social signals for cumulative abnormal returns. Note: This figure plots the estimated coefficients (and 90% confidence intervals) on the first principal components (PC1s) of sentiment signal (z) in Panel (a) and on high-level and mid-level attention in Panel (b). High-level (or mid-level) attention equals 1 if the firm-day attention PC1 is above the 67th percentile (or between percentiles 33 and 67) within a year, and zero otherwise. The outcome is the cumulative abnormal return as of day t+1, t+2, …, t+20, starting on day t+1. We estimate separate regressions for each horizon, and sentiment and attention coefficients are estimated in the same regression. (z) denotes a standardized variable (mean 0, standard deviation 1 using estimation sample statistics). Everything else follows Table 6 column 1."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "How do next-day returns relate to platform-specific social signals by Firm Size? Note: This figure plots the estimated coefficients (and 90% confidence intervals) on sentiment and attention signals (z) for StockTwits, Twitter, and Seeking Alpha for small-cap, mid-cap, and large-cap firms, separately. Firm size categories follow those in Table 1. The outcome is the abnormal return on day t+1. (z) denotes a standardized variable (mean 0, standard deviation 1 using estimation sample statistics by firm size). Everything else follows Table 6 columns 3–5."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Monthly quartiles of number of message length. Note: This figure plots monthly quartiles of number of characters per message (panel a) and monthly quartiles of the firm-day level average number of characters per message (panel b). The vertical line denotes May 8, 2019, the date when StockTwits increased its character limit from 140 characters to 1,000."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "How did the informativeness of the sentiment signal for next-day returns change around the StockTwits character limit increase? Note: This figure provides event study estimates (and 90% confidence intervals) of how the StockTwits sentiment signal relates to next day abnormal returns around the StockTwits character limit increase. The treated group is stocks whose daily average number of characters per message is in the top quartile; the comparison group is stocks in the bottom quartile. Event time 0 represents the three months following May 8, 2019 — the date of the character limit change. The omitted period is quarter −1. The sample consists of firm-day observations with at least 10 messages on StockTwits between May 8, 2018 and May 8, 2020. Everything else follows Appendix Table A14."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Mentions of “Short Squeeze” on StockTwits around the GameStop event Old vs. new users. Note: This figure presents evidence on the changing narratives of StockTwits users in the months around the GME short squeeze event. Specifically, the figure plots monthly mentions of “short squeeze” from new users (blue diamonds) and old users (black triangles) around the event. Old users are those who joined StockTwits before January 2020 and new users are those joined in or after January 2020. Dashed horizontal lines denote sub-period averages for each user group."
+        ],
+        "correlation": []
+    }
+}

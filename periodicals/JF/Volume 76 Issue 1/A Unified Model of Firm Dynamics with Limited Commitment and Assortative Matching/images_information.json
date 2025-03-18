@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Normalized value function. This figure plots the drift oflnu(top panel) and the diffusion oflnu(bottom panel) under the optimal contract.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dynamics of the normalized continuation utility. This figure plots the drift oflnu(top panel) and the diffusion oflnu(bottom panel) under the optimal contract.",
+        "correlation": []
+    },
+    "3": {
+        "description": "A sample path of CEO compensation. This figure plots a sample path of log firm size (top panel), the implied sample path for the normalized continuation utility (second panel), and the implied sample path for log CEO pay (bottom panel) in the neighborhood of the manager-side limited commitment constraint,uMIN.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Investment policy. This figure plots the optimal investment policy in the first-best case (dash-dotted line) and that under limited commitment (solid line).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Distribution of age across size. This figure plots the average firm age across 10 size-sorted portfolios. Size in the data is measured by either the number of firm employees or gross capital. Firm age on the vertical axis is measured in years.",
+        "correlation": []
+    },
+    "6": {
+        "description": "The right tails of firm size and CEO compensation. This figure plots the right tails of the distributions of firm size and CEO compensation (using 2006 data) and the corresponding slopes implied by the model. Firm size in the data is measured by market capitalization. The top and bottom horizontal axes represent CEO compensation and firm size, respectively. The vertical axis shows the complementary cumulative distribution function. The horizontal and vertical axes are on a logarithmic scale.",
+        "correlation": []
+    }
+}

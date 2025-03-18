@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Advised investors' risky share as a function of age and risk tolerance. Panel A plots estimated regression coefficients and 95% confidence intervals from regressions of risky share on age-group fixed effects and other investor attributes (TableII, Panel A). Panel B plots average risky shares for the six risk-tolerance categories as a function of client age. The solid line plots the risky share of Fidelity Clearpath target-date funds.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Allocation to U.S. equities as a function of distance to the U.S. border. We estimate a panel regression that explains variation in the allocation to U.S. equities (as a percent of total equities) with investor attributes and year fixed effects. In addition to the investor attributes reported in TableII, we also include eight indicator variables for the distance to the U.S. border. We omit the greater-than-200 miles category. This figure plots the point estimates and 95% confidence intervals for the distance indicator variables.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distributions of advisor fixed effects in risky-share and home-bias regressions. This figure plots the distributions of advisor fixed effects from the risky-share and home-bias regressions of TableII. In addition to the advisor fixed effects, the regressions include investor attributes and year fixed effects.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Advisor risky share as a function of age and risk tolerance. This figure plots the average risky share and 95% confidence interval for advisors' own portfolios as a function of advisor age (Panel A) and risk tolerance (Panel B). We compute these estimates from regressions of risky share against age and risk tolerance indicator variables and year fixed effects.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Client risky share as a function of client risk tolerance and advisor risky share. This figure sorts clients into six categories by risk tolerance and their advisors into quintiles based on the advisors' personal risky shares. We report the average client risky share for each client risk tolerance-advisor risky share combination. The leftmost group of bars contains the low-risk-tolerance clients; the rightmost group contains the high-risk-tolerance clients. Within each group, the individual bars are shaded to indicate the advisors' personal risky shares, ranging from the lowest quintile on the left to the highest quintile on the right.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Division of fees among mutual fund, dealer, and financial advisor. Using the dealer data, we measure total fees paid by the investor, composed of mutual fund management expense charges, front-end loads, and deferred-sales charges (“back-end loads”). We further divide these fees into payments to the dealer, which consist of front-end loads paid by clients and sales and trailing commissions paid by mutual funds, and payments to the mutual fund, which consist of management expense and deferred-sales charges net of dealer commissions. We use the dealer data to divide the dealer's compensation—front-end loads and sales commissions—between the dealer and the financial advisor. We use estimates from Canadian Securities Administrators (2012) to divide the mutual funds net fees into management fees to the fund company, taxes, and operating expenses.",
+        "correlation": []
+    }
+}

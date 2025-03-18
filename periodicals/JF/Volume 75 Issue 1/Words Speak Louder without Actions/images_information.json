@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Example4with quadratic utility and cost functions,b=16,δ=1, and [θ̲,θ¯]=[0,1]. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "The principal's expected utility in equilibrium whenA=1,θ¯−θ̲=1, andb=16.[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The agent's expected utility in equilibrium whenA=1,θ¯−θ̲=1, andb=16.[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The principal's expected utility as a function of ω whenA=1,θ¯−θ̲=1,B=0.1, andδ=0.1.[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

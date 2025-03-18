@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "House price variation and innovative worker location. Panel A of this figure shows quartiles of zip-code–level price variance by CBSA. Panel B shows quartiles of the number of innovative workers by CBSA, based on residence.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Treatment intensity. This figure repeats the analysis of TableIII, but separates the variable%ΔHouse Priceinto 10 decile dummy variables and plots the estimates. The specification includes firm×CBSA fixed effects, and the graphs show estimates of the nine house price change deciles relative to the omitted category, the 10thdecile (highest percentage change). The mean percentage house price change within a decile is reported below the decile label. Confidence intervals are at the 5% level.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Value of innovative output. This figure repeats the analysis of TableVII, but separates the variable%ΔHouse Priceinto 10 decile dummy variables and plots the estimates. The dependent variable is the log of firm value associated with all patents produced by a worker during the crisis. The value of each patent is estimated following the methodology of Kogan et al. (2017). This measure is based on the stock market's reaction to the announcement of a particular patent grant. The specification includes firm×CBSA fixed effects and controls for the value of a worker's output in the preperiod. The graph shows estimates of the nine house price change deciles relative to the omitted category, the 10thdecile (highest percentage change). The mean percentage house price change within a decile is reported below the decile label. Confidence intervals are at the 5% level.",
+        "correlation": []
+    }
+}

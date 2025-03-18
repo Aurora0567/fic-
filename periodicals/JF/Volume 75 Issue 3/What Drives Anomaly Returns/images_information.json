@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Anomaly return variance decompositions. This figure depicts the return variance decomposition of the five individual long-short anomaly portfolios shown in TableV. “DR” corresponds to discount rate news, and “CF” to cash flow news. The sample is the period 1929 to 2017.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Market and MVE return decompositions. This figure depicts the return variance decomposition of the market portfolio and two versions of the MVE portfolio, with and without the market, as shown in TablesIVandV. “DR” corresponds to discount rate news, and “CF” to cash flow news. The sample is the period 1929 to 2017.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Anomaly versus market CF and DR correlations. This figure depicts the correlations between anomaly and market cash flow (CF) and discount rate (DR) news shown in TableVI. The sample is the period 1929 to 2017.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Market CF and DR news versus anomaly MVE CF and DR news. The top plot shows the cash flow (CF) news from the market and the anomaly mean-variance efficient (MVE) portfolio, which combines only the long-short anomaly portfolios and uses in-sample MVE weights. The bottom plot shows analogous discount rate (DR) news. The sample is the period 1929 to 2017.",
+        "correlation": []
+    }
+}

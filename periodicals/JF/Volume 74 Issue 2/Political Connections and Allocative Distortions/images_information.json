@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "GNP candidate election poll results. This figure plots data from weekly polls conducted by the Christian Broadcasting Service. Until August 8, 2007, the graph represents the difference between the share of people that named Lee Myung Bak as the person they would vote for in a direct presidential election and those who would vote for Park Geun Hae. On August 8 and August 14, 2007, the survey asked people which candidate they would vote for in the GNP candidate election. The short line from August 8 to August 14 represents the gap between the fractions of votes for Lee Myung Bak and Park Geun Hae for this slightly different question.",
+        "correlation": []
+    },
+    "2": {
+        "description": "KOSPI in August 2007. This figure plots the value of the KOSPI in August 2007. The black downward-sloping line marks the change in the KOSPI the day after the publication of the drop in polls for Lee Myung Bak following the prosecutor's office's announcement related to the Dokokdong Land scandal (August 16, 2007). The black upward-sloping line marks the change in the KOSPI the day after the election of Lee Myung Bak as presidential candidate for the GNP (August 20, 2007).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Return distribution around Dokokdong Land scandal. This figure provides kernel density plots of cumulated log stock returns around the Dokokdong Land scandal for firms connected to one of Lee Myung Bak's networks (black line) and for nonconnected firms (gray line). The left panel displays density plots for the day after Lee Myung Bak's drop in polls was published (August 16, 2007), while the right panel displays density plots for the two days after the drop in polls was published (August 16 to August 17, 2007).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Return distribution around nomination election. This figure provides kernel density plots of cumulated log stock returns around Lee Myung Bak's nomination as the GNP's candidate for firms connected to one of Lee Myung Bak's networks (black line) and for nonconnected firms (gray line). The left panel displays density plots for the day after the nomination (August 20, 2007), while the right panel displays density plots for the week after the nomination (August 20 to August 24, 2007).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Change in procurement contract allocation. This figure plots the average annual procurement contract volume as a fraction of firm assets for connected (black line) and nonconnected firms (gray line). The values are normalized to be zero in 2007, the year of Lee Myung Bak's election.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Change in contract performance. This figure plots the probability of adverse contract outcomes for contracts allocated to firms connected to the new president's networks (black line) and to nonconnected firms (gray line) for the period from 2005 to 2011.",
+        "correlation": []
+    }
+}

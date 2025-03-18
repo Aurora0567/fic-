@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Counts of best brands’ stock, by industry This figure shows total counts of Best Brands’ stocks in each Fama-French 49 industry category during our sample, from September 2000 to December 2020.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Evolution of best brands’ industry affiliations This figure shows the number of Best Brands’ stocks by industry and year. The darker the cell color, the larger the number.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Size distribution of Best Brands’ stock across time This figure plots the percentage of number of Best Brands’ firms that belong to each NYSE size category for each year from 2000 to 2020. The categories are between 50th and 80th percentiles (large caps), between 80th and 95th percentiles (mega caps), and above 95th percentile (giga caps). NYSE different percentile breakpoints are taken from Kenneth French’s website.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative excess returns of BBs This figure plots the cumulative monthly excess returns (ie, alpha plus residuals) of BB portfolio estimated using different factor models. The sample includes 244 months ranging from September 2000 to December 2020.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Does yearly portfolio rebalancing add value? This figure plots the monthly excess returns of the BB portfolio which is rebalanced yearly following the announcement of each Interbrand list of top brands (ie, BB portfolio). In addition, the figure plots the excess return of a portfolio that invest in the 2001 list of top brands and do not change the portfolio composition during the rest of the sample. We report alphas using five different factor models including Carhart four-factor, Fama-French 5-factor plus momentum (FF6), q, q-5, and AQR 6-factor model. The factors in FF6 are market (Mkt), size (SMB), value (HML), momentum (MOM), profitability (RMW), and investment (CMA). The q-model has market, size (R_ME), investment (R_IA), and profitability (R_ROE), and the q5 model adds to these the expected investment growth factor (R_EG). The AQR model includes the market, size, value, and momentum (UMD), and adds to them betting against beta (BAB) and quality minus junk (QMJ) factors.",
+        "correlation": []
+    }
+}

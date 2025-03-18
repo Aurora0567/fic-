@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Cumulative fund flows by sustainability rating. Estimates are accumulated from a local linear plot of monthly flows after removing year-by-month fixed effects for nine months before and 11 months after rating publication (denoted by the dashed vertical line). Shaded areas indicate the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Example of globe rating on Morningstar website. This figure provides an example from Morningstar's website of how sustainability information is displayed on a fund's web page. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Google search for sustainability and star rating. This figure shows monthly Google search volume based on sustainability rating and Morningstar star rating. The maroon line is based on searches for “Morningstar globe rating,” while the navy line represents searches for “Morningstar star rating.” Data are from a search for both terms jointly so that the magnitude of the two lines can be directly compared. The monthly measure is the average of the weekly measure, where months are defined based on the week-ending period. The data cover January 2015 through January 2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Flows by percentile rank of sustainability. This figure shows average percentage flows for each sustainability percentile rank after controlling for year × month fixed effects. Panel A shows the averages of this variable. Panel B examines the normalized flow measure, normalized to a mean of zero. Significant indicates the average flow is significant at the 90% level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Flows by month. This figure shows average percentage flows by month controlling for year × month fixed effects. Panel A shows the average of the variable for each month and Panel B shows a local linear plot with 90% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Experimental expectations of future performance and risk by sustainability rating. This graph shows the average performance rating in Panel A and risk rating in Panel B after taking out an individual fixed effect by globe rating. The left graphs correspond to MBA students, while the right graphs correspond to MTurk subjects. Maroon bars indicate the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Timeline for the two-period model.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Determination of the cutoff typeθ0$\\theta _0$in the laissez-faire economy.",
+        "correlation": []
+    },
+    "3": {
+        "description": "No bailout equilibrium.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effects of bailout in the one-period benchmark. Types selling to the market are depicted in blue and types selling to the government are depicted in red.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Equilibrium under secret bailout. Types selling to the market are depicted in blue and types selling to the government are depicted in red.",
+        "correlation": []
+    },
+    "6": {
+        "description": "General equilibrium structure.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Short-lived stimulation equilibrium. Types selling to the market are depicted in blue and types selling to the government are depicted in red.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Delayed stimulation equilibrium. Types selling to the market are depicted in blue and types selling to the government are depicted in red.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Equilibrium outcome in the uniform example (S=1/4$S = 1/4$,I=1/10$I = 1/10$).",
+        "correlation": []
+    }
+}

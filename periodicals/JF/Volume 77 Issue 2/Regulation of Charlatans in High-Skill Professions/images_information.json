@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Upper bound onλ$\\lambda$for different willingness-to-pay distributions. The figure plotsλ̂$\\hat{\\lambda }$, the upper bound in Proposition4(the highestλ$\\lambda$for which consumer surplus is increasing in the signal noise) as a function of the signal noise,σ$\\sigma$. Each plot represents a different distribution of consumer willingness to pay. The black curve assumes that consumer valuations are distributed Uniform[0,1] and the colored curves assume Normally distributed valuations with unit standard deviation and means of12$\\frac{1}{2}$(blue), 1 (red), 2 (orange), and 3 (green). Because we assume that consumers have free disposal, we truncate the Normal distributions at zero. The dashed black curve assumes that consumer valuations are distributedex−1e−1$\\frac{e^x-1}{e-1}$on the unit interval [0,1]. The bound is calculated by finding the root of (E.5).",
+        "correlation": []
+    },
+    "2": {
+        "description": "Charlatans in equilibrium. The blue, red, yellow, and purple lines represent equilibria withλ=0.05,0.1,0.2$\\lambda = 0.05, 0.1, 0.2$, and 0.3, respectively. Each curve plots the boundary between equilibria that feature charlatans and equilibria that do not, under the assumption that the trade group picks the optimal minimum standard as a function of the informativeness of the signal (σ$\\sigma$) and the opportunity cost (A$A$). Points to the left of the curve are values ofA$A$andσ$\\sigma$that result in equilibria that feature charlatans. Points to the right are equilibria that do not feature charlatans.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Minimum standards and consumer surplus when the trade group sets standards. Each panel is (a) the minimum standard imposed by the trade group or (b) the resulting consumer surplus in an equilibrium in which the trade group sets the standard, as a function of the informativeness of the signal (σ$\\sigma$) and the opportunity cost (A$A$). The individual plots vary the supply of skill in the economy, that is, starting with the top left plot in each panel and moving clockwiseλ=0.05,0.1,0.3$\\lambda = 0.05, 0.1, 0.3$, and 0.2. The “cliff” in the plots corresponds to the demarcation (plotted in Figure2) between equilibria that feature charlatans and ones that do not.",
+        "correlation": []
+    }
+}
