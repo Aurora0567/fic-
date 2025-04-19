@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Properties of the estimated dynamic model of output. SectionIIIdescribes the model, which is estimated separately over the 1975 to 1996 and 1997 to 2015 samples. Panels A and B plot model-implied standard deviations ofs-ahead instantaneous log output. The horizonscan be negative in the early sample because the estimated early-sample model implies that output is observed with a lag. Panels C and D plot the expected path of instantaneous log output conditioned on one quarterly standard deviation innovation to the drift of instantaneous log output. The solid lines are point estimates and the dashed lines are plus/minus two standard errors. [Color figure can be viewed atwileyonlinelibrary.com]",
-        "correlation": []
-    }
-}

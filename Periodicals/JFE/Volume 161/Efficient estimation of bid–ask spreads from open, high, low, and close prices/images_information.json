@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Probability that Open/Close prices are High/Low prices.The probability is computed for each stock-month as the average across: (i) the fraction of days such that the open matches the high, (ii) the fraction of days such that the open matches the low, (iii) the fraction of days such that the close matches the high, (iv) the fraction of days such that the close matches the low. Stocks are sorted into small-caps, mid-caps, and large-caps based on their market capitalization at the end of each month and using the 50th and 80th percentiles as breakpoints. The figure reports the average probability across stocks for each month and size group from 1926 to 2021. Open prices are missing from July 1962 through June 1992."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Bias of simulated spread estimates.The figure reports spreads estimated from 10,000 months of simulated data where each month consists of 21 trading days and each day consists of 390 min. For each minute of the day, the fundamental value P̃m is simulated as P̃m=P̃m−1eσz with P̃0=1, where σ is the standard deviation per minute and z is a random draw from a standard Gaussian distribution. The daily standard deviation equals 3%, and the standard deviation per minute equals 3% divided by 390. Trade prices are defined as P̃m multiplied by one minus (plus) half the bid–ask spread, where the spread equals 1.00%, and we assume a 50% chance that a bid (ask) is observed. The probability of observing a trade ranges from 1/390 to 1, and the average number of trades per day is reported on the x-axis. Daily high and low prices equal the highest and lowest prices observed during the day. Open and close prices equal the first and the last prices observed in the day. If no trade is observed for a given day, then the previous day’s closing price is used as the open, high, low, and close prices for that day. Negative spread estimates are set to zero."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Variance of simulated spread estimates.The figure reports the standard deviation of monthly spread estimates across 10,000 simulations, where each month consists of 21 trading days and each day consists of 390 min. For each minute of the day, the fundamental value P̃m is simulated as P̃m=P̃m−1eσz with P̃0=1, where σ is the standard deviation per minute and z is a random draw from a standard Gaussian distribution. The daily standard deviation equals 3%, and the standard deviation per minute equals 3% divided by 390. Trade prices are defined as P̃m multiplied by one minus (plus) half the bid–ask spread, where the spread is reported on the x-axis, and we assume a 50% chance that a bid (ask) is observed. Daily high and low prices equal the highest and lowest prices observed during the day. Open and close prices equal the first and the last prices observed in the day. Negative spread estimates are set to zero. The OHL, CHL, OHLC, and CHLO estimators are defined in Table 1, and GMM is their GMM-combination in Eq. (22) where the weighting matrix is the identity matrix."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Cross-sectional correlation with the HJ benchmark.The figure shows cross-sectional Pearson’s correlations between stock-month spread estimates from daily prices and the HJ benchmark for each month in the sample period 1993–2021 (CRSP-TAQ merged sample). Negative spread estimates are set to zero, and we drop the stock-month estimate for all the estimators if it is missing for any of them."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Time-series correlation with the HJ benchmark.The figure shows time-series Pearson’s correlations between stock-month spread estimates from daily prices and the HJ benchmark for size deciles in the sample period 1993–2021 (CRSP-TAQ merged sample). Size deciles are sorted by increasing market capitalization at the last observed period for each individual stock. Negative spread estimates are set to zero, and we drop the stock-month estimate for all the estimators if it is missing for any of them."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Low-frequency estimates for U.S. stocks.The figure reports the average spread across stocks for each month and size group from 1926 to 2021. Stocks are sorted into small-caps, mid-caps, and large-caps based on their market capitalization at the end of each month using the 50th and 80th percentiles as breakpoints. Spreads are estimated for each stock-month using daily prices. Negative spread estimates are set to zero, and we drop the stock-month estimate for all the estimators if it is missing for any of them. EDGE is replaced with CHL when open prices are missing in CRSP. End-of-day quoted spreads (QS) are missing from July 1962 to October 1982. The HJ benchmark obtained from TAQ data is available since May 1993."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "High-frequency estimates for U.S. stocks.The figure reports the average spread across large-cap stocks for each month from October 2003 to December 2021. Spreads are estimated for each stock-month using daily (EDGE) or minute (EDGE/HF) prices. Negative spread estimates are set to zero, and we drop the stock-month estimate for all the estimators if it is missing for any of them. HJ is the benchmark spread obtained from TAQ data."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Low- and high-frequency estimates for Cryptocurrencies.The figure reports the average spread across trading pairs listed in Binance for each month from July 2017 to December 2021. Spreads are estimated for each pair-month using daily, hourly, or minute prices. Negative spread estimates are set to zero, and we drop the pair-month estimate for all the estimators if it is missing for any of them."
+        ],
+        "correlation": []
+    }
+}

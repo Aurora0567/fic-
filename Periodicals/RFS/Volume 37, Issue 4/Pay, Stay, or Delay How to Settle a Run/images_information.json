@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "SL net rollover payoff",
+        "correlation": []
+    },
+    "2": {
+        "description": "SL effect of suspension delay The solid line represents Π given m and the associated equilibrium cutoff θθ∗⁠. The dashed line represents Π given m′>m and the cutoff θθ∗⁠.",
+        "correlation": []
+    },
+    "3": {
+        "description": "SL run cutoff This figure shows the run cutoff (⁠θθSL∗⁠) as a function of the timing of suspension (m > k) and the early liquidation value of illiquid assets (⁠ℓ⁠) for αα=0.15⁠, k = 0.28, r = 1.8, and ℓ∈[0.82,0.86]⁠.",
+        "correlation": []
+    },
+    "4": {
+        "description": "SL optimal settlement rule This figure shows the welfare (WSL) as a function of the timing of suspension (m) and the early liquidation value of illiquid assets (⁠ℓ⁠) for αα=0.15⁠, k = 0.28, and r = 1.8.",
+        "correlation": []
+    },
+    "5": {
+        "description": "SM net rollover payoff and effect of suspension delay",
+        "correlation": []
+    },
+    "6": {
+        "description": "SM run cutoff This figure shows the run cutoff (⁠θθSM∗⁠) as a function of the timing of suspension (m > k) and the early liquidation value of illiquid assets (⁠ℓ⁠) for αα=0.15⁠, k = 0.28, r = 1.8, and ℓ∈[0.82,0.86]⁠.",
+        "correlation": []
+    },
+    "7": {
+        "description": "SM optimal settlement rule This figure shows welfare (WSM) as a function of the timing of suspension (m) and the early liquidation value of illiquid assets (⁠ℓ⁠) for αα=0.15⁠, k = 0.28, and r = 1.3.",
+        "correlation": []
+    }
+}

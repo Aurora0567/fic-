@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Probability for a recessionary regime and six-month equity excess returns. The left panel plots the real-time recession probability. SectionII.Cprovides details on the computation of this probability. The light gray bars indicate the National Bureau of Economic Research (NBER) recession dates. The right panel depicts the annualized six-month realized excess market return during recessions, that is, the excess return for an investor who buys stockm$m$months after expecting to be in a recession and holds them for six months. I assume that an investor expects to be in a recession whenever the real-time recessionary probability first exceeds 50%. The vertical bars represent a one-standard-deviation error range and account for heteroskedasticity and autocorrelation in the residuals up to six lags. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cumulative gains. The figure shows the cumulative monthly returns for one-dollar investments in the market portfolio, the risk-free asset, the 77/23 portfolio, the main strategy that conditions on the growth and return signals, and a strategy that conditions only on the growth signal. I describe the construction of the portfolios in the caption of TableI. Light-shaded bars represent recessions, as defined by the National Bureau of Economic Research. They$y$-axis is on a log scale. The sample period is from July 1927 to December 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "State-dependent weights on lagged returns. This figure shows the weights on lagged excess returns when computing the measure of expected returns. I derive these weights by conditioning on each economic regime and iterating backward the prediction and updating steps in the Kalman filter algorithm. To do so, I substitute the Kalman gain at timet$t$for the steady-state Kalman gain and use the sample mean as an estimate of the unconditional equity premium. To compute the steady-state Kalman gain, I used the posterior median estimates shown in TableIV.",
+        "correlation": []
+    },
+    "4": {
+        "description": "One-month-ahead excess return forecast. The figure shows the filtered series of expected returns (μ̂t+1|t$\\hat{\\mu }_{t+1|t}$). The blue line represents the posterior median estimates, and the blue shaded areas denote the 90% confidence intervals. The light gray shaded bars indicate NBER recession dates. The dark line denotes the mean equity premium computed using data from January 1965 to December 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Cumulative returns and drawdowns. The left panel plots cumulative monthly gains for the main specification (dark blue line) and the static buy-and-hold strategy (red dotted line). They$y$-axis is on a log scale. The right panel depicts the drawdown of each strategy. Both strategies have the same unconditional volatility. The sample runs from January 1980 to December 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Sorts on one-month-ahead excess return forecasts. This figure sorts periodt$t$excess return forecasts for the aggregate market into five buckets. For each bucket, the figure shows average values and 95% confidence intervals for four measures. The top panel depicts results for the conditional risk exposure and the recession probabilities for montht$t$. The bottom panel plots estimates for the excess returns realized over montht$t$from a buy-and-hold strategy and the main trading strategy. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Impulse response to expected dividend growth shocks. This figure plots the impulse response of the log price-dividend ratio (left panel) and the log one-period return (right panel) to expected dividend growth shocks (σgεt+1$\\sigma _g \\varepsilon _{t+1}$) of one standard deviation. I report results under rational expectations, that is,λ=0$\\lambda = 0$, and under sticky subjective expectations,λ>0$\\lambda &gt;0$. I useκ1=0.969$\\kappa _1 = 0.969$,γ1=0.91$\\gamma _1 = 0.91$,σg=0.0167$\\sigma _g =0.0167$, andλ=0.17$\\lambda = 0.17$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Analyst forecast errors and revisions. This figure plots forecast errors (top panel) and forecast revisions (bottom panel) for different horizons. I then calculate average forecast errors and revisions for fiscal quarter-ends that contained a negative (blue boxes) or positive (gray boxes) equity premium forecast. The boxes denote 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

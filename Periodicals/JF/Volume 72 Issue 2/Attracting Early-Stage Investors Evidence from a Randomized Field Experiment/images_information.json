@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Sample featured start-up email to investors. This figure shows an example of a featured start-up email that is sent to investors. Each featured start-up has up to three information categories (team, traction, and current investors) that would normally be shown in the email if the information for that category reaches a threshold as defined by AngelList. For each start-up, various unique versions of each email are generated that randomly hide these pieces of information (theRandomization categories). Each email contains a “View” button that, when clicked, takes the investor to the AngelList platform where more information about the company is shown and introductions to the company's founders can be requested. The “Get an Intro” button requests such an introduction straight from the email.",
+        "correlation": []
+    }
+}

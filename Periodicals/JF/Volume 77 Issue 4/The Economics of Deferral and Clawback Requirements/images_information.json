@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Effect of deferral regulation onequilibrium effort (slack PC). We plot the equilibrium actiona*(Tmin)$a^{\\ast }(T_{\\min })$as a function of the minimum deferral period for three different information environments as captured by the parameterβ$\\protect \\beta$of the Gamma survival distribution (see Example1) withβ=0.5$\\protect \\beta =0.5$,β=1$\\protect \\beta =1$, andβ=3$\\protect \\beta =3$. The remaining parameter values arer=0.05$r=0.05$,Δr=3$\\Delta r=3$,κ=5$\\protect \\kappa =5$(scaling the effect of the action onS(t|a)=Γ(β,κta)/Γ(β,0)$S(t|a)=\\Gamma (\\protect \\beta ,\\protect \\kappa \\frac{t}{a}) /\\Gamma (\\protect \\beta ,0)$),y=100$y=100$,kmin=0.1$k_{\\min }=0.1$, andU=0$U=0$, withc(a)=a3/3$ c(a)=a^{3}/3$.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Nonmonotonicity of tax function and its comparative statics inTmin$T_{\\min }$. The left panel plots the tax function,ΔW(a|Tmin)$ \\Delta W(a|T_{\\min })$, for a given deferral requirement for both slack and binding (PC). For slack (PC), we use the Gamma distribution (see Example1) withβ>1$ \\protect \\beta &gt;1$so thatdT*(a)/da>0$dT^{\\ast }(a) /da&gt;0$. The right panel plots the tax function for binding (PC) for different values of the deferral requirementTmin′=T*(a*)<Tmin′′<Tmin′′′$T_{\\min }^{^{\\prime }}=T^{\\ast }(a^{\\ast }) &lt;T_{\\min }^{^{\\prime \\prime }}&lt;T_{\\min }^{^{\\prime \\prime \\prime }}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Effect of deferral regulation as a function of outside optionU. We plot the equilibrium actiona*(Tmin)$a^{\\ast }(T_{\\min })$for the case of the exponential distribution; see solid black line. In the left (right) panel, we setU>Û$U&gt;\\hat{U}$(U<Û$U&lt;\\hat{U}$), so that (PC) is binding (slack) in the absence of regulation. The orange dotted line corresponds to the optimal actionâ(Tmin)$\\hat{a}(T_{\\min })$disregarding (PC). The red dotted line depicts the cutoff actiona̲(Tmin)$\\protect \\underline{a}(T_{\\min })$below which (PC) has to bind (gray-shaded region). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Outcome under welfare-maximizing deferral. We plot the equilibrium action as a function of the minimum deferral perioda*(Tmin)$a^{\\ast }(T_{\\min })$—see solid black line—as well as the outcome under the welfare-maximizing deferral regulation—see green dot—for two different levels of the minimum capital requirementkmin$k_{\\min }$(kmin=0.8$k_{\\min }=0.8$in the left panel andkmin=0.01$k_{\\min }=0.01$in the right panel). The arrival time distribution is exponential and the remaining parameter values arer=8$r=8$,Δr=4$ \\Delta r=4$,κ=5$\\protect \\kappa =5$,y=100$y=100$, andU=5$U=5$, withc(a)=a3/3$c(a)=a^{3}/3$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Optimal payout date with binding (PC). The left panel plots informativeness,I(t|a)=ta$\\mathcal {I}(t|a) =\\frac{t}{a}$(exponential arrival time distribution), for given actionaand impatience costseΔrt$e^{\\Delta rt}$both as functions of time. The right panel plotseΔrt$e^{\\Delta rt}$againstI(t|a)$\\mathcal {I}(t|a)$as a parametric curveX(red dashed line). The gray-shaded area corresponds to the convex hull,conv(X)$conv(X)$, of this set of points fort→∞$t\\rightarrow \\infty$. Finally, the black solid line refers to the lower hull,C, the “cost of informativeness.” [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "This graph plots the connection between the principal's choice of deferral times in unconstrained contracts and the constraints imposed by deferral regulation. In this example, the comparative statics are such thatT*(a)$T^{\\ast }(a)$is globally increasing in implemented efforta.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Example of a monotonically increasing tax function. The figure plots the tax function,ΔW(a|Tmin)$\\Delta W(a|T_{\\min })$, for a given deferral requirement for a case with slack (PC) in which the growth rate of informativeness is globally, that is, for alla, decreasing in the action,∂∂a∂logI(t|a)∂t<0$\\frac{\\partial }{\\partial a}\\frac{\\partial \\log \\mathcal {I}(t|a) }{\\partial t}&lt;0$, such thatdT*(a)da<0$\\frac{dT^{\\ast }(a)}{da}&lt;0$. The plot shows the case of a Gamma distribution (see Example1) withS(t|a)=$S(t|a)=$Γ(β,κta)/Γ(β,0)$\\Gamma (\\beta ,\\kappa \\frac{t}{a})/\\Gamma (\\beta ,0)$, and parameters set atβ=0.7$\\beta =0.7$,Δr=0.75$\\Delta r=0.75$,κ=5$\\kappa =5$, andTmin=1.254$T_{\\min }=1.254$, withc(a)=a3/3$c(a)=a^{3}/3$, such that (DEF) binds for alla>a∼=2$a&gt;\\widetilde{a}=2$.",
+        "correlation": []
+    }
+}

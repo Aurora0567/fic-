@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Time-series patterns of the number of civil cases. This figure plots the time series of total emissions in the EPA's TRI database (blue line on the left vertical axis) and the log growth in civil penalties () (orange line on the right vertical axis). The data are downloaded from the Enforcement and Compliance History Online (ECHO) system that contains information on civil penalties provided by the EPA. Shaded bands are labeled as recession periods according to NBER recession dates. The sample period is 1992 to 2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

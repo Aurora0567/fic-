@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Time-1 SP priceas a function of MBS valuevk. This figure plots how time-1 SP pricedepends on the value of an MBSvkbased on Lemma1when,,,,hd= 5, and. The red dashed line represents SP buyers' willingness to pay at time 1 if they can resell MBSs at time 2onlyon the SP market; the black dotted line represents SP buyers' willingness to pay at time 1 if they can resell MBSs at time 2onlyon the TBA market; the blue solid line plots, which equals SP buyers' willingness to pay at time 1 if they can choose between the SP market and the TBA market to resell at time 2 depending on the realization of the SP transaction cost. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of the primary mortgage rate. This figure plots monthly time series of the 30-year primary mortgage rate (in percentages) from the Freddie Mac survey. The sample period runs from June 2003 through December 2018.",
+        "correlation": []
+    }
+}

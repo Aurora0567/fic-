@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "Fig. A.1. Designated and customized buyback algorithms. In this figure, we show that an issuer can buy back shares using designated repurchase algorithms or by adding a 10b-18 compliance restriction to a general-purpose algorithm (a customized buyback algorithm). Panel A shows an algorithm that is assigned to share repurchases. Firms need to specify the “Start Time,” the “End Time,” and “Max % Vol” and then the algorithm automatically buys back shares in compliance with Rule 10b-18. Panel B shows two examples of customized buyback algorithms. The Volume Weighted Average Price (VWAP) algorithm automatically manages transactions to achieve the all-day or intra-day VWAP. The DarkSeek algorithm searches for liquidity only in dark pools. Issuers can add the “Buy Back” option to these algorithms such that they generate only trades that are consistent with Rule 10b-18."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. A.2. Event studies: parallel trend and treatment effects. In this figure, we graph the event-time DiD estimates. For each event-time DiD analysis, the sample period runs from t−3 to t + 1, where year t−3 is the baseline period. The figure shows that the differences in changes in repurchases between the treatment and control groups were in general nonsignificant prior to the events, suggesting that the treated and control firms followed similar trends prior to the treatment. As our data are reported at annual frequency, firms may be partially treated at year 0."
+        ],
+        "correlation": []
+    }
+}

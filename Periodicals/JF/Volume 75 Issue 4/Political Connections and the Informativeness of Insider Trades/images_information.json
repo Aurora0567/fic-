@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Dollar value of purchases and sales by time period. This figure plots the total dollar value of insider trades for all firms in our sample over the respective six-month interval. The total dollar value of insider trades (in millions) appears on they-axis, and the respective six-month window appears on thex-axis. Black bars represent the total dollar value of purchases, gray bars represent the total dollar values of sales, and white bars represent the total dollar value of purchases plus sales.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Difference in future returns between purchases and sales. This figure plots the difference in one-month-ahead future returns between net purchases and net sales, averaged over the respective six-month interval (black bars). We net all trades to the insider-month level and group observations based on whether the net trade in monthtwas a purchase or sale. We report the difference in one-month-ahead future returns (i.e., returns in montht+1) between net purchases and net sales. We overlay the value of a $1 investment in the Fama-French banking portfolio invested at the end of June 2005 (solid line). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Political connections and the difference in future returns. This figure plots the difference in one-month-ahead future returns between net purchases and net sales, averaged over the respective six-month interval (black bars). We net all trades to the insider-month level and group observations based on whether the insider is politically connected and whether the net trade in monthtwas a purchase or sale (2 × 2). We report the difference in one-month-ahead future returns (i.e., returns in montht+1) between net purchases and net sales separately for insiders with and without political connections. We overlay the value of a $1 investment in the Fama-French banking portfolio invested at the end of June 2005 (solid line). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Example of a partial network map. This figure presents an example of a “network map” used to test for information sharing among board members. We use BoardEx to determine whether a particular board member has work experience at the Federal Reserve, U.S. Treasury Department, Congress, Office of Comptroller of Currency (OCC), Office of Thrift Supervision (OTS), or Federal Deposit Insurance Corporation (FDIC). Board members with work experience at any of these agencies beginning prior to 2008 are classified as “directly connected.” All other officers and directors at those firms are classified as “indirectly connected.”Recencyis the ending year of the work experience relative to 2008. For example, if a director stepped down from the Federal Reserve Board in 2005, thenRecency= 3. If the work experience continues through 2008, the connection is considered current andRecency= 0. We consider a connection “recent” if it is less than or equal to three years old (where three is the median).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Unsigned volume of insider trades around infusion announcements. This figure shows the dollar value of insider trading volume over the 60 trading days before and after infusion announcement. Dollar volume (in millions) appears on they-axis, and the respective 30-day window appears on thex-axis. Gray (white) bars represent dollar volume by insiders with (without) political connections. The sample comprises 256 infusions.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Net purchases around infusion announcements. This figure shows the dollar value of net purchases (dollar value of buys less that of sales) over the 60 trading days before and after the infusion announcement. Positive (negative) values indicate a net buy (net sell). Panel A presents the dollar value of net purchases for the 122 infusions with positive announcement returns. Panel B presents the dollar value of net purchases for the 134 infusions with negative announcement returns. The dollar value of insider trades (in millions) appears on they-axis, and the respective 30-day window appears on thex-axis. Gray (white) bars represent the dollar values of net purchases by insiders with (without) political connections.p-Values appear in brackets and test for the difference in average trade size between insiders with and without political connections.",
+        "correlation": []
+    }
+}

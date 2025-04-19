@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "IPG forecast revisions. This figure plots the revisions in expectations of one-quarter-ahead industrial production growth (IPG) from 1969Q1 to 2019Q4. IPG forecast revisions are computed from the Survey of Professional Forecasters (SPF) following Bordalo et al. (2020). Shaded bars indicate NBER recessions."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Comparing the SPF with the Michigan Consumer Survey and Duke CFO Survey. This figure shows the revisions in expectations of macroeconomic conditions from different surveys, which are standardized to have zero mean and unit variance. The solid line plots the revisions in expectations of one-quarter-ahead industrial production growth from the SPF. The dashed line plots the relative score for business conditions expected during the next year minus the relative score for business conditions expected during the next five years, surveyed two years ago from the Michigan Consumer Survey. The dash-dotted line plots the average optimism level about the US economy minus that surveyed two years ago from the Duke CFO Survey. The sample size depends on availability. Shaded bars indicate NBER recessions."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Rotation strategy performance. This figure compares the performance of the factor rotation strategy with the underlying anomalies from 1969Q1 to 2019Q4. Quarterly CAPM alpha, quarterly Fama and French (2015) five-factor alpha, and annual Sharpe ratio (SR) are displayed in brackets, with Newey and West (1987) eight-lag adjusted t-statistics in parentheses. The solid line plots the cumulative excess returns to the factor rotation strategy [CAPM alpha = 3.18% (t-statistic = 5.11); FF5 alpha = 1.93% (t-statistic = 3.71); SR = 0.71], which invests in the equal combination of anomalies with more financially constrained short legs (ROA, ROE, OP, Quality, FProb, O-Score, TV, and IVOL) following upward revisions in expectations of industrial production growth, and the equal combination of anomalies with more financially constrained long legs (BM, LTR, IA, and SIZE) following downward revisions in expectations of industrial production growth. The dashed line plots the cumulative average returns on anomalies with more financially constrained short legs [CAPM alpha = 2.42% (t-statistic = 3.68); FF5 alpha = 1.27% (t-statistic = 3.12); SR = 0.29]. The dash-dotted line plots the cumulative average returns on anomalies with more financially constrained long legs [CAPM alpha = 0.67% (t-statistic = 0.97); FF5 alpha = –0.23% (t-statistic = –0.85); SR = 0.22]."
+        ],
+        "correlation": []
+    }
+}

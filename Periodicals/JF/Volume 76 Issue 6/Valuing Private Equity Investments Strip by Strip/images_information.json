@@ -1,0 +1,66 @@
+{
+    "1": {
+        "description": "Dynamics of the nominal term structure of interest rates. The figure plots the observed and model-implied 1-, 4-, 20-, 40-quarter nominal bond yields. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dynamics of the real term structure of interest rates. The figure plots the observed and model-implied 20-, 28-, 40-, and 80-quarter real bond yields. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Long-term yields and bond risk premia. The top panels plot the average bond yield on nominal (left panel) and real (right panel) bonds for maturities ranging from one quarter to 200 quarters. The bottom left panel plots the nominal bond risk premium in model and data. The bottom right panel decomposes the model's five-year nominal bond yield into the five-year real bond yield, the five-year inflation risk premium, and the five-year real risk premium. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equity risk premia and price-dividend ratios (part 1). The figure plots the observed and model-implied equity risk premium on the overall stock market, small stocks, growth stocks, and value stocks in the left panels, as well as the corresponding price-dividend ratios in the right panels. The model is reported by the blue lines, while the data are depicted by the red lines. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Equity risk premia and price-dividend ratios (part 2). The figure plots the observed and model-implied equity risk premium on REIT stocks, infrastructure stocks, and natural resource stocks in the left panels, as well as the corresponding price-dividend ratios in the right panels. The model is reported by the blue lines, while the data are depicted by the red lines. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Zero-coupon bond prices and dividend strip prices. The figure plots the model-implied prices on zero-coupon Treasury bonds in the first panel, and price-dividend ratios for dividend strips on the overall stock market, small stocks, growth stocks, value stocks, REIT market stocks, infrastructure stocks, and natural resources stocks in the next seven panels, for maturities of 4, 20, and 40 quarters. The prices/price-dividend ratios are expressed in levels and each claim pays out a single cash flow. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Short-run cumulative dividend strips. The left panel plots the model-implied price-dividend ratio on a claim that pays the next eight quarters of dividends on the aggregate stock market. The right panel plots the share that this claim represents in the overall value of the stock market. The data are from van Binsbergen, Brandt, and Koijen (2012) and are available from 1996 Q1 to 2009 Q3. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Strip expected returns by horizon. The figure plots the model-implied average risk premia on nominal zero-coupon Treasury bonds in the first panel, and on dividend strips on the overall stock market, small stocks, growth stocks, value stocks, REITs, infrastructure stocks, and natural resource stocks in the next seven panels, for maturities ranging from 1 to 64 quarters. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Strip expected returns in the time series. The figure plots the model-implied time series of risk premia on nominal zero-coupon Treasury bonds in the first panel, and on dividend and capital gain strips on the overall stock market, small stocks, growth stocks, value stocks, REITs, infrastructure stocks, and natural resource stocks in the next seven panels. The maturity for each strip that is plotted is five years (20 quarters). [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Distribution cash-flow profiles. The figure plots distribution cash flows by PE fund category. Monthly cash flows are aggregated by year and then averaged across all funds in the category. Year zero is the year of fund inception, the year in which the first capital call is made. The last bar for year 16 contains not only the cash flows in year 16 but also the discounted cash flows after year 16, discounted back to year 16 at the Treasury yield curve. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Cash flows by vintage. This figure plots average cash-flow profiles by vintage. Only vintages from 1990 onwards are plotted for Buyout and Venture Capital, and only vintages from 2000 onward are plotted for Real Estate and Fund of Fund categories. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Factor exposure over fund horizon.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Expected returns by vintage.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Histogram of fund-level profit relative to replicating portfolio.",
+        "correlation": []
+    },
+    "15": {
+        "description": "Average fund profits over time.",
+        "correlation": []
+    },
+    "16": {
+        "description": "Comparing RAP to IRR and PME.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Persistence of fund turnover. This figure plots the average turnover of funds for each turnover quintile in the following three years. The turnover plotted here is annualized quarterly turnover including both purchases and sales, calculated as the total trading volumes of purchases and sales divided by fund TNAs. The solid line at the top corresponds to funds with the highest turnover (quintile 5) and the dotted line at the bottom to funds with the lowest turnover (quintile 1). Fund turnover is winsorized at 1% level.",
+        "correlation": []
+    }
+}

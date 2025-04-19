@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Distribution of dividend announcements within a quarter. This figure plots time series of dividend announcements for 2014 Q2. For each day within this quarter, the top panel shows the number of firms announcing dividends. The middle panel shows the overall nominal amount of dividends announced by those firms (in billion dollars), while the bottom panel shows the daily (net) dividend growth rate. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Comparison between our daily “bottom-up” dividend growth series versus a daily “top-down” dividend growth measure extracted from CRSP. The top panel plots the log of the daily dividend growth seriesGtdefined in equation (1). The bottom panel plots the CRSP-extracted daily dividend growth, calculated as dividends (paid out) on an given day divided by dividends distributed on the same day one year earlier. Both plots use daily data over the period 1973 to 2016. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Time series of daily dividend growth and the persistent growth component. The top panel plots the persistent dividend growth component,μdtNJ, extracted from a model without jumps and stochastic volatility. The bottom panel plots the persistent dividend growth component,μdt, extracted from the daily dividend series using a model that accounts for jumps and stochastic volatility. All plots use daily data over the period 1973 to 2016. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Comparison of alternative approaches for constructingμdt. This figure plots estimates of the persistent dividend growth measureμdtextracted from our model using dollar-weighted (baseline) and market-weighted (market weighted) dividend growth data. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Jumps in the daily dividend growth series. The top panel plots the probability of a jump in the daily dividend growth series, while the bottom panel plots the magnitude of such jumps. Both plots use daily dividend data over the period 1973 to 2016. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Jump intensities and the number of firms announcing dividend news. This figure shows the sensitivity of the dividend growth jump probability to the number of firms announcing dividends on a given day,Ndt, chosen to match the 25th, median, and 75thpercentiles of the distribution of the daily number of firms announcing dividends. On days with a large number of announcing firms (dashed curve), the jump intensity distribution is centered around 0.005, corresponding to a jump every 200 days on average. On days with a typical (median) number of announcing firms (solid curve), the jump intensity is centered around 0.016, implying a jump roughly every 60 days. Finally, on days with a small number of announcing firms (dotted curve), the probability of a jump is 0.03, corresponding to a jump every 35 days. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Heterogeneity inμdtand firm characteristics. The top panel plots estimates of the persistent dividend growth component,μdt, computed separately for firms with high versus low book-to-market ratios. The bottom panel plots estimates of the persistent dividend growth component,μdt, computed separately for small, medium, and large firms. All estimations use daily data over the period 1973 to 2016. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Actual versus predicted dividend growth under alternative modeling approaches. The top panel plots actual dividend growth,Δdt, against the persistent dividend growth component extracted from our model,μdt, and the measure proposed by van Binsbergen and Koijen (2010),gtVBK. The latter assumes cash-reinvested dividends. The bottom panel plots actual dividend growth against our persistent dividend growth component and the measure of Kelly and Pruitt (2013),gtKP. In both cases, we extend the sample period originally used by the papers after replicating their results. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Comparison of estimates of the persistent dividend growth component,μdt, extracted from data at the daily, monthly, quarterly, and annual frequencies. This figure plots time series ofμdtestimated at the daily, monthly, quarterly, and annual frequencies. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

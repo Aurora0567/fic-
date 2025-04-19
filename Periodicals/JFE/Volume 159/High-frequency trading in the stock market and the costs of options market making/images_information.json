@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "The evolution of trading volume in the U.S. equity and options market. This figure reports the evolution of trading volume in the U.S. equity and options markets. The gray (dark) bar corresponds to the number of shares (contracts) traded in U.S. equity (options) markets. The sample contains all stocks traded between January 1, 1996 and December 31, 2022 on the U.S. exchanges. The data is obtained from CRSP and OptionMetrics."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "The predictability of open-buy option volume signal for options bid–ask spread. This figure reports the coefficient and the 95% confidence intervals of the model regressing bid–ask spread on informed trading observed at various lags (0, -1-day, -2-day, -3-day, -4-day, and -5-day) before the arrest of Raj Rajaratnam."
+        ],
+        "correlation": []
+    }
+}

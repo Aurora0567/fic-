@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "An example of a guaranteed living withdrawal benefit. The evolution of account value and the guaranteed amount are shown for MetLife Series VA with a GLWB from 2008:3 to 2016:4. The investment option is the American Funds Growth Allocation Portfolio. The investor is assumed to annually withdraw 5% of the highest guaranteed amount after 2013:3. For simplicity, this example abstracts from the impact of fees on account value and the guaranteed amount.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equity drawdowns during the COVID-19 crisis. Panel A shows the equity drawdowns on the S&P 500 index, the Financial Select Sector SPDR Fund, a value-weighted portfolio of U.S. variable annuity insurers, and the U.S. Global Jets ETF. Panel B shows the equity drawdowns on individual insurers who make up the portfolio in Panel A. The equity drawdowns are based on stock returns from January 2 to April 2, 2020.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Variable annuity sales. The left axis shows quarterly sales of variable annuities across all contracts from 1999:1 to 2015:4. The right axis shows the aggregate sales of U.S. open-end stock and bond mutual funds (excluding money market funds and funds of funds).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Number of insurers and contracts with minimum return guarantees. The sample includes all contracts with minimum return guarantees from 1999:1 to 2015:4.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Fees and rollup rates on minimum return guarantees. Panel A shows the annual fee on open minimum return guarantees, averaged across contracts with sales weighting. The total annual fee includes the base contract expense. Panel B shows the rollup rate on open minimum return guarantees, averaged across contracts with sales weighting, and the share of contracts with minimum return guarantees. The sample includes all contracts with minimum return guarantees from 1999:1 to 2015:4.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Cross section of insurers during the global financial crisis. Panel A is a scatter plot of sales growth versus the change in the reserve valuation from 2007 to 2010. Panel B is a scatter plot of the change in the reinsurance share of variable annuities versus the change in the reserve valuation from 2007 to 2010. Both panels report a linear regression line through the scatter points. The sample includes all insurers with at least $1 billion of variable annuity sales in 2007.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Interior versus corner solution for the rollup rate. When the relative demand elasticities minus the shadow cost of capital is high, the optimal rollup rate is at an interior solution (i.e.,r=0.1$r=0.1$) as illustrated by the black line. When the relative demand elasticities minus the shadow cost of capital is low, the optimal rollup rate is at a corner solution (i.e.,r=−1$r=-1$) as illustrated by the gray line.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Decomposition of fees. The total annual fee, averaged across contracts with sales weighting, is decomposed into the markup, the option value, and the shadow cost of capital. The sample includes all contracts with minimum return guarantees from 2005:1 to 2015:4.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Decomposition of rollup rates. Panel A shows the two variables on the left side of equation (37), which is the relative demand elasticities minus the shadow cost of capital. Panel B shows the two variables on the right side of equation (37), which is the slope of the option value with respect to the rollup rate plus the constraint on the rollup rate. All variables are reported as deviations from their time-series mean. The sample includes all contracts from 2005:1 to 2015:4.",
+        "correlation": []
+    },
+    "10": {
+        "description": "A lower bound on fees based on the rollup rate. The lower bound is based on an annual rollup rate of 5%, an annual withdrawal rate of 5%, and a withdrawal period of 20 years. The calculation uses an average of the zero-coupon Treasury yield curve within each quarter from 1999:1 to 2015:4, assuming that the yield curve is flat beyond 30 years.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Eigenvectors. The figures plot eigenvector weights corresponding to the second (left) and third (right) principal components of the 25 size-B/M portfolio returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Hypothetical Sharpe ratios. The figures show hypothetical Sharpe ratios if expected returns line up with firstK(high eigenvalue excluding PC1) principal components. Panel A uses 30 anomaly portfolios as test assets. Panel B focuses on 25 size-B/M portfolios. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Minimum cross-sectionalR2. The figures plot minimum cross-sectionalR2s from aK-factor model (high eigenvalue excluding PC1) for various bounds on Var(M). Panel A uses 30 anomaly portfolios as test assets. Panel B focuses on 25 size-B/M portfolios. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "In-sample and out-of-sample Sharpe ratios. The figure shows in-sample and out-of-sample Sharpe ratios of 15 anomaly long-short strategies. The sample period is split into two halves. In-sample Sharpe ratios are those in the first subperiod. Out-of-sample Sharpe ratios are those in the second subperiod. Sharpe ratios are annualized.",
+        "correlation": []
+    },
+    "5": {
+        "description": "In-sample and out-of-sample maximum Sharpe ratios. The figures plot in-sample and out-of-sample maximum Sharpe ratios (annualized) of the firstKprincipal components (including the level factor) of 30 anomaly long and short portfolio returns (Panel A) and 25 size-B/M portfolios (Panel B). We split the sample period into two halves and then extract principal components in the first subperiod and calculate the Sharpe ratio-maximizing combination of the firstKprincipal components using sample means and covariances. We then apply the portfolio weights implied by this combination in the out-of-sample period (second subperiod). Full-sample Sharpe ratios (blue dashed line) are shown for comparison. The black dotted line represents the mean-bias-adjusted out-of-sample Sharpe ratio with bias calculated from a bootstrap simulation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "SDF excess variance. The plot shows SDF excess variance,V(β), achieved when sentiment-investor demandsδ=Qβline up equally with the firstKPCs (excluding the level factor). The blue solid curve corresponds to 5 × 5 size-B/M portfolios; the red dashed curve is based on 30 anomaly long and short portfolios. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Characteristics versus covariances. Cross-sectional variation in expected returns explained by the first two principal components for 5 × 5 size-B/M portfolios and three principal components for anomaly long and short portfolios. Portfolio returns are represented in excess of the level factor. Vertical lines depict in-sample estimates of the ratio of cross-sectional variation in expected returns and the squared market excess return for the two sets of portfolios. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

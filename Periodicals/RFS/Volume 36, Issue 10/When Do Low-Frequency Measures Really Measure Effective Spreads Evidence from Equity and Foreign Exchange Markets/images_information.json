@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "The cross-sectional distribution of the TAQ effective spreads, 30-min realized volatilities, and the ratio of the two (signal-to-noise) for the Russell 3000 stocks between January 1994 and November 2019 For each month in the sample, we show the 10th, 25th, 50th, 75th, and 90th percentiles of the respective cross-sectional distributions.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dependence on volatility The figure shows the expected value of the low frequency measures, s (%, vertical axis) as a function of volatility, σ (%, horizontal axis) when T = 21. The expectations are approximated by simulation with 10,000 replications. All measures are defined in the legend accompanying Table 1.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Aggregate low- and high-frequency effective spread measures during the MTAQ period (January 1994 to September 2003) The figure shows monthly times series of aggregate low-frequency measures together with the agregate TAQ effective spread and aggregate 30-minute realized volatility. The aggregate variables are obtained by averaging the stock-level variables, which are winsorized in the right tail at the 99% level, separately for each year and quintile by market capitalization, prior to aggregation. All measures are defined in the legend to Table 1.",
+        "correlation": []
+    }
+}

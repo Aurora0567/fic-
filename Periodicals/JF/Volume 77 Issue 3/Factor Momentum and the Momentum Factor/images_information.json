@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Individual stock momentum versus factor momentum. This figure showst-values associated with alphas for six momentum strategies that trade individual stocks and a factor momentum strategy that trades the first 10 high-eigenvalue PCs extracted from 47 factors. For individual stock momentum strategies, we reportt-values from the five-factor model (yellow bars) and this model augmented with the factor momentum strategy (blue bars). The blue residual momentum regression also includes betting-against-beta factors. For factor momentum, we reportt-values from the five-factor model (yellow bar) and this model augmented with the first five individual stock momentum strategies (blue bar). The dashed line denotes at-value of 1.96.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Individual stock momentum versus factor momentum as a function of the number of factors. We form all subsets of the 14 U.S. factors (blue lines) or 20 U.S. and global factors (black lines) listed in TableIand form time-series factor momentum strategies that trade these factors. A time-series factor momentum strategy is long factors with positive returns over the prior year and short those with negative returns. The thick line represents the factor momentum strategy's averaget(α̂)$t(\\hat{\\alpha })$from the Fama-French five-factor model regression, the thin line represents UMD's averaget(α̂)$t(\\hat{\\alpha })$from a regression that augments the five-factor model with the factor momentum strategy, and the dashed line denotes UMD'st(α̂)$t(\\hat{\\alpha })$from the Fama-French five-factor model regression. The circles denote the combinations with the highestt-values in the two universes of factors. The shaded region indicatest-values below 1.96.",
+        "correlation": []
+    }
+}

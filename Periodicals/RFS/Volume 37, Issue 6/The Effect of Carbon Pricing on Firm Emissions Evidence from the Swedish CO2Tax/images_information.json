@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Carbon and energy taxation of an industrial plant This figure illustrates the carbon and energy taxation for a manufacturing plant in Sweden in 2019. Heating CO2emissions refers to the emissions released from the combustion of fossil fuels. Process CO2emissions refers to the carbon dioxide emissions released in the actual manufacturing process (ie, not combustion of fossil fuels). Utility is the power plant that produces heat and/or electricity, and Plant is the industrial manufacturing plant.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Carbon tax rate, in nominal values This figure displays the nominal carbon tax rates (Swedish krona per kilogram of emitted carbon dioxide) for Sweden from 1991 to 2017. Manufacturing tax rate refers to the tax rate for the manufacturing sector (SNI 10-33 in the SNI2007 nomenclature), while General tax rate refers to the tax rate for nonindustrial firms and households.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Changes to the carbon tax: Emissions and carbon tax payments by regime This figure compares the carbon tax payments under the different regimes through a representative manufacturing firm. The hypothetical firm earns 50,000 SEK each year, and assumed to burn only coal in 1991 and 1992. All carbon tax payments with the exception of 2015 are shown on the vertical axis on the left side. Carbon tax payments in 2015 are shown on the vertical axis on the right side.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Average and marginal tax rates (1990–2015) This figure displays the average and marginal tax rates depending on whether the firm is eligible for carbon tax exemptions and covered by the EU ETS. no exemption/no EU ETS denotes firms that are not regulated by the EU ETS and are not entitled to carbon tax exemption, exemption/EU ETS refers to the firms with available exemptions until they enter the emission trading scheme. Marginal tax rates for EU ETS are the price for emission rights.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Carbon dioxide emissions from Swedish manufacturing (1990–2015) This figure displays the decomposition of the Swedish carbon dioxide emission reduction. Scale captures how emissions would have evolved without tangible technological progress and structural changes in the manufacturing sector. Composition refers to the change in industry composition, and Technique captures the technological progress in the industrial sector.",
+        "correlation": []
+    }
+}

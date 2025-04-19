@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Centrifugal effect on the speed at which AgentBlearns. This figure illustrates the centrifugal effect on AgentB's adjustment speed (see Proposition5) as a function of the initial value of AgentB's filter.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Rejection frequency of AgentB'smodel. This figure plots the rejection frequency of AgentB's model over time. Each line corresponds to the rejection frequency of the null in favor of AgentA's model at the 90%, 95%, and 99% confidence level, respectively. The rejection frequency is based on 1,000 simulations of monthly dividend growth rates observed over 1,000 years.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Representative paths of the likelihood of AgentB's model and AgentA's consumption share. This figure plots in separate panels representative simulated paths of the likelihood of AgentB's model, η, and the corresponding consumption share of AgentA, ω. Each simulation is based on the calibration of TableI.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Filtered dynamics in three states of the economy. The solid black and solid gray lines represent AgentAandB's average filters (EPA[f̂tA]andEPA[f̂tB]), respectively. The dotted lines depict the corresponding 90% confidence intervals. Filters are plotted against time. Each panel corresponds to a specific state of the economy: good, normal, and bad times.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Decomposition of the stock return diffusion. The upper and lower panels show the three components of stock return diffusion against disagreement for different values of the fundamental and AgentA's consumption share, respectively. If not stated otherwise, we setδ=1,f̂A=f¯, andω=0.5. The chosen range for disagreement corresponds to its 90% confidence interval.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Illustration of the state-price density's response to a news shock. The upper panel shows a trajectory of news before (dashed gray line) and after (solid gray line) a news surprise. The lower panel shows the associated trajectory of the state-price density before (dashed gray line) and after (solid gray line) a news surprise. The shaded area represents the reactionDξto a news shock and the solid black line represents the average reactionE[Dξ]of the state-price density.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Model-implied impulse response of excess returns to news shocks. The left panel plots the total (sum of the fundamental and disagreement channels) impulse response of stock returns. The right panel plots the response of disagreement to news shocksEtPA[guDtgu]. Each line corresponds to a different regime.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Model-implied conditional time-series momentum. This figure plots thet-statistics of the coefficientρ(h)for lagshranging from one month to three years. Each panel corresponds to a different state of the economy. Standard errors are adjusted using Newey and West (1987). The values reported above are obtained from 10,000 simulations of the economy over a 20-year horizon.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Realized historical path of the change of measure,eta, and the corresponding consumption share of AgentA,omega, from 01/1871 to 11/2013.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Model-implied and empirical relation between future excess returns and dispersion. The left panel plots thet-statistics of the model-implied response of excess returns to weighted dispersionβG(h)for lagshranging from one month to one year. The values reported are obtained from 1,000 simulations of the economy over a 100-year horizon. The right panel plots thet-statistics of the empirical response of excess returns to weighted dispersionβG(h)empfor lagshranging from one month to one year. Data are at the monthly frequency from 02/1976 to 11/2013. All standard errors are adjusted using Newey and West (1987).",
+        "correlation": []
+    },
+    "11": {
+        "description": "Model-implied and empirical excess one-month time-series momentum in high-dispersion periods. The left panel plots the model-impliedt-statistics of excess one-month time-series momentumβ2,G(p)when weighted dispersion is larger than itspthpercentile. These values are obtained from 1,000 simulations of the economy over a 100-year horizon. The right panel plots the empiricalt-statistics of excess one-month time-series momentumβ2,G(p)empwhen weighted dispersion is larger than itspthpercentile. Data are at the monthly frequency from 02/1976 to 11/2013. All standard errors are adjusted using Newey and West (1987).",
+        "correlation": []
+    },
+    "12": {
+        "description": "Model-implied and empirical excess time-series momentum in recessions. The left panel plots thet-statistics of the model-implied excess time-series momentum in recessionsβ2,F(h)for lagshranging from one month to one year. The values reported above are obtained from 1,000 simulations of the economy over a 100-year horizon. The right panel plots thet-statistics of the empirical excess time-series momentum in recessionsβ2(h)empfor lagshranging from one month to one year. Data are at the monthly frequency from 01/1871 to 11/2013. All standard errors are adjusted using Newey and West (1987).",
+        "correlation": []
+    }
+}

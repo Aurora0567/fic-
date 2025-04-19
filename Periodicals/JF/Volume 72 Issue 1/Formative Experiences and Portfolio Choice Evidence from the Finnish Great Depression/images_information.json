@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Unemployment rate and real Gross Domestic Product (GDP) growth around the Finnish Great Depression. The graph depicts the annual rate of unemployment and annual real GDP in Finland from 1980 to 2005. The shaded area highlights the Finnish Great Depression from 1991 to 1993.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timeline of events and measurement. The sample consists of subjects born between 1950 and 1965 who are employed at the end of 1990 when the predepression controls are measured. Labor market conditions are measured during the 1991 to 1993 depression, and the portfolio choice variable comes from 2005.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stock market participation prior to the depression as a function of labor market conditions during the depression. For each local labor market, the graph plots stock market participation in 1990 against the change in labor market conditions in 1991 to 1993 and 1987 to 1990. Predepression stock market participation is the average of an indicator that takes the value of one if an individual reports any capital gains in 1987 to 1990, and zero otherwise. Labor market conditions are the mean share of months that workers spent in unemployment in each local labor market. The variables are demeaned by taking the residuals from a regression of labor market conditions on the region and occupation fixed effects. The line plots the fitted values from a regression of the demeaned stock market participation against the demeaned change in labor market conditions. The slope coefficient equals 0.117 (t-value 1.07), and theR2of the regression is 0.0003.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Timeline."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. B.2. Optimal number of rights and sponsor value as a function of the fraction m of unsophisticated investors (panels (a) and (b)) and a mean-preserving spread in payoffs h − l (panels (c) and (d)). Common parameters (unless changed in the above figures) are: μ0 = 0.5, K = 1, h = 12, l = 1, γ = 0.75, and m = 0.8. The value from issuing straight equity is UFNR=5.5 in all panels above."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Fig. B.3. Optimal number of warrants and optimal strike price as a function of the fraction m of unsophisticated investors (panels (a) and (b)) and a mean-preserving spread in payoffs h − l (panels (c) and (d)). Common parameters (unless changed in the above figures) are: μ0 = 0.5, K = 1, h = 12, l = 1, γ = 0.75, and m = 0.8."
+        ],
+        "correlation": []
+    }
+}

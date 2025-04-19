@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Total income in 2008 depending on tournament choice. Panel A shows the mean total income in 2008 and the corresponding 95% confidence intervals. Panel B shows the cumulative distribution of total income in 2008. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Estimated marginal effect of preferences for competition on income in 2015 at different levels of overconfidence. The figure is based on the regressions in Panel A of TableVIII. Blue lines correspond to the estimated marginal effect and red lines to 90% confidence intervals. The blue dashed line corresponds to the average overconfidence of men, the red dashed line to the average overconfidence of women, and the black dotted line to zero overconfidence (i.e., the point where a participant's expected ranking equals their actual ranking). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

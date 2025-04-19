@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Stylized facts about bankruptcy reallocation. This figure depicts summary statistics on the reallocation process for liquidated, reorganized, and benchmark establishments. The benchmark is created from a random 5% sample of all plants in the same county as the bankrupt establishment. Panel A shows the percentage of plants that continue to be operated by the original firm in the five years following the bankruptcy filing. Panel B shows the share of establishments that are occupied regardless of the owner, and thereby accounts for reallocation to new users. Panel C is similar to Panel B but instead shows total employment as a percentage of employment in year 0. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Nonparametric first stage. This figure plots the relationship between the probability of case conversion and our preferred instrument, the share of all other Chapter 11 cases that a judge has converted to Chapter 7, using a nonparametric kernel regression. To be consistent with the regression analysis in the paper, we first residualize the probability of case conversion to all control variables in TableIII, including division-year fixed effects. The gray shaded area denotes the 95% confidence interval. For disclosure reasons, we truncate the 5% tails of the distribution. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Reduced-form dynamics. This figure plots coefficient estimates of the effect of judge instrument on occupancy rates (left column) and average employment (right column) both before and after bankrutpcy. In Panels A and B, coefficient estimates β are from the reduced-form regressionsYp,i,t+k=α+β·φj+γXp,i,t+δd,t+μk+εp,i,t+k, whereφjis the judge leniency instrument, and specifications contain the full set of control variables in column (3) of TableIII, including division-by-year fixed effects. In the remaining panels, coefficient estimates displayed areβLandβH, which are derived from the reduced-form regressionsYp,i,t+k=α+βL·φj·Lowp,t+βH·φj·Highp,t+γXp,i,t+δd,t+μk+εp,i,t+k, where the instrumentφjis interacted with dummy variablesLowp,tandHighp,t, which indicate whether a plant resides in a county with low or high market thickness (Panels C and D) or access to finance (Panels E and F). All control variables and fixed effects are also interacted withLowp,tto allow for flexible estimates across market types. Standard-error bars, based on clustering at the division-year level, are also displayed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

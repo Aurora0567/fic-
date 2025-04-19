@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Equilibrium law of motion(δ=0${\\bm\\delta} {\\bf= 0}$). The very tick (red) line represents the equilibrium mapping for the state variableμHl$\\mu ^{l}_{H}$. The dots indicate the values ofμHl$\\mu ^{l}_{H}$in the equilibrium state space. The thin solid black line with arrows in Panel B illustrates the equilibrium trajectory in the stable periodic cycle. The dotted line indicates convergence to the stationary equilibrium. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Existence region: two-period cycle. Valuation parametersulL=1$u_{l}^{L}=1$,uLh=1.5$u^{h}_{L}=1.5$,uHl=2$u^{l}_{H}=2$,uHh=4$u^{h}_{H}=4$. The color bar maps each pair(γ,δ)$(\\gamma ,\\delta )$to the interval size[q̲1,q¯1]$[\\protect\\underline{q}_{1},\\bar{q}_{1}]$over which a cycle exists. No cycle exists in the white region. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Equilibria when(CT${C_{T}}$)holds forT≤3$T\\le 3$. Parameter values: discount factorδ=0.2$\\delta =0.2$, probability of a shockγ=0.1$\\gamma =0.1$, and valuation parametersulL=1$u_{l}^{L}=1$,uLh=2$u^{h}_{L}=2$,uHl=4$u^{l}_{H}=4$,uHh=8$u^{h}_{H}=8$. Panel A plots market liquidity as a function ofq$q$for the steady state. Panel B also plots peak market liquidity for the two- and three-period cycles forq∈[q̲1,q¯1]$q\\in [\\protect\\underline{q}_{1},\\bar{q}_{1}]$. A solid line indicates a stable equilibrium. Computations forπ0$\\pi _{0}$andπss$\\pi ^{ss}$are reported inInternet AppendixIA.V. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Volume and price in a three-period cycle. Parameters: market qualityq=0.68$q=0.68$, discount factorδ=0.2$\\delta =0.2$, and valuation parametersuLl=1$u_{L}^{l}=1$,uHl=4$u_{H}^{l}=4$,uah=2ual$u^{h}_{a}=2u_{a}^{l}$,γ=0.1$\\gamma =0.1$. Panel A plots the trading volume. The values reported on the right of the plot correspond to the difference relative to the next lower-dashed line. Panel B plots the asset price (solid blue line) over the three-period cycle. The reservation price oflL$lL$asset owners is the dashed red line. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Intuition for welfare ranking. Parameters: discount factorδ=0.5$\\delta =0.5$, probability of a shockγ=0.1$\\gamma =0.1$, and valuation parametersuL=1$u_{L}=1$,uHl=2$u^{l}_{H}=2$,uHh=4$u_{H}^{h}=4$. Panel A plots the net benefit from a high offer, given by (13). Panel B plots the illiquidity cost and the liquidity benefit in a cycle, defined in the text. Computations are reported inInternet AppendixIA.V. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

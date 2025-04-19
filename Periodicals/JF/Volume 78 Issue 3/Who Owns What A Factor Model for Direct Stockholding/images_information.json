@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Number of investors per stock. This figure plots the cross-sectional distribution of the number of investors holding each stock in the August 2011 sample. Thex-axis plots the percentile cutoffs from 0 to 100, the lefty-axis shows the number of investors (logarithmic scale), and the righty-axis shows the corresponding percent share of investors (%). The 10 most widely held stocks and the share of investors holding them are: Reliance Power Limited (40%), Reliance Industries Limited (26%), Reliance Communications Limited (12%), National Hydro Power Corporation (12%), Power Grid Corporation of India (11%), Suzlon Energy Limited (9.5%), National Thermal Power Corporation (8%), Tata Steel Limited (8%), Larsen and Toubro Limited (7.5%), and Reliance Infrastructure Limited (7.5%). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Average portfolio share. This figure plots the cross-sectional distribution of the average portfolio share of each stock in August 2011, across all individual investors (blue curve, left-hand-side axis) and across only those investors holding the stock (green curve, right-hand-side axis). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stock characteristic clusters: principal component analysis. This figure presents the loadings of investors' characteristic tilts (using orthogonalized characteristics) on the first three principal components extracted from the 9.7M by 10 matrix of characteristic tilts (excluding business group, industry, and geographical zones). Characteristics appear along the horizontal axis in decreasing order of clientele strength. All statistics are constructed by equally weighting investors.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Correlations of investors' characteristic tilts. The panels below present the correlations of investors' characteristic tilts (using orthogonalized characteristics, excluding business group, industry, and geographic zone) in August 2011, equally weighting each investor. The shading illustrates the sign and magnitude of the correlations indicated in gray text. In Panel A, characteristics are presented in order of their clientele strength (TableII), whereas Panel B reorders the characteristics to illustrate the presence of clusters of (coheld) characteristics.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Stock returns and holdings (co)variances. This figure presents the relationship between stock return volatility and decile bins of holdings variance for 3,103 stocks (Panel A) and between stock return correlation and decile bins of holdings covariances for all stock pairs (Panel B). The return (co)variance measures are based on weekly returns data for a year leading up to August 2011. Standard errors are presented as vertical lines for each bin. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "CAPM and four factor-implied Sharpe ratios. Panel A presents the annualized Sharpe ratio from the bestNstock CAPM-implied portfolio. Thex-axis represents the number of stocks in the portfolio, with the market portfolio as the last bar in the plot. The Sharpe ratio estimates are based on weekly returns data for the period March 2003 to August 2011. The triangle plots the median CAPM-implied Sharpe ratio for accounts in our data, for the same time period, and the dotted lines represent the range from the 10thto the 90thpercentile of the household Sharpe ratio distribution. Panel B presents the annualized Sharpe ratio from the bestNstock four factor-implied portfolio for the same time period, and the four-factor-implied Sharpe ratio for households, similar to Panel A. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Treasury yield skewness. Panel A: monthly realized skewness, calculated from changes in daily Treasury futures prices and implied volatilities, with a 12-month moving average (blue line). Panel B: daily implied skewness, calculated from options on Treasury futures and interpolated to a constant horizon of 0.2 years (2.4 months, the average horizon of all option contracts), with a 250-day moving average (blue line). Sample period: January 1990 to May 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Skewness and interest rates. Option-implied yield skewness (left axis) and the slope of the Treasury yield curve (the second principal component of Treasury yields, right axis). Annual moving averages of daily values. Green/orange shaded areas indicate monetary policy easing/tightening cycles (based on changes in the fed funds rate). Sample period: January 1990 to May 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Densities for future yields at ZLB. Option-implied probability densities for the future CTD bond yield given market prices on December 31, 2013 (left panel) and June 16, 2020 (right panel). Red shaded area indicates 1stpercentile. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Skewness and monetary policy surprises. Horizontal axis: residual of ISK (averaged over month preceding each FOMC announcement) after regressing on level, slope, and curvature of the yield curve. Vertical axis: monetary policy surprise. Sample: 213 FOMC announcements from January 1994 to June 2019. Labels indicate eight most influential observations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Skewness and interest rates since 2019. 10-year Treasury yield, yield forecasts from Blue Chip Financial Forecasts, option-implied yield skewness, and slope of the yield curve (the difference between 10-year and three-month yields). Sample period: January 2, 2019 to May 28, 2021. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Yield skewness in the heterogeneous beliefs model. Simulation results for heterogeneous-beliefs model. For each starting value of disagreement, Δ0, we simulate 100,000 paths over a period of one quarter, usingγ=2$\\gamma =2$,σ=0.035$\\sigma =0.035$, andκ=0.1$\\kappa = 0.1$. Panel A: sample skewness for the distribution of the 10-year yield. Panels B to D: mean forecast errors for consumption, expected excess returns on the 10-year bond, and mean forecast errors for the real short rate, all against skewness of the 10-year yield. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Model-implied yield skewness for different levels of risk aversion. Conditional skewness of the 10-year yield, based on simulations from heterogeneous-beliefs model. For each starting value of disagreement, Δ0, we simulate 100,000 paths over a period of one quarter, usingσ=0.035$\\sigma =0.035$,κ=0.1$\\kappa = 0.1$, and different values of γ. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

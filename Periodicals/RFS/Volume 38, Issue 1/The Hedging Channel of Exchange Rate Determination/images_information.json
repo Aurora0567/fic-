@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Japanese life insurer hedge ratio The hedge ratio is calculated by dividing the net notional amount of foreign currency forward and swap contracts (sold minus bought) and put options by the foreign currency-denominated asset holdings reported in public disclosures of nine large Japanese insurers. See Internet Appendix Section 5 for details.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dollar imbalances, cross-currency bases, and options risk-reversals This figure presents unconditional relationships between average cross-currency bases, currency risk reversals and dollar imbalances. Panel A shows the relationship between average cross-currency bases and average dollar imbalances. The slope of the regression line is –32.77 (s.e. = 13.68). Panel B shows the relationship between average risk reversals and average dollar imbalances. A risk reversal captures the relative pricing of calls and puts on currencies as measured by the difference in implied volatility between the 25-delta call minus put. The slope of the regression line is 3.34 (s.e. = 1.04). Our sample ranges from January 2000 to December 2021.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Currency options risk-reversals This figure presents the time series of relative pricing of calls and puts on G-10 currencies as measured by their risk-reversals. The sample runs from January 2005 to December 2021.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Dollar imbalances, forward premiums, and currency excess returns The left-hand-side panel of this figure plots the average 12-month forward premiums of each G-10 currency against the countries’ average dollar imbalances. The slope of the regression line is -4.52 (s.e. = 1.53). The right-hand-side panel plots the average 12-month currency excess returns of each G-10 currency against countries’ dollar debt imbalances. The slope of the regression line is -3.70 (s.e.=2.62).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Term structure of cross-currency basis This figure plots the average spread between the 5-year and the 1-year cross-currency basis against average U.S. dollar imbalances for the G-10 currencies from January 2000 to December 2021.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Solvency II and cross-currency bases These figures present the average difference between the magnitude of cross-currency bases in the United Kingdom and the euro area against the other G-10 currencies after controlling for differences in dollar imbalances. We compute the residuals from a regression of the magnitude cross-currency bases on the magnitude of dollar imbalances. We then compute the difference between the residuals for the euro area and United Kingdom against the other G-10 currencies. The left-hand-side figure shows results for the 1-year tenor, and the right-hand-side figure shows results for the 5-year tenor.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Dollar imbalances and swap lines during COVID-19 This figure plots the maximum swap line draw by each central bank between March 2020 and July 2020 against the country’s dollar imbalance. The regression line has a slope of 0.02 (s.e. = 0.01).",
+        "correlation": []
+    }
+}

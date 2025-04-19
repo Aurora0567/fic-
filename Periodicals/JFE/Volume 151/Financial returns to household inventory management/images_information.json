@@ -1,0 +1,80 @@
+{
+    "1": {
+        "description": [
+            "Observed consumer goods inventory.Notes: Panel (a) plots how the average 2013-2014 inventory level I¯h varies across households in the NCP. Average inventory is plotted up to the 99th percentile. Summary statistics reported in the top right corner are computed using all observations. Panel (b) plots the distribution of inventory ratio, i.e., inventory as a share of annual household spending on goods covered by NielsenIQ. Both panels are constructed using NielsenIQ sampling weights. Appendix Table H.1 provides corresponding summary statistics for alternative product aggregation levels (UPC, Product Module, Product Group, and Department)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Inventory portfolio share by income.Notes: Panel (a) is constructed by combining data from the NCP over 2013 and 2014 and the SCF over 2010, 2013, and 2016. We impute inventory for SCF households based on characteristics observable in both datasets: house price, household income, the maximum age of household members, household size, marital status, and indicators equal to one if the respondent identifies as non-Hispanic white, if the household contains young children, if all adults work full time, or if either respondent or spouse has a college degree. We train a machine learning model to predict inventory using the Matlab command fitrensemble with hyperparameter optimization. The resulting method is LSBoost with 11 trees, a learn rate of 0.35 and a minimum leaf size of 46. The model explains 17.2 per cent of variation in observed inventory out-of-sample. Then, using data from the 2010, 2013 and 2016 SCF, we compute the inventory portfolio share for each household i, Inventoryi/(Financial Assetsi+Inventoryi), and report the average and median share by income quintile. Financial assets include checking accounts, savings accounts, CDs, money market accounts, bonds and stocks (both directly held and in mutual funds). We do not subtract debt and do not include retirement accounts (see Appendix Figure H.2 for results including retirement accounts). Income is reported to the nearest thousand dollars. Panel (b) shows the median value of inventory in each income quintile computed using the NCP. The lower cutoffs for each income quintile are $0, $22,000, $38,000, $61,000, and $101,000. We use NielsenIQ sampling weights in both panels."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Validation: spending around move dates.Notes: This figure shows the change in log spending around the time a household moves. For households who move to a new 3-digit ZIP Code in a given year we impute the month of the move by searching for a break in the share of trips made in the household's new 3-digit ZIP Code (rather than their old 3-digit ZIP Code). The figures plot estimates of bs from the following specification and a 95 per cent confidence interval: , where ln⁡Spendingi,t is the log spending of household i in month t. Movedi,t is an indicator equal to 1 if household i moved in month t. The sample includes non-movers and households who moved to a new 3-digit ZIP Code exactly once between 2006 and 2014. The sample period is January 2006 to December 2014. We also drop households who leave the panel and re-enter in a later year. Panel (b) includes only households in the top quartile of move distance—that is households moving more than 974 km. Standard errors are clustered by household. The regression is weighted using NielsenIQ sampling weights. Appendix Figure H.4 shows robustness to using the imputation approach described by Borusyak et al. (2021) to deal with potential bias in pooled event studies with staggered events."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Relative importance for inventory ratio prediction.Notes: This figure shows the relative importance of each inventory ratio predictor. It measures the share of the reduction in mean-squared error due to each predictor. At each node where a predictor is chosen, the predictor's contribution is the difference between the MSE at the parent node and the average MSE of the child nodes (weighted by the number of observations going through each child node). The contribution is then summed over all nodes for which the predictor is chosen, weighted by the number of observations at each node as a share of the total sample size. We predict the inventory ratio using bootstrap aggregation (without random selection of predictors), 343 trees and a minimum leaf size of 27 observations."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Partial dependence profile: age and perishable share.Notes: This figure shows the joint partial dependence profile for age and the share of purchases with a shelf-life of less than 0.58 months. To construct the partial dependence profile, model predictions are computed for each observation at counterfactual values of age and the perishable share (between the 2nd and 98th percentile), holding all other predictors fixed. The resulting predictions are then averaged over all observations in the dataset (applying NielsenIQ sample weights)."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Partial dependence profiles.Notes: This figure shows partial dependence profiles for the six most important inventory ratio predictors. To construct the partial dependence profile, model predictions are computed for each observation at counterfactual values of the variable of interest (between the 2nd and 98th percentile), holding all other predictors fixed. The resulting predictions are then averaged over all observations in the dataset (applying NielsenIQ sample weights)."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Example paths of household inventory.Notes: This figure shows two examples of the path of inventory. Panel (a) show the path of an individual retail product i. The blue dashed lines and the x axis display the (s,S) policies at full price pf and discounted price pd, respectively. In this example, sd,i = si(pd)=3. Panel (b) shows an example of the path of inventory aggregated to the household level. In this example, the optimal trip interval is Δ = 0.25 months, and optimal deal shopping strategies for product groups 1 to 4 are ⁎⁎⁎sd,1⁎=sd,2⁎=sd,3⁎=0, and ⁎sd,4⁎=4. The red dashed line displays total working capital, which is the sum of inventory and cash set aside to pay for the next shopping trip. Cash accumulates between trips at the rate at which inventory depletes, leaving total working capital constant."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Bulk calibration.Notes: We first compute pack size quintiles for each product-ZIP3 combination. We then compute the median number of units and unit price for each product-pack size quintile-ZIP3, weighted by expenditure. We normalize both prices and units by dividing by the second quintile price and units. The range of available sizes varies substantially across products. As we want to measure the savings obtained by increasing pack size uniformly across all products, we ensure that all products have a common range of normalized units. This means the set of products does not change along the x-axis. To achieve this, we create a number of pack size bins over the range 0.5 to 10 (the cutoffs are 0.5, 1, 1.5, 2, 5, and 10). For products where price and units are missing for a particular bin, we impute price using the unit price in the closest bin. We impute units as the weighted average (normalized) units in the bin across all products. We then estimate (26). The dashed line shows the relative price we assume in the model: Price=α+βe−σˆUnits and Units is the weighted average normalized units in units bin q across all products. The solid line is constructed by computing the weighted average normalized retail price in units bin q across all products."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Implied effect of working capital on average returns.Notes: This graph shows average portfolio returns in each income and asset quintile with and without working capital. We construct average returns for each SCF household using the following method. First we compute the portfolio return without working capital, which is ri=Income from Financial AssetsiFinancial Assetsi+∑aλa,iRevaluationa, where λa,i is household i's share of assets in asset class a and Revaluationa is the revaluation return for asset class a from the Flow of funds (the SCF only provides information on realized capital gains and losses). Income from financial assets is pre-tax and includes both interest and dividend income. The assets classes are stock mutual funds, directly held stocks, bond mutual funds, directly held bonds and combined mutual funds. Also included in financial assets are checking accounts, savings accounts, CDs and money market accounts. We assume these assets have zero revaluation return. To compute the corresponding return including working capital we use the inventory portfolio share λI,i=InventoryiAssetsi+Inventoryi where Inventoryi is imputed inventory of household i (see note to Fig. 2). The return including working capital is then riwc=λI,iAvgWorkingCapitalReturnq(i)+(1−λI,i)ri, where q(i) is the income quintile of household i. Note that as we observe inventory (not working capital), we ideally need the average return to inventory (not working capital). However, at the average inventory ratio of 0.2 these are essentially identical. We therefore use the average return to working capital associated with an inventory-to-spending ratio of around 20%, which is 54% (Table 4). Income is reported to the nearest thousand dollars. The lower cutoffs for each income quintile are $0, $22,000, $38,000, $61,000 and $101,000. The lower cutoffs for each asset quintile are $0, $321, $2,001, $8,510, $43,600. All quintiles and summary statistics are calculated using SCF weights."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Gross return: in-store savings and inventory.Notes: To construct Panel (a) we vary working capital (I¯) and compute the in-store savings and inventory as a share of spending. We plot the relationship between the two conditional on the number of trips for comparability with the data. Panel (b) uses the NCP over 2013 and 2014 to illustrate the relationship between in-store savings and average inventory as a percentage of spending. The points on the charts represent deciles of households, controlling for the number of shopping trips a household makes each year. The savings measure reflects in-store savings only and does not incorporate holding costs or trip fixed costs. The red dashed line shows predicted values from (32): Dollar in-store savingshBase Spendingh=a+b1Average Base InventoryhBase Spendingh+b2Trip Intervalh+eh. The regression is weighted using NielsenIQ sampling weights."
+        ],
+        "correlation": []
+    },
+    "11": {
+        "description": [
+            "Deal transactions around move dates.Notes: This figure shows the percentage point change in the share of purchases associated with a coupon or self-reported deal. For households who move to a new 3-digit ZIP Code in a given year we identify the month of the move by searching for a break in the share of trips made in the household's new 3-digit ZIP Code (rather than their old 3-digit ZIP Code). The figure plots estimates of bs from the following specification and a 95 per cent confidence interval: , The sample includes both non-movers and households who moved to a new 3-digit ZIP Code exactly once between 2006 and 2014. The sample period is January 2006 to December 2014. We also drop households who leave the panel and re-enter in a later year. Standard errors are clustered by household. The regression is weighted using NielsenIQ sampling weights. Appendix Figure H.11 shows robustness to using the imputation approach described by Borusyak et al. (2021) to deal with potential bias in pooled event studies with staggered events."
+        ],
+        "correlation": []
+    },
+    "12": {
+        "description": [
+            "Relationship between deal savings, trip interval, and working capital.Notes: In Panel (a) we evaluate % deal savings and days between trips in the model for different values of k. Working capital is set sufficiently high that the working capital constraint does not bind. Days between trips are computed as Δ×36512. In Panel (b) we plot the data relationship between deal savings and the household's average number of days between trips over a calendar year, winsorized at 98 per cent. In Panel (c) we evaluate % deal savings and the inventory ratio in the model for different values of I¯. Panel (d) shows the corresponding relationship in the data. The inventory ratio in the model is average inventory divided by annual spending at the expected price when sd = 0 and b(Q)=1. The inventory ratio in the data is the household's average base inventory over a calendar year divided by annual NielsenIQ base spending (see Appendix A and E.2 for an explanation of how these variables are constructed). Deal savings in the data are constructed using equation 44 in Appendix A. In Panels (c) and (d) we control for the number of trips. Panels (b) and (d) are constructed using NielsenIQ sampling weights."
+        ],
+        "correlation": []
+    },
+    "13": {
+        "description": [
+            "Relationship between bulk savings, trip interval, and working capital.Notes: In Panel (a) we evaluate % bulk savings and days between trips in the model for different values of k. Working capital is set sufficiently high that the constraint does not bind. Days between trips are computed as Δ×36512. In Panel (b) we plot the data relationship between bulk savings and the household's average number of days between trips over a calendar year, winsorized at 98 per cent. In Panel (c) we evaluate % bulk savings and the inventory ratio in the model for different values of I¯. Panel (d) shows the corresponding relationship in the data. The inventory ratio in the model is average inventory divided by annual spending at the expected price when sd = 0 and b(Q)=1. The inventory ratio in the data is the household's average base inventory over a calendar year divided by annual NielsenIQ base spending (see Appendix A and E.2 for an explanation of how these variables are constructed). Bulk savings in the data are constructed using equation 46 in Appendix A. In Panels (c) and (d) we control for the number of trips. In Panels (b) and (d) we also control for potential bulk savings, which is the bulk savings obtained if the household purchased the largest available pack size quintile for each product. Panels (b) and (d) are constructed using NielsenIQ sampling weights."
+        ],
+        "correlation": []
+    }
+}

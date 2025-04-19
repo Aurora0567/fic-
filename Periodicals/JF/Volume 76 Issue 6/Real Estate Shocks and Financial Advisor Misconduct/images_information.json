@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Real estate returns over sample period. This figure plots the cumulative return as measured by the Zillow national- and state-level house price indexes over the sample period. We plot this measure separately for the entire United States (black) and select states. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Crisis price changes in metro Atlanta. This figure displays price changes by ZIP code in 2008 for the Atlanta, GA metropolitan statistical area. ZIP codes are color coded by level of 2008 loss, where darker shades indicate more severe losses. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Predicting misconduct using crisis returns. This figure plots estimates and confidence intervals from regressions that use returns in 2008 to predict misconduct in yeart, whereCrisisPriceDrop(10%)i,2008is an indicator variable equal to one for advisors who lost at least 10% of the value of their home in 2008:Misconducti,t=β·CrisisPriceDrop(10%)i,2008+log(IndustryExperience)i,t+δf,t+δrl+εi,t.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Coefficient onPseudo Cumulative Returnin placebo samples. The figure provides a histogram ofPseudo Cumulative Returncoefficients from 10,000 iterations of the model in TableIII, column (3). For each iteration, each ZIP code is randomly assigned the returns of another out-of-state ZIP code (creating new counterfactual values forPseudo Cumulative Return). The model is reestimated using the counterfactualPseudo Cumulative Returnvalues. All other advisor characteristics remain the same. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

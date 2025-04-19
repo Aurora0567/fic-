@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Number of merged and closed mutual funds in GermanyThis bar chart illustrates the number of funds affected by closures or mergers. The x-axis presents the year, and the y-axis shows the total number of affected funds. The dark grey bars represent the number of funds that are merged into another fund without being liquidated. The light grey bars show the number of deleted funds that are liquidated and reimbursed to investors. Note that the figure contains all deleted funds in Germany. Not all of them are held by at least one of the investors in our sample."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Trading behavior before and after fund closureThis figure illustrates the fraction of trading in funds that are terminated at t = 0. The x-axis illustrates the days before and after closure. The days left of zero are the days before closure, and the days right of zero are the days after closure. The y-axis contains the fraction of trading on a specific day relative to the total trading 200 days before and 10 days after closure. The weighting is in euros. Note that it depends on the settlement arrangements when a refund of a mutual fund investment appears on the clients' account."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Forced fund liquidations in euro by year of liquidationThis figure illustrates the average reimbursement of forced fund liquidation (in euros) per year. The x-axis illustrates the years, and the y-axis illustrates the average euro value of forced fund liquidations."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Fraction of reinvestments into the portfolio relative to the refundThis figure illustrates the fraction of reinvestments into the portfolio relative to refunds from forced fund liquidation. The x-axis illustrates the share reinvested relative to the refund in percent in bins, and the y-axis illustrates the percentage of clients. The left graph contains investors closed out on days with low ambiguity, whereas the right graph contains investors closed out on days with high ambiguity. Ambiguity is high if the daily level of the VVIX on the day of the fund's closure is above the 75-percentile and low otherwise."
+        ],
+        "correlation": []
+    }
+}

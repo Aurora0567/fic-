@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Monetary policies and quantitative easing June 2001 to December 2015. The first figure plots the residuals from regressions of the foreign monetary policies (EONIA rate for the Eurozone, SONIA rate for the United Kingdom and Fed Funds rate for the United States) on the annual growth rate of real GDP and CPI of each region over time, as well as the residuals from a regression of the Mexican monetary policy (Tasa de Fondeo Bancario) on the Fed Funds, and the annual growth rates of CPI and real GDP for both Mexico and the United States. The second figure plots the evolution of quantitative easing over time in the Eurozone, United Kingdom, and United States, respectively. Quantitative easing is measured as the annual real change in total balance sheet assets of each central bank (ECB, BoE, and Federal Reserve) as a share of GDP in each region. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Normalized share prices.This figure shows normalized daily share prices for the Bank of England (BoE), East India Company (EIC), and Royal African Company (RAC). Each company’s share price series is normalized by dividing by its first observation. The sample period is 1 August 1715 to 29 September 1725 for the BoE, 1 August 1715 to 25 March 1723 for the EIC, and 28 May 1720 to 27 October 1720 for the RAC."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Board meeting presence Bank of England.This figure shows an excerpt from the minutes of a Bank of England board meeting on October 8th, 1719. It lists the names of the governor, deputy governor, and directors present at the meeting. This information was retrieved from the BoE website: https://www.bankofengland.co.uk/about/people/court-of-directors."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Number of active traders per company.This figure shows the number of active traders (i.e., trade at least once) in each of the companies in our sample, with overlapping areas indicating that traders are active in more than one company."
+        ],
+        "correlation": []
+    }
+}

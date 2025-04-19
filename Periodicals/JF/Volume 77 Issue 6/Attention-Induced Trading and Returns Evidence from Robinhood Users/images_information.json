@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Robinhood and TAQ retail trading. Panel A plots the total number of Robinhood stock holdings. Panel B plots the total number of TAQ Retail Trades. Panel C plots the total number of absolute Robinhood user changes (green) and absolute TAQ net buys (blue) as a five-day moving average. The red vertical line depicts the date when the COVID national emergency was declared in the United States (March 13, 2020). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "The concentration of buying and selling. In Panel A, the figure depicts the mean daily percent of net buying that is observed in the stock with ranks from 1 to 10, with the rank of 1 corresponding to stocks with the most net buying. In Panel B, the figure depicts the mean daily percent of net selling that is observed in the stock with ranks from 1 to 10, with the rank of 1 corresponding to stocks with the most net selling. Whiskers depict 95% confidence intervals based on standard errors across days. In Robinhood, net buying is user changes. In TAQ, net buying is retail buys less retail sells. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The effect of Robinhood outages on retail trade. In Panels A to C, the sample consists of the 50 most popular Robinhood stocks on February 28, 2020. In Panel A, March 2, 2020, is the day of a Robinhood outage (red bars). In Panel B, March 2, 2020, is the day of a Robinhood outage (white bar). A second shorter outage occurred around 10:00 am on March 3, 2020, and lasted for a bit more than an hour (white bar). In Panel C, March 2, 2020, is the day of a Robinhood outage (white bar). Robinhood tweeted all systems were fully restored at 11:55 am on March 3, 2020 (black bar). In Panel D, the sample consists of the 50 most popular Robinhood stocks as of June 17, 2020. The outage occurs between 11:30 and 12:30 on June 18, 2020 (white bar). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Mean Robinhood intraday user change versus TAQ intraday net retail buying on top mover rankings. The panels present the mean Robinhood intraday user change and TAQ intraday net retail buying of daytagainst top mover rankings based on different measures. The rankings are sorted for stocks with market cap above $300 million at the market open of dayt. Panel A sorts top movers on absolute overnight returns of dayt; Panel B sorts top movers on absolute daily returns of dayt. RH intraday user change measures the change in Robinhood users from first time stamp that excludes market open trades to the last time stamp before the market closes. TAQ intraday net retail buying is TAQ retail buying minus TAQ retail selling (with short trades removed following Boehmer and Song (2020)) during market trading hours. The error bar represents the 90% confidence interval for the mean. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Robinhood intraday user change for top movers around the $300 million market cap cutoff. This figure shows a binned scatterplot for the Robinhood (RH) intraday user change against market cap for stocks included in the regression discontinuity analysis as described in TableVII. The red lines are the linear (Panel A), quadratic (Panel B), and cubic fitted lines (Panel C) estimated separately for market cap above and below the $300 million cutoff. Shaded areas indicate the 90% confidence interval. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Returns around herding events. The panel on the left depicts mean BHARs and Robinhood user changes from 10 days before to 21 days after herding events. The green line represents BHARs, whereas the gray bars represent user changes. The panel on the right displays postevent mean BHARs starting from day 0. Herding events are defined as the top 0.5% of stocks with positive user change ratio on day 0 and a minimum of 100 users on the prior day. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Herding intensity and price reversal. The panels show how herding intensity and 20-day BHARs vary with the daily user change ratio cutoff to identify herding episodes for stocks with at least 100 Robinhood users. Panel A plots the number of herding episodes (in log scale) against the user change ratio cutoff. Panel B plots the 20-day BHARs (%) against the user change ratio cutoff. The daily user change ratio cutoff varies from 1.1 to 8.5. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Aggregate investor experience: Average profitability. The figure presents the average profitability of the Robinhood user community's actual trades across the herding episodes, their counterfactual trades on S&P 500 ETF during the herding episodes, and the difference between the two. For each herding episode, we compute the weighted average purchase (sales) price of Robinhood users during the event period [−10,20]. Profitability is calculated as (average sales price/average purchase price − 1). Positive profitability indicates that the Robinhood community profited from that herding episode. The counterfactual trades on S&P 500 ETF assume that the Robinhood community purchases or sells the equivalent amount of capital in an S&P 500 ETF. The error bar represents the 95% confidence interval for the average. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Short interest changes and Robinhood trading. The figure depicts average abnormal short trading (%). Short trading is measured using data from FINRA, which provides daily short trade data as noted by Boehmer and Song (2020). We measure abnormal short volume on daytas the ratio of short trades on daytto the prior 20-day ([t−20,t−1]$[t-20,t-1]$) average of the number of short trades. To control for outliers, we winsorize the top 0.1% of observations. Thex-axis is daily return ranking of dayt. Robinhood Herd are the top 0.5% of stocks with a positive user change ratio on daytand a minimum of 100 users on dayt−1$t-1$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

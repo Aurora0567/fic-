@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "World trade network in 2013. This figure depicts country links as measured by bilateral trade intensity—pairwise total trade normalized by pairwise total GDP. Links are drawn if bilateral trade intensity is greater than the cross-sectional median. Circle position corresponds to trade network centrality and circle size corresponds to GDP. Trade data are from the IMF Direction of Trade Statistics and GDP data are from the World Bank, both in dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Risk premia and interest rate differentials versus centrality. This figure depicts decade-long averages of annualized risk premiarxand annualized one-month interest rate differences (measured using covered interest rate parity with forward spreadsf−s) versus trade network centrality for 39 countries. For real values, inflation expectations are lagged year-over-year inflation as in Atkeson and Ohanian (2001). For each country, monthly observations are averaged into three blocks (1988 to 1992, 1993 to 2002, and 2003 to 2016). Centrality is the export-share weighted average of countries' bilateral trade intensities—pairwise total trade divided by pairwise total GDP. Trade data are from the IMF Direction of Trade Statistics and annual GDP data are from the World Bank, both in dollars. For the euro area, I construct an aggregate with all countries that adopted the euro, beginning in 1999. Foreign exchange data are monthly from Barclays and Reuters.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Time series of centrality ranking by country. This figure plots rankings of countries' centrality in the global trade network by year. Centrality is the export-share weighted average of countries' bilateral trade intensities—pairwise total trade divided by pairwise total GDP. Rankings are normalized each year to between 1 and 38 (maximum number of countries in the sample). Trade data are from the IMF Direction of Trade Statistics and GDP data are from the World Bank, both in dollars. Data are annual from 1973 to 2016.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Consumption growth betas versus trade network centrality. This figure plots average consumption growth betas versus average centrality. Consumption growth betas are from regressions of a country's consumption growth on global average consumption growth. Centrality is the export-share weighted average of countries' bilateral trade intensities—pairwise total trade divided by pairwise total GDP. Trade data are from the IMF Direction of Trade Statistics and annual GDP data are from the World Bank, both in dollars. Consumption data are from the Penn World Tables.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Number of countries in combined data set. This figure plots the number of countries that have both trade data and foreign exchange data over time. Trade data are from 1973 to 2016 from the IMF Direction of Trade Statistics. Annual GDP is from the World Bank. Foreign exchange data are monthly from Barclays and Reuters for 39 countries from 1/1988 to 12/2016.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Size and RRW versus centrality. This figure plots average rank of GDP share and RRW versus centrality. Centrality is the export-share weighted average of countries' bilateral trade intensities—pairwise total trade divided by pairwise total GDP. RRW is constructed as in Ready, Roussanov, and Ward (2017). Trade data are from the IMF Direction of Trade Statistics and annual GDP data are from the World Bank, both in dollars. For the euro area, I construct an aggregate with all countries that adopted the euro, beginning in 1999. Foreign exchange data are monthly from Barclays and Reuters for 39 countries from 1/1988 to 12/2016. Observations are omitted after a country secedes its currency to the euro.",
+        "correlation": []
+    }
+}

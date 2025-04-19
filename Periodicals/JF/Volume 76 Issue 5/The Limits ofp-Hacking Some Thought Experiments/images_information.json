@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Empirical verification of the standard normal tails assumption. I draw random samples of 240 portfolio-months with replacement from the Chen-Zimmermann (2020a) data set of 210 long-short portfolios. All portfolio-months are pooled together before drawing samples. I calculatet-statistics by taking the sample mean, dividing by the standard deviation, and multiplying by the square root of 240. I subtract the meant-statistic across samples to center at zero (circles) and compare with the standard-normal distribution (x's). The central limit theorem holds very well (equation (2)). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "An extreme preference for larget-statistics. Bars showt-statistics for 210 replicated long-short portfolios from Chen and Zimmermann (2020a). Thet-statistic preference (equation (13), triangles) is fit to CZ data. Thep-hacking model (circles) exactly fits the CZ data (bars), but implies an implausibly nonlinear preference for larget-statistics. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Some plausible preference specifications. I simulate a three variations of the model of SectionII.B, which assumes thatp-hacking involves drawing an initialt-statistic and continuing to draw 10 variations on the initialt-statistic if the initialt-statistic exceeds 1.80 in absolute value. Researchers prefer to maket-statistics observable only if the initial draw exceeds 1.80 and thet-statistic is the largest among the 10 variations. I simulate three models with different values forρ, the correlation between the variantt-statistics and the initialt-statistic (bars). I also show the density implied by a standard-normal (line) for comparison. These preference specifications lead to more significant observedt-statistics than a simple standard-normal, but only fort-statistics<4.0 in absolute value. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Verifying normalt-statistic tails using an estimated model of fat-tailedreturns. I fit a scaledt-distribution to monthly returns on the equal-weighted long-short B/M portfolio from the Chen-Zimmermann data (2020a) (left panel). The estimated degrees of freedom parameter is 3.6, consistent with the literature that finds that returns are fat-tailed (Fama (1965)). I simulate 500 samples of 312 monthly returns using the fitted distribution and calculate the sample mean (right panel). Despite fat-tailed returns, the normal distribution fits the distribution of sample mean returns very well. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "A closer look at the bootstrapped histogram confidence interval. I plot the distribution of bootstrapped histogram counts for selected bins from the data underlying the 90% confidence interval in TableI. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

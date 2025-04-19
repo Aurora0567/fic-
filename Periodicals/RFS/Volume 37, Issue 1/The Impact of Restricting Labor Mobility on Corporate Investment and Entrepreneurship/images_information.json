@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Difference in departure rate by years to treatment This figure presents a dynamic version of the coefficient estimates from Table 3, broken out by years relative to the change in NC enforcement. The omitted category is one year prior to the effective change in NC enforcement. In panel A, the dependent variable is the total departure rate and in panel B it is departures where the origin and destination occupation are the same. Results are limited to firms with at least 40% of employees in the main state. Lines represent 95% confidence intervals, where standard errors are double clustered at the state and industry levels. Industry is defined using four-digit NAICS.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Difference in investment rate by years to treatment This figure presents a dynamic version of the coefficient estimates for Knowledge Firms from Table 4, broken out by years relative to the change in NC enforcement. The omitted category is one year prior to the effective change in NC enforcement. Results are limited to firms with at least 40% of employees in the main state. Lines represent 95% confidence intervals, where standard errors are double clustered at the state and industry levels. Industry is defined using four-digit NAICS.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Difference in new firm entry by years to treatment This figure presents a dynamic version of the coefficient estimates for Knowledge Sector from Table 9, broken out by years relative to the change in NC enforcement. The omitted category is one year prior to the effective change in NC enforcement. In panel A, the dependent variable is all new firms, and in panel B it is departures to all new nonsolo firms. Lines represent 95% confidence intervals, where standard errors are double clustered at the state and industry levels. Industry is defined using LinkedIn industry.",
+        "correlation": []
+    },
+    "A.1": {
+        "description": "Distribution of treated states This figure shows where the eight treated states (in orange) fall relative to never treated states (in blue) on different dimensions. Panel A shows average GDP per capita, panel B average GDP growth, panel C average population growth, panel D unemployment rate, panel E average Partisan Voting Index (PVI) from the Cook Political Report (negative numbers indicate Democrat leaning, positive numbers indicate Republican leaning), and panel F noncompete scores in 2009 from Starr (2019). For panels A–D, the average is taken over the 2000-2019 period. For Panel E, the average is taken from 2009 to 2022, as reports are not available before that.",
+        "correlation": []
+    }
+}

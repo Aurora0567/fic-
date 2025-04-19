@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Payoff of debt contract in the final period",
+        "correlation": []
+    },
+    "2": {
+        "description": "Single-crossing property of creditors’ payoff gain The increasing segment on the right is similar to the one obtained by Goldstein and Pauzner (2005) (Figure 2, p. 1305). The increasing segment on the left (if any) comes from the fact that the time-2 debt repayment Q(n;z) is increasing in n for ρn≤ρ⁠, see Figure 1.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Iso-risk and iso-value curves",
+        "correlation": []
+    },
+    "4": {
+        "description": "Public liquidity provision, run likelihood, and welfare components",
+        "correlation": []
+    }
+}

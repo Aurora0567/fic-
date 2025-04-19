@@ -1,0 +1,54 @@
+{
+    "1": {
+        "description": "Time series of factor yields. This figure shows factor yields,fy,t$f_{y,t}$, for the aggregate market and three PCs of anomaly portfolios. Annual dividends; monthly overlapping observations.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of factor returns. This figure shows factor returns,fr,t$f_{r,t}$, for the aggregate market and three PCs of anomaly portfolios. Annual returns; monthly overlapping observations.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Model-implied forward equity yields versus forward equity yield data. This figure compares our model-implied forward yields for maturities one, two, five, and seven years to their empirical counterparts in Bansal et al. (2021). Shaded areas depict two-standard-deviation bands around point estimates. Model parameters are estimated in the full sample, from February 1973 to December 2020.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Dynamics of model-implied yields in theBansal et al. (2021)sample. This figure shows equity yields constructed using the trailing 12-month dividend. Model parameters are estimated in the full sample, from February 1973 to December 2020.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Estimated term structure of forward risk premia. This figure shows mean realized returns on dividend strip forward contracts in the 2005 to 2020 sample (solid blue) and the full sample (dashed red). Shaded areas for each line depict two-standard-deviation error bands around point estimates. Model-implied GMM standard errors using a spectral density matrix with 12 lags for full-sample errors (narrow red bands; model and sampling uncertainty). In the 2005 to 2020 sample, we show empirical HAC robust standard errors associated with the estimate of the mean of realized strip returns (sampling uncertainty; wide blue bands).",
+        "correlation": []
+    },
+    "6": {
+        "description": "Decomposition of the two-year equity yield in theBansal et al. (2021)sample. The figure decomposes the two-year equity yield on the market into log HTM risk premium and log dividend growth net of the risk-free rate.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Dynamics of model-implied forward equity yields for the aggregate market for different maturities. The figure plots dynamics of model-implied forward equity yields of maturities one, two, five, and seven years. Equity yields are constructed using the trailing 12-month dividend. The sample is from February 1973 to December 2020.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Term structures of equity yields conditional on NBER recessions. The figure shows the term structures conditional on being (red) or not being (blue) in an NBER recession by maturity. Shaded areas depict two-standard-deviation error bands around point estimates. The table reports differences of equity yields (“Level diff.”) and differences of equity yield slopes (relative to a two-year equity yield; “Slope diff.”) in recession minus expansion, and their associatedt$t$-statistics based on GMM standard errors with a spectral density matrix with 12 lags.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Decomposition of the five-year equity yield. The figure decomposes the five-year equity yield on the market into log HTM risk premium and expected log dividend growth net of the risk-free rate in full sample, February 1973 to December 2020.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Slope 7-1 of forward equity yields for small and large stocks. The figure shows time series of the estimated slope of forward equity yields (7y − 1y) from our model for diversified portfolios of small (long) and large (short) stocks in the full sample, February 1973 to December 2020.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Slope 7-1 of forward equity yields for value and growth stocks. The figure shows time-series of estimated slope of forward equity yields (7y − 1y) from our model for diversified portfolios of value (long) and growth (short) stocks in the full sample, February 1973 to December 2020.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Term structure of risk premia for long-short portfolios. Panel A shows the difference of realized risk premia between small and large stocks, value and growth stocks, and high versus low momentum stocks. Shaded areas depict one-standard-deviation error bands around point estimates. Panel B shows the difference of realized risk premia across select anomaly portfolios: SMB, HML, MOM, INV, PROF, STREV, IVOL, and Age.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Expected and realized dividend growth for the market index and momentum stocks. Panel A plots time series of the model-implied expected (blue) and realized (orange) dividend growth for the aggregate market index, net of the risk-free rate. Panel B plots results for the momentum stock portfolio.",
+        "correlation": []
+    }
+}

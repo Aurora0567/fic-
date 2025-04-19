@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Sequence of events.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Bank claims issued in market equilibrium and planning outcome. In both panels, we set,,, and. Panel A shows the claims issued by bankand bankin a market equilibrium with(dashed lines) andbasis points (solid lines) asvaries. Panel B shows the claims issued by banksandin a market equilibrium (solid lines) and in the planning outcome (dotted lines) whenbasis points.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The BIS money flower. This figure is taken from Barontini and Holden (2019) and was adapted from Bech and Garratt (2017).",
+        "correlation": []
+    }
+}

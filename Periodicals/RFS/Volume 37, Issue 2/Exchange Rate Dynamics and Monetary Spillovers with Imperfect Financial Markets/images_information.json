@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "U.S. monetary policy shock Effects of a rise in the U.S. monetary shock εεr,t* in (67) of 0.25%. The blue line with circles represents the effect in our baseline model, and the green line with crosses represents the effects in the standard New Keynesian model.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Shock to bankers’ net worth Effects of a negative shock to bankers’ net worth.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Domestic monetary policy shock Effects of a rise in the domestic monetary shock εεr,t in (49) of 0.25%. The blue line with circles represents the effect in our baseline model, and the green line with crosses represents the effects in the standard New Keynesian model.",
+        "correlation": []
+    },
+    "4": {
+        "description": "U.S. monetary policy shock under an exchange rate peg Effects of a rise in the U.S. monetary shock εεr,t*(67) of 0.25% under a nominal exchange rate peg. The blue line with circles represents the effect in our baseline model, and the green line with crosses represents the effects in the standard New Keynesian model.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Estimated βx versus Vulnerability index: First-difference specification The y-axis of the figure displays the estimated coefficient for the change of spread, βx, from the regression Equation (91) estimated country by country for each country in our sample. Dollar-denominated corporate bond spreads are used as a proxy for the domestic market frictions in these regressions. Emerging countries highlighted with blue have their estimated βx coefficients statistically significant. The x-axis displays the corresponding vulnerability ranking of the country taken from Ahmed, Coulibaly, and Zlate (2017). The dark-gray line displays the fitted regression line for the relationship between the estimated coefficient value and the average vulnerability ranking, which has a negative slope.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effects of 1% rise in federal funds rate, VAR versus model EM output, EM investment, and EM real exchange rate refer to aggregates of output, investment and the bilateral real exchange rate, respectively, from a set of emerging economies with floating exchange rates. The units are given in the titles of the subplots. % means percent and p.p. means annualized percentage point, both expressed in deviations from baseline path obtained in the absence of the shock.",
+        "correlation": []
+    }
+}

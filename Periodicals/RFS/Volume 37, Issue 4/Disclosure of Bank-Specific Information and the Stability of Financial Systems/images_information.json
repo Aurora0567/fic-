@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Partial order of stability schemes",
+        "correlation": []
+    },
+    "2": {
+        "description": "Switching cutoffs resulting from binary-score disclosure rules",
+        "correlation": []
+    },
+    "3": {
+        "description": "Switching cutoffs given a finite disclosure rule",
+        "correlation": []
+    },
+    "4": {
+        "description": "Limiting robust disclosures in dimension r This figure illustrates the structure of limiting robust disclosures in dimension r when r¯/r_>A(Qr)QrW−QrA(W)−A(Qr)⁠. For all panels, W = 1, Er=2.5, Ec=0⁠, and a(l)=2−l⁠. In panel A, neither r¯ nor r_ restricts the design of limiting robust disclosures; in panel B, only r¯ is restrictive; in panel C, only r_ is restrictive; in panel D, both r¯ and r_ are restrictive.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Optimal disclosures in dimensions c and r, respectively This figure illustrates how optimal disclosures in either dimension c or dimension r evolve with the deterioration of the average quality of the banking system, represented by a reduction in qc. Panels A to C illustrate optimal disclosures in dimension c with the corresponding distributions of scores, and panels D to F illustrate those in dimension r. In each panel, the horizontal axis represents disclosed scores, and the vertical axis represents the mass of banks; solid areas represent “preserved” banks when θθ=θ^⁠, with their total mass represented by the w in the title, and hollow areas represent “sacrificed” banks. For all panels, (r_,r¯)=(2,3)⁠, qr=0.5, (c_,c¯)=(3.75,5.75)⁠, a(l)=2−l, θ^=9⁠, and both c¯−c_>[A(qc)qc−A(1)−A(qc)1−qc]Er and r¯/r_>A(qr)qr1−qrA(1)−A(qr) are satisfied.",
+        "correlation": []
+    },
+    "6": {
+        "description": "The minimum mass of type-c_banks The black solid curves in this figure illustrate the minimum mass Qc of type-c_ banks among banks of a given mass W that can keep them from runs under optimal disclosures in dimension c when θθ=θ^⁠, given by x^c(W,Qc,A(·))=θ^⁠. The horizontal axis of each panel represents the mass W of all banks, and the vertical axis represents the mass Qc of type-c_ banks. The blue dashed lines indicate the natural constraint Qc≤W⁠. For all panels, (r_,r¯)=(2,3)⁠, Er=2.5⁠, and θ^=9⁠. From panels A to C, we scale up a(·) to achieve higher systemic risks. To ensure the feasibility of the same θ^=9 for disclosures under a uniformly higher systemic risk a(·)⁠, we lower (c_,c¯) accordingly: we pick c¯=9.5−1.5×Er×a(l)2−l and c_=c¯−2⁠.",
+        "correlation": []
+    }
+}

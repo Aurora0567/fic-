@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Average income gap and future bond excess returns. This figure plots the time series of banks' income gap and future bond excess returns. The bank-level income gap is computed from the quarterly Consolidated Financial Statements (Files FR Y-9C) and corresponds to the difference between the dollar amount of assets that reprice or mature within one year and the dollar amount of liabilities that reprice or mature within one year, all scaled by total consolidated assets. “Income Gap” is the average income gap, computed across all U.S. bank holding companies with total consolidated assets of $1 bn or more. rxnis the excess one-year return of zero-coupon bonds of maturityn, using data from Gurkaynak, Sack, and Wright (2007) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cross-sectional distribution of banks' income gap. This figure plots the cross-sectional distribution of banks' income gap. The bank-level income gap is computed from the quarterly Consolidated Financial Statements (Files FR Y-9C) and is defined as the difference between the amount of assets that reprice or mature within one year and the dollar amount of liabilities that reprice or mature within one year, all scaled by total consolidated assets. We compute the various percentiles of the income gap for each date on the top panel. The bottom panel presents the demeaned time series [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Income gap across bank sizes. The figure plots the time series of banks' income gap for banks of different sizes. The bank-level income gap is computed from the quarterly Consolidated Financial Statements (Files FR Y-9C) and corresponds to the difference between the dollar amount of assets that reprice or mature within one year and the dollar amount of the liabilities that reprice or mature within one year, all scaled by total consolidated assets. The solid black line represents the average income gap, computed across all U.S. bank holding companies with total consolidated assets of $1 bn or more. For each panel, the dashed line corresponds to the average income gap within a decile of total consolidated assets, in increasing order. We represent the first two deciles in the first panel [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Income gap across U.S. Census divisions. The figure plots the time series of banks' income gap for banks located in different geographical areas. The bank-level income gap is computed from the quarterly Consolidated Financial Statements (Files FR Y-9C) and corresponds to the difference between the dollar amount of assets that reprice or mature within one year and the dollar amount of the liabilities that reprice or mature within one year, all scaled by total consolidated assets. The solid black line represents the average income gap, computed across all U.S. bank holding companies with total consolidated assets of $1 bn or more. For each panel, the dashed line corresponds to the average income gap within one of the nine divisions of the U.S. Census [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Income gap across bank characteristics. This figure plots the time series of banks' income gap for banks with different equity to asset ratios (Panel A) and banks with different checking deposit to asset ratios (Panel B). The bank-level income gap is computed from the quarterly Consolidated Financial Statements (Files FR Y-9C) and corresponds to the difference between the dollar amount of assets that reprice or mature within one year and the dollar amount of the liabilities that reprice or mature within one year, all scaled by total consolidated assets. Panel A presents the average income gap for banks split into two groups based on the average value of the ratio of book equity to consolidated assets. Panel B presents the average income gap for banks split into two groups based on the average value of the ratio of checking deposits to assets [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Timing of the stress test and cash flows",
+        "correlation": []
+    },
+    "2": {
+        "description": "Expected value of πV(π) (solid blue line) as a function of belief π. Concavification of πV(π) (dashed red line) over π[πDF,1] is the expected social value of an adverse pass-fail signal S with posteriors in π{πDF,1}⁠. The difference ΔV captures the incremental social value of such a signal. Parameters: b = 0.25, a = 1, d = 0.75, πδπ0=0.7, δ=0.8, c(x)=4·max(x,0)⁠.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Timing and structure of optimal precautionary recapitalization.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Optimal sequential stress test begins with an adverse pass/fail signal followed by optimal precautionary recapitalization in the event the bank fails it, followed by a fully informative test.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Expected social welfare under optimal static test, precautionary recapitalization, and sequential test as functions of beliefs πππ∈[πDF,1]⁠. Parameters: b = 0.1, a = 1, d = 0.65, δδδδ=0.8, δS=0.7, δB=0.9, c(x)=100·max(0,x)⁠.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Expected social welfare under optimal static test, recapitalization, and sequential test as functions of discounts δS and δB. Parameters: ππ0=0.8⁠, b = 0.1, a = 1, d = 0.65, c(x)=100·max(0,x)⁠.",
+        "correlation": []
+    }
+}

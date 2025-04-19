@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Distributions of the Alpha and Beta Components – A Simple Example.This figure compares the average return decomposition obtained with a candidate hedge fund (HF) model and the CAPM. Panel A plots the cross-sectional distributions of the alpha components (annualized) under both models. In this simple example, the average fund returns are explained by four factors (the market and three alternative factors 1, 2, and 3 with similar premia), and hedge funds load more aggressively on factor 1 than on factors 2 and 3. Whereas the CAPM omits factors 1, 2, and 3, the HF model only omits factor 3. Panel B repeats the analysis for the beta components."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Distributions of the Alpha and Beta Components.This figure compares the average return decomposition obtained with the two models with the additional factors (JKKT and CP) and the CAPM. Panel A plots the cross-sectional distributions of the alpha components (annualized) under the three models. Panel B repeats the analysis for the beta components."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Time-Variation in the Average Return Components.This figure compares the return decomposition for hedge funds and mutual funds. Panel A plots the evolution of the average return components (annualized) under the CP model: (i) the alpha component (Alpha), (ii) the beta component due to the market (Beta Mkt), and the beta component due to the non-market factors (Beta Non-Mkt), which are size, illiquidity, BAB, variance, carry, and TS momentum. At the end of each month, we measure the three components of each fund using its entire return history up to that point and take cross-sectional averages across all existing funds. The initial estimates cover the period 1994 to 2003, while the last ones cover the entire period 1994 to 2020. Panel B repeats the analysis for mutual funds using the traditional Carhart (1997) model, which includes size, value, and momentum as non-market factors."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Time-Variation in the Differences between Models.This figure plots the evolution of the differences in average alphas (annualized) between: (i) the CAPM and the CP model, and (ii) the Fung-Hsieh model and the CP model. At the end of each month, we measure the alpha of each fund under all three models, take cross-sectional averages across all existing funds, and then compute the differences between models. The initial estimates cover the period 1994 to 2003, while the last ones cover the entire period 1994 to 2020. The differences in the average beta components are not reported because they are identical to the ones obtained with the alpha component (with opposite signs)."
+        ],
+        "correlation": []
+    }
+}

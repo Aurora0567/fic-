@@ -1,0 +1,58 @@
+{
+    "1": {
+        "description": "Log price-dividend ratio in the long-run risk model. The figure plots the log-linearized solution for the log price-dividend ratio (dark gray surface) as well as the global solution (transparent gray surface) as a function of the statesxtandσt2. Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "2": {
+        "description": "State persistence and errors in the log price-dividend ratio. The figure plots the log price-dividend ratio in the long-run risk model (7) with constant volatility (σt=σ¯∀t). The left panel shows the results forρ=0.975and the right panel forρ=0.995. In the top row, the solid line shows the global solution and the dashed line shows the solution from the Campbell-Shiller (1988) log-linearization. The figures in the bottom row show the differences between the two solutions. Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,σ¯=0.0072,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Relative errors in the monthly log price-dividend ratio. The figure plots the numerical errors in the monthly log price-dividend ratio introduced by the log-linearization. The left panel shows the relative errors in the unconditional mean of the log price-dividend ratio for different values of the persistence of long-run risk ρ and that of stochastic volatility ν. The right panel shows the corresponding relative errors in the unconditional standard deviation of the log price-dividend ratio. Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,σ¯=0.0072,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6. The figure also plots the errors for the persistence parameters used in the studies of Bansal and Yaron (2004) (BY), Bansal, Kiku, and Yaron (2012) (BKY), and Schorfheide, Song, and Yaron (2018) for their median parameter estimates (SSY1) and their 95% estimates (SSY2). (See TableIVfor all the parameters used in the studies.)",
+        "correlation": []
+    },
+    "4": {
+        "description": "Sensitivity of the approximation errors for the annualized equity premium in the long-run risk model. The figure plots the annual equity premium obtained by the log-linearization (dashed line) as well as the global solution (solid line) as a function of the model parametersγ,ψ,ρ, and ν, assuming that the other parameters are kept constant. In each panel, the vertical line denotes the estimate used in the calibration of Bansal, Kiku, and Yaron (2012). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Sensitivity of the approximation errors for the annual volatility of the price-dividend ratio in the long-run risk model. The figure plots the annual volatility of the log price-dividend ratio obtained by the log-linearization (dashed line) as well as the global solution (solid line) as a function of the model parametersγ,ψ,ρ, and ν, assuming that the other parameters are kept constant. In each panel, the vertical line denotes the estimate used in the calibration of Bansal, Kiku, and Yaron (2012). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Absolute approximation errors in the log wealth-consumption and the log price-dividend ratio in the long-run risk model with stochastic volatility inxt. The figure plots isolines (black solid lines) for the absolute errors in the log wealth-consumption ratio (left panel) and the log price-dividend ratio (right panel) of the log-linearization as a function of the statesxtandσt2. The dark gray area shows the range of two unconditional standard deviations of the state processes. Forxtthe area is computed using a given shock of two unconditional standard deviations inσt2. The light gray area shows the corresponding range for four unconditional standard deviations. Results are shown for the standard long-run risk model with stochastic volatility inxt(specification7). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Absolute approximation errors in the log wealth-consumption ratio and the log price-dividend ratio in the long-run risk model with constant volatility inxt. The figure plots isolines (black solid lines) for the absolute errors in the log wealth-consumption ratio (left panel) and the log price-dividend ratio (right panel) of the log-linearization as a function of the statesxtandσt2. The dark gray area shows the range of two unconditional standard deviations of the state processes. Forxtthe area is computed using a given shock of two unconditional standard deviations inσt2. The light gray area shows the corresponding range for four unconditional standard deviations. Results are shown for the long-run risk model without stochastic volatility inxt(specification7with equation8for the long-run risk process). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Real and nominal yield curve in the model of Koijen et al. (2010). The figure plots the average annualized yield curves for real and nominal bonds in the model of Koijen et al. (2010). Panel C shows the nominal yield curve only for 1- to 20-month bonds (extract of Panel B).",
+        "correlation": []
+    },
+    "9": {
+        "description": "Nominal yield curve in the model of Bansal and Shaliastovich(2013). The figure plots the average annualized yield curve for nominal bonds in the model of Bansal and Shaliastovich (2013).",
+        "correlation": []
+    },
+    "10": {
+        "description": "Sensitivity analysis and existence results in the vol-of-vol model. The figure shows the convergence properties as well as the mean wealth-consumption ratio for the vol-of-vol model of Bollerslev, Tauchen, and Zhou (2009). The results are reported for a range of persistence parametersρqand volatility parametersφq. Panel A depicts the case of CRRA utility withψ=1.5, while Panel B depicts the corresponding case with recursive utility andγ=10. Black numbers show the mean wealth-consumption ratio obtained by the projection approach using a reflecting barrier at zero and gray numbers show the values obtained by the standard log-linearization with normal shocks. Black circles denote convergence of the projection and the log-linearization approaches. Black diamonds denote cases in which the log-linearization yields a complex solution while the model solution using a truncated normal distribution is real. The model parameters are given byδ=0.997,μc=0.0015,ν=0.978,σ¯2=0.00782, andμq=1e-6.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Analysis of square root term in the vol-of-vol model. The figure plots the real and complex parts of the square root term that determinesAqas a function of the risk aversion γ for the vol-of-vol model of Bollerslev, Tauchen, and Zhou (2009). The model parameters are given byδ=0.997,μc=0.0015,ν=0.978,σ¯2=0.00782,μq=1e-6,ρq=0.8, andφq=1×10−3.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Absolute approximation errors in the first derivatives of the log wealth-consumption and log price-dividend ratio of the log-linearization. The figure plots isolines for the absolute errors in the first derivative of the log wealth-consumption ratio (left panel) and the log price-dividend ratio (right panel) with respect to the statesxtandσt2of the log-linearization (black solid lines). The dark gray area shows the range of two unconditional standard deviations of the state processes. Forxtthe area is computed using a given two-unconditional-standard-deviation shock inσt2. The light gray area shows the corresponding range for four unconditional standard deviations. Results are shown for the standard long-run risk model (specification7). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Absolute approximation errors in the second derivatives of the log wealth-consumption and log price-dividend ratio of the log-linearization. The figure plots isolines for the absolute errors in the second derivative of the log wealth-consumption ratio (left panel) and the log price-dividend ratio (right panel) with respect to the statesxtandσt2of the log-linearization (black solid lines). The dark gray area shows the range of two unconditional standard deviations of the state processes. Forxtthe area is computed using a given two-unconditional-standard-deviation shock inσt2. The light gray area shows the corresponding range for four unconditional standard deviations. Results are shown for the standard long-run risk model (specification7). Parameters:δ=0.9989,γ=10,ψ=1.5,μ=0.0015,φc=1,φx=0.038,ρ=0.975,σ¯=0.0072,ν=0.999,φσ=2.8e-6,μd=0.0015,Φ=2.5,φd=5.96, andφd,c=2.6.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Relative errors in the equity premium in Schorfheide, Song, and Yaron(2018). The figure plots the relative errors in the equity premium as a function of the persistence of the long-run growth rate ρ in the model of Schorfheide, Song, and Yaron (2018). Results are shown for the median parameter estimates (see TableIV).",
+        "correlation": []
+    }
+}

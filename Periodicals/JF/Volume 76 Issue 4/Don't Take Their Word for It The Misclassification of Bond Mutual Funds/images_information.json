@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Sample bond fund holding data. This figure contains an excerpt from the AZL Enhanced Bond Index Fund's September 30, 2018 N-Q schedule of investments held (Source: https:www.sec.gov/Archives/edgar/data/1091439/000119312518338086/d615188dnq.htm). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Morningstar survey. This figure contains a portion of the fixed-income template sent by Morningstar to survey mutual funds in August 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of difference between reported and calculated holdings. This figure provides histograms of fund reported percentage holdings minus calculated percentage holdings in various bond credit rating categories. The sample period begins in Q1 2017, when Morningstar began calculating percentage holdings of assets in each credit risk category for each fixed-income fund, and ends in Q2 2018. Observations for which fund reported percentage is exactly the same as the calculated percentage holdings are removed to aid readability. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Credit risk distribution of us fixed-income funds. This figure plots the credit risk distribution of fund-quarter observations between Q1 2017 and Q2 2018. Blue bars provide the distribution of the official average credit quality category that Morningstar assigns to U.S. fixed-income funds. According to Morningstar's methodology, this official credit quality category is calculated using fund survey reported percentage holdings of assets in the various credit risk categories. Red bars depict the official credit quality category using fund survey-reported percentage holdings. Gray bars show the counterfactual credit risk category that would result if we had used Morningstar calculated percentage holdings. The dashed lines represent breaks in the fixed-income fund style box. AAA and AA funds are high credit quality, A and BBB funds are medium credit quality, and BB and B funds are low credit quality as rated by Morningstar. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

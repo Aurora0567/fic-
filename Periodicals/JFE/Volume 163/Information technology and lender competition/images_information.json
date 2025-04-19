@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "The economy."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Timeline."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Equilibrium loan rates and expected loan volumes for different locations. This figure plots the equilibrium loan rate and expected loan volume against the entrepreneurial location. The parameter values are R=2.4, B=0.9, b=0.4, k=0.5, p=0.5, f=1, c1=1, c2=1, q1=0.6, and q2=0.6."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Information technology and total investment. This figure plots entrepreneurs’ total investment (i.e., lenders’ total loan volume) against c and q. The parameter values are: R=2.4, B=0.9, b=0.4, p=0.5, and f=1 in both panels; c=1 in Panel 1, with k=0.1 for the solid curve and k=0.8 for the dashed curve; q=0.6 and k=0.1 in Panel 2 ."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Equilibrium loan rates and volumes under bank-fintech competition. This figure plots the equilibrium loan rate and expected loan volume against the entrepreneurial location. In Panel 1, the parameter values are R=2.4, B=0.9, b=0.4, k=0.5, p=0.5, f=1, c1=1, c2=1.4, q1=0.6, and q2=0. In Panel 2, lender i’s marginal funding cost is fi (with i∈{1,2}); the parameter values are R=2.4, B=0.9, b=0.4, k=0.5, p=0.5, f1=1, f2=1.05, c1=1, c2=0.7, q1=0.6, and q2=0."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Social welfare and lending sector’s information technology. This figure plots social welfare, entrepreneurial utility, and lenders’ profits against c and q. The parameter values are: R=2.4, B=0.9, b=0.4, p=0.5 and f=1 in all panels; c=1 in Panels 1 and 3; q=0.4 in Panels 2 and 4; k=0.1 in Panels 1 and 2; and k=0.9 in Panels 3 and 4."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Comparing r1∗(z) and ro. This figure plots r1∗(z) and ro against z (Panel 1) and q (Panel 2). The parameter values are: R=2.4, f=1, B=0.9, b=0.4, k=0.5, p=0.5 and c=1 in both panels; q=0.6 in Panel 1; z=0.1 in Panel 2."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Relations between r1∗(z) and ro in z×q space. This figure compares r1∗(z) with ro in z×q space. The parameter values are R=2.4, c=1, f=1, B=0.9, b=0.4, and p=0.5 . (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

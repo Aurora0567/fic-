@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Specialization in the private equity industry. This figure depicts patterns of specialization in the U.S. PE industry over the 1998–2022 period. Panel A presents time-series trends in the specialization of PE firms by firm vintage. The lines show the fraction of PE firms classified as sector specialists (based on all of those firms’ investments and, respectively, based on their investments over the last five years) for different vintages. The bars show the mean number of preferred industries associated with each vintage. Panel B presents assets under management (based on the latest available data) and investment counts (over the last five years) for firms classified as generalists and specialists (based on their investment activity over the last five years). The data used to produce this figure are from PitchBook. PitchBook classifies a PE firm as a specialist if the firm’s Herfindahl–Hirschman Index based on the number of investments in different sectors is at least 0.45. Examples of sector allocations that meet this threshold include: 50% of investments in sector A, 45% in B, and 5% in C, or 64% of investments in sector A and 12% each in B–D. PitchBook recognizes seven investment sectors. We only consider PE firms that have made at least seven investments over the relevant time period (that is, over their full history or over the last five years)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Hotel acquisition volumes by investor type. This figure depicts aggregate annual U.S. hotel acquisition volumes (in terms of US$ billion and numbers of properties) over the 2001–2019 period. Panel A presents the breakdown of acquisitions with a PE buyer vs. those without a PE buyer. Panel B presents the breakdown between the acquisitions with specialist PE buyers vs. those with generalist PE buyers. The hotel transactions data used to produce this figure are from MSCI."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Pre-acquisition revenue and cost structures by investor type. This figure depicts overlaid histograms of pre-acquisition revenue and costs structures in the hotels acquired by PE specialists vs. those acquired by PE generalists. The figure is based on data for five years pre-acquisition. Panel A presents overlaid histograms of the share of total revenues generated in the rooms department. Panel B presents histograms of the share of labor expenses in total revenues. The hotel performance data used to produce this figure are from CBRE Hotels."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Distributions of capital gains and holding periods by investor type. This figure depicts the distributions of capital gains and holding periods by investor type over the 2001–2019 period. Panel A shows the distribution of holding periods and average capital gains by holding period for PE specialists vs. PE generalists. Panel B shows overlaid histograms of the distributions of capital gains for PE specialists vs. generalists. Capital gains are computed as the difference in the natural logarithm of the transaction price per room between the disposition and the preceding acquisition in a given repeat-sale. The hotel transactions data used to produce this figure are from MSCI."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Hotel guest experience ratings under specialist private equity ownership. This figure depicts overlaid histograms of the mean hotel service quality scores in the five years before vs. after specialist PE investors acquire those hotels. The data on hotel service quality scores are from Tripadvisor. The data on hotel ownership and the timing of PE investments are from MSCI."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "BAD tax rate and annual tax revenue collected. This figure presents the evolution of the BAD tax rate (lefty-axis) and the fiscal revenues from the BAD tax scaled by GPD (righty-axis). Fiscal revenues data are from Colombia's revenue agency (Departamento de Impuestos y Aduanas Nacionales, DIAN). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Effect of 2011 tax law change on the ‘‘all-in” term structure of bank debt. This figure illustrates the increase in the cost of debt on an annualized basis stemming from the 2011 tax law change, as a function of a loan's maturity. For simplicity, the red dashed line is set constant at 8.0%, reflecting a flat term structure of interest rates. The blue solid line depicts the ‘‘all-in” cost of debt after the cost of the tax is included in the loan's cash flow. The tax law change adds a cost of 0.4% to every loan, irrespective of its maturity. Thus, the ‘‘all-in” annualized cost for shorter term loans increases significantly more than for longer term debt. For example, the ‘‘all-in” cost for a five-day loan is equal to [(1 + 8.0 %*5/365) * (1 + 0.4 %)−1] * (365/5) = 37.2%, whereas the ‘‘all-in” cost for a one-year loan is equal to [(1 + 8.0%*365/365) * (1 + 0.4%)−1] * (365/365) = 8.4% [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Aggregate monthly issuance of treasury facilities around 2011 tax law change. This figure plots the aggregate monthly issuance of treasury facilities around the 2011 tax law change. All numbers are in COP millions. Aggregate data are from Colombia's central bank (Banco de la República)and include all Treasury Facility loans issued in Colombia. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Credit and deposits over time. This figure plots total credit and total deposits in Colombia as a percentage of GDP from 1990 to 2015. Total deposits include checking, savings, and time deposits. Credit is total credit provided by financial institutions. Data are from Colombia's central bank (Banco de la República). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Quintiles of issuance of short-term debt (0 to 60 days) in the Pre-2011 period. This figure presents the average issuance of short-term debt (0 to 60 days) scaled by beginning-of- year assets for the five quintiles constructed based on the total issuance of short-term debt over total beginning-of-year assets in the preshock period (2007 to 2010). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Trends around shock for treatment and control firms: Issuance of short-term debt (0 to 60 days). This figure plots the time coefficients from a regression of the issuance of short-term debt (0 to 60 days) on year indicator variables for both treatment and control firms (prematch). The dependent variable is scaled by beginning-of-year assets. The indicator variableTreatmentis equal to 1 for firms in the top quintile of preperiod (2007 to 2010) use of short-term bank debt (0 to 60 days); firms in the bottom two quintiles form the control sample. The regression estimated is equation3, which also includes firm fixed effects and time-varying control variables. We omitYear2010and its interaction withTreatment(i.e., 2010 acts as the reference year). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Early payment discounts on sales/sales around 2011 tax law change. This figure plots sales discounts over total sales between 2005 and 2014 for a separate sample of 156 Colombian firms that issue public securities and thus are required to report additional financial statement items not reported by our larger sample of private firms, including the COP amount of early-payment discounts provided on sales. The graph plots the average sales discount over total sales per year (we account for differences across firms by estimating the average per year in a regression that includes firm fixed effects). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

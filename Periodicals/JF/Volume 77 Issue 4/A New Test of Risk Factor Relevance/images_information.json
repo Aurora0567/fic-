@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Sample investment-decision question. This figure shows a sample question about investment decisions from the first part of our survey experiment.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Investment decisions by participant characteristics. This figure reports regression results corresponding to column (4) in TableIIfor different subsets of our participant pools. From top to bottom, each set of three bars represents the slope coefficients from the regressionstockFraci,q=α̂+β̂·meani,q+γ̂·volatilityi,q+δ̂·correlationi,q+ε̂i,q${\\texttt{stockFrac}}_{i,q}=\\hat{\\alpha}+\\hat{\\beta}\\cdot {\\texttt{mean}}_{i,q}+\\hat{\\gamma}\\cdot {\\texttt{volatility}}_{i,q}+\\hat{\\delta}\\cdot {\\texttt{correlation}}_{i,q}+{\\hat{\\varepsilon}}_{i,q}$. The dependent variable is the fraction invested in stocks,stockFraci,q${\\texttt{stockFrac}}_{i,q}$. The RHS variables correspond to the average stock return,meani,q${\\texttt{mean}}_{i,q}$, stock-return volatility,volatilityi,q${\\texttt{volatility}}_{i,q}$, and the correlation between stock returns and consumption growth,correlationi,q${\\texttt{correlation}}_{i,q}$, used to simulate the data for each question. They-axis is scaled so that a change in the given parameter of low to high would match the scale of they-axis for the mean graphs. Opaque bars are significant at the5%$5\\%$level using standard errors clustered by participant. Transparent bars are insignificant. Blue bars denote positive values. Red bars denote negative values. The horizontal dotted gray lines correspond to coefficient values from TableII, column (4).",
+        "correlation": []
+    }
+}

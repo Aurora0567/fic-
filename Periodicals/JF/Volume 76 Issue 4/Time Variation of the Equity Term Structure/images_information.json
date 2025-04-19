@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "The term structure of one-year equity returns. This figure plots the term structure of holding-period equity returns for the S&P 500. The figure shows the unconditional average return (solid line), the average return in bad times (dashed line), and the average return in good times (dash-dotted line). Bad times are periods in which the ex ante dividend-price ratio is in the top quintile of the time series. Short-maturity equity claims is the average return to dividend strips of one to seven years maturity, using a spliced data set of option-implied dividends and dividend futures. The long-maturity claim is the average return to the market portfolio. Returns are annual spot returns, 1996 to 2019. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Realized long-minus-short returns and dividend-price ratios. This figure shows, for four different indexes, the ex ante log dividend-price ratio and the realized return difference between long- and short-maturity claims. The future long-minus-short return is the average two-year log return to the six- and seven-year dividend claims minus the average two-year log return to the one- and two-year dividend claims. The graph indicates the starting date of the two-year period. If the six- and seven-year claims are unavailable, the long-leg is the five-year claim. Before dividend futures become available, the U.S. term premium is the two-year return difference between the two-year and one-year option-implied dividend returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Time variation in the equity yield curve. This figure shows the time variation in the term structure of equity yields. The figure shows the yield for the two-, five-, and seven-year dividend claims. On the observations where the seven-year claim is unavailable, it is replaced by the five-year claim. The equity yield for dividends that are paid out at timet+nis defined asetn=1ndt−ftn,wheredtis the rolling annual dividends at timetandftnis the forward price of then-maturity claim at timet. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Model solution. This figure showsAn,Bzn, andBxnin the estimated model as defined by (20), (21), and (22) as functions of the maturity of dividends (n). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The term structure of the dividend risk and the discount rate risk premium. This figure reports the premium for exposure to dividend risk and the premium for exposure to discount-rate risk as a function of the maturity of the underlying claim. The premia are defined in (25). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "The equity term structure in good and bad times: simulation results. This figure shows the term structure of holding-period equity returns in good and bad times in the model. The results are based on 10,000 simulations of 100 years of artificial data. For each simulation, I calculate the average equity term structure of one-period returns. I also divide the sample into two parts based on whether the ex ante dividend-price ratio is above or below the time-series median. I then calculate the equity term structure of one-period returns for good and bad times (bad times are periods in which the dividend-price ratio is above the time-series median). The figure plots the median estimates of the term structure across simulations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

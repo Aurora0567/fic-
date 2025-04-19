@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Average unhedged put and call portfolio returns in each calendar year. This graph depicts the average return on the unhedged put and call portfolio in each year of our sample. The solid line denotes the average, and the two dashed lines denote the upper and lower bounds of a 95% confidence interval constructed using Newey-West (1987) standard errors. The shaded area shows the average three-month LIBOR rate within each calendar year.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Volume, open interest, and the nontrading effect. The plots show the relation between the estimated nontrading effect and volume and volatility. For each of the maturity and moneyness-sorted portfolios analyzed in TableIII, we compute the median ratio of either volume or open interest on days prior to nontrading periods to the same variable on all other days. These ratios appear on the horizontal axis. On the vertical axis, we show the nontrading effect estimates from TableIII.",
+        "correlation": []
+    }
+}

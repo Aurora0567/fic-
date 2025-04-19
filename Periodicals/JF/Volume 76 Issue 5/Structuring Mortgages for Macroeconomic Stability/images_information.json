@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Cross-section of defaults predicted by the model. This figure uses model simulated data to study its cross-sectional default predictions. The simulated data correspond to the plain-vanilla ARMs and the baseline parameterization of the model. The left panel plots the default probability (gray solid line) as a function of current loan to value (LTV). The black dashed (gray dotted) line plots the default probability as a function of LTV for borrowers with a low (high) proportion of residual income relative to total income. Residual income is equal to the income of the borrower net of the required mortgage payments. The right panel plots the probability of default as a function of residual income (on an inverted scale). The gray solid line plots the overall default probability, and the black dashed (gray dotted) line plots the default probability conditional on the current LTV being higher (lower) than 1.2.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cyclicality of consumption, default rates, and welfare gains across scenarios. This figure plots model statistics for the several mortgage contracts studied in SectionIIand the baseline parameterization. The data are obtained from simulating the model. The cyclicality of a variable is given by the difference in the expansion and recession mean values. Panel A (Panel B) shows the cyclicality of the default rate (of the log change in aggregate consumption,ΔlogCt≡logCt−logCt−1). Aggregate consumption is calculated by adding the consumption of all borrowers and the lender in the economy, that is,Ct=∑iCit+Clt. Panel C (Panel D) shows the welfare gain of borrowers (the representative lender) of the different mortgage contracts relative to the plain-vanilla ARMs shown in the first column. The welfare gains are measured as consumption-equivalent variations.",
+        "correlation": []
+    }
+}

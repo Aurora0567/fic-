@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Labor income process estimates: Prerobotization period This figure presents the labor income processes estimated from the LINDA database for the pre-robotization period (i.e., 1993-1998) for three groups of households with low (⁠Ω=L⁠), medium (⁠Ω=M⁠), and high (⁠Ω=H⁠) exposure to robot risk, respectively. Labor income refers to the broad income definition that includes labor income and government transfers excluding any capital income. See Section C.2 of the Internet Appendix for details about the estimation procedure.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Labor income process estimates: Post-robotization period This figure presents the labor income processes estimated from the LINDA database for the post-robotization period (i.e., 1999-2007) for three groups of households with low (⁠Ω=L⁠), medium (⁠Ω=M⁠), and high (⁠Ω=H⁠) exposure to robot risk, respectively. Labor income refers to the broad income definition that includes labor income and government transfers excluding any capital income. See Section C.2 of the Internet Appendix for details about the estimation procedure.",
+        "correlation": []
+    }
+}

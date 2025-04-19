@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Industry distribution of newly created businesses. The graph shows the industry distribution of the businesses created in the first half of 1998 that are in our sample.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Real estate capital gains and entrepreneurial outcomes: long-run effects. The graphs plot the point estimate and the 90% confidence interval of theφtcoefficient in equation3, where the outcome variable is measured in yeartand is assigned a value of zero if the firm has exited the sample. These regressions control for characteristics of the business owner (occupation prior to becoming an entrepreneur, age, education, and gender), legal form of the business (sole proprietorship or corporation), industry, whether the firm is located in the owner's home, whether the entrepreneur has an entrepreneurial background, a serial entrepreneur dummy, as well as all interactions of these controls withΔp. The regressions also include department fixed effects and region-by-industry fixed effects. Standard errors are clustered at the region-by-ownership level. The outcome variables are the logarithm of one plus total assets (top left panel), total sales (top right panel), total debt (bottom left panel), and total employment (bottom right panel).",
+        "correlation": []
+    }
+}

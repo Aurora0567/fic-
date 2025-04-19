@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "Model setup. This figure summarizes the model setup. At t=0, market makers M observe θm, where m∈{1,2} with equal probability, and set p0=θm. At t=1, speculators S observe θs, where s∈{1,2} with equal probability, and submit market order to maximize expected utility. Market makers observe the net order flow, consisting of the sum of speculators’ market orders and noise trades, and set p1=E(θ|θm,ω). At t=2, the stock’s payoff θ=θ1+θ2 is realized and consumption takes place."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Equilibrium price function. This figure shows the equilibrium price function when speculators face uncertainty about whether their trading signal is already in the price. In Panel A, we show the price function for the case of prior positive news (θm=+σ). In Panel B, we show the price function for prior negative news (θm=−σ)."
+        ],
+        "correlation": []
+    }
+}

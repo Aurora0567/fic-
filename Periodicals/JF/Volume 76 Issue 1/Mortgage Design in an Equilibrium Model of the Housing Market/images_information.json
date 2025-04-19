@@ -1,0 +1,66 @@
+{
+    "1": {
+        "description": "Life-cycle patterns: SCF versus model. This figure compares the baseline calibration of the model with all FRMs (solid lines) to SCF data from 2001 to 2007 (dashed lines) in Panels A to D. Panels E and F are constructed based only on the model. Panel A shows the homeownership rate. Panel B shows the mean, median, 10thpercentile, and 90thpercentile of the LTV ratio for homeowners, and Panel C shows the same statistics for the PTI ratio. Panel D shows the mean, median, 10thpercentile, and 90thpercentile of liquid assets along with median total wealth. Panel E shows the refinance rate, and Panel F shows consumption and income in the model. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Distributions across population: SCF versus model. This figure compares the baseline calibration of the model with all FRMs (solid lines) to SCF data from 2001 to 2007 (dashed lines). Panel A shows the LTV ratio in 10-percentage-point bins for homeowners, and Panel B shows the PTI ratio for homeowners in 0.025 bins. Panel C shows total wealth relative to mean income in bins of 0.2, while Panel D shows liquid wealth relative to mean income in bins of 0.2. In all figures, the model and data are binned identically. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Fit to Fuster and Willen natural experiment. The data from Fuster and Willen (2017) come from column 1 of table A.1 in their paper, which also provide the data underlying Figure 3 of their paper. The model estimates come from comparing a 2/1 ARM to a 1/1 ARM in our model. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "FRM versus FRM to ARM: housing market outcomes. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM and FRM→ARM. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Baseline versus model with no LTV tightening. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM. In the baseline case, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. In the case without LTV tightening, the maximum LTV stays at 95% but the same shocks hit the economy and the monetary policy is unchanged. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "FRM versus FRM to ARM: default and renter demand by age. This figure shows the mass of households of each age defaulting and purchasing after renting last period in the first period of a simulated crisis under FRM and FRM→ARM, along with the difference between the two lines. To ensure that the differences are due entirely to the policy functions, we compare FRM to FRM→ARM and evaluate the policy functions assuming that the price is the realized FRM price. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "FRM versus ARM: housing market outcomes. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM and ARM both ex ante and ex post. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "FRM versus ARM: household welfare loss conditional on crisis by age. This figure shows the percentage point difference in consumption-equivalent household welfare between FRM and ARM for each cohort alive when the crisis hits. Consumption-equivalent household welfare is calculated as the equivalent variation each agent would be willing to reduce their consumption each year of their remaining life to avoid a crisis. We show the difference between FRM and ARM for generations alive when the crisis hits. They-axis is the difference between the FRM and ARM economies for this calculation, with a negative number indicating that households are worse off under FRM. We repeat the calculations separately for owners, as indicated in the legend. For computational reasons, we cap the gain for any given individual at 100%. This restriction affects a tiny number of older people who have very little remaining lifetime consumption but derive significant utility from owning a house. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "FRM versus ARM: the role of equilibrium effects. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM and ARM both ex ante and ex post. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. For the “no equilibrium effects” counterfactual, we take the price path and distribution of agents across states from the FRM model as given and report default and consumption using policy functions computed with ARMs with the FRM forecast rule. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Eberly-Krishnamurthy convertible mortgage: housing market outcomes. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM and the EK convertible mortgage both ex ante and ex post. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "FRM with an underwater refinancing option: housing market outcomes. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under FRM and the FRM with underwater refinancing both ex ante and ex post. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Option ARM: housing market outcomes. This figure shows the impulse response to a simulated downturn preceded by an expansion with loose credit under an FRM, an option ARM, and an FRM→OARM counterfactual. In the downturn, the maximum LTV falls from 95% to 80% and the economy falls into a deep downturn for an average of 5.66 years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Short rate rises in crisis as in 1981 to 1982 recession. This figure shows the outcomes in a simulated downturn in which the maximum LTV falls from 95% to 80% and there is a deep downturn lasting an average of 5.66 years under an FRM, ARM, EK, and FRMUR for the case in which the central bank raises the short rate to 5.6%, the average real rate in the 1981 to 1982 recession, in crisis states. Monetary policy in other states is unchanged. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "Monetary policy: short rate falls by more in crisis. This figure shows in solid lines the outcomes in a simulated downturn in which the maximum LTV falls from 95% to 80% and there is a deep downturn lasting an average of 5.66 years under an FRM and ARM for the case in which the central bank further reduces the short rate by 100 bps relative to the baseline monetary policy. The baseline scenario without the additional 100 bp reduction is shown in dashed lines for comparison. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Monetary policy: further reduction in long rates (QE). This figure shows the outcomes in a simulated downturn in which the maximum LTV falls from 95% to 80% and there is a five-year deep downturn under an FRM and ARM, for the case in which the central bank reduces the short rate relative to the baseline monetary policy by an additional 100 bps and additionally pursues a policy that subsidizes the long rate so that a 10-year risk-free bond has a 1.4% interest rate differential between the expansion and crisis states. The baseline scenario without QE is shown in dashed lines for comparison. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "16": {
+        "description": "Monetary policy: FRM with underwater refi option with and without QE. This figure shows the outcomes in a simulated downturn in which the maximum LTV falls from 95% to 80% and there is a five-year deep downturn under an FRM with an underwater refinancing option for the baseline monetary policy and for the case in which the central bank reduces the short rate relative to the baseline monetary policy by an additional 100 bps and additionally pursues a policy that subsidizes the long rate so that a 10-year risk-free bond has a 1.40% interest rate differential between the expansion and crisis states. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

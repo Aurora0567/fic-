@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Time series of outstanding book debt and enterprise value for American and United Airlines,for the 15 years before their bankruptcies in 2011 and 2002, respectively. Book debt is calculated as the sum of “long-term debt” and “debt in current liabilities,” and market equity is calculated as the product of “stock price” and “common shares outstanding.” Data source: WRDS.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Net debt issuance versus firm leverage for different maturities and volatilities. Baseline parameters:μ=2%,σ=40%,π¯=30%,c(1−π¯)=r=5%,ξ=20%,λ=0,andΛJ=1.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Simulation of debt evolution. This figure shows the evolution of firm value and the debt level for different debt maturities. The top panel plots TEV. The middle panel plots unlevered firm valueVU=ϕYtogether with debt levels for different debt maturities. The bottom panel plots market leverage (with the legend indicating the target level). Note that two-year debt defaults before the end of year 5. Parameters:μ=2%,σ=40%,π¯=30%,c(1−π¯)=r=5%,andξ=5%,10%,20%,or50%.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Debt and firm value with differing maturities. If the firm must borrow a fixed amount, using short-term debt raises its debt capacity and reduces the cost to firm value. Parameters:μ=2%,σ=40%,π¯=30%, andc(1−π¯)=r=5%.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Expected bankruptcy costsBC(as a fraction of unlevered firm value). The figure shows that for an initially unlevered firm (d=0), expected bankruptcy costs decrease with both maturity and volatility, due to a slower issuance rate. But if the firm must borrow 40% of its unlevered value up front(d=p(y)/(ϕy)=0.4),then welfare is maximized for an intermediate debt maturity. Parameters:r=c(1−π¯)=5%,μ=2%, andπ¯=30%.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Endogenous investment and debt issuance policies. This figure plots the comparison between the extension with investment options and the baseline model: equity valuev(Panel A), debt pricep(Panel B), enterprise valuev+p(Panel C), and debt issuance policesg∗(Panel D). In the extension with investment options, the firm invests wheny≥yiinv, does not invest wheny∈(ybinv,yiinv), and defaults whenyhitsybinv. In the baseline model, the firm defaults earlier, that is,yb>ybinv. Parameters:r=c(1−π¯)=5%,σ=10%,μ=2%,ξ=0.01,κ=22, andμ0=0.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Effect of corporate bankruptcy on employee earnings. Panel A uses the difference-in-differences estimates in TableIV, Panel A, column (5) and plots the log change in real earnings without unemployment insurance (UI) adjustments (solid line) for employees of bankrupt firms from the benchmark (i.e.,t– 4) earnings, relative to the earnings change for employees of matched firms. Panel B plots the cumulative change in real earnings without UI adjustment. The dashed lines represent 95% confidence intervals. “Yeart” represents the year of bankruptcy filing.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Covenant violations and employee earnings changes: An RDD graphical analysis. This figure plots the average cumulative growth in a worker's log(annual earnings) in 2001 constant dollars over yearstandt+ 1 relative to the average real log(annual earnings) in yearst− 1 andt− 2 (y-axis) against the relative average distance from the net worth and current ratio covenant thresholds (x-axis). We employ the cumulative earnings growth and average distance given the relatively small firm-year sample using the DealScan-Compustat-LEHD matched data from 1995 to 2007. Each circle represents the average cumulative earnings growth within the bin, with each bin containing multiple underlying worker observations. Observations to the left of the vertical line violate covenants and those to the right satisfy covenants. Solid lines are fitted values from kernel-weighted polynomial regressions and the dashed lines represent the 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

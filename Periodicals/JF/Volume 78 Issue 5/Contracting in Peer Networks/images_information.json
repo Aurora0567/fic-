@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "The contracting game for a single principal. The principal-agent problem for teamI(taking all other contracts and actions as given). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Alternative channels by which effort and output impact utility. Standard principal-agent model is shown in solid blue. The information channel for relative performance evaluation is shown in dashed green. The dotted orange channel represents relative wage concerns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Wage volatility and dispersion. Wage volatility (expressed relative to(1+α)σ¯$(1 + \\alpha )\\bar{\\sigma }$) declines, and wage correlation increases (converging to 1), with the strength δ of peer effects (Illustration based on uniform weights,θ¯=50%$\\bar{\\theta } = 50\\% $,yii∗=75%$y_{ii}^* = 75\\% $). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Benefit to principal from agent heterogeneity. The average benefit per agent to the principal1N∑jωj−1−1$\\frac{1}{N}\\sum\\nolimits_j {\\omega _j^{ - 1}} - 1$as a function of standard deviation ofμ̂j${\\hat{\\mu }}_j$. Simulating 40,000 random stochastic matrixes μ forN=10$N = 10$. Blue (orange) dots are forδ=0.3(δ=0.5).$\\delta = 0.3\\,\\,( {\\delta = 0.5} ).$[Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Contracting game with ex ante external contract disclosure. With ex ante contract disclosure, contract deviations will affect agents’ effort choices off-equilibrium. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effort and contract sensitivity with ex ante external contract disclosure. Ex ante disclosure increases contract sensitivity to external peers and decreases effort relative to the case in which contracts are not externally disclosed (Parameters:N=2,NI=1,θ¯=50%,yii∗=75%$N = 2,{N}_I = 1,\\bar{\\theta } = 50\\% ,y_{ii}^* = 75\\% $). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

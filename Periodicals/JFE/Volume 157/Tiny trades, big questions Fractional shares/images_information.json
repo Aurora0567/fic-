@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Fig. A1. Reporting Latencies for Trades Reported to the Nasdaq TRF (Panel A) and the NYSE TRF (Panel B).This figure illustrates the tail distribution of reporting latencies for all single share, non-exchange trades reported in TAQ for trades reported to the Nasdaq TRF (Panel A) and the NYSE TRF (Panel B) during the fourth quarter of 2020 compared to the fourth quarter of 2021."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fig. A2. Incidence of Extended Reporting Delays by Day, 2020 Q4 vs. 2021 Q4.This figure illustrates the the daily number of single share FINRA trades having “delayed” transaction reports for trades reported to the Nasdaq TRF (blue dots) and the NYSE TRF (red dots) during the fourth quarter of 2020 compared to the fourth quarter of 2021. We define a trade report for a single share FINRA trade as “delayed” if it has a reporting latency of more than 1 second."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Fig. A3. Fractional Trades in BRK.A Reported in the OTC Transparency Data for Robinhood (Panels A & B) and Drivewealth (Panel C) vs. Fractional Trades Estimated in TAQ with Classification Rules."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Percent of Single Share FINRA Trades in DWAC that Are RHDW Fractional, September 1, 2021 – March 31, 2022."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "RHDW Fractional Share Trading and Stock Price, March 1, 2021 – March 31, 2022."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Weekly Robinhood Fractional Share Trades in Clorox.This figure illustrates the Robinhood fractional share trades in Clorox (CLX) as reported to the FINRA OTC Transparency Data (blue bars) and as estimated by the fractional share classification algorithm (red dots)."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Percent of Robinhood Fractional Trades Captured by OTC Transparency Data. Panel A presents a histogram showing for each sample stock the percentage of weeks with over 200 estimated RH fractional share trades that are documented in the weekly OTC Transparency data. Panel B presents a histogram showing for each sample stock the percent of Robinhood trades disclosed in the OTC Transparency data during the sample period relative to the total number of Robinhood fractional shares trades for the stock for weeks where our classifer finds at least 200 RH fractional share trades. Sample period reflects weeks commencing Monday, March 1, 2021 through the week of Monday, March 28, 2022."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Distribution of Percent Inflation – 10% Scenario vs. 90% Scenario. This figure presents the distributions of the natural log of the average daily percent inflation for sample stock-days due to the rounding-up rule. Estimates for the 10% Scenario are presented in red; estimates for the 90% Scenario are presented in blue."
+        ],
+        "correlation": []
+    }
+}

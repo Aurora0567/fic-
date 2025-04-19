@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Treatments: information networks among investors. The four treatments differ in the underlying exogenous structure of information network among traders. Each node on the undirected graph represents an investor and a link between two nodes denotes bidirectional exchange of privately acquired signals between them. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Histogram of information-acquisition choices in each treatment. The figure displays the distribution of information-acquisition choices, with the unit of observation being the number of signals acquired by a subject in a period within a session. Each treatment has 576 observations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Precision of market prices in each treatment. The long-dashed curve displays the average price conditional on the Bayesian posterior in a market (E(Price|Bayesian posterior)). The estimation is computed by local linear regression, using Epanechnikov kernel bandwidth of 0.2. The risk-neutral fundamental value of the asset is depicted by the straight short-dashed line starting from the origin. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Linear absolute deviation as a function of transaction number in a period. The figure displays, for each treatment, the linear absolute deviation (LAD) for each individual transaction as a function of the transaction's order. The values ofLADare averaged across periods and sessions. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Calibration of market prices in each treatment. The long-dashed curve displays the frequency of the outcome being urn A conditional on the observed mean transaction prices (E(Outcome|Price)). The 95% confidence intervals are displayed as well. The short-dashed straight line shows the expected number of times urn A should be realized conditional on the observed mean price in the market. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "The effect of social communication on the precision and informativeness of asset prices. With social communication, while prices are more precise, the full-information Bayesian posterior itself is farther away from the actual outcome due to a lower aggregate number of signals in the market. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

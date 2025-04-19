@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Army ant death spiral. Example of a dysfunctional emergent social outcome. Army ants continue to walk in circles until they die. Source: George Lin,https://www.youtube.com/watch?v=N0HoqjxfvJ4.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Six themes about social economics and finance. This figure summarizes six themes about a new intellectual paradigm,social economics and finance, and one of its building blocks,social transmission bias. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Expected price path in the Price Bubbles Model. The figure plots (32) and shows the smoothed and unsmoothed expected price paths for positive bubbles (b>0), wherebis the transmission bias. These paths illustrate the following four phases: (i) the inception phase, (ii) the boom phase, (iii) the correction phase, and (iv) the terminal phase. As in (20), smoothed public precision isτ̂sZ≡eζ(s−0.5)τP, whereζparametrizes the growth rate in the smoothed precision,sis time, andτPis the initial unsmoothed public precision. Parameter values:τP=0.1,τθ=0.1,τS=0.1,τX=100,η=0.39,γ=0.1,κ=0.5,ζ=1, andb=10, whereτθis the supply shock precision,τSis private signal precision,τXis the precision of asset payoff,ηis the percolation meeting rate,γis the coefficient of absolute risk aversion, andκis the coefficient for the misperception of the meeting rate.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Timeline of payoffs for the basic setting of Action Booms and Price Bubbles Models. At each continuous dates∈[0,T), each agentichooses the level of an action with intensityθsi. Each agent is endowed with one private signalSiat date 0. Agents are randomly drawn in pairs in continuous time to meet and share private signals. At each discrete date agents receive public signalsStP. The payoffXper unit of the action is realized and received at finite dateT. In the context of security trading,Xis the terminal dividend of the risky asset.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Price trajectory in SIRS model with asset market and buzz. This figure plots the price path over time in an SIRS model with asset market and buzz, with damped oscillations owing to overreaction and overcorrection. Effects are exacerbated by buzz, suggesting rich patterns in return autocorrelations at different lags. The figure plots the equilibrium price based on the following system of differential equations:R′(s)=rI(s)−kR(s)andI′(s)=−rI(s)+m(a+bDI′(s))I(s)(1−I(s)), whereR(s)is the fraction of the population that is resistant at dates,ris the recovery rate,I(s)is the fraction of the population that is infected with the folk model,kis the rate of loss of resistance,mis the meeting frequency parameter,ais the inherent contagiousness parameter,bis buzz parameter, andDis an equilibrium pricing parameter that reflects agents' risk aversion. Price isvs=DI(s)andD>0is a constant. Parameter values:a=80,b=5,r=6.0,m=0.58,k=0.1, andD=1. Initial conditions:I(0)=0.001andR(0)=0.8. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

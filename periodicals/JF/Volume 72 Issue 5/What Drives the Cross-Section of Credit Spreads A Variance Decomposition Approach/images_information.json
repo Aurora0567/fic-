@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Long-run forecasting coefficients by credit ratings. Along thex-axis is demeaned credit spreads, with the left end set by the 1stpercentile of credit spreads and the right end set by the 99thpercentile. Along they-axis is the long-run expected credit loss,Et[∑ρj−1l∼i,t+j], and excess return,Et[∑ρj−1r∼i,te], with the slope given by the long-run forecasting coefficients in Panel A of TableII. Dashed lines denote +/− standard error bounds. The borders between credit ratings are located where the histogram of the credit spread for a given credit rating overlaps with the histogram of the credit spread for the neighboring credit ratings.",
-        "correlation": []
-    }
-}

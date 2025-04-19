@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Payment for order flow: Options versus stocks. This figure plots aggregate monthly payments for order flow received by U.S. retail brokerages.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Market concentration in PFOF: Options versus stocks. This figure plots the share of PFOF received by U.S. retail brokerages from the top three and top five wholesalers. The top three wholesalers in options are Citadel, Susquehanna, and Wolverine, while the top three wholesalers in stocks are Citadel, Virtu, and Susquehanna.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Retail investor trading in options. This figure characterizes retail investor trading in the U.S. options market between November 2019 and June 2021. Panels A and C plot total daily trading volumes in SLIM and small trades, respectively. Panels B and D plot dailySLIM ShareandSmall Share, respectively, averaged across all stocks and ETFs in our sample.",
+        "correlation": []
+    }
+}

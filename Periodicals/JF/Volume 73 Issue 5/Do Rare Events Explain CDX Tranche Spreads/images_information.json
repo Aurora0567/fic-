@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Term structure of physical default probabilities. This figure plots cumulative default probabilities for horizons ranging from 1 to 10 years in the data and in the model. The solid line shows the cumulative default probabilities as calculated by Moody's Investors Services using data from 1920 to 2010 for BBB bonds. The dotted line shows cumulative default probabilities in the benchmark version of the model when the state variables are at their unconditional means. Dashed lines show cumulative default probabilities when the probability of an idiosyncratic shockλiis zero, when the probability of a sector shockpiis zero, and when the probability of a disaster is increased by two percentage points relative to its unconditional mean. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of state variables. This figure plots monthly time series of the state variablesλt(annual disaster probability) andξt(long-run mean ofλt) extracted from option prices. At each time point, the state variables are chosen to match implied volatilities of one-month ATM and OTM (moneyness of 0.85) index put options in the data. Panel A shows these time series for the January 1996 to December 2012 period over which option data are available. The shaded area represents the period over which CDX tranche data are available. Panel B zooms into the CDX sample period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Term structure of CDX spreads. This figure plots average spreads on the CDX index as a function of maturity in the data and in the model. Averages in the data are from the precrisis period (September 2004 to September 2007) and are reported by Collin-Dufresne, Goldstein, and Yang (2012). Average spreads in the model are computed using the state variables from one-month options over the same period. The figure also shows averages implied by the model for the crisis period. Spreads are in terms of basis points per unit of notional and are annual. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Loss distributions. The top panels show the distributions of cumulative five-year losses on the CDX for each of the 36 months in our data; the left panel shows losses under the physical distribution while the right panel shows losses under the risk-neutral distribution. The bottom panels show the physical and risk-neutral distributions for specific dates, one precrisis and one during the crisis. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Time series of CDX/CDX tranche spreads in the benchmark model and in a case without idiosyncratic risk. This figure plots monthly time series of five-year CDX and CDX tranche spreads in the data (blue solid lines), in the benchmark model (red dotted lines), and in a calibration without idiosyncratic risk (black dashed lines). Spreads are annual and reported in terms of basis points per unit of notional. For the equity tranche, we report the upfront payment assuming the spread is fixed at 500 bps. We compute model values from state variables fit to the time series of one-month ATM and 0.85 OTM implied volatilities. For the model without idiosyncratic risk, we set the probability of an idiosyncratic shockλito zero. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Time series of super senior tranche spreads. This figure plots monthly time series of five-year CDX super senior tranche spreads (attachment point = 30%) in the model and in the data. Spreads are annual and reported in terms of basis points per unit of notional. We compute model values from state variables fit to the time series of one-month ATM and 0.85 OTM implied volatilities. For the precrisis data, we show the average value, reported by Collin-Dufresne, Goldstein, and Yang (2012). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Time series of CDX/CDX tranche spreads in the benchmark model and in a case without sector shocks. This figure plots monthly time series of five-year CDX and CDX tranche spreads in the data (blue solid lines), in the benchmark model (red dotted lines), and in a calibration without sector shocks (black dashed lines). Spreads are annual and reported in terms of basis points per unit of notional. For the equity tranche, we report the upfront payment assuming the spread is fixed at 500 bps. We compute model values from state variables fit to the time series of one-month ATM and 0.85 OTM implied volatilities. For the model without sector risk, we set the probability that a firm will suffer a sector shockpito zero. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Time series of CDX/CDX tranche spreads in the benchmark model and in a case with higher disaster risk. This figure plots monthly time series of five-year CDX and CDX tranche spreads in the data (blue solid lines), in the benchmark model (red dotted lines), and in a calibration with higher disaster risk. Spreads are reported in terms of basis points. For the equity tranche, we report the upfront payment because the spread is fixed at 500 bps. The benchmark model values are computed using the option-implied state variables fit to the time series of one-month ATM and 0.85 OTM implied volatilities. The calibration with higher disaster risk is obtained by uniformly increasing the disaster probabilityλtby two percentage points. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Time series of CDX/CDX tranche spreads when the equity premium is low. This figure plots monthly time series of five-year CDX and CDX tranche spreads in the data, in the model under the benchmark calibration, and in the model under a calibration to an equity premium of 4%. To obtain this calibration, we translated the distribution ofZC,tby 0.10 (e.g., a change in log consumption of −0.20 would be −0.10 in the new calibration). Spreads are reported in terms of basis points . For the equity tranche, we report the upfront payment because the spread is fixed at 500 bps. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "The price-dividend ratio in the data and in the model. The solid line shows the time series of the price-dividend ratio in the data. The red line shows the price-dividend ratio implied by the model for state prices chosen to fit the one-month ATM and OTM (0.85 moneyness) put options. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Time series of five-year government bond yields in the model and in the data. This figure plots the time series of model-implied real zero-coupon bond yields and of real yields on Treasury Inflation Protected Securities (TIPS). Bond yields in the model are computed assuming a probability of defaultq, at which point the face value of the bond falls by the same percentage as consumption, but the maturity of the bond remains the same. Bond yields in the data come from the U.S. Department of the Treasury. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

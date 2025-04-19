@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Model timing.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Firm performance pay sensitivity versus ratio of higher level to lower level tasks. This figure plots an example of how firm performance pay sensitivity (Δ$\\Delta$) varies withK$K$, the ratio of higher level to lower level tasks. The figure is generated using parametersp=0.5$p=0.5$,γ=2$\\gamma =2$,b1H=1$b_{1H}=1$,P1=1.5$P_1=1.5$,P0=1$P_0=1$, andθ=0.2$\\theta =0.2$. The vertical dashed black line indicatesθL$\\theta _L$, where the relationship betweenΔ$\\Delta$andK$K$changes sign.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Firm performance pay sensitivity versus average underlying quality of workers. This figure plots an example of the optimal first-period contract's firm performance pay sensitivity (Δ$\\Delta$) against the average underlying quality of workers (θ$\\theta$). The figure is generated using parametersp=0.5$p=0.5$,γ=2$\\gamma =2$,b1H=1$b_{1H}=1$,P1=1.5$P_1=1.5$,P0=1$P_0=1$,K=0.1$K=0.1$. The vertical dashed black line indicatesnK$nK$, where the relationship betweenΔ$\\Delta$andθ$\\theta$changes sign.",
+        "correlation": []
+    }
+}

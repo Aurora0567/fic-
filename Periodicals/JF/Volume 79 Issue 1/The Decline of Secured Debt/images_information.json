@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": "Secured debt as a fraction of total debt issuance, 1900 to 1943. This figure displays the fraction of secured bond issuance by value from 1900 until 1943. Source: Hickman (1960). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Total and secured debt issuance, 1900 to 1943. This figure displays (1) secured bonds issuance and (2) total bond issuance in millions of dollars from 1900 until 1943. Source: Hickman (1960). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "(a) Secured debt as a fraction of total debt issuance: Utilities, 1900 to 1943. (b) Secured debt as a fraction of total debt issuance: Railroads, 1900 to 1943.(c) Secured debt as a fraction of total debt issuance: Industrials, 1900 to 1943. This figure displays the fraction of secured bond issuance by value by utilities (Panel A), railroads (Panel B), and industrials (Panel C) from 1900 until 1943. Source: Hickman (1960). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Secured debt as a fraction of the value of bond issuance, 1922 to 1967. This figure displays the fraction of secured bond issuance by value from 1922 until 1967. Source: Commercial and Financial Chronicles, various years. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Total and secured debt issuance, 1970 to 2019 (number of issues). This figure displays (1) secured bonds issuance and (2) total bond issuance (number of bonds) from 1960 until 2019. Source: Mergent. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Secured debt as a fraction of the value of bond issuance, 1960 to 2019. This figure displays the fraction of secured bond issuance by value from 1960 until 2019. Source: Mergent. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Secured debt as a fraction of total debt issuance, 1900 to 2019. This figure displays the fraction of secured bond issuance by value from 1900 until 2019. Each color represents a different data source: Hickman (1960) data are in blue,CFCdata in red, and Mergent data in green. Sources: Hickman (1960),Commercial and Financial Chronicles, and Mergent. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "(a) Secured debt as a fraction of total debt, 1981 to 2019.(b) Median firm-level secured debt as a fraction of total debt, 1981 to 2019. This figure displays the share of secured debt in total outstanding debt (Panel A) or median firm-level outstanding secured debt as a fraction of total outstanding debt (Panel B) from 1981 to 2019. Source: Compustat. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Proportion of firms with nonmissing information on interest-coverage ratio, 1900 to 1943. This figure displays the proportion of firms with nonmissing information on both earning and interest expenses from 1900 to 1943. Source: Hickman (1960). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Interest-coverage ratios, 1900 to 1943 and 1970 to 2019. This figure displays the proportion of firms with interest-coverage ratio of less than one (Panels A and C) and more than three (Panels B and D). Sources: Compustat and Hickman (1960). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "The share of firms with one-year default probabilities greater than 75%, 1970 to 2019. This figure plots the share of firms over time (1970 to 2019) that have a one-year default probability greater than 0.75. One-year default probability is calculated using the Merton distance to default model. The default probability incorporates both the volatility of a firm's asset value as well as the level of its debt. Source: Authors’ calculations using Compustat data. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Asset tangibility over time, 1925 to 2019. This figure plots the evolution of aggregate asset tangibility—the ratio of property, plant, and equipment to total assets—over time from 1925 to 2019. Source: Graham, Leary, and Roberts (2015) and Compustat. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Financial flexibility and secured debt. This figure plots the mean share of secured debt to total debt for unconstrained and constrained firms for different one-year default probability deciles. Source: Authors’ calculations using Compustat data. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "Credit quality and secured debt trend. This figure plots the median share of secured debt to total debt for high and low credit quality firms based on Merton distance to default values. Source: Authors’ calculations using Compustat data. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Marginal effect of asset tangibility on secured debt, 1981 to 2019. \nThis Figure plots the coefficients on a measure of asset tangibility interacted with year dummies in a regression of the ratio of secured debt to total debt on firm size, Tobin's Q, Return on Assets (ROA), tangibility, and tangibility interacted with year fixed effects. Source: Authors' calculations using Compustat data. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "CDFs and Histograms for Public Float around Regulatory Thresholds. These figures show the cumulative distribution functions and histograms for firms' public float around regulatory thresholds in bunching and non-bunching years. Bunching years are years when the threshold-based regulation is in place. Non-bunching years are years before the regulation is introduced or after it expires."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "CDFs and Histograms for Public Float around Placebo Thresholds. These figures show the cumulative distribution functions and histograms for firms' public float around three placebo thresholds that are below our actual regulatory thresholds: $15M, $60M, and $500M. The samples are based on the same sample periods and filters as for our main samples, except for public float range."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Firm Payoff as a Function of Public Float. This figure illustrates the shape of a firm's payoff as a function of the public float e. Panel (a) illustrates a concave payoff function in the absence of a regulatory threshold. Panel (b) shows a new payoff function when a regulatory threshold is introduced at e_. The discontinuity in the payoff induces firms whose public float was somewhat above the threshold to bunch. Panel (c) shows a firm whose undistorted optimal float is way above the regulatory threshold and therefore chooses not to bunch. Panel (d) shows a payoff function for the marginal bunching firm who is indifferent between bunching and not bunching."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Moments of Distribution Functions Used in Bunching Estimator. This figure shows the probability density function (upper panel) and the cumulative distribution function (lower panel) of public float in the presence of bunching. e_ is the regulatory threshold. e‾ is the float of the marginal bunching firm. Δe is the bunching range from e_ to e‾. B is the excess mass at e_. A is the area between the cumulative distribution functions before and after the regulation. f0 is the probability density at e_."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Estimated Present Value of Regulatory Costs Scaled by Public Float. These figures show, by public float and year, the estimated present value of total annual regulatory costs scaled by firms' public float. Panel A shows it for firms that went public less than 5 years ago (hence JOBS Act would apply after 2012). Panel B shows it for firms that went public more than 5 years ago. We estimate present values by discounting a constant perpetuity of annual costs at the cost of equity faced by firms of a particular public float."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Estimated Aggregate Regulatory Costs. This figure shows the estimated aggregate regulatory costs over time for all public firms with a non-zero public float. The dashed line shows the dollar costs in millions of USD. The solid line shows the percentage share of aggregate regulatory costs relative to aggregate EBITDA."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "IPO Counterfactual Simulations. These figures show counterfactual regulatory costs facing potential IPO firms (Panel A), annual IPO likelihood (Panel B), and the annual number of IPOs (Panel C) for four regulatory scenarios after 2000: 1) actual, 2) no JOBS Act, 3) no SOX 404, and 4) zero regulation costs. Estimations are based on the model in Table 6 and counterfactual regulation costs in Tables A.7 and A.8."
+        ],
+        "correlation": []
+    }
+}

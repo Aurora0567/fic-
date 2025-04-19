@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Forbearance determines the maximum deposit outflow until intervention and pro rata shares under the mandatory stay.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Payoffs to roll over versus withdraw as a function of the aggregate withdrawalsnfor statesθ∈[θ̲,θ¯]$\\theta \\in [\\underline{\\theta },\\overline{\\theta }]$. As long as withdrawals are low, rollover is optimal because the associated payoffs exceed the face valueZ1. For high-volume withdrawals, the payoff to roll over drops below the face value and withdrawal becomes optimal (standard payoff externality), irrespective of the intervention regime. Top: conservative PCA intervention guarantees a high pro rata sharesγ(a)$s_{\\gamma }(a)$above the insured levelγZ1$\\gamma Z_1$. The intervention causes the payoff to roll over to drop down to the pro rata sharesγ(a)$s_{\\gamma }(a)$belowZ1, causing a fear of intervention (Lemmas 1 and 2). That is, an intervention cancausea depositor's optimal response to switch from rollover to withdrawal because PCA liquidates illiquid assets (origin of preemptive behavior). Middle + Bottom: under lax intervention, the standard payoff externality is not sufficiently bounded. The payoff to roll over can drop below the face value (middle) and down to the insured deposit value (bottom) before withdrawals are high enough to trigger an intervention. In either case, intervention no longer alters a depositor's optimal response. Top + Middle: payoff to roll over drops by intervention, causing depositors to fear the intervention. Bottom: under high insurance provision, the intervention leaves the payoff to rollover constant so that the depositor's fear of intervention vanishes.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal response for different intervention regimes as a function of aggregate withdrawalsn. Rollover is optimal at a givennif and only if the payoff difference Δ is positive. Intervention can cause the optimal response to switch from rollover to withdrawal when causing a jump from a positive- to negative-valued Δ at the intervention thresholdn=aL/Z1$n=aL/Z_1$(see blue, conservative intervention). Withdrawal levels in[a1L/Z1,a2L/Z1]$[a_1 L/Z_1, a_2 L/Z_1]$exist for which rollover is optimal under a lax regime (positiveΔ(n)$\\Delta (n)$) but withdrawal is optimal under a conservative regime (negativeΔ(n)$\\Delta (n)$), meaning that more conservative regulatory forbearance can strengthen the run incentives of depositors. Under lax intervention, the local change in the depositors' incentives becomes less extreme (smaller jump) than under a conservative regime. Jumps at the intervention threshold are responsible for preemptive depositor behavior (see Schilling (2023), Smooth versus Harsh regulatory intervention and policy equivalence, Munich Personal Repec Archive). Deposit insurance can smooth out such jumps (orange line). Absent intervention, jumps do not exist (GP model). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Twofold change in the expected payoff difference to roll over versus withdraw as regulatory forbearance increases froma1toa2under a PCA intervention. As the intervention threshold shifts upward,a1L/Z1→a2L/Z1$a_1 L/Z_1 \\rightarrow a_2 L/Z_1$, aggregate withdrawals have to be larger to trigger an intervention. Therefore, a value-reducing PCA intervention is believed to occur less frequently, and the expected payoff to roll over increases (“+”). On the other hand, given an intervention, the RA seizes fewer assets(1−a)$(1-a)$, such that the guaranteed pro rata sharessγ(a)$s_{\\gamma }(a)$under a mandatory stay are lower. Therefore, given an intervention, the payoff-difference curve shifts down, becoming more negative (“−”).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Plotted is the PCA triggerθ∗$\\theta ^*$as a function of regulatory forbearance,a,forH=2.5,Z1=0.7$H=2.5, \\, Z_1=0.7$. The higher the trigger, the larger the ex ante likelihood of a PCA intervention. The trigger in pointa=1$a=1$(laissez-faire), and no deposit insuranceγ=0$\\gamma =0$(left panel) corresponds to the trigger in the Goldstein-Pauzner model. The U-shape reveals the existence of “stability mirrors,” that is, distinct forbearance levelsa1<a2$a_1 &lt; a_2$that attain the same triggerθ∗(a1)=θ∗(a2)$\\theta ^*(a_1)=\\theta ^*(a_2)$and, thus, same stabilityθb(a1)=θb(a2)$\\theta _b(a_1)=\\theta _b(a_2)$. Therefore, lax intervention ata2can be as stable as conservative intervention ata1.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Plots show the suspension triggerθ∗$\\theta ^*$as a function of regulatory forbearance, forH=2.5,L=0.2,Z1=0.7,θ¯=0.999$H=2.5, \\,L=0.2, \\, Z_1=0.7, \\, \\overline{\\theta }=0.999$. The higher the trigger, the larger the ex ante likelihood of a receivership resolution. Forrsmall relative toH(top panel), the ex ante intervention likelihood is U-shaped in regulatory forbearance. AsrapproachesH(lower panel), the intervention likelihood becomes monotonically increasing in forbearance. In the special casea=1$a=1$(laissez-faire), the regulator commits to never intervene.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Left panel: Efficient PCA regulatory forbearance for different levels of deposit insurance. Points mark the efficient forbearance level,ae(γ)$a_e(\\gamma )$; that is, the forbearance level at which the minimum distance between the U-shaped critical state curveθb(a,γ)$\\theta _b(a,\\gamma )$and the efficiency cutoff stateθe$\\theta _e$is attained. As insurance increases, the critical state curveθb(a,γ)$\\theta _b(a,\\gamma )$shifts down and transitions through the efficiency cutoff, thus intersecting twice for sufficiently high insurance. The double intersection gives rise to the fork (right panel). Right panel: Efficiency- (black) versus stability-maximizing (red) forbearance levels as a function of deposit insurance. For low insurance levels, stability- and efficiency-maximizing forbearance levels coincide, whereas for high insurance levels, they diverge. The forks imply that at some interim insurance levels, the efficient forbearance level is simultaneously attained with a lax and a conservative forbearance policy. All plots useH=2.5,Z1=0.7,θe=Lθ¯/H,θ¯=0.999$H=2.5, \\, Z_1=0.7, \\, \\theta _e=L\\overline{\\theta }/H, \\, \\overline{\\theta }=0.999$.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Examples of stability mirrors.",
+        "correlation": []
+    }
+}

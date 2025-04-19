@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Trading activity for CDX and CDX options. Panels A and B show the average daily trading volume for CDX and CDX options. Panels C and D show the average number of trades per day for CDX and CDX options. Daily market activity reports from the GFI SEF are used to compute the average amount by which the actual notionals of capped trades on the GFI SEF exceed the reported notionals. This is done separately for CDX and CDX options (see footnote19for details). The estimated true volume in Panels A and B is obtained by adding the average amount to the reported notionals for all capped trades. The frequency of observations is monthly. The sample period is December 31, 2012 to April 30, 2020 (88 observations).",
+        "correlation": []
+    },
+    "2": {
+        "description": "CDX and SPX implied volatility smiles. The figure shows weekly (Wednesday) two-month implied volatility smiles for CDX and SPX. CDX data are displayed in the left panel and SPX data are displayed in the right panel. Moneyness is defined asm=log(K/F(τ))/(στ)$m = \\log (K/F(\\tau))/(\\sigma \\sqrt {\\tau})$, whereK$K$is the strike,F(τ)$F(\\tau)$is the forward (front-end-protected) spread in the case of CDX options and the forward price in the case of SPX options,σ$\\sigma$is the at-the-money implied volatility, andτ$\\tau$is the maturity of the option. The sample period is February 29, 2012 to April 29, 2020 (427 observations).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Key metrics in CDX and SPX options markets. The top left (right) panel shows time series of the CDX spread (SPX level). The middle left (right) panel shows time series of the at-the-money CDX (SPX) implied volatility proxied byβ0$\\beta _0$. The bottom left (right) panel shows time series of the skewness of the CDX (SPX) implied volatility smile proxied byβ1$\\beta _1$. Blue lines show the data. Red lines show the fitted data for the model calibrated to SPX options. The sample period is February 29, 2012 to April 29, 2020 (427 weekly observations). The shaded area marks the COVID-19 period starting on January 1, 2020.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Out-of-sample fit to CDX and SPX options. On each observation date, we compute the mean out-of-sample pricing error (ME), i.e., for the model calibrated to SPX options, we compute the pricing error for CDX options (blue line), and for the model calibrated to CDX options, we compute the pricing error for SPX options (red line). Pricing errors are given as the relative difference between fitted and actual implied volatilities. Vertical dotted lines mark CDX roll dates. The sample period is February 29, 2012 to April 29, 2020 (427 weekly observations). The shaded area marks the COVID-19 period starting on January 1, 2020.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Sources of implied volatility smiles. The figure shows how the financial leverage effect and stochastic volatility (SV) and jumps in the systematic asset factor affect the implied volatility smiles for CDX and SPX options with a two-month maturity. The first model version (blue lines) has deterministic systematic asset volatility (ωt=0.0135,σω=ρω=λ0=λω=0$\\omega _t = 0.0135, {\\sigma _{_{{\\omega}}}}= {\\rho _{_{{\\omega}}}}= \\lambda _0=\\lambda _\\omega = 0$) and the smiles are due only to the financial leverage effect. The second version (red lines) adds SV, but with zero correlation between asset returns and volatility (ωt=0.0135,σω=0.2,ρω=λ0=λω=0$\\omega _t = 0.0135, {\\sigma _{_{{\\omega}}}}= 0.2, {\\rho _{_{{\\omega}}}}= \\lambda _0=\\lambda _\\omega = 0$). The third version (yellow lines) adds negative correlation between asset returns and volatility (ωt=0.0135,σω=0.2,ρω=−0.70,λ0=λω=0$\\omega _t = 0.0135, {\\sigma _{_{{\\omega}}}}= 0.2, {\\rho _{_{{\\omega}}}}= -0.70, \\lambda _0=\\lambda _\\omega = 0$). The fourth version (purple lines) adds jumps (ωt=0.0101,σω=0.2,ρω=−0.70,λ0=0.000,λω=8.33,m=−0.171,v=0.160$\\omega _t = 0.0101, {\\sigma _{_{{\\omega}}}}= 0.2, {\\rho _{_{{\\omega}}}}= -0.70, \\lambda _0 = 0.000, \\lambda _\\omega = 8.33, m=-0.171, \\sqrt {v}= 0.160$). All versions of the model have the same instantaneous volatility of the systematic asset factor. For each model version,At$A_{t}$,σi$\\sigma _i$,λi$\\lambda _i$,D1$D_{1}$,D2$D_{2}$, andδ$\\delta$are calibrated to match the sample means of 1Y and 5Y CDX upfronts, the SPX level, the SPX dividend yield, and the index leverage ratios. The remaining parameters are given in Panel A of TableIV.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Distributions of leverage and ratings across index constituents. Panels A and B show the distribution of firm-quarter leverage observations for CDX and SPX constituents, respectively, between the first quarter of 2012 and the first quarter of 2020. Leverage is defined as book value of debt over the sum of book value of debt and market value of equity. Panels C and D show the distribution of firm-quarter rating observations for CDX and SPX constituents, respectively, between the first quarter of 2012 and the third quarter of 2017.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Distributions of asset volatility across index constituents. Panels A and B (C and D) show the distribution of firm-quarter total (systematic) asset return volatility for CDX and SPX constituents, respectively. Asset returns are computed using daily data from January 3, 2012 to December 31, 2019.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Range of asset values spanned by options. The figure showsAmin−AfwdAfwd$\\frac{A^{min}-A^{fwd}}{A^{fwd}}$andAmax−AfwdAfwd$\\frac{A^{max}-A^{fwd}}{A^{fwd}}$for CDX and SPX options.Afwd$A^{fwd}$is the forward value of the common factor. For CDX options,Amin$A^{min}$solvesUT0(logAmin,ω)=Kmax$U_{T_0}(\\log A^{min},\\omega)=K^{max}$andAmax$A^{max}$solvesUT0(logAmax,ω)=Kmin$U_{T_0}(\\log A^{max},\\omega)=K^{min}$. For SPX options,Amin$A^{min}$solvesST0(logAmin,ω)=Kmin$S_{T_0}(\\log A^{min},\\omega)=K^{min}$andAmax$A^{max}$solvesST0(logAmax,ω)=Kmax$S_{T_0}(\\log A^{max},\\omega)=K^{max}$. We use the model calibrated to SPX options and always condition onω=E0[ωT0]$\\omega =\\mathbb {E}_0[\\omega _{T_0}]$. The sample period is February 29, 2012 to April 29, 2020 (427 weekly observations). The shaded area marks the COVID-19 period starting on January 1, 2020.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Cumulative performance of trading strategies. The figure shows the evolution of one dollar invested in each of the EW strategies at the beginning of the sample (see TableVIfor details on the trading strategies). The left panel shows the performance of selling CDX and SPX straddles outright. The right panel shows the performance of the short-long strategy that allocates 50% of funds to selling CDX straddles and 50% to buying SPX straddles. On those trading days when option returns are not available, we invest at the risk-free rate. The sample period is from February 24, 2012 to April 30, 2020 (2,042 daily observations). The shaded area marks the COVID-19 period starting on January 1, 2020.",
+        "correlation": []
+    }
+}

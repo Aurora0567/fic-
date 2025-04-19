@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Estimated number of alternative data vendors. This figure shows the estimated number of alternative data vendors by year based on the J.P. Morgan 2019Alternative Data Handbook. The J.P. Morgan handbook (Kolanovic and Smith (2019)) comes with a directory of alternative data vendors as of 2019 with a hyperlink to their URL domain (see pp. 204–255). We use this hyperlink, and Internet Archive Wayback Machine (https://web.archive.org/), to retrieve the entire web page history of each vendor saved by the Wayback Machine since 1996. We fill gaps in the time series of records when gaps are smaller than five years, and drop records before the gap otherwise. We estimate the number of vendors every year by counting the vendors with one or more pages saved on the Internet Archive in that year. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timeline of the model.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The term structure of analysts' forecast informativeness. This figure displays the term structure of analysts' forecast informativeness. Each graph shows the means of analyst-levelRi,t,h2$R^2_{i,t,h}$over all analysts and dates, for fixedh$h$values expressed in number of months (displayed on thex-axis). The forecasting horizonh$h$is measured as the number of days between the forecasting date and the date of actual earnings release, divided by 365. The sample period is 1983 to 2017 (Panel A), split into two subperiods (Panel B). The shaded gray area corresponds to a 90% confidence interval, obtained with standard errors clustered by forecasting fiscal period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Short-term versus long-term forecast informativeness by year. This figure shows the means of analyst-levelRi,t,h2$R^2_{i,t,h}$over all analysts by year, separately for short-term (h<1$h&lt;1$) and long-term (h≥2$h\\ge 2$) forecasts. The sample period is 1983 to 2017 for short-term forecasts (Panel A), and 1983 to 2015 for long-term forecasts (Panel B). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The slope of term structure by year. This figure shows the evolution over time of the slope of the term structure of analysts' forecast informativeness. The slope is estimated every year by linear approximation, regressing the average ofR2$R^2$by horizonh$h$onh$h$, separately for every calendar year. The figure plots the regression coefficient. Each slope estimate indicates howR2$R^2$changes in percentage points for every annual increment ofh$h$. For example, a slope estimate of −10 in 1993 indicates that in 1993,R2$R^{2}$decreases on average by 10 percentage points whenh$h$increases by one year. The shaded gray area corresponds to a 90% confidence interval, obtained with standard errors clustered by forecasting fiscal period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "StockTwits' expansion. This figure shows descriptive statistics on the evolution of StockTwits between 2005 and 2017. The upper-left panel presents the total number of messages per day. The upper-right panel presents the number of users who have a given firm in their watchlist (averaged across firms). A user's watchlist is a list of firms that the user follows. StockTwits aggregates this information at the firm level and reports the number of users having that firm on their watchlist. The bottom-left and bottom-right panels present different percentiles of the number of messages per day per firm and the number of users who have a given firm in their watchlist, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "StockTwits ratings and firms' growth predictability. This figure shows the predictive power of “Bullish” and “Bearish” ratings issued by StockTwits users about firms' growth, by horizon. It relies on cross-sectional forecasting regressions with at least 20 observations, estimated on every fiscal year starting from 2010 by quintile of total assets, and specified as:gj,y+h=b0+b1Ratingj,y+b2gj,y−1+εj,y$g_{j,y+h}=b_{0}+b_{1} Rating_{j,y}+ b_{2} g_{j,y-1} + \\epsilon _{j,y}$, wherej$j$indexes all firms from the same quintile and year.Ratingj,y$Rating_{j,y}$is the difference between the fraction of “Bullish” and “Bearish” messages about firmj$j$during fiscal yeary$y$provided there are least 10 messages with a nonmissing rating, andgj,y+h$g_{j,y+h}$is the (year-on-year) growth in fiscal yeary+h$y+h$.Ratingj,y$Rating_{j,y}$is naturally bounded between −1 (all ratings issued during fiscal yeary$y$are “Bearish”) and +1 (all ratings issued during fiscal yeary$y$are “Bullish”). The figure shows the average ofb1$b_{1}$(weighted by the inverse of its standard error) across all quintiles and yearsy$y$(with the associated 90% confidence interval based on standard errors clustered by year), by horizony+h$y+h$(displayed on thex-axis), wheng$g$is the growth of sales (upper-left panel), EBITDA (upper-right panel), EBIT (bottom-left panel), or Net Income (bottom-right panel). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Fig. A.1. Asset Market Thickness and Liquidity. This figure shows the thickness of the secondary ship market, measured by the average number of ships in each subsector of Oil Tankers (blue vertical bars, primary Y-axis), and the liquidity, measured by the average percentage resale price premium (red connected squares, secondary Y-axis) and the resale price dispersion (green connected triangles, secondary Y-axis). Resale price dispersion is defined as the mean absolute deviation of resale prices divided by the mean resale price."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Relationship between Uncertainty and Investment for Low and High Secondary Market Liquidity. Each panel depicts the fitted investment rate from the specification in Eq. (1) estimated at the 25th (“Low”) and 75th (“High”) percentiles of Liquidity measured as the resale price premium of secondary ship transactions in a subsector-quarter."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Frequency of Somali Attacks, Shipping Demand Levels, and Uncertainty. Panel a depicts the number of Somali pirate attacks per year based on statistics compiled by the International Maritime Bureau. Panel b shows the differences in the levels and volatilities of ΔSubsectoral BDI between treated and control subsectors. Panel c shows the differences in Uncertainty between treated and control subsectors. Treated subsectors consist of Panamax bulkers and LR2 tankers. Control subsectors consist of Capesize bulkers and VLCC tankers."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Investment and Disinvestment Dynamics around the Escalation in Somali Piracy. This figure displays coefficient estimates and 95% confidence intervals for Treatj interacted with yearly indicators estimated from a modified version of the specification in Eq. (2) (coefficients are taken from Internet Appendix Table F.4). The modified specification replaces the single treatment period indicator (Piracyt) with annual indicator variables and the country × year-quarter fixed effects with country × year fixed effects. The dependent variables are investment (Panel a) and disinvestment (Panel b)."
+        ],
+        "correlation": []
+    }
+}

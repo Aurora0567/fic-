@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Bank Resolutions and Gubernatorial Elections, 1903–29.Source: See Appendix for sources. Notes: In Panel A, each column indicates the sum of all bank resolutions in the quarters before (-) and after (+) gubernatorial elections. In Panel B, each column indicates the fraction of observations (by state and quarter) in which the bank resolution rate exceeded zero. In Panels C and D, each column indicates the bank resolution rate in terms of resolutions per thousand banks in operation. Gubernatorial election campaigns typically spanned the two quarters before the quarter with an election."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Resolutions, Elections, and Crises in States Whose Governors Oversaw Bank Resolution, 1903–29.Source: See Appendix for sources. Notes: Each column indicates the bank resolution rate (in terms of resolutions per thousand banks in operation) in the quarters before (-) and after (+) gubernatorial elections. Gubernatorial election campaigns typically spanned the two quarters before the quarter with an election. Years of financial crises include 1907–8 (Panic of 1907), 1914 (Panic of 1914), and 1920–21 (Post WW1 Depression and Deflation). Years containing agricultural lending crises include 1922 to 1929."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Business Bankruptcies and Gubernatorial Campaigns, 1903–1929.Source: See Appendix for sources. Notes: Each column indicates the business bankruptcy rate (in terms of bankruptcies per thousand businesses in operation) in the quarters before (-) and after (+) gubernatorial elections. Gubernatorial election campaigns typically spanned the two quarters before the quarter with an election."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Resolutions and Campaigns, Event Studies.Source: See Appendix for sources. Notes: All panels plot coefficients from event studies regressions. In Panels A and B, these values are calculated by regressing the resolution rate in each state in each quarter, Rit, on indicators for six time periods: (i) quarters containing gubernatorial elections, (ii) two quarters before quarters containing gubernatorial elections, (iii) one quarter before gubernatorial elections, (iv) one quarter after gubernatorial elections, (v) two quarters after gubernatorial elections, and (vi) all other quarters. Coefficients for (i) to (v) are indicated by dots. The horizontal line indicates the coefficient for indicator (vi). The coefficients report average resolution rates for each group of observations. In Panels C and D, these values are calculated by regressing the resolution rate in each state in each quarter, Rit, on indicators for each state, indicators for all but one time period, and indicators (i) to (v) above. Coefficients for indicators (i) to (v) are plotted. These coefficients indicate how average resolution rates in quarters before/during/after gubernatorial elections differed from the average resolution rate in all other quarters after extracting from each observation the average resolution rate for each state and each time period. Vertical lines indicate 90% confidence intervals. Panels A and C plot data from states where the governor oversaw the bank resolution process. Panels B and D plot data from states where the federal judiciary oversaw the bank resolution process."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Bankruptcies and Campaigns, Event Studies.Source: See Appendix for sources. Notes: All panels plot coefficients from event studies regressions. In Panels A and B, these values are calculated by regressing bankruptcies per thousand businesses in each state in each quarter, Rit, on indicators for six time periods: (i) quarters containing gubernatorial elections, (ii) two quarters before quarters containing gubernatorial elections, (iii) one quarter before gubernatorial elections, (iv) one quarter after gubernatorial elections, (v) two quarters after gubernatorial elections, and (vi) all other quarters. Coefficients for (i) to (v) are indicated by dots. The horizontal line indicates the coefficient for indicator (vi). The coefficients report average bankruptcy rates for each group of observations. In Panels C and D, these values are calculated by regressing bankruptcies per thousand businesses on indicators for each state, indicators for all but one time period, and the indicators (i) to (v) above. Coefficients for indicators (i) to (v) are plotted. These coefficients indicate how average bankruptcy rates in quarters before/during/after gubernatorial elections differed from the average bankruptcy rate in all other quarters after extracting from each observation the average bankruptcy rate for its state and time period. Vertical lines indicate 90% confidence intervals. Panels A and C plot data from states where the governor oversaw bank resolutions. Panels B and D plot data from states where the judiciary oversaw bank resolutions."
+        ],
+        "correlation": []
+    }
+}

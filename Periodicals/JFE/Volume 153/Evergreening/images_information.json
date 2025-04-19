@@ -1,0 +1,14 @@
+{
+    "2": {
+        "description": [
+            "1. Concentrated lending economy. Notes: Equilibrium allocation as a function of b, for a given z. The solid blue line is Qmin(z,b), the solid green line is Qmax(z,b), the dashed red line is βk, and the black line is the optimal policy Q⁎. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "1. Comparison of policy functions. Notes: Policy functions and values for a firm with the same set of (z = 0.6,k = 2), as a function of b, dispersed lending (blue, dashed) vs. concentrated lending (red, solid) economies."
+        ],
+        "correlation": []
+    }
+}

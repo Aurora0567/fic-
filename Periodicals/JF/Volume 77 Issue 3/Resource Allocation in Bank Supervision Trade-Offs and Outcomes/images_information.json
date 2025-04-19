@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Federal Reserve supervisory staff and allocation of resources. The data on employees come from Federal Reserve Annual reports. The data on resources come from internal hours data for supervisory examiners at the Federal Reserve. The hours data in the right panel exclude resources allocated to institutions not under Federal Reserve supervision pre-2008. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Increased attention to large banks. The figure presents binned scatter plots and the fitted lines of regressing log supervisory hours on log assets and supervisory ratings for different bank size categories ($10 billion asset thresholds) before and after 2008. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Marginal effect of log hours on probability of distress conditional on different ratings. The figure shows the average marginal effect (AME) of log hours on a bank's next-year probability of distress unconditionally (blue) and evaluated at each of the five supervisory ratings (orange). The three panels correspond to the three measures of distress. Shaded areas represent 95% confidence intervals computed based on standard errors clustered at the bank level via the delta method. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Implied supervisory preference loadings relative to rating 1. The figure shows the implied loadings of the supervisory preference weightWit$W_{it}$on ratings 2 to 5. The three panels correspond to the three measures of distress. Whiskers represent bootstrapped 95% confidence intervals clustered at the bank level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Expansion of supervisory resources and average shadow cost of hours. The left panel shows the allocation of total supervisor hours across BHCs under Federal Reserve supervision as of 2006, split between large BHCs (≥$\\protect \\ge$$10b) and small BHCs (<$&lt;$$10b), as well as new BHCs coming under Federal Reserve supervision in the following years. The right panel shows the average across districts of the estimated shadow cost of supervisor hours, estimated using a specification matching our baseline first-stage regression but including district-year fixed effects instead of year fixed effects and the district averages of the shadow-cost instrument. Shaded areas represent bootstrapped 95% confidence intervals clustered at the bank level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Change in distress probability under counterfactual experiments. The figure shows equal-weighted averages of the change in bank-level distress probability implied by the counterfactuals. See SectionVIfor details on the counterfactuals. The three panels correspond to the three measures of distress. Shaded areas and whiskers represent bootstrapped 95% confidence intervals clustered at the bank level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

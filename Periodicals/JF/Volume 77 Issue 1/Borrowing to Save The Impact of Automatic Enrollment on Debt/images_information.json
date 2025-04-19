@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Distributions of employee contribution rates by cohort. The employee contribution rate is the sum of employee before-tax and Roth contribution rates, expressed as percentages of pay, and is measured over the entirety of the June or the December when the employee reached the tenure level indicated. Contribution rates are rounded to whole numbers, and rates at or above 11% are grouped together. The pre-automatic enrollment (pre-AE) cohort consists of August 2009 to July 2010 hires, and the post-automatic enrollment (post-AE) cohort consists of August 2010 to July 2011 hires. The sample at each tenure level consists of all civilians employed by the Army at that time, excluding rehires.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Ratio of cumulative total TSP contributions to annualized first-year pay. Every point in the graphed series corresponds to individuals who reached the tenure level indicated on the horizontal axis in a June or a December. The pre-AE cohort consists of August 2009 to July 2010 hires, and the post-AE cohort consists of August 2010 to July 2011 hires. The sample at each tenure level consists of all civilians employed by the Army at that time, excluding rehires.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Effect of automatic enrollment on cumulative total TSP contributions to annualized first-year pay ratio. The estimates come from the regression in column (2) of TableII. Point estimates and 95% confidence intervals are shown.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Average Vantage score at each calendar date. The pre-AE cohort consists of August 2009 to July 2010 hires, and the post-AE cohort consists of August 2010 to July 2011 hires. The vertical line indicates when automatic enrollment was introduced for new hires. Individuals are dropped from the sample after they leave Army employment.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average debt balance excluding auto debt and first mortgages normalized by annualized first-year pay at each calendar date. The pre-AE cohort consists of August 2009 to July 2010 hires, and the post-AE cohort consists of August 2010 to July 2011 hires. The vertical line indicates when automatic enrollment was introduced for new hires. Individuals are dropped from the sample after they leave Army employment.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effect of automatic enrollment on Vantage score. The estimates come from the regression in column (2) of TableIII. Point estimates and 95% confidence intervals are shown.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Effect of automatic enrollment on debt balance excluding first mortgages and auto loans normalized by annualized first-year pay. The estimates come from the regression in column (4) of TableIII. Point estimates and 95% confidence intervals are shown.",
+        "correlation": []
+    }
+}

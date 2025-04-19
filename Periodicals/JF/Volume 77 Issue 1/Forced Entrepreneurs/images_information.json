@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Patent creation and venture capital of new firms. In Panel A (Panel B), we plot the estimated regression coefficients of labor market opportunities on the likelihood of a new firm developing a patent (receiving venture capital). We estimate this relationship separately for each yearxfollowing firm establishment:PatentRatei,tx=β×Unemploymenti,t→t+1+University×Gender×CohortFE+IndustryFE+ηi,t.Unemploymentmeasures the national unemployment rate.Cohort FEis a fixed effect for all students graduating in the same major in a nonoverlapping three-year span.University FEis a fixed effect for each undergraduate institution.Gender FEis a fixed effect for gender.Industry FEis a fixed effect for the industry of the new firm. We cluster standard errors at the state-year level and provide the 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

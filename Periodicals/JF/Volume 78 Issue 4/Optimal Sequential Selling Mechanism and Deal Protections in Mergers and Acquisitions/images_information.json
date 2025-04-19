@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Timeline of a dynamic selling mechanism.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Extensive-form game of a canonical mechanism.",
+        "correlation": []
+    },
+    "3": {
+        "description": "A typical functionj, for (a)λ1=λ2$\\lambda _1=\\lambda _2$, (b)λ1>λ2$\\lambda _1&gt;\\lambda _2$, and (c)λ1<λ2$\\lambda _1&lt;\\lambda _2$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equilibrium path of implementation in Proposition5.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Optimal variable termination fee versus optimal fixed termination fee in Example1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

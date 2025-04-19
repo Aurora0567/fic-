@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Bank CDS spread. This figure plots banks' CDS spreads over the TARP CPP investment horizon. Bank Index CDS Spread is measured by the DS North America Banks 5-Year Credit Default Swap Index. The dotted line labeled TARP Announcement corresponds to the TARP announcement on October 13, 2008. Initial TARP Investment is the date of the first TARP investment date on October 28, 2008. The dotted line labeled Original Maturity is the average earliest repayment date stipulated in the original TARP CPP Term Sheet. The dotted line labeled Early Repayment is the average TARP CPP repayment date conditional on repaying before the original maturity.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Benchmark preferred equity index. This figure plots the daily cumulative returns realized by the S&P U.S. Preferred Stock Index over the TARP CPP investment horizon. The cumulative return is normalized to zero on January 1, 2008.",
+        "correlation": []
+    },
+    "3": {
+        "description": "TARP repayment timeline.",
+        "correlation": []
+    },
+    "4": {
+        "description": "TARP investment verus same bank preferred equity. This figure compares a bank's TARP CPP return to the same bank's preferred equity return using the same buy and sell horizon as the TARP investment. Both returns are annualized. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "TARP benchmark adjusted for policy uncertainty. This figure plots a histogram distribution of the TARP subsidy (i.e., the difference between the annualized rate of return from investing in a bank's preferred equity and the TARP return) using an alternative benchmark that shifts the investment horizon of the benchmark by nine months from the date of the original investment. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "CAPM in various subsamples. Each day, we partition stocks in our sample into 10 decile portfolios based on their CAPM betas, where for each day and stock, betas are estimated using the previous 252 trading days. Then, for each decile, we create two subsamples based on whether theirEIC_ALLis equal to one or zero on that day. Panel A plots the average portfolio daily excess returns (over the risk-free rate) against their average CAPM betas, separately forEIC_ALL= 1 (solid line) andEIC_ALL= 0 (dashed line) subsamples. In Panel B, we plot the average portfolio daily excess returns against their average CAPM betas separately forEIC= 1 stocks over FOMC announcement dates (EIC= 1 & FOMC = 1, solid line),EIC= 0 stocks over FOMC announcement dates (EIC= 0 & FOMC = 1, dotted line), and stocks over FOMC announcement dates (FOMC, dashed line).",
-        "correlation": []
-    }
-}

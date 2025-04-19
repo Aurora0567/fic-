@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Liquidity Coverage Ratio of U.S. Banks. This figure plots the liquidity coverage ratios of LCR banks and non-LCR banks. The vertical line indicates 2013Q1, the start of the post-liquidity regulation period. The sample period is from 2011 to 2017. Data source: Call Reports, FR Y-9C. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "U.S. Bank Balance Sheets During the LCR Implementation. This figure shows the composition of U.S. bank balance sheets over time. The solid blue line presents LCR banks, and the red dashed line represents non-LCR banks. The vertical line indicates 2013Q1, which is the start of the post-liquidity regulation period. High-quality liquid assets include cash, central bank reserves, government securities, GSE securities, corporate and municipal bonds, and Russell 1000 equities. The non-HQLAs include loans, derivatives, and real estate holdings. The sample period is from 2011 to 2017. Data source: Call Reports, FR Y-9C."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Dynamic Effects of the Liquidity Regulation on HQLAs. This figure plots the estimates of the LCR gap interacting with indicators for each quarter. The sample includes only LCR banks. The vertical line indicates 2013Q1, which is the start of the post-liquidity regulation period. Data source: Call Reports, FR Y-9C."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Model Equilibrium with Different Run-off Rates. This figure plots equilibrium prices and quantities for different run-off rates. The fraction of withdrawal in good state a is 0.2. The demand for liquidity ξ is fixed at 1. The liquidity demand elasticity ϵ is 2. The issuance cost parameter γ is 1. The expected externality of liquidity transformation μη is 0.8%. The expected liquidation costs borne by banks μϕ is 0.5%. The fraction of regulated banks w is 0.8. The supply of government securities G is 0.1."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Model Equilibrium with Different Fraction of Unregulated Banks. This figure plots equilibrium prices and quantities for different fractions of unregulated banks, 1 − w. The run-off rate ρ is fixed at 0.5. The fraction of withdrawal in good state a is 0.2. The liquidity demand elasticity ϵ is 2. The issuance cost parameter γ is 1. The expected externality of liquidity transformation μη is 0.8%. The expected liquidation costs borne by banks μϕ is 0.5%. The supply of government securities G is 0.1."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Model Equilibrium with Different Liquidity Demands. This figure plots equilibrium prices and quantities for different liquidity demands, ξ. The run-off rate ρ is fixed at 0.5. The fraction of withdrawal in good state a is 0.2. The liquidity demand elasticity ϵ is 2. The issuance cost parameter γ is 1. The expected externality of liquidity transformation μη is 0.8%. The expected liquidation costs borne by banks μϕ is 0.5%. The fraction of regulated banks w is 0.8. The supply of government securities G is 0.1."
+        ],
+        "correlation": []
+    }
+}

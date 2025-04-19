@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Sequence of events.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cryptocurrency market capitalization as a function of benefit. This figure depicts the capitalization of the cryptocurrencyXp$Xp$as a fraction of total endowmente, as a function of the benefit θ, for different values of the crash risk π and for a discount factorβ=1$\\beta =1$. Each panel corresponds to a particular risk-aversion coefficient γ.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Sequence of events for volatile price equilibria.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Daily Bitcoin price, in USD.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Estimated daily transaction volume, in millions of BTC.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Daily miners' fees, in percentage of estimated transaction volume.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Daily hacks, thefts and other losses of Bitcoins, in percentage of Bitcoin supply.",
+        "correlation": []
+    },
+    "8": {
+        "description": "MarketAccess(right axis) andBenefit(left axis) indices.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Bitcoin returns. This figure plots weekly Bitcoin returns expressed in USD. The top graph plots raw returns. The bottom graph smooths these returns by plotting an exponentially weighted moving average of these returns with a half-life of one year.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Root mean squared error linearized model. This figure plots the root mean squared error (RMSE) for the (partially) linearized model. RMSE is plotted as a function of the two parameters, λ0and μ, that make up the two-dimensional grid over which is being minimized.Givena point on this grid, the model is linear in the remaining parameters (α1,β1,β2$\\alpha _1, \\beta _1, \\beta _2$):ρt+1=πt+h¯−α1Benefitt+1+β1CostMiningFeet+β2CostMarketAccesst+εt+1.(64)$$\\begin{equation} \\rho _{t+1} = \\pi _t + \\bar{h} - \\alpha _1{\\it Benefit}_{t+1} +\\beta _1{\\it CostMiningFee}_t + \\beta _2{\\it CostMarketAccess}_t + \\varepsilon _{t+1}.\\quad (64) \\end{equation}$$Ordinary least squares (OLS) can therefore be used to find values for the remaining parameters that minimize the RMSE for this point on the grid.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Illustration of model fit. This graph plots the smoothed realized Bitcoin return of Figure9, and overlays it with the required return implied by the calibrated model.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Bitcoin required return components. This figure plots a decomposition of the required Bitcoin return across all model variables that contribute to it. The decomposition is based on the linearized model. The top graph plots the total required return and the graphs below it decompose it into five components.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Contrast effects in return reactions to earnings announcements. The value-weighted earnings surprise of large firms that announced earnings in the previous trading day versus the return of firms that announced earnings today (conditional on own earnings surprise). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Return reaction to earningsSurpriset−1without conditiong on own earnings surprise. This graph shows the relation between return reactions to firm earnings announcements on daytand the salient surprise (Surpriset−1) announced by other firms on dayt−1(calculated as the value-weighted earnings surprises of large firms that announced earnings on dayt−1), estimated using a value-weighted local linear regression with the Epanechnikov kernel and the rule-of-thumb bandwidth (Silverman (1986)). We define a “large” firm as a firm with market capitalization att−4exceeding the 90thpercentile cutoff of the NYSE index in that month. Gray areas indicate 90% confidence intervals. The graph reports unconditional returns without controlling for the firm's own earnings surprise, demeaned by the value-weighted average return in the sample. The return is the open-to-open return measured over the interval[t,t+1], from the market open ontto the market open ont+2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Return reaction to own earnings surprise. This graph shows the returns of firms that announced earnings on daytagainst the percentile ranks of the firm's own earnings surprise, estimated using a value-weighted local linear regression with the Epanechnikov kernel and the rule-of-thumb bandwidth (Silverman (1986)). The graph shows two subsamples: return reactions followingSurpriset−1in either the lowest (top line) or highest deciles (bottom line). Gray areas indicate 90% confidence intervals. The vertical line indicates zero earnings surprise. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Trading strategy returns over time. This graph shows the average daily return (in %) within each quarter of the trading strategy described in TableV, column (1), based on positions held on event daystandt+1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": [
+            "Arbitrage-based recovery. One needs to observe the Arrow–Debreu prices (where the current state is the initial state) for only one maturity. If the SDF under the dividend account numeraire takes the form δˆ×hˆSj/hˆSi, where δˆ is a positive constant, S is the asset price and the only state variable, and hˆ is a positive function of S, then in the absence of arbitrage opportunities the physical transition probabilities can be recovered."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Timing in our model. At time t, we observe the stock price in the current state i. Then, at time t+1 in state j the dividend Di,j is paid. Right afterwards, we observe the stock price Sj."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Implied volatility curves on three dates, calculated from European-style S&P 500 index options with 28 days to maturity. The “*” markers indicate implied volatilities corresponding to mid option prices, while the “⋅” markers denote implied volatilities corresponding to bid and ask option prices. Implied volatilities are calculated by the Black–Scholes option pricing formula. The 28-day risk-free interest rates are obtained by linearly interpolating between the two risk-free rates with the closest maturities (e.g., 25 days and 31 days). The dividend yield parameter of the Black–Scholes formula is calculated under the assumption that the dividend is received just before the option exercise date, and the dollar amount of this dividend is known on the observation date. To interpolate between the observation points on the implied volatility curves, we use a slightly modified version of the Fast and Stable Method of Jackwerth (2004)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Risk-neutral and physical probability density functions on three dates, calculated from European-style S&P 500 index options with 28 days to maturity. The risk-neutral probability density functions are shown as dotted curves, while the dash-dotted, the solid, and the dashed curves correspond to the physical probability density functions. The square markers indicate the lowest and the highest traded strike prices for each date. Between these two strike prices, the risk-neutral densities are obtained as the second derivatives of the call option price with respect to the strike price, divided by the risk-free discount factor. Call price curves are obtained as transforms of the implied volatility curves in Fig. 3, and the 28-day risk-free discount factors are obtained by linearly interpolating between the two risk-free interest rates with the closest maturities (e.g., 25 days and 31 days). Then, following Figlewski (2010), we add tails to the risk-neutral probability density functions by choosing appropriately parameterized generalized extreme value distributions. Afterwards, we apply the Arbitrage-Based Recovery Theorem to transform these risk-neutral probability density functions into physical probability density functions. During this transformation, we assume that the dividend is received just before the option exercise date, and the dollar amount of this dividend is known on the observation date."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Recovered physical probability distributions of the 1-month non-annualized total returns on the S&P 500 market index, calculated from European-stye S&P 500 A.M.-settled index options with 29 days to maturity. The dash-dotted lines denote returns lying between the 10th and the 90th percentiles, the boxes denote returns between the 25th and the 75th percentiles, and the solid lines inside the boxes correspond to returns between the 45th and the 55th percentiles. First, we obtain a smooth implied volatility curve for each observation date by applying a slightly modified version of the Fast and Stable Method of Jackwerth (2004), which we then transform back into risk-neutral probability density functions. We attach tails to these risk-neutral density functions by choosing appropriately parameterized generalized extreme value distributions, following Figlewski (2010). Then, we transform the risk-neutral probability distributions into physical probability distributions by applying the Arbitrage-Based Recovery theorem. Throughout, we assume that the dividend is received just before the option exercise date, and the dollar amount of the dividend is known on the observation date. The 28-day risk-free interest rates are obtained by linearly interpolating between the two risk-free rates with the closest maturities (e.g., 25 days and 31 days) (until 2021). For 2022, we use the 4-week Treasury Bill secondary market rate as the risk-free rate."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Recovered physical moments of the 1-month non-annualized total return on the S&P 500 market index. We obtain the physical probability distributions by applying the Arbitrage-Based Recovery Theorem, as shown in Fig. 5. Then, for each observation date, we calculate the expected value (mean), the standard deviation (volatility), the skewness, and the kurtosis of the return. The recovered physical moments suggest that throughout our observation period, the probability distribution of the market return is left-skewed and it features fat tails. Both its mean and its volatility are highly volatile. Furthermore, both the magnitude and the volatility of its skewness and kurtosis increased substantially after the 2008 financial crisis. The mean and the volatility of the return are highly correlated, which is in accord with economic intuition that higher risk (volatility) should be compensated with higher reward (mean)."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Sharpe ratio of the 1-month non-annualized total return on the S&P 500 market index. We obtain the physical probability distributions by applying the Arbitrage-Based Recovery Theorem, as shown in Fig. 5. Then, for each observation date, we calculate the expected value and the standard deviation of the market return. The Sharpe ratio is then obtained by subtracting the 1-month risk-free rate from the expected market return and dividing the difference by the volatility of the market return. The Sharpe ratio is volatile, and its value is especially high at the beginning of crisis periods (October and November 2008, and March 2020)."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Moment risk premia of the 1-month non-annualized total return on the S&P 500 market index. We obtain the physical probability distributions by applying the Arbitrage-Based Recovery Theorem, as shown in Fig. 5. Then, for each observation date, we calculate the expected value, the variance, the skewness, and the kurtosis of the return under both the risk-neutral and the recovered physical probability measures. The moment premia are then obtained as the difference between the physical and the risk-neutral moments. In accord with economic intuition, the equity premium is positive and the variance premium is negative throughout our observation period, and the skewness premium is almost always positive while the kurtosis premium is almost always negative. The equity premium and the variance premium are strongly negatively correlated, just as the skewness premium and the kurtosis premium. Similarly to the Sharpe ratio, the magnitudes of the equity premium and the variance premium are especially high at the beginning of crisis periods (October and November 2008, and March 2020). Furthermore, similarly to the physical skewness and kurtosis, both the magnitude and the volatility of the skewness premium and the kurtosis premium increased substantially after the 2008 financial crisis."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Wealth evolution under three different investment strategies, starting with $1 on January 19, 1996. On the vertical axis, we show the wealth on a logarithmic scale. According to the first investment strategy (blue dashed curve), the total wealth is invested in the one-month risk-free asset and upon maturity it is always reinvested in the actual one-month risk-free asset. The second strategy (red dotted curve) corresponds to a buy-and-hold investment policy, where the total wealth is invested in the S&P 500 total return index on January 19, 1996, and it is kept there indefinitely. The third investment policy (black solid curve) is based on a market-timing strategy using Arbitrage-Based Recovery. Concretely, we invest in the one-month risk-free asset and in the S&P 500 total return index so that the portfolio weight of the S&P 500 total return index is proportional to the recovered Sharpe ratio of its one-month return. We choose the constant of proportionality such that the average (over the observation period) portfolio weight of the market index is equal to one. We re-evaluate the portfolio weights monthly (on each observation date), and re-balance our portfolio accordingly. The difference between the wealth paths of the market-timing strategy and the other two strategies can be attributed to the effect of market timing based on the Arbitrage-Based Recovery Theorem. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Realized values of the inferred SDF and realized values of the transitory component of the true SDF. The SDFs are projected on the space spanned by the monthly non-annualized gross stock market index return. The inferred SDF is implied by Arbitrage-Based Recovery, and its realized values are equal to the reciprocals of the monthly non-annualized gross stock market index returns. The realized values of the transitory component of the true SDF are equal to the reciprocals of the monthly non-annualized gross returns on the long bond. The observation period is from January 1947 to December 2023, and the observation frequency is monthly."
+        ],
+        "correlation": []
+    }
+}

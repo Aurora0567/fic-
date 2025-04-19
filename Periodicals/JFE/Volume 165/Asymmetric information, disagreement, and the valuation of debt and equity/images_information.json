@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Price FunctionThis figure plots the equilibrium price of equity, debt, and a claim to the total cash flow of the firm as a function of the risk-neutral mean PU. The parameters are set to: σθ2=σɛ2=σz2=ρ=m=τ=K=1;κ=0.1."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Expected Return Comparative StaticsThis figure plots expected returns on the equity and debt as a function of the model parameters. The parameters are set to: σθ2=σz2=0.752;σɛ2=m=τ=K=1;κ=0;ρ=0.5."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Cross-Market Demand SpilloversThis figure plots the expected security prices conditional on equity liquidity trade zE (left panel) and debt liquidity trade zD (right panel). The parameters are set to: σθ2=1.52;σɛ2=VzE=VzD=m=τ=K=1;κ=0;ℂzE,zD=0."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Leverage and Debt-Equity Price CorrelationThis figure plots the correlation between the debt and equity prices as a function of the firm’s default risk. The parameters are set to: m=3;K=2;σθ2=1;σɛ2=VzE=VzD=τ=1;κ=0;ℂzE,zD=0."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Violations of Modigliani–MillerThis figure plots the total expected firm price, EPE+PD, as a function of liquidity trade volatility in the two markets. The parameters are set to: σθ2=1.52;σɛ2=VzE=VzD=m=τ=K=1;κ=0;ℂzE,zD=0. Note that E[PU]=m=1."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Optimal Capital StructureThis figure plots the total expected firm price, EPE+PD, as a function of the firm’s leverage, paramaterized in terms of its ex-ante probability of default, Pr(V<K). The parameters are set to: σθ2=1.52;σɛ2=m=τ=K=1;κ=0;ℂzE,zD=0;VzE=4; and VzD=1. Note that E[PU]=m=1. The solid dots indicate the point at which the firm’s total expected price is maximized."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Expected Returns with Systematic RiskThis figure plots expected returns as a function of model parameters for a given firm n in both the model and in a benchmark without private information or liquidity trade. The parameters are set to: σθ2=σz2=0.752;mF=mn=βn=σF2=σɛ2=κ=τ=1;Kn=0.25;κ=ρ=0.5."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Fig. D.8. Limited Liability Comparative StaticsThis figure compares expected returns under our baseline model to those under the model considered in this section. The parameters are set to: σθ2=σɛ2=m=τ=K=σz2=1;κ=0;ρ=0.5."
+        ],
+        "correlation": []
+    }
+}

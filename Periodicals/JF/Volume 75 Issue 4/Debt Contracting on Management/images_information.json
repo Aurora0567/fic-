@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "The presence of a CMR clause and abnormal CEO turnover. This figure plots the association of a CMR clause with abnormal CEO turnover. The change in CEO turnover probability is calculated as the difference between realized and predicted turnover, derived from the probit model of Specification (2) in TableVI(excludingCMR Clause Binding) on the sample of firms with any contract that contains a CMR. Panel A shows the effect of initiating a debt contract containing a CMR clause at timet. Panel B shows the effect of a cessation of a contract containing a CMR clause at timet.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Structure of optimal offers. μμSC=2⁠, μμSI=1⁠, all cash flow distributions are exponential.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The average cost of adverse-selection efficiency, ϕϕ(rC)/rC=rA/rC is strictly increasing (implied by Assumptions 1 and 2) but ϕϕ′=rA′/rC′ is not.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "1": {
+        "description": "This figure plots theLVIXindex, which provides a lower bound on the market's expected excess log returnEtrt+1−rf,t+1,by Result5. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "LVIXt,S&P 500 index, annual horizon, computed using mid prices or bid prices. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The sentiment indicator, computed using the full sample to estimate the relationship betweenytandrt+1−gt+1(left) or using an expanding window (right). [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The three components of the sentiment indicator. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Sentiment indicators calculated on a full-sample or real-time basis, assuming thatytfollows an AR(1), AR(2), or AR(3) process. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Btwith one-sided confidence interval. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "The alternative sentiment indicator,B∼t. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "The sentiment index computed for the NASDAQ-100 index (and, for comparison, the baseline sentiment index for the S&P 500). [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Sentiment indicators calculated with linear, quadratic, and cubic specifications for the relationship between expectedrt+1−gt+1andyt[Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "The sentiment indicator and detrended log volume (standardized). Shaded areas in the right panel indicate bootstrapped 95% confidence intervals.kis measured in months. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Btplotted against the LTG measure of Nagel and Xu(2019). All series are standardized. As LTG is quarterly,kis measured in quarters. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "The sentiment indicator, volume, and crash probability. Shaded areas in the right-hand panels indicate bootstrapped 95% confidence intervals.kis measured in months. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Partial autocorrelations ofyt. Annual data, 1947 to 2017, cash-reinvestment method.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Standardized series of−yt,pdt,andBt(withBtcalculated using predictive coefficients from the full-sample predictive regression). [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Forecasting with cubic and linear specifications at the beginning (01/96) and end (12/17) of our sample, and around the market highs in 12/99. Lines indicate the estimated functional relationship betweenEt(rt+1−gt+1)andyt, and dots indicate the specific values ofytandEt(rt+1−gt+1)that happened to prevail on the relevant dates. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "16": {
+        "description": "The relationship betweenBtand various measures of financial conditions. Shaded areas in the right panels indicate bootstrapped 95% confidence intervals.kis measured in months. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "17": {
+        "description": "The relationship betweenBt(AR(3), full sample) and various measures of financial conditions. Shaded areas in the right panels indicate bootstrapped 95% confidence intervals.kis measured in months. [Colour figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

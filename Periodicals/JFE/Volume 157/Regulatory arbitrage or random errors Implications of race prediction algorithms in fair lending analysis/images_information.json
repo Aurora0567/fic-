@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "BISG Densities by actual race.Note: The figures above display the empirical and fitted distributions of the probability of being Black according to the BISG algorithm. Panels (A) and (B) display borrowers identified to be non-Black and Black, respectively by our image-based measure. For each group, blue bars display our data’s empirical distribution in one-percent bins, while the red dashed line displays the fitted beta distribution used by the model. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Numerical example: Lender approval policy.Note: This figure displays the model’s approval rates. The blue dashed line labeled πANR displays the approval rate for Group A under the no regulation equilibrium, while the blue solid line labeled πAPR displays the approval rate for Group A under the predicted race regulation equilibrium. The orange dashed line labeled πBNR and orange solid line labeled πBPR display the same objects for Group B. The gray dashed line labeled πAAR=πBAR displays the approval rate for both Groups A and B under the actual race equilibrium, as these turn out to be identical in this case. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Model numerical example: Approvals by classification type.Note: This figure reports approval rates by classification group in the model’s numerical example. Each panel displays the approval rates for a given classification of applicants over all three computed equilibria: no regulation, actual race, and predicted race. For the panel classifications, “True Positive” refers to applicants in Group B correctly classified by BISG to be in Group B, “False Positive” refers to applicants in Group A falsely classified by BISG to be in Group B, “False Negative” refers to applicants in Group B falsely classified by BISG to be in Group A, and “True Negative” refers to applicants in Group A correctly classified by BISG to be in Group A. For organization, the top and bottom rows of the figure correspond to applicants in Groups B and A, respectively, while the left and right columns correspond to applicants predicted by BISG as being in Groups B and A, respectively."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Borrower race variable statistics (PPP, Unique Borrower–Level).Note:This figure reports the mean of each race variable on the subsample of observations for which BISG is able to predict race, N=35,072. The terms SelfID and image-based are binary variables. For example, 76% of our sample self-identifies as White. The continuous variable BISG Pct is defined as the actual percent chance the borrower is Black/White according to the BISG algorithm."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "BISG error rates (Unique Borrower–Level).Note: This figure presents mean error types for observations where BISG can predict race. Each error type is defined relative to a benchmark “true race”. For example, True Positive (SelfID) means that the business owner self-identifies as Black and is categorized by BISG as Black. True Positive (image-based) means both image-based and BISG measures classify the owner as Black. Panels A and B, containing all error types, have 35,072 observations. Panels C and D only include the “Within Black” sample, which is the subsample where the borrower is classified as Black by either the algorithm or by the “true race” measure. Panel C has 4973 observations. Panel D has 4882 observations."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Effect of socioeconomic covariates on BISG errors (PPP).Note: This figure shows estimates of a set of regressions, each of either False Negative Black or False Positive Black on one of the socioeconomic characteristics in each row of the y-axis, using the “within Black” sample. The indicator variable False Positive Black is equal to one if BISG categorizes the borrower as Black, but our “correct” measure (either image-based or self-reported race) does not. The indicator variable False Negative Black is equal to one if BISG categorizes the borrower as non-Black, but the baseline measure categorizes them as Black. Panel A’s sample includes borrowers classified as Black either by the algorithm or by the image-based measure (N=4882). Panel B’s sample comprises borrowers who either self-identified as Black on their PPP loan application or were algorithmically classified as Black; N=4973."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Lendio approval rate by group.Note: This figure plots the approval rate by error type, focusing on a subset of 47,481 applicants for whom we could calculate job tenure and confidently determine loan rejection. We are able to calculate job tenure if the firm in the Lendio application matched a firm listed on the applicant’s LinkedIn profile. We are confident the applicant was rejected if, for a given application date, their application was not approved by any lender."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Lender-level difference in loan approval rates by race measure (Lendio).Note: This figure plots, for each lender, the ΔShareApprovedBlack. This is the difference in the approval rates among Black applicants between image-based and BISG measures, corresponding to πi,jAR−πi,jPR in the model. Each bar represents ΔShareApprovedBlack for one of the 101 unique lenders in the Lendio analysis data. The bars are colored according to the lender type. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Lender-Level Difference in lending rates by race measure (PPP).Note: This figure plots, for each lender, the ΔShareLoansBlack. This is the difference in the lending rates to Black firm owners between image-based and BISG measures, corresponding to πi,jAR−πi,jPR in the model. Each bar represents ΔShareLoansBlack for one of the 369 unique lenders in the PPP analysis data. The bars are colored according to the lender type. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

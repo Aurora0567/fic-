@@ -1,0 +1,110 @@
+{
+    "1": {
+        "description": "Missing values over time This figure summarizes missing values over time. Panel (a) shows the total number of stocks and those that have observed values for our five example characteristics book-to-market (B2M), operating profitability (OP), investment (INV, growth in total assets), leverage (LEV) and real investment (defined as the change in property, plants, equipment and inventory) over lagged total assets (DPI2A). Panels (b) and (c) show the percentage and share of the total market value of missing observations for the five example characteristics. Panel (d) plots the percentage of missing observations for quarterly and monthly updated characteristics based on equal and market capitalization-weighted averages. Panel (e) shows the percentage of missing observations by market capitalization quintiles. Panel (f) displays the proportion of missing stocks that have no missing observations or at most 3, 15, or 35 missing characteristics at a given point in time.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Missing observations by characteristic This figure shows the average percentage of missing observations for each characteristic. We decompose the missing values in those missing at the start (no previous observations), the middle (some previous and future observations), the end (no further observations), and completely missing.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Missing Observations by Characteristic Quintiles This figure shows the percentage of missing observations for different characteristic quintiles. The left subfigure displays the missing observations for all characteristics and the example characteristics book-to-market, operating profitability, investment, leverage and change in property, plants, equipment and inventory over lagged total assets for the five size quintiles of stocks. The right subfigure presents the proportion of missing values for the five example characteristics for their corresponding characteristic quintile. The characteristic quintiles are based on the average observed characteristic value of the corresponding stock.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Autocorrelation of characteristic ranks This figure presents the dependency of characteristic ranks and summarizes the 1-month and 12-months autocorrelation coefficients for each characteristic.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Heatmap of pairwise correlation This figure shows the pairwise correlations across time and stocks for each characteristic. The time period is the sample from 1977 to 2020.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Joint distribution of missing patterns This figure shows the heatmaps of missing data for each stock for a representative example day. Both axes are sorted by the missing percentage, where we first order by firms and then characteristics. Missing data are represented in yellow. We show the data for April 1986. However, this pattern is consistent across time.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Eigenvalues of ΣXS,t This figure shows the magnitude of eigenvalues of the characteristic covariance matrix Σ^XS,t relative to the sum of all eigenvalues averaged over time.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Number of factors and regularization Panel A shows the out-of-sample R  2 of the local XS model for different number of latent factors and regularization for three masking schemes missing-completely-at-random, block-missing, and logit-missing. Panel B shows the incremental change in out-of-sample R  2 for adding factors. The R  2 is the explained variation relative to a cross-sectional median imputation.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Optimal regularization This figure shows the out-of-sample R  2 for the local XS model with 20 factors for different regularization parameters γ. The R  2 is the explained variation relative to a cross-sectional median imputation. The plots report the scaling constant γ˜ for γγ=γ˜/L⁠.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Illustrative model-implied and imputed time series This figure shows illustrative realized and model-implied characteristic time series for Microsoft and Hasbro. We plot the realized characteristic rank over time, and the model-implied values with the B-XS, BF-XS, and median model. The gray-shaded areas represent 1 year of missing data that are not part of the estimation, and, hence, serve as an out-of-sample evaluation. We consider Total Assets, Tobin’s q, and Variance, all three of which are representative characteristics of decreasing persistence.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Imputation error for individual characteristics This figure shows the imputation RMSE by imputation method across individual characteristics. The characteristics are sorted in ascending order based on the time-series standard deviation of characteristics. We report the imputation error out-of-sample for masked characteristics from all observed data for the block-masking scheme. We use the fallback method indicated in Table 3 when a method is not applicable.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Information used for imputation This figure shows the absolute values of the regression coefficients for the cross-sectional factor model and the time-series information for the global B-XS model. The characteristics are sorted in ascending order based on their autocorrelations.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Market premium conditional on observing a firm characteristic This figure depicts the average annual return of stocks with observed or missing not-at-the-beginning (that is missing in middle or end of a stock sample) characteristics. The portfolios are value-weighted.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Sharpe ratios with IPCA factors This figure shows the in- and out-of-sample Sharpe ratios of mean-variance efficient combination for different numbers of IPCA factors. We estimate a conditional latent factor model with the Instrumented Principal Component Analysis of Kelly, Pruitt, and Su (2019). The estimation is on either the small subset of fully observed or the large set of all imputed stocks. The in-sample analysis is estimated on the full time period, while the out-of-sample analysis estimates the loadings and mean-variance efficient weights on the first half of the time series and evaluates the portfolios on the second half.",
+        "correlation": []
+    },
+    "15": {
+        "description": "Univariate sorts with and without missing values This figure shows the Sharpe ratio, average return, standard deviation and percentage of stocks for the univariate first and tenth value-weighted characteristic-sorted deciles for different subset of stock with and without imputation. We sequentially restrict the set of stocks to those for which multiple characteristics available. First, we include all stocks for which only the sorting characteristic is available, then in addition we require in addition the availability of size (ME). In the next step, the sorting characteristics, size, and investment (INV) need to be observed. We continue with operating profitability (OP), Net Share Issues (NI), Selling, general, and administrative expenses to sales (SGA2S, momentum (R12_2), and long-term reversal (R60_13). We sort based on book-to-market, size, investment and operating profitability. We impute missing values with our baseline local BW-XS model.",
+        "correlation": []
+    },
+    "16": {
+        "description": "Imputation bias in pure-play mimicking portfolios This figure presents properties of the pure-play mimicking portfolios constructed with imputed characteristics values. Factor portfolios are built via cross-sectional regressions of stock excess returns on characteristics. Some of the characteristic values are masked based on the empirical pattern with the logistic regression propensity, and imputed via the local B-XS or median value. Panel A displays the absolute error in monthly portfolio risk premiums based on imputed data relative to true observed values, measured on the full sample. Panel B displays correlations between the time series of the factor-mimicking portfolios without masking and those with imputed values.",
+        "correlation": []
+    },
+    "17": {
+        "description": "Characteristic mimicking factor portfolios This figure shows the time series of cumulative excess returns of characteristic-mimicking factor portfolios with and without imputation. We estimate characteristic-mimicking factor portfolios with cross-sectional regressions of stock excess returns on characteristics. We mask the characteristic values based on the empirical pattern with the logistic regression propensity. The masked values are imputed with either the local B-XS or median value. The mimicking portfolio without masking is the reference.",
+        "correlation": []
+    },
+    "D.1": {
+        "description": "Missing observations over time by characteristics This figure is a heatmap of percentage of missing values for all 45 characteristics over time. Quarterly characteristics collect all characteristics that are updated at a frequency lower than monthly.",
+        "correlation": []
+    },
+    "D.2": {
+        "description": "Missing Observations by characteristic pooled by stocks This figure shows the average percentage of missing observations for each characteristic. The means are pooled by stocks, which are equally weighted in the top panel and value-weighted in the bottom panel. We decompose the missing values in those missing at the start (no previous observations), the middle (some previous and future observations), the end (no further observations), and completely missing.",
+        "correlation": []
+    },
+    "D.3": {
+        "description": "Heatmap of pairwise correlation from 1967–1976 This figure shows the pairwise correlations across time and stocks for each characteristic. The time period is the early sample from 1967 to 1976.",
+        "correlation": []
+    },
+    "D.4": {
+        "description": "Standard Deviation of characteristic ranks This figure presents the time-series variation of characteristic ranks. It shows the sorted standard deviation over time for each characteristic.",
+        "correlation": []
+    },
+    "D.5": {
+        "description": "Generalized Correlation of global and local factor weights This figure shows the time series of the generalized correlation of the constant global Λ with the time-varying local Λt estimated each month. We consider a 20-factor model.",
+        "correlation": []
+    },
+    "D.6": {
+        "description": "Composition of proxy factor loadings by characteristic categories This figure shows the global factor loadings on the characteristics for the first six factors. The loadings are colored by the category to which the characteristic belongs. The sparse approximation is based on a group lasso.",
+        "correlation": []
+    },
+    "D.7": {
+        "description": "Composition of proxy factor loadings by characteristic categories This figure shows the global factor loadings on the characteristics for the 7th to 10th factors. The loadings are colored by the category to which the characteristic belongs. The sparse approximation is based on a group lasso.",
+        "correlation": []
+    },
+    "D.8": {
+        "description": "Global and local imputation for individual characteristics This figure shows the imputation RMSE by imputation method across individual characteristics. The characteristics are sorted in ascending order based on the time-series standard deviation of characteristics. We report the imputation error out-of-sample for masked characteristics from all observed data for the block-masking scheme. We use the fallback method as indicated in Table 3, when a method is not applicable.",
+        "correlation": []
+    },
+    "D.9": {
+        "description": "Top and bottom deciles with and without missing values This figure shows the Sharpe ratios and average returns for value-weighted decile-sorted portfolios formed from stocks with observed single or full panel of characteristics. The left set of plots shows the Sharpe ratios of the top and bottom deciles, while the right set of plots shows the mean returns. The light blue and green bars correspond to the first and last deciles compromising a fully observed panel of stocks with all the characteristics. The dark blue and green bars correspond to the return on the extreme deciles formed by stocks required to have only the characteristic available used in sorting.",
+        "correlation": []
+    },
+    "D.10": {
+        "description": "Sharpe ratios with nonparametric IPCA factors This figure shows the in- and out-of-sample Sharpe ratios of mean-variance efficient combination for different number of IPCA factors. We estimate a conditional latent factor model with the Instrumented Principal Component Analysis of Kelly, Pruitt, and Su (2019). We generalize IPCA to a nonlinear conditional factor model by considering for each characteristic 10 basis functions based on indicator functions for cross-sectional deciles. This corresponds to a kernel approximation of a nonlinear loading function. The estimation is either on the smaller subset of fully observed or the larger set of all imputed stocks. The in-sample analysis is estimated on the full time period, while the out-of-sample analysis estimates the loadings and mean-variance efficient weights on the first half of the time series and evaluates the portfolios on the second half.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "A taxonomy of the types of tokens issued by platforms in practice. Tokens are categorized by whether they confer ownership in the platform (cash flow claims and/or voting rights) and whether they offer transaction services. We also indicate how we refer to each type of token in the model."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "An illustration of the sources of neglected surplus in the case of a traditional platform. Aggregate transaction quantities X are on the horizontal axis. The downwards-sloping curve represents users’ marginal utility of transacting (as a function of X). The horizontal line corresponds to the marginal cost c of processing a transaction. The profit-maximizing transaction quantity is Xtrad, which is below the first-best XFB."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Illustration of the sources of surplus in the case of a platform that issues service tokens. Unlike in the case of a traditional platform (Fig. 2), investors internalize users’ service flows. Profits are maximized by setting lower fees than in the traditional case, raising transaction quantities to Xtoken (which remains below the first-best XFB)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "A comparison of total welfare (for a platform that issues service tokens) under governance by each constituency. The figure is plotted with parameters γ=0.5,c=0.06,r=0.035. The blue curve plots total surplus as a function of transaction demand X. Transaction demand under investor governance is Xtoken, whereas transactions under user governance are Xuser. The red lines mark the level of surplus in each case. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

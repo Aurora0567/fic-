@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "CMS and predicted forecast error This figure plots the credit market sentiment (CMS) index of Greenwood and Hanson (2013) in blue alongside the debt-weighted firm-level predicted forecast error (macroPFE, top panel, green) and average firm-level predicted forecast error (⁠firmPFE―⁠, bottom panel, orange). All variables are standardized to have a standard deviation of 1 and mean of 0.",
+        "correlation": []
+    },
+    "2": {
+        "description": "CMS and aggregate corporate credit market measures This figure plots the credit market sentiment (CMS) index of Greenwood and Hanson (2013) in blue alongside three measures of corporate debt activity aggregated annually across the economy: (a) total net debt issuance (dlttt + dlct—dlttt−1 – dlct−1⁠) scaled by total assets at t−1 in panel A, (b) total long-term debt (dlttt + dlct) scaled by total assets at t−1 in panel B, and (c) total long-term debt (dlttt + dlct), scaled by the market value of equity at t−1 in panel C. All variables are standardized to have a standard deviation of 1 and mean of 0.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Impulse response functions This figure plots the impulse response functions (IRFs) of neoclassical Q-theory under rational expectations (RE) and diagnostic expectations (DE). All variables are measured at time t = 0. Year “k” (k = 1…5) means the dependent variable is measured at time t + k. All IRFs are plotted as a percentage of their steady-state values. Hence, the economic magnitude (y-axis) can be interpreted as the change (expressed as % of the mean) in the dependent variable caused by a one-standard-deviation shock to TFP. The x-axis represent the steady-state value of the variable.",
+        "correlation": []
+    }
+}

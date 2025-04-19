@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "The incidence of persistence of FD over the life cycle This figure plots the average probability of being in FD, defined as an individual having a credit card account 30 days or more delinquent at some point during the year. Source: FRBNY Consumer Credit Panel/Equifax.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Marginal propensity to consume out of a dollar change in home prices by quintile of DQ30 in 2002 Group means are weighted by the number of owner-occupied housing units per county as of 2006. The horizontal line corresponds to the mean MPC out of autos estimated at the ZIP code level by Mian, Rao, and Sufi (2013) in the fifth column of their table V. Sources: IRS Survey of Income, FRBNY Consumer Credit Panel/Equifax, Census Bureau, Zillow, Survey of Consumer Finances.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The correlation between FD and house-price shocks during GR (left) and contact-sensitive employment (right) The panel on the left includes ZIP Codes for which we also have Core Logic data. FD is measured as DQ30, which is the share of individuals that are at least 30 days delinquent on a credit card at some point in a given year. For ease of viewing, the data have been divided into 40 bins with respect to DQ30, and each dot represents the mean of that bin. In the left panel, each bin is weighted by the housing wealth in each ZIP code in that bin as of 2006. In right panel, each bin is weighted by the number of households in each ZIP code included in the bin. Sources: Zillow, Census, LEHD LODES, and FRBNY Consumer Credit Panel/Equifax.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Earnings changes in 2020 by quintile of FD: Losses of at least 50% (left) and no change (right) Sources: Bick and Blandin (2021) and FRBNY Consumer Credit Panel/Equifax.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Decision tree of a nonhomeowner",
+        "correlation": []
+    },
+    "6": {
+        "description": "Decision tree of a homeowner",
+        "correlation": []
+    }
+}

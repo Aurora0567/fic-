@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "IDR take-up. This figure shows monthly cumulative enrollment rates in IDR for control and treatment borrowers. Dashed lines represent 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "IDR payment simulations. This figure shows monthly and cumulative payments under the standard 10-year plan and under IDR for different levels of borrower earnings and monthly payments. The IDR plan is the (original) IBR plan described in SectionV. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Payment smoothing. This figure shows the fraction of monthly income spent on student loan payments under IDR and under the standard plan for the six scenarios in Figure2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Monthly payments. This figure shows average monthly payments for control and treatment borrowers. Dashed lines represent 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "New delinquencies. This figure shows monthly new delinquency rates for control and treatment borrowers. Dashed lines represent 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

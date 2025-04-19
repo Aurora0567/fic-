@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "(a) Persistence of abnormal cum-day buys. This figure shows the percentile rank of abnormal cum-day buy trades across five quintiles, computed in quarter zero (Q = 0), and the average percentile rank of these Q = 0 quintiles over the next three quarters. Abnormal cum-day buy trades are calculated at the client-manager level.(b) Persistence of abnormal cum-day sells. This figure shows the percentile rank of abnormal cum-day sells across five quintiles, computed in quarter zero (Q = 0), and the average percentile rank of these Q = 0 quintiles over the next three quarters. Abnormal cum-day sells are calculated at the client-manager level.",
+        "correlation": []
+    }
+}

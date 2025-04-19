@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "The top panels control for firm fixed effects. Each dot corresponds to 1/20th of the sample firms. The sample period is from 1975 to 2018. Variables are defined in Table C.1."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Each period, the firm produces and capital generates a profit of π the next period. Each n periods, new capital is bought at price K."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Earnings, investment, and net debt dynamics. In this figure, we assume that K = ϕπ. This implies that just before the firm invests its net debt hits zero. The firm then has exactly sufficient debt capacity ϕπ to finance the cost of investment K."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Firm financing and optimal debt maturity. The figure assumes that K > ϕπ + π so that the firm needs to hold cash (negative net debt) to finance investment."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Average debt maturity."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Investment frequency and debt cycles. Arrows indicate points in time when the firm invests and starts a new debt cycle."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Leverage dynamics for different investment frequencies. The higher the frequency of investment, the less pronounced and the shorter the cycles are."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Debt cycles: Peak to trough. Dynamics of capital age, investment, and net debt to EBITDA around a net debt to EBITDA peak. Event time t = 0 indicates the net debt to EBITDA peak. We include debt cycles with at least 3 years from peak to trough, defined as the year in which net debt to EBITDA is at its minimum value for each firm. All variables are defined in Table C.1."
+        ],
+        "correlation": []
+    }
+}

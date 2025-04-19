@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Market share of commercial bank-affiliated mutual funds. This figure shows the number of funds (Panel A) and total net assets (Panel B) of commercial bank-affiliated and unaffiliated mutual funds by year. A fund is classified as bank-affiliated if the ultimate owner of the fund's management company is a commercial banking group. The sample consists of actively managed domestic equity mutual funds over the 2000 to 2010 period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Funds’ client stock holdings and performance around divestitures. This figure shows commercial bank-affiliated funds’ portfolio holdings of client stocks and performance around divestitures of fund management companies in the 2000 to 2010 (Panel A) and 2007 to 2009 global financial crisis (Panel B) periods.%TNA Invested in Client Stocksis the percentage of TNA invested in stocks of firms that borrow from the fund's parent bank.Average Performanceis the average four-factor alpha over the last four quarters. The sample of divestitures includes funds of management companies affiliated with commercial banking groups that are sold to stand-alone management companies. The divestitures occur between quarter −1 and quarter 0. The sample consists of actively managed domestic equity mutual funds. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

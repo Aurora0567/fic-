@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Time series plot of analyst activity (1990 to 2010). This figure provides time series plots of analyst activity as reported in I/B/E/S each month between 1990 and 2010. Panel A plots the number of analysts. The solid line corresponds to the full sample while the dashed line corresponds to a constant sample of brokers with reports every month throughout the sample period. Panel B plots the number of I/B/E/S brokers. The solid line (left axis) corresponds to the number of brokers and the dashed line (right axis) corresponds to the number of brokers scaled by the number of listed firms, as reported by CRSP. Panel C plots the number of firms covered by I/B/E/S. The solid line (left axis) corresponds to the number of firms and the dashed line (right axis) corresponds to the number of firms scaled by the number of listed firms, as reported by CRSP. Panel D plots subsets of brokers based on size. On average, small brokers have fewer than 10 analysts over the sample period, medium brokers have 10 to 30 analysts over the sample period, and larger brokers have more than 30 analysts over the sample period. [Color figure can be viewed at wileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number of analysts by GICS Industry Group (1990 to 2010). This figure displays the average number of analysts (left axis) and average monthly changes in analysts (right axis) from 1990 to 2010 across 24 GICS industry groups. [Color figure can be viewed at wileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

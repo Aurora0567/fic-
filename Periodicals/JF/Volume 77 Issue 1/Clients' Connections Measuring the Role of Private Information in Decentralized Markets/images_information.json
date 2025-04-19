@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Cross-client and within-client variation in connections. This figure summarizes the cross-client and within-client variation in our first-order connections, defined as the number of dealers with which a client trades on a given trading day. The left panel plots the distribution of average client connections, after collapsing the data to the client level. To construct the right panel, we first collapse the data to the client-day level. We then run a panel regression to purge out client and day fixed effects (ClientConnectionsi,t=αi+μt+εi,t), and plot the distribution of the residuals (εi,t). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Connections and performance over 1 to 20 day horizons. This figure plots the estimatedβcoefficients from our baseline regression (3) up to a 20-day horizon (T=20), using the value-weighted performance variable as the regressand and measured in basis points. We include as controls the natural logarithm of the pound trade volume of each client (“Volume”) and the natural logarithm of the number of daily transactions (“Transactions”). The dashed lines denote the 90% confidence band, based on robust standard errors, using two-way clustering at the client and day level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Connections and performance over 1- to 20-day horizons: more versus less sophisticated clients. This figure plots the estimatedβcoefficients from our baseline regression (3) up to a 20-day horizon (T=20), separately for more sophisticated and less sophisticated clients, using the value-weighted performance variable as the regress and, measured in basis points. We include as controls the natural logarithm of the pound trade volume of each client (“Volume”) and the natural logarithm of the number of daily transactions (“Transactions”). The dashed lines denote the 90% confidence band, based on robust standard errors, using two-way clustering at the client and day level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Long-short portfolio returns—sorted by daily orderflows of high/low connection clients. This figure shows the cumulative return of a long-short portfolio that is based on the daily orderflow of more sophisticated clients with fewer (left panel) or more (right panel) dealer connections than the sample average. The sorting of clients is based entirely on within-variation of connections. On each trading day, all government bonds are sorted into two groups based on the orderflow of connected and unconnected clients. To avoid look-ahead bias, we use extended windows to compute average connections, that is, we recompute average connections for each client using a sample up to the given trading day, thereby excluding future days from the calculation of the sorting variable. The portfolios are rebalanced every day and are held for 1, 2,... 20 trading days. The dashed lines denote 90% confidence intervals based on robust standard errors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Connections and performance around the Brexit referendum. In Panel A, the black square line depicts the evolution of the cumulative duration-weighted net position (in £billions) of the 66 clients who have more dealer connections on the day of the referendum than their sample average. The gray diamond line shows the results for the 65 clients who have low within-connectedness on the day of the referendum. In Panel B, the black square (gray diamond) line depicts the cumulative average returns (in %) of high connection (low connection) clients. The average returns for both groups are weighted by the individual clients' daily trading volume. The returns are computed using the closing price on June 29, 2016 as the reference price. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Connections and performance over 1- to 20-day horizons: Before macroeconomic surprises. This figure plots the estimatedβcoefficients from a variant of regression (3) up to 20-day horizon (T=20), where we interact connections with an indicator variable for days before small and large macroeconomic surprises. The construction of surprises follows the methodology of Swanson and Williams (2014a,2014b). We restrict the sample to more sophisticated investors, and include as controls the natural logarithm of the pound trade volume of each client (“Volume”) and the natural logarithm of the number of daily transactions (“Transactions”). The dashed lines denote the 90% confidence band associated with the estimatedβcoefficients, based on robust standard errors, using two-way clustering at the day and the client level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

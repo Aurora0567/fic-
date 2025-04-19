@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Population of sample consumers across CBSAs. This figure displays the number of sample consumers in various CBSAs across the United States. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timeline. This figure displays the period over which local unemployment is measured, the timing of the local unemployment announcement in the subsequent month, the three-day announcement interval that is excluded from the spending analysis, the two-week prior and post periods of spending, and the event window that includes the announcement interval and both the prior and post periods of spending. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of 12-month maximums across years. This figure provides a histogram indicating the number of 12-month local maximums achieved in each year. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Weekly discretionary spending around 12-month maximums. This graph displays the estimated coefficients and 95% confidence intervals from regressions of the change in discretionary spending on a 12-month maximum local unemployment announcement indicator, contrasting spending in Week 2 to spending in Weeks 1, 3, and 4. Coefficient estimates are indicated by dots and 95% confidence intervals are depicted in broken lines. The estimates come from the first three columns of TableVII, Panel A. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Estimated effect of 12-month maximum on various discretionary spending categories. This graph displays the estimated coefficients and 95% confidence intervals from regressions of the change in discretionary spending for various categories of spending on a 12-month maximum local unemployment announcement indicator. Coefficient estimates are indicated by dots and 95% confidence intervals are depicted in broken lines. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Real house prices in California, 1975 to 2009. This figure illustrates the concept underlying our identification strategies by plotting the FHFA real housing price index in California from 1975 to 2009. The solid lines correspond to an individual who buys a house in 1985 and whose portfolio is observed in 2000. The dotted lines show an individual who buys the same house in 1990 instead of 1985, and has approximately $100,000 more mortgage debt when observed in 2000 as a result. The dashed lines mark an individual who buys in 1985 and is observed in 2005. This individual has approximately $175,000 more home equity than the first individual.",
-        "correlation": []
-    }
-}

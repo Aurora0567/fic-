@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "Average maturity by car age. The figure plots the average maturity of an auto loan in our data as a function of the age of the underlying collateral. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Hypothetical lender maximum maturity rule. The figure depicts a hypothetical discontinuous lender rule. While the conditional expected remaining life of a car decreases smoothly with car age, many lenders have discrete maximum allowable loan maturity rules that discontinuously decrease maximum allowable maturity once a car age reaches certain cutoffs. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Example-lender maturity policies. The figure plots the maturity policies for the largest lender in our data. Individual observations x capture the 80thpercentile of maturity for a given car age within a given month at this lender. Boxed areas correspond to the maturity policies identified by our algorithm (see SectionIII.Afor details). Panels A and B show the policies for three- and four-year-old cars, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Example-lender maturity shocks. The figure illustrates our empirical design by plotting treatment- and control-group observations against identified maturity policies for the example lender used in Figure3. Dashed rectangles correspond to the lender's maturity policy for three-year-old cars, as identified in Figure3. Similarly, the solid rectangles represent the maturity policy for four-year-old cars for the same lender. Dotted vertical lines represent maturity shocks in which a given vehicle would receive discontinuously lower maturity in January relative to December. As an example of a treated transaction in our sample, a 2006 Honda Civic LX bought in December 2009 would have had a maturity policy of 66 months, whereas the same vehicle purchased in January 2010 would have a 60-month maximum allowable maturity. In contrast, by 2016 the policies for three-and four-year-old cars are both 72 months. Thus, a 2012 Honda Civic LX bought in December 2015 or January 2016 has the same allowable maturity and is assigned to the control group. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Distribution of maturity shock timing. The figure plots the number of discrete changes in maturity identified in our data that occur in each month for both negative (Panel A) and positive (Panel B) shocks to maturity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Distribution of maximum maturity shocks by size in months. The figure plots the number of occurrences of detected discontinuous maturity drops in January based on the size of the drop in maximum offered maturity. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Average maturities around year-end by treatment. The figure plots the average conditional maturity by month around the year-end for both treatment and control groups. We first regress maturity on car age×month-of-sale fixed effects and commuting zone fixed effects. We then plot average residuals within each month. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Average price around year-end by treatment. The figure shows the average conditional log price around year-end for both treatment and control groups. We first regress the log of car price on car age×month-of-sale fixed effects and commuting zone fixed effects. We then plot the average residuals within each month. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Average interest rate around year-end by treatment. The figure shows the average conditional interest rate around the new year for both treatment and control groups. We first regress the interest rate on car age×month-of-sale fixed effects and commuting zone fixed effects. We then plot the average residuals within each month. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Average borrower characteristics around year-end by treatment. The figure plots an event study of average borrower characteristics by treatment and control group and month of year. Panel A plots average credit scores, and Panel B plots average debt-to-income ratios. We first regress each dependent variable on car age×month-of-sale fixed effects and commuting zone fixed effects. We then plot the average residuals within each month. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

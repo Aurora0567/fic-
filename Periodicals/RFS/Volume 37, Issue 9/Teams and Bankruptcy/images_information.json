@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Corporate bankruptcies over time This figure reports the frequency of corporate bankruptcies by year from 1980 to 2015, as they occur in our sample. Information on bankruptcy filings is from the UCLA-LoPucki Bankruptcy Research Database and the New Generation Research bankruptcy database.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Corporate bankruptcies across industries This figure shows the distribution of corporate bankruptcies by industry between 1980 and 2015, as they occur in our sample. The industry classification reflects the Cooperative Patent Classification (CPC) technology class and is based on the modal patent class for each bankrupt firm. Information on bankruptcy filings is from the UCLA-LoPucki Bankruptcy Research Database and the New Generation Research bankruptcy database.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Team production in corporate innovation over time This figure shows the evolution of the average number of coauthors per patent between 1976 and 2020. The data are from the PatentsView database.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Firm characteristics as firms approach bankruptcy",
+        "correlation": []
+    },
+    "5": {
+        "description": "Team dependence and inventor productivity around corporate bankruptcies",
+        "correlation": []
+    }
+}

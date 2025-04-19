@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Temporal variation in GQ construction This figure illustrates the temporal variation in the commencement of construction of the four segments forming part of the Golden Quadrilateral, which connects the four nodal cities of Delhi, Mumbai, Chennai, and Kolkata. The height of each bar corresponds to the number of subsegments that began construction each year. Data source: National Highway Authority of India.",
+        "correlation": []
+    },
+    "2": {
+        "description": "GQ construction evolution over time This figure illustrates the spatial variation of segments at different points in time along the GQ network. The network is part of the 5,846 kilometer stretch of the GQ connecting the four nodal cities of Delhi, Mumbai, Chennai, and Kolkata. Map source: National Highway Authority of India.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Standalone investment by business group prevalence around GQ upgrades This figure displays the dynamic coefficients (λk) and their corresponding 90% confidence intervals of the differential investment by standalone firms in high- relative to low-business-group share regions around the upgrade of the GQ road network. We estimate a fully dynamic specification that allows us to capture the dynamics of standalone firm investment relative to the year of commencement of the GQ upgrade. Specifically, we estimate the following equation: αμμλλωθϵInvestmentijcst=αi+∑k=−1−4μk+∑k=110μk+∑k=−1−4λk×HighBGS+∑k=110λk×HighBGS+ωjt+HighBGS×θjt+ϵijcst. All coefficients are plotted relative to investment at k=0, which is normalized to zero. High BGS is an indicator variable set to 1 if the share of group assets is in the top quartile of the distribution. The sample is restricted to firms along the GQ network and covers the window of [–4,+10] around the commencement of the upgrade.",
+        "correlation": []
+    }
+}

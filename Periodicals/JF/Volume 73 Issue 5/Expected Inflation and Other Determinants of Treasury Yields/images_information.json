@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Realized quarterly news about average expected inflation from Blue Chip surveys. Quarterly changes in consensus forecasts from Blue Chip surveys are used to construct innovations in forecasts of expected average inflation over horizons ranging from one to six quarters. The sample range is May 1980 through December 2013. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Realized quarterly news about average expected inflation from the Survey of Professional Forecasters. Quarterly changes in consensus forecasts from SPF surveys are used to construct innovations in forecasts of expected average inflation over horizons ranging from one to three quarters. The sample range is 1968Q4 through 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Realized quarterly innovations of Treasury yields, 1980 to 2013. Ordinary least squares (OLS) forecasting regressions are used to construct quarterly innovations of yields. The forecasting variables are yields for maturities of one, four, and six quarters. The sample range is May 1980 through December 2013. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Realized quarterly innovations of Treasury yields, 1968 to 2013. Ordinary least squares (OLS) forecasting regressions are used to construct quarterly innovations of yields. The forecasting variables are yields for maturities of one, four, and six quarters. The sample range is 1968Q4 through 2013Q4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Ten-year bond yields and model-implied inflation forecasts. The solid line is the yield on a 10-year Treasury zero-coupon bond. The dashed line is an estimate of expected inflation over the next 10 years. The model of expected inflation assumes that inflation is the sum of a random walk, an AR(1) process, and white noise. The parameters are estimated using Blue Chip survey forecasts of CPI inflation up to seven quarters ahead. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Long-horizon inflation forecasts from surveys and models. The solid and dashed lines are fitted forecasts, as of dateton the horizontal axis, of average CPI inflation fromt+5 years tot+10 years. The model underlying the solid line assumes that inflation is the sum of a random walk, an AR(1) process, and white noise. The model underlying the dashed line assumes that inflation and yields are cointegrated with a cointegrating vector of 1's. The circles are Blue Chip survey forecasts of CPI inflation over the same horizon. The x's are Blue Chip survey forecasts of GDP inflation over the same horizon. Neither the circles nor the x's are used in model estimation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Standard deviations of the components of shocks to nominal yields for two long-run risk models. The figure plots sample and model-implied unconditional standard deviations of quarterly shocks. Sample standard deviations of yields (large O's) and news about expected inflation (large X's) are for the period 1968Q4 through 2013Q4 and come from TablesIandIII. Unconditional model-implied standard deviations of yield shocks (small o's), news about expected inflation (small x's), and news about expected real rates (solid line) are determined using the “Benchmark” estimated model in Piazzesi and Schneider (2007) and the estimated model in Bansal and Shaliastovich (2013). The lower panel also displays model-implied standard deviations of the sum of news about expected inflation and expected real rates (dotted-dashed). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Standard deviations of the components of shocks to nominal yields for variants of the Bansal and Shaliastovich(2013)long-run risk model. See the notes for Figure7for a description of the points and lines. Unconditional model-implied standard deviations of yield shocks (solid) and news about expected inflation (dashed) are determined using various parameterizations of the estimated model in Bansal and Shaliastovich (2013). Version 2 uses a high volatility of shocks to expected consumption growth. Version 3 combines Version 2 with a highly persistent process for expected consumption growth. Version 4 combines Version 2 with high volatility of conditional volatility. Version 5 uses both a low elasticity of intertemporal substitution and a high coefficient of relative risk aversion. See the text for details. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Standard deviations of the components of shocks to nominal yields for two New Keynesian models. See the notes for Figure7for a description of the points and the lines. The estimated models are those of Kung (2015) and the baseline model of Rudebusch and Swanson (2012). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Standard deviations of the components of shocks to nominal yields for a habit formation model. The figure plots sample and model-implied unconditional standard deviations of quarterly shocks. Sample standard deviations of yields (large O's) and news about expected inflation (large X's) are for the period 1968Q4 through 2013Q4 and come from TablesIandIII. Unconditional model-implied standard deviations of yield shocks (small o's), news about expected inflation (small x's), and news about expected real rates (solid line) are determined using the estimated model in Wachter (2006). The figure also displays model-implied standard deviations of the sum of news about expected inflation and expected real rates (dotted-dashed). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Impulse responses for a shock to the ex ante real rate. A four-factor dynamic model of nominal yields and expected inflation is estimated over the sample 1968Q4 through 2013Q4. The figure displays model-implied impulse responses to a shock to the ex ante real rate, defined as the three-month nominal yield less expected inflation during the next quarter. The initial shock is 89 basis points, which is the model-implied population standard deviation of the shock. The yield and term premium responses are for a 10-year nominal bond. Also displayed are 95 percentile confidence bounds on the impulse responses. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

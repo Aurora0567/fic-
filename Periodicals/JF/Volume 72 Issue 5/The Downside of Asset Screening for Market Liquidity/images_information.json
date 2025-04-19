@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Project screening technology.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timeline of the model.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal mechanism (OM) and market equilibrium allocations (Mk). This figure plots the optimal cash flow retention given by debt leveld(two top panels) and the optimal choice of efforta(two bottom panels) under the optimal mechanism and the market allocations for different gains from trade θ. Results are for the endogenous quality case with functional formτ(a)=π+aζ(1−π). The two panels on the left are computed withζ=0.4and the two on the right withζ=0.7. In all panelsC(a)=a22,π=0.5,XH=2, andXL=1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Project screening with an information acquisition technology.",
+        "correlation": []
+    }
+}

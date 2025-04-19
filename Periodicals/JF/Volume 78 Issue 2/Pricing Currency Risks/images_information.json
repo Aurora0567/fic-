@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Loadings on signals in expected excess currency returns. The loadings on the real exchange rate (RER),δti$\\delta ^i_t$, and on the trend,ϕti$\\phi ^i_t$, are estimated in real time using an expanding window. The figure plots standardized values of cross-sectional averages ofδti$\\delta ^i_t$andϕti$\\phi ^i_t$, as well as the standardized (unit) coefficient on the forward discount,Sti/Fti−1$S^i_t/F^i_t-1$. The standardization makes the coefficient values correspond to the annualized expected return response to a one-standard-deviation increase in the respective signals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Principal component analysis of currencies. Panel A shows the fraction of variance across the nine individual currencies that each principal component (PC) explains. The PCs are obtained from the unconditional covariance matrix of individual currency returns. Panel B shows the loadings of the three first PCs on each currency. Panel C shows in blue the cumulative amount of currency variance explained as one goes from using one to all nine PCs. In red is theR2of a regression of the UMVE returns on an increasing number of PCs. Panel D shows the annualized “alpha” of a regression of the UMVE returns on an increasing number of PCs. The error bars correspond to the 95% confidence interval computed using heteroskedasticity-adjusted standard errors. The sample is monthly from January 1985 to May 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Principal component analysis of strategies. Panel A shows the fraction of variance across the nine currency trading strategies that each principal component (PC) explains. The PCs are obtained from the unconditional covariance matrix of these currency strategies. Panel B shows the loadings of the three first PCs on each strategy. Panel C shows in blue the cumulative amount of strategy variance explained as one goes from using one to all nine PCs. In red is theR2of a regression of the UMVE returns on an increasing number of these PCs. Panel D shows the annualized “alpha” of a regression of the UMVE returns on an increasing number of PCs. The error bars correspond to the 95% confidence interval computed using heteroskedasticity-adjusted standard errors. The sample is monthly from January 1985 to May 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The UMVE tracking with strategies. We deduce portfolio positions in the strategies that allow us to track the UMVE portfolio. We consider the dollar strategy (we discard the dollar carry because it is conditionally perfectly correlated with the dollar), the sum of CS- and TS-carry (labeled as carry), the sum of CS- and TS-momentum (both 1 and 12 months; labeled as momentum), and CS-value. We report the 12-month moving average of the UMVE tracking portfolio weights, which are expressed in decimal form. They have been scaled so that the unconditional standard deviation of UMVE returns matches the unconditional standard deviation of the dollar factor. The sample is monthly from January 1985 to May 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Portfolios of strategies versus the UMVE-tracking portfolio. Panels A, B, and C display the difference between the conditional Sharpe ratios (SRs) of the UMVE tracking portfolio from Figure4and those of the following alternatives constructed from the same four strategies: 25% in each; weights inversely related to the conditional variance of each strategy (obtained from our conditional covariance matrix for individual depreciation rates); and 50% in CS-mom-12 and 50% in CS-value. Panel D displaysp-values for the Barillas-Shanken (2107) test of whether the UMVE tracking portfolio can be explained by an alternative portfolio (labeled UMVE proxy on LHS) or whether a fixed-weight portfolio can be explained by the UMVE tracking portfolio (labeled UMVE proxy on RHS). The sample is monthly from January 1985 to May 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Sharpe ratios of original, hedging, and hedged strategies. The blue bars show the sample annualized Sharpe ratios (SRs) of each strategy. The red bars show the SR for each strategy's hedging portfolio, defined as the part of the strategy returns that is unpriced according to the model. The yellow bars show the SR of the factor returns when unpriced risks are hedged out. Hedging uses real-time conditional betas, so all portfolios are tradeable in real time. The sample is monthly from January 1985 to May 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Properties of the UMVE. The top panel shows the annualized conditional maximum Sharpe ratio (MSR) as implied by the UMVE estimated in the paper. The blue solid line corresponds to the full model, whereas the dashed red line shows the case in which only the forward discount is used for estimating currency risk premiums. In addition, the green line depicts an ex post MSR, computed over the past 36 months, that serves as a quantitative benchmark. The middle panel shows the realized returns to the UMVE portfolio implied from this SDF. The color code is the same as for the top panel. Returns have been scaled to have the same standard deviation as that of the dollar strategy returns. The blue solid line in the bottom panel is the same conditional UMVE-based MSR as in the top panel. The dashed red line shows the conditional variance of quarterly real per capita nondurable+services log consumption growth, as estimated by a GARCH(1,1). Both series are standardized to mean zero and unit variance to facilitate comparison. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

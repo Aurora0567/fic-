@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Correlation between firm investment and health insurance expense This figure presents the scatter-bar plot of the correlation between firms’ investment and average health insurance expense. The y-axis Investment/Asset is the sum of capital and R&D expenditure divided by lagged total assets. The x-axis log(Average Insurance Expense) is the log form of total insurance expenses divided by the total number of plan participants using Form 5500 data. log(Average Insurance Expense) is divided into 30 equal-weighted groups, and the scatter graph shows the average Investment/Asset within the group. The gray line represents the linear polynomial fit using the underlying raw observations.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Differences in investment by years from tort reforms This figure presents the dynamics of change in total investment from 4 or more years before to 4 years or more after tort reforms on caps on noneconomic damages. The solid line with circle markers represents the estimates using the OLS approach; the dashed line with square markers represents the approach outlined by Borusyak, Jaravel, and Spiess (2022). Standard errors are clustered at the state level. The coefficient estimate and 95% confidence intervals are shown in the figure.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Health care policy uncertainty index, 1985–2022 This figure presents the policy uncertainty indices from 1985 January to 2022 June. The dark-red and light-blue lines represent the 3-month moving averages of the health care policy uncertainty index (HCPU) and the economic policy uncertainty index (EPU), respectively. Uncertainty indices are from Baker, Bloom, and Davis (2016).",
+        "correlation": []
+    }
+}

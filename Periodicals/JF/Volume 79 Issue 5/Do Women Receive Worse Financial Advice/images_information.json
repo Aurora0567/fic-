@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Matching of investors to financial advisors. The figure shows the distribution of financial knowledge for women (in red) and men (in blue). Individuals above knowledge level β do not visit any advisor, those with knowledge level between α and β visit securities firms, and those with knowledge level below α visit financial planners. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Probability of retaining client. This figure shows the probability that an advisor, either financial planner firm (FP) or securities firm (SF), retains clients with different combinations of characteristics (high or low risk tolerance; high or low confidence; domestic or international outlook; very low, low, or moderate financial knowledge). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Trade-offs in determining advice quality, no taste-based discrimination. For the advice to buy individual risky securities (Panel A) or for the advice to buy local securities (Panel B), the panels show the marginal benefit (MB) and marginal cost (MC) curves for financial planner firms (FPs) and securities firms (SFs) in the absence of taste-based discrimination. Their points of intersection are the equilibrium points. The MB curves for securities firms (MBSF) are in black; the MB curves for financial planners (MBFP) are in red for women and in blue for men; and the MC curves for both types of firms (MCSF, FP) are in green. “r” refers to risk tolerance, “c” to confidence, and “o” to geographic outlook. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Trade-offs in determining advice quality, taste-based discrimination. For the advice to buy individual risky securities (Panel A) or for the advice to buy local securities (Panel B), the panels show the marginal benefit (MB) and the marginal cost (MC) curves for financial planners (FP) and securities firms (SF) in the presence of taste-based discrimination. Their points of intersection are the equilibrium points. The MB curves for securities firms (MBSF) are in black; the MB curves for financial planners (MBFP) are in red for women and in blue for men; and the MC curves for both types of firms (MCSF, FP) are in green. “r” refers to risk tolerance, “c” to confidence, and “o” to geographic outlook. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Gender balance across auditor attributes. The panels show gender balance by risk tolerance (Panel A), confidence (Panel B), and geographic outlook (Panel C). The green bars depict the number of audits that were planned, whereas the brown bars depict the number of audits that were successfully conducted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Propensity to give suboptimal advice by auditor attributes. Panel A plots the propensity of financial planners to give undiversified advice against different levels of risk tolerance of men and women auditors; Panel B plots the same against different levels of confidence of men and women auditors; and Panel C plots the propensity of financial planners to give home-biased advice against different levels of geographic outlook of men and women auditors. The numbers on they-axis in the three panels are from columns (2), (4), and (6) of TableIX, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Intermediation chains. This figure provides two examples of intermediation chains. Panel A shows a nonsplit intermediation chain and Panel B a split intermediation chain. Each node represents either a customer (denoted by C) or a dealer (denoted by D). Arrows indicate a bond transaction for which we report the date and time, the transacted volume in $1,000, and the transaction price.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time-series dynamics of systematic proxies for OTC market frictions. We plot the time series of the cumulative marketwide order flow in $1 trillion,inv, the aggregate amount outstanding in $1 trillion,amt.out, the fraction of prearranged trades,match.trd, the TED spread,ted, the graph-level eigencentrality measure,centr, the average length of intermediation chains,chain.len, the average number of sales to customers of large-volume chains,lvc.sales, the average number of sales to customers of small-volume chains,svc.sales, the average number of customers' outside options,outside.opt, the fraction of block trades,block.trd, dealer concentration,dlr.conc, and the number of downgrades from investment grade to speculative grade,ig2junk. The sample is based on U.S. corporate bond transaction data from TRACE for the period 2003 to 2013.",
+        "correlation": []
+    }
+}

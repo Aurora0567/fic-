@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Levered and unlevered returns. We present the relation between leverage and returns using historical data. Panel A presents the relation between monthly stock returns and leverage. The graph depicts the monthly stock returns for firms with asset volatility below the sample median (27%). The circles indicate the individual firm-month stock returns. Panel B depicts stock returns adjusted for leverage using equation4. In both panels, leverage is lagged by one month. Leverage is defined as the ratio of the market value of debt to the sum of the market value of debt and the market value of equity. The market value of debt is based on the Merton (1974) model.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Portfolio returns and market betas. We present results of cross-sectionally regressing the average returns of the 100 portfolios used in the Fama-MacBeth (1973) regressions in TablesI,III, andIVagainst portfolio market betas. Panel A presents the results for stock returns. The slope of the regression line in Panel A is 0.05 with at-statistic of 0.80. Panel B presents the results when returns are scaled using leverage, as in TableIII. The slope of the regression line in Panel B is 0.11 with at-statistic of 3.95. Panel C presents the results for returns unlevered using equation4, as in Panel A of TableIV. The slope of the regression line in Panel C is 0.12 with at-statistic of 3.18. Panel D presents the results for returns unlevered as in Panel B of TableIV. The slope of the regression line in Panel D is 0.10 with at-statistic of 2.92. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Leverage and levered equity returns. This figure depicts the relation between leverage and excess equity returns generated using the Merton (1974) model. Panel A plots stock returns generated from the model for different values of the debt-to-equity ratio and unlevered equity volatilities. Panel B plots the same returns but as a function of leverage defined as the ratio of debt to the sum of debt and equity. Panel C plots stock returns as a function of leverage defined as the ratio of debt to the sum of debt and equity, but withμA=−6%annually. Panels A and B are generated usingμA=6%annually. The values of the other model parameters arer=3%andT=3.38years. Both debt and equity are measured using market values.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative returns of long-short book-to-market and leverage portfolios. Panel A plots the cumulative return for long-short book-to-market portfolios. The returns correspond to buying the highest book-to-market portfolio and selling the lowest book-to-market portfolio. Panel B plots the cumulative return for long-short size portfolios. The returns correspond to buying the small-firms portfolio and selling the large-firms portfolio. Panel C plots the cumulative return for long-short leverage portfolios. The returns correspond to buying the high-leverage portfolio and selling the low-leverage portfolio. Leverage is defined as the book value of total liabilities scaled by the sum of the book value of total liabilities and the market value of equity. The implementation of the leverage portfolios follows that of the book-to-market and size portfolios. The cumulative return in all panels represents the growth of a $1 initial investment made in June 1971. In all three panels, we plot the cumulative returns for levered and unlevered returns. The computation of unlevered returns follows the specification in TableIII. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

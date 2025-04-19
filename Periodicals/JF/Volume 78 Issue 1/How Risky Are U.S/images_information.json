@@ -1,0 +1,94 @@
+{
+    "1": {
+        "description": "Corporate debt. This figure shows the market values of the components of long-term (Panel A) and short-term (Panel B) corporate debt, adjusted for cross-holdings. The data are real annual observations from 1975 to 2017, expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Corporate assets. This figure shows the market values of corporate equity, debt, and assets. Gray bars indicate the NBER recessions. The data are real annual observations from 1975 to 2017, expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Corporate payouts. This figure shows cash payouts, net repurchases, and total payouts on corporate equity, debt, and assets. Gray bars indicate NBER recessions. The data are real annual observations from 1975 to 2017, expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Changes in corporate payouts. This figure shows scaled changes in cash payouts, net repurchases, and total payouts on corporate equity, debt, and assets. Payout changes are scaled by consumption level. Gray bars indicate NBER recessions. The data are real annual observations from 1975 to 2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Term structure of corporate payout and return cyclicality. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate equity, debt, and assets. Payout changes are scaled by the consumption level. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Term structure of corporate payout and return cyclicality with respect to output. This figure shows multihorizon correlations between real output growth and scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate equity, debt, and assets. Payout changes are scaled by the consumption level. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Corporate payout and return betas to consumption. This figure shows multihorizon consumption betas of scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate equity, debt, and assets. Payout changes are scaled by the consumption level. Betas (solid lines) and 95% confidence intervals (dashed lines) are based on OLS regressions of the variables of interest on consumption growth rates at one-quarter to five-year horizons. The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Book-to-market value of corporate debt. This figure shows the logarithm of book to market value of corporate debt (left axis) and the BAA corporate yield (right axis). The data are quarterly observations from Q1.1975 to Q4.2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Corporate debt cash payout. This figure shows our benchmark measure of corporate debt cash payout, aggregate interest expenses for all firms and nonfinancials from the NIPA, and aggregate interest expenses from Compustat. The data are real annual observations from 1975 to 2017 and are expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Managed portfolio payout cyclicality. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, and total payouts on the managed portfolio. The managed portfolio maintains nonnegative distributions to investors by selling off the underlying principal. Payout changes are scaled by the consumption level. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "VAR-implied term structure of corporate payout and return cyclicality. This figure shows VAR-implied multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate equity, debt, and assets. Payout changes are scaled by the consumption level. The VAR(1) is run separately for equity, debt, and assets, and is fitted to two out of three payout measures together with consumption growth (excess returns and consumption growth for the excess return correlations). Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Model implications for corporate asset payout and return cyclicality. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate assets in the data and in the model. The payouts include cash payouts, net repurchases, and total payouts. The data (solid line) are real quarterly observations from Q1.1975 to Q4.2017. Model median (circles) and 95% confidence interval (dashed line) are based on a long simulation of the model. Panel A shows the results for the benchmark model, and Panel B for the restriction of the model to power utility. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "13": {
+        "description": "Bond data coverage. This figure shows book values of bonds from Bloomberg Barclays, Flow of Funds, Mergent, and Compustat (long-term and short-term) databases. The data are real quarterly observations from 1975 to 2015, in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "14": {
+        "description": "Corporate payout and return betas to output. This figure shows multihorizon output betas of scaled changes in cash payouts, net repurchases, total payouts, and excess returns on corporate equity, debt, and assets. Payout changes are scaled by the consumption level. Betas (solid lines) and 95% confidence intervals (dashed lines) are based on OLS regressions of variables of interest on output growth rates at one-quarter to five-year horizons. The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "15": {
+        "description": "Corporate asset payout cyclicality: Insurance company cross-holdings adjustments. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, and total payouts on corporate assets under alternative adjustments for cross-holdings of bonds. To compute returns on bonds held by insurance companies, we alternatively assume that insurance companies invest in the aggregate bond index (Panel A) or investment-grade bonds only (Panel B). In Panel C, we adjust for the bond cross-holdings reported on general accounts only. Payout changes are scaled by the consumption level. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "16": {
+        "description": "Corporate asset payout cyclicality: Robustness I. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, and total payouts on corporate assets under alternative payout measurements. We exclude insurance companies in Panel A and the financial sector entirely in Panel B. In Panel C, we ignore cross-holding adjustments for equity and debt. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "17": {
+        "description": "Corporate asset payout cyclicality: Robustness II. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts, net repurchases, and total payouts on corporate assets under alternative payout measurements. We exclude IPOs in Panel A and we exclude mergers and acquisitions in Panel B. In Panel C, we use the Mergent database to compute the value of short-term bonds. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "18": {
+        "description": "Corporate equity net repurchases. This figure shows benchmark measures of net equity repurchases, together with net equity repurchases for matched firms in the Factset database based on public float or total outstanding number of shares. The repurchases are in levels (Panel A) or changes scaled by the consumption level (Panel B). The data are real annual observations from 1990 to 2017, and are expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "19": {
+        "description": "Corporate asset payout cyclicality: Global risks. This figure shows multihorizon correlations between real global output growth and scaled changes in cash payouts, net repurchases, and total payouts. Measures of global output include value-weighted global GDP (Panel A), value-weighted global GDP excluding the United States (Panel B), and equally weighted global GDP (Panel C). To compute global GDP, we use OECD quarterly output data for 17 major industrialized countries, such as the United States, Canada, France, Germany, Italy, Japan, the United Kingdom, Australia, Belgium, Denmark, the Netherlands, New Zealand, Norway, Portugal, Spain, Sweden, and Switzerland. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "20": {
+        "description": "Debt cash payout cyclicality. This figure shows multihorizon correlations between real consumption growth and scaled changes in cash payouts on debt. Panel A shows results for NIPA interest expenses for all firms, Panel B for nonfinancials, and Panel C for interest expenses computed in Larrain and Yogo (2008). Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017 in Panels A and B, and annual observations from 1929 to 2004 in Panel C. Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "21": {
+        "description": "Corporate equity issuance and repurchase cyclicality. This figure shows multihorizon correlations between real consumption growth and scaled changes in net repurchases, and gross repurchases and issuances of corporate equity. Solid lines show correlations at one-quarter to five-year horizons, along with 95% confidence intervals (dashed lines). The data are real quarterly observations from Q1.1975 to Q4.2017 (Panel A) and Q1.1949 to Q4.2017 (Panel B). Standard errors are Newey-West adjusted. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "22": {
+        "description": "Scaled changes versus log growth rates. This figure shows changes in cash payouts on corporate equity, debt, and assets scaled by the consumption level, together with the log growth rates of cash payouts adjusted by the average ratio of cash payouts to the consumption level (dashed line). The data are real annual observations from 1975 to 2017. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "23": {
+        "description": "Managed portfolio. This figure shows the managed payouts on corporate equity, debt, and assets (left panel), as well as the evolution of the number of shares in a managed portfolio (right panel). The managed strategy sells off a portion of the underlying investment to finance a negative payout. The data are real quarterly observations from Q1.1975 to Q4.2017, and are expressed in trillions of December 2009 dollars. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

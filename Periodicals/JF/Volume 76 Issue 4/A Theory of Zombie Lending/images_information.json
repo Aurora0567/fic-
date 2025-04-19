@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Equilibrium regions.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Value functions. This figure plots the value functionsVi,Bi,i∈u,g,bwith the following parameter values:r=0.1,δ=0.02,m→0,F=1,ϕ=1.5,R=2,c=0.2,θ=0.1,L=1.25×NPVrb,λ=2,η=1, andq0=0.2. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Graphical illustration of learning benefits.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Comparative statics with endogenous learning. This figure plots the value function with the following parameter values:r=0.1,δ=0.05,m=1,F=1,ϕ=1.5,R=2,c=0.2,θ=0.1,L=1.5×NPVrb,λ=0.5, andq0=0.1,ψ=0.025. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Equilibrium with exogenous breakups. This figure plots the equilibrium strategiesℓt,γtand bond pricesDtfor the following parameter values:r=0.1,δ=0.02,m=10,F=1,ϕ=1.5,R=2,c=0.2,θ=0.1,L=1.2×NPVrb,λ=2,q0=0.2, andχ=0.1. The equilibrium thresholds aretℓ=0.45,tb=1.84, andtg=2.37. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

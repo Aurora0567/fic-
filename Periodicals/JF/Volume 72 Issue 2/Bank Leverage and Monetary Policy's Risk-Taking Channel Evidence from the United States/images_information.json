@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Interest rates and bank risk-taking. This figure plots the average loan risk rating from the U.S. Survey of Terms of Business Lending against the target nominal federal funds rate based on quarterly data from 1997Q2 to 2011Q4. The solid line represents the fitted values from a regression of average risk ratings on the target federal funds rate and a constant.",
+        "correlation": []
+    }
+}

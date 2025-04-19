@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "U.S. net portfolio position. The top figure presents the aggregate U.S. net portfolio position along with the cumulative sum of portfolio flows since 2002. The bottom figure presents the effect of changes in valuations on the U.S. net external asset position in each year computed as the difference between the NFA position and the cumulative sum of flows divided by the cumulative sum of flows.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Long-term debt holdings by central banks. This figure presents the value of U.S. dollar reserves held by the central banks in our sample. We divide central banks into developed markets, emerging markets, and the Federal Reserve Bank.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative net savings flows to the U.S. by region. The figure plots the cumulative net savings flows to the U.S. by region. Savings flows from foreign regions to the U.S. are computed by multiplying the investors' portfolio allocations in the previous period with their savings flows. Savings from the U.S. to each foreign region are computed in the same manner. Net savings flows are the difference between these two flows.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Relative latent demand for U.S. long-term debt and equity. The figure plots the relative latent demand for investing in U.S. long-term debt and equity relative to the rest of the world. For each asset type, latent demand is demeaned by investor-issuer pair. This figure plots the difference between the AUM-weighted-average latent demand for U.S. assets versus the mean of the AUM-weighted-average latent demand for all other countries' assets.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Additional issuance needed to change long-term yields by 1%. The figure plots the amount of additional long-term debt each country can issue before increasing its domestic long-term yield by 1% at the end of 2019. The left-hand panel shows the values in billions of U.S. dollars, and the right-hand panel shows the values as a percent of each country's GDP.",
+        "correlation": []
+    }
+}

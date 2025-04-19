@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Willingness to pay and subjective expected payoffs. This figure is a binned scatterplot of log(WTP) (pt${p}_{t}$) versus log subjective expected payoff (dt${d}_{t}$) controlling for subject fixed effects. The sample size is 2,400 and the number of subjects is 300. The upper line is the 45∘$^\\circ$line. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Subjective expected payoffs and perceived risk. This figure is a binned scatterplot of log subjective expected payoff (dt${d}_{t}$) and perceived volatility (λt${\\lambda}_{t}$) controlling for subject fixed effects. The reported slope results from a mixed-effects regression ofdt${d}_{t}$onλt${\\lambda}_{t}$. The regression includes a random effect forλt${\\lambda}_{t}$as well as for the intercept. The displayed coefficient and standard error forλt${\\lambda}_{t}$are multiplied by 100. The standard error in parentheses is clustered at the subject level. The sample size is 2,400 and the number of subjects is 300. The data are from Experiment 1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

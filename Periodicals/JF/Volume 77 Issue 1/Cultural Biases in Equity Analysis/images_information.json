@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Trust bias versus pessimism and consumer confidence. This figure plots monthly estimates of regression coefficients forTrust biasfrom the regression below against the aggregate level of pessimism and consumer confidence in the European Union. Regression equation:Recommendation_i,j,t=αi,t+γj,t+βMontht×Trustbiasi,j+ϕXi,j,t+εi,j,t, whereRecommendationis the analyst recommendation, coded from 1 (lowest,Strong sell) to 5 (highest,Strong buy),Monthis a vector of dummies for each month in the sample period,Xis a vector of controls, includingSame country,ln(Distance),IB relationship,IB potential,Share - syndicated loans,Share - underwriting, andShare - advisory, as well as analyst-month and firm-month fixed effects.Pessimismis the proportion of people who expect their life to be worse in the next year, based on Eurobarometer surveys.Consumer confidenceis the Consumer Confidence Indicator for the EU, published by the European Commission. Variables are defined in theAppendix. Highlighted areas show CEPR recessions. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "European debt crisis, northern analysts, and southern firms. This figure plots monthly estimates of regression coefficients forNorthern analyst × Southern firmfrom the regressionRecommendationi,j,t=αi,t+γj,t+βMontht×Northernanalysti×Southernfirmj+ϕXi,j,t+εi,j,t,whereRecommendationis the analyst recommendation, coded from 1 (lowest,Strong sell) to 5 (highest,Strong buy),Monthis a vector of dummies for each month in the sample period,Xis a vector of controls, includingSame country,ln(Distance),IB relationship,IB potential,Share - syndicated loans,Share - underwriting, andShare - advisory, as well as analyst-month and firm-month fixed effects. Variables are defined in theAppendix. Highlighted areas show CEPR recessions.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Brexit and United Kingdom versus the rest of Europe. This figure plots monthly estimates of regression coefficients forBritish analyst x Same countryfrom the regressionRecommendationi,j,t=αi,t+γj,t+βMontht×Britishanalysti×Samecountryi,j+ψMontht×Samecountryi,j+ϕXi,j,t+εi,j,t,whereRecommendationis the analyst recommendation, coded from 1 (lowest,Strong sell) to 5 (highest,Strong buy),Monthis a vector of dummies for each month in the sample period.Xis a vector of controls, includingSame country,ln(Distance),IB relationship,IB potential,Share - syndicated loans,Share - underwriting, andShare - advisory, as well as analyst-month and firm-month fixed effects. Variables are defined in theAppendix.",
+        "correlation": []
+    }
+}

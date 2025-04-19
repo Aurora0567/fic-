@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Unequal effects of better technology. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Triangulation. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "ROC and precision-recall curves. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Example of predicted default probabilities across models. This figure shows level sets of default probabilities (in %) predicted from different statistical models for different values of borrower income and FICO (holding other characteristics fixed as explained in text). NL predictions are shown in the top row; RF predictions are in the bottom row. Heatmaps show the distribution of borrowers within certain race/ethnicity groups: Black in left column and White non-Hispanic in right column. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Comparison of predicted default probabilities across models, by race groups. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

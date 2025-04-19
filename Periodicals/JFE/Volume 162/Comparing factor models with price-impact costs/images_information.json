@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Achievable efficient frontier and frontiers spanned by two factor models.This figure illustrates the achievable efficient frontier in the presence of price impact (black solid line) as well as the efficient frontiers spanned by the factors in models A (red dotted line) and B (blue dashed line). The figure also depicts the indifference curves of an investor with low absolute risk aversion (brown dash-dotted lines) and an investor with high absolute risk aversion (green dash-dotted lines). (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Efficient frontiers for different trading-cost functions.This figure illustrates the efficient frontiers of a factor model in the presence of different trading-cost functions. The black solid, red dotted, and blue dashed lines depict the efficient frontiers in the absence of trading costs, the presence of proportional costs, and the presence of price-impact costs, respectively. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Significance of relative utility improvement without costs.This figure compares factor models in terms of their ability to span the 212 anomalies in the dataset by Chen and Zimmermann (2022) for the case without costs. For each of the ten factor models in Table 1 with factor returns Fi and each anomaly with returns Πj, we calculate the sample mean–variance utility in the absence of costs of the factor model MVUγ(Fi) and that of the factor model augmented with the anomaly MVUγ([Fi,Πj]). We then calculate the relative utility improvement, MVUγ([Fi,Πj])/MVUγ(Fi)−1, and the p-value of the utility improvement using Proposition 6. Panel A illustrates the percentiles of the distribution for the relative utility improvement across the anomalies for each model, and Panel B the percentiles of the distribution for the p-value of utility improvement across the anomalies for each model. To facilitate interpretation, both panels depict the results for only five of the best-performing models (HXZ4, HMXZ5, FF6, FF6c, and DMNU20) and the y-axes for Panels A and B are truncated at 0.4 and 0.1, respectively."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Significance of relative utility improvement with price-impact costs (γ=10−9).This figure compares factor models in terms of their ability to span the 212 anomalies in the dataset by Chen and Zimmermann (2022) for the base case with price-impact costs and absolute risk aversion γ=10−9. For each of the ten factor models in Table 1 with factor returns Fi and each anomaly with returns Πj, we calculate the sample mean–variance utility net of price-impact costs of the factor model MVUγ(Fi) and that of the factor model augmented with the anomaly MVUγ([Fi,Πj]). We then calculate the relative utility improvement, MVUγ([Fi,Πj])/MVUγ(Fi)−1, and the p-value of the utility improvement using Proposition 6. Panel A illustrates the percentiles of the distribution for the relative utility improvement across the anomalies for each model, and Panel B the percentiles of the distribution for the p-value of utility improvement across the anomalies for each model. To facilitate interpretation, both panels depict the results for only five of the best-performing models (HXZ4, HMXZ5, FF6, FF6c, and DMNU20) and the y-axes for Panels A and B are truncated at 0.4 and 0.1, respectively."
+        ],
+        "correlation": []
+    }
+}

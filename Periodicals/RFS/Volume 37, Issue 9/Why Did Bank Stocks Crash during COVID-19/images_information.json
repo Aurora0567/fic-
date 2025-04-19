@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Credit lines, cumulative drawdowns, and bank stock prices Panel A shows the annual financing of U.S. publicly listed firms by term loans, undrawn credit lines and bonds (as a percentage of GDP) over the 2002–2019 period. Panel B shows cumulative drawdowns of U.S. publicly listed firms at the beginning of the COVID-19 pandemic during the period March to June 2020. Panel C shows cumulative drawdowns by rating class. Panel D shows the stock prices of U.S. publicly listed banks, nonbank financial and nonfinancial firms over the January 1 to December 31, 2020, period. The sample of 147 banks is documented in  Appendix B.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Bank balance-sheet liquidity risk Panel A of Figure 2 shows the time-series of balance-sheet Liquidity risk over the Q1 2010 to Q4 2020 period. We measure Liquidity risk as undrawn commitments to commercial and industrial (C&I) firms plus wholesale funding minus cash or cash equivalents (all relative to assets). Panel B shows the time-series of its components. All variables are defined in  Appendix C.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stock prices and liquidity risk of U.S. banks This figure shows stock prices of U.S. banks in relationship to their liquidity risk. Panel A uses (1) a median split to distinguish between banks with Low versus High liquidity risk and (2) a median split to distinguish between banks with Low versus High credit line commitments and shows the time-series of stock price difference of each respective group of banks indexed on January 1, 2020. We measure Liquidity risk as undrawn C&I commitments plus wholesale finance minus cash or cash equivalents (all relative to assets). Panel B plots the cross-section of bank stock returns during the March 1 to March 23, 2020, period as a function of banks’ Liquidity risk. All variables are defined in  Appendix C.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Net versus gross drawdowns This figure shows the time-series of Gross drawdowns (panel A) and Net drawdowns (panel B) over the Q1 2010 to Q4 2020 period. Gross drawdowns is the percentage change in a bank’s off-balance-sheet unused C&I loan commitments. Net drawdowns are defined as the change in a bank’s off-balance-sheet unused C&I loan commitments minus the change in deposits, relative to total assets. All variables are defined in  Appendix C.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Credit line issuances (volume and spread/fees) This figure shows quarterly issuance volume in USD billion (panel A), all-in-spread-drawn or AISD (panel B), all-in-spread-undrawn or AISU (panel C), and up-front fees or UFR (panel D), with spreads and fees in basis points (bps), of credit line issuances by U.S. firms over the 2018 to 2021 period. All variables are defined in  Appendix C.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Credit line drawdowns and stock market returns This figure plots the cumulative drawdown of credit lines of nonfinancial firms, that is, C&I credit lines, on the cumulative market return (using the S&P 500 index as the market). In panel A, we plot the cumulative quarterly drawdown rates during the COVID-19 pandemic (ie, Q4 2019 and Q1 2020) and the Global Financial Crisis (ie, the Q1 2007 to Q4 2009 period) on the respective quarterly S&P 500 returns. We also show the linear regressions for both periods. In panel B, we use the lowest cumulative daily S&P 500 return within each quarter (instead of the quarterly return).  Appendix C defines all variables.",
+        "correlation": []
+    }
+}

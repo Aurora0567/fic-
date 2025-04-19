@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Illustrative example of the empirical strategy The figure illustrates an example of the identification strategy used in our paper. In the background, we plot the S&P Case-Shiller Index for the city of Los Angeles, available from the St. Louis Fed database (https://fred.stlouisfed.org/series/LXXRSA). We then consider two houses for sale (or rent), A and B, in 2018. Assume the two houses were originally bought at the same point in time. We overlay on the time series of the house price index the time of last purchase of the neighboring houses for sale (or rent) for house A (green crosses) and house B (red-orange squares). To identify spillover effects, we exploit differences in the timing of purchase of neighboring comparables, after controlling for the own purchase timing, house characteristics, and location.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Example of clustering analysis The figure shows the locations of sales taking place in the city of Pasadena (California) during the first two quarters of 2017 (top-left panel), the last two quarters of 2017 (top-right panel), the first two quarters of 2018 (bottom-left panel), and the last two quarters of 2018 (bottom-right panel). Transactions involving houses with a low average reference point across comparables (values of plast,ZIP0.5ml below the median in the ZIP code over the entire sample) are represented by black diamonds, while transactions involving houses with a high average reference point across comparables (values of plast,ZIP0.5ml greater or equal than the median in the ZIP code over the entire sample) are represented by red dots.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distances between high and low comparables groups, by ZIP code These histograms show the distribution, across California ZIP codes, of μμ(dist,diff)⁠, the within ZIP code difference between the average distance among observations with low comparables reference points, and the average distance between observations with low and high comparables reference points. Panel A shows the distribution for the sales market, and panel B for the rental market.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Transaction prices and probabilities from the model The graphs present the spillover effects of a biased seller or landlord (owner 1) on price or rent setting choices and transaction probabilities of an unbiased seller or landlord (owner 2), in the equilibrium described by the model in Section 4.3. On the horizontal axis is the extra-hedonic “bias” (Δ) induced by the reference point of owner 1. On the vertical axis are sales prices or rents (panel A), and sales or rental probabilities (panel B). In an equilibrium with unbiased owners, the sales price or rent is equal to RNB* (dotted line), and the transaction probability is equal to ProbNB*⁠. In panel A (B) the solid line represents the rent or price set by (the transaction probability for) the biased owner, while the dashed line represents the price set by (the transaction probability for) the unbiased owner.",
+        "correlation": []
+    },
+    "5": {
+        "description": "ZIP-code-level effects of reference dependence for sales The histograms show the distribution, across California ZIP codes, of estimates of the average direct, spillover, and total effect of reference points on sales prices in 2017 and 2018, based on Equations (10), (11), and (12).",
+        "correlation": []
+    },
+    "6": {
+        "description": "ZIP-code-level effects of reference dependence for rentals The histograms show the distribution, across California ZIP codes, of estimates of the average direct, spillover, and total effect of reference points on rents in 2018 and 2019, based on Equations (10), (11), and (12).",
+        "correlation": []
+    }
+}

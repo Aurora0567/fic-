@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Illustration of how Bloomberg news articles are pinned to prominent front-page positions at the top of the news screen.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Absolute excess return and trading volume after news. Panel A displays the median trading volume by 15-second intervals during the 10 minutes before and the 10 minutes after news publication. Panel B presents the average absolute excess return from publication to 10 minutes later, as well as the baseline excess return in the absence of news (computed 24 hours prior to news publication). Both panels separately consider front-page and non-front-page SI news.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative excess returns after front-page and non-front-page SI news. The returns are sliced by the direction of the initial five-minute return: positive article-ticker events are displayed in black lines, negative article-ticker events are displayed in gray lines. Solid lines show returns following front-page SI news, and dashed lines indicate reactions to non-front-page SI news.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Coverage of Bloomberg news articles by other sources, by hour relative to publication on Bloomberg. Each hourly observation corresponds to the beginning of a 60-minute period: for example, hour 0 captures the time elapsed from the moment of publication on Bloomberg to exactly 60 minutes later. Panel A tabulates coverage in the Dow Jones Newswire, Panel B looks at coverage by sources in the Factiva database, and Panel C considers coverage in sources captured by EventRegistry. Coverage of PI news is in dashed lines, and coverage of front-page (non-front-page) SI news is in solid black (gray).",
+        "correlation": []
+    }
+}

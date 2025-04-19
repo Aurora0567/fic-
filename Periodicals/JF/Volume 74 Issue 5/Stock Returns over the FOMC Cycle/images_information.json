@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Stock returns over the FOMC cycle, 1994 to 2016. The plot is based on data covering 184 FOMC cycles (eight scheduled FOMC meetings per year). The numbers along the line indicate the value on the horizontal axis. The five-day (forward) returns computed for any of days −6 through −1 of the FOMC cycle are not used in the right part of the graph, so points to the right do not use any data for days −2 and later. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Timing of the eight FOMC meetings within the year, 1994 to 2016. The figure presents the histogram of the day of the year on which FOMC meetings took place. For two-day meetings, we set the FOMC meeting day equal to the second day. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Even-week decision making at the Fed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The Fed put in stock returns: even-week mean-reversal, 1994 to 2016. Daily data for all 5,997 observations are sorted into five buckets based on quintiles of thex-variable (quintiles are defined without conditioning on FOMC cycle time). Within each bucket, we calculate the average of they-variable and the average of thex-variable and graph they-average against thex-average. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The equity premium over the FOMC cycle, 1996 to 2012:1. The figure presents the average change in the one-month equity premium bound based on data from Martin (2017), by day of the FOMC cycle. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Wall Street Journalarticles by David Wessel, 1994 to 2016. Linear regression estimates on daily data for 1994 to 2016 (5,997 days) are given by:Dummy(Wesselarticleondayt)=0.0035+0.017×1Week0+0.007×1Week2,4,6+0.088×1dayafterFOMCmeeting+0.071×1dayafterFOMCminutesrelease,where 1Xindicates a dummy variable. All coefficients are significant at the 5% level or better (with standard errors robust to heteroskedasticity). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

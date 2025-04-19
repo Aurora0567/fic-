@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Bond holdings by sectors This figure shows the holders of government and bank bonds. We divide the holdings across key institutional sectors: banks, insurance companies and pension funds (ICPFs), other financial institutions (OFIs), households (HH), central government (Gov), nonfinancial corporations (NFC) and Other. A security is considered to be Domestic if the pledging and issuing institution have the same country of location, and as Foreign otherwise. The values are reported as a percentage of the total value outstanding. All reported figures refer to Q1 2014. Source: ECB, Security Holdings Statistics.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Collateral pledging with the ECB This figure summarizes the marketable securities pledged as collateral with the ECB by all banks in the euro area. Panel A presents the composition of all marketable securities. Panel B displays the composition of bank-issued securities across Core and Periphery euro area countries. Periphery refers to Italy, Spain, Portugal, Ireland, Cyprus, Malta, and Greece, while Core refers to Austria, Belgium, France, Germany, Luxembourg, and the Netherlands. A bank bond is considered to be Domestic if the pledging and issuing banks have the same country of location, and as Foreign otherwise. Both panel s are reported in book values in billion EUR.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Pledging and holding: Timing of pledging of newly issued bonds This figure shows the relationship between security holding and security pledging with the ECB. It illustrates the timing of pledging after the security is issued. More than 75% of securities are pledged with the ECB within the first 3 months. Sources: ECB MOPDB and SHS.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Average haircut gap for securities issued in core and periphery This figure shows the evolution of the average haircut gap over time across periphery and core countries. Periphery refers to Italy, Spain, Portugal, Ireland, Cyprus, Malta, and Greece, while Core refers to Austria, Belgium, France, Germany, Luxembourg, and the Netherlands. The average haircut gap is reported in percentage points on the vertical axis.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Haircuts and haircut gap This figure illustrates the identification strategies using the ECB institutional rules. The figures plot haircuts and haircut gaps for a representative asset class: uncovered bank bonds with residual 1–3 years maturity and fixed coupon. Panel A shows the average haircuts applied by the ECB and private market for each rating notch. Panel B summarizes the nonlinear profile of the haircut gap with respect to different ratings.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Issuance of bank bonds This figure summarizes the issuances of bank bonds. We divide the pledging banks into two categories: Periphery and Core based on their location. Periphery countries include Italy, Spain, Portugal, Ireland, Cyprus, Malta, and Greece, and Core countries include Austria, Belgium, France, Germany, Luxembourg, and the Netherlands. Issuances are reported as a 12-month moving average. All series are indexed to Q1 2009.",
+        "correlation": []
+    }
+}

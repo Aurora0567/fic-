@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Estimated age-profiles The graphs plot the coefficients of the age dummies of the regression model in Equation (11). Dependent variable on the left panel is the ratio of the potential buy-in amount to the occupational pension fund over individuals’ labor income. Dependent variable on the right panel is a dummy indicating whether an individual is making a voluntary contribution to her pension fund in a given year. Data come from two Swiss pension funds for the years 2013 to 2016.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The pension app This figure shows screenshots of the pension app: panel A depicts the home screen of the app, and panel B presents the buy-in calculator. The link to the buy-in calculator is visible at the bottom of the home screen. Source: Pension app for pension funds.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Timeline of introduction of the pension application The figure shows schematically the timeline of the introduction of the pension app and the timing of sending the invitation letters. Source: Authors.",
+        "correlation": []
+    },
+    "4": {
+        "description": "ITT: Event study coefficients for the probability of making a buy-in This figures reports the marginal effects of the event study coefficients from a probit model based on the model in Equation (2). The dependent variable is the buy-in dummy indicating a positive yearly contribution (buy-in) to the occupational pension fund. The event is the receipt of the invitation letter to register on the app for the first time. Event dummies are reported relative to the year prior to the event. The error bars represent 90% and 95% confidence intervals for cluster robust standard errors at the individual level. All estimates are reported in Table F4. Data are from two Swiss pension funds from 2013 to 2018.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Event study coefficients by registration status (buy-in indicator) This figure reports marginal effects of the event study coefficients from a probit model based on the model in Equation (2). Panel A shows the estimates for the restricted sample of individuals who never registered on the pension app, and panel B shows the estimates for the restricted sample of individuals who registered on the pension app by mid-2019. The dependent variable is the buy-in dummy indicating a positive voluntary contribution (buy-in) to the occupational pension fund. The event is the receipt of the invitation letter to register on the app for the first time. Event dummies are reported relative to the year prior to the event. The error bars represent 90% and 95% confidence intervals for cluster robust standard errors at the individual level. All estimates are reported in Table F8. Data are from two Swiss pension funds from 2013 to 2018.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Mechanisms: tax savings or lower “hassle” costs The graph in panel A plots the estimates of the ITT effect of sending reminder letters on the probability to make a contribution. Each bar corresponds to the effect of receiving a specific reminder letter (baseline, tax savings, transaction costs). The graph in panel B plots the estimates of the LATE of using the pension app on the probability to contribute, obtained using the random treatment assignment as instrument for registration status. Each bar represents the LATE for the subgroup of individuals receiving one of the letter types. Confidence intervals (90% and 95%) are reported.",
+        "correlation": []
+    }
+}

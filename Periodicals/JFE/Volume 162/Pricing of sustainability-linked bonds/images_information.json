@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "SLB issued by General Mills in 2021. This figure illustrates the possible cash flows of the SLB issued by General Mills on October 14, 2021. The bond has a fixed semi-annual coupon of 1.125% and if General Mills fails to achieve a target reduction of 21% in scope 1 and scope 2 greenhouse gas emissions by 2025, the semi-annual coupon increases by 0.125%."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "This figure shows the growth of the SLB market since its inception in 2018. The left (blue) bars show the number of SLBs issued each year while the right (green) bars show the notional amount of SLBs issued (in USD billions). The data is from Bloomberg and includes all bonds that have a sustainability-linked indicator equal to 1. The data for 2024 ends March 4. (For interpretation of the references to colour in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Yield sustainium. A raw sustainium is estimated by calculating the yield difference between the yield of non-SLBs and the yield on a subset of SLBs with the feature that their coupon is not tied to the issuing firm reaching a sustainability target (instead the firm donates money to sustainability-linked causes). For that sample the raw sustainium is regressed on firm-level characteristics and a predicted sustainium is computed for all firms using the regression coefficients. The graph shows the monthly average predicted sustainium for months with at least four bonds in the sample period with a 95% confidence band using standard errors clustered at the bond level."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Mispricing. The figure shows the time series variation of the mispricing measure for the SLB premium. On each day in the sample where we have at least ten observations we compute the mispricing measure as the average SLB premium on that day divided by the average upper bound on the same day and the figure shows the time series variation."
+        ],
+        "correlation": []
+    }
+}

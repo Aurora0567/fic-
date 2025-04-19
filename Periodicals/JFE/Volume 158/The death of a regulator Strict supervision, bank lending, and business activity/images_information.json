@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Loan loss recognition over time. Fig. 1 plots the average loan loss provision ratio (loan loss provision divided by total assets) and average nonperforming loan ratio (nonperforming loans divided by total assets) of former OTS banks and all other commercial banks during the period 2005Q1 to 2015Q4. The shaded period is the financial crisis as defined by the NBER recession period.Data are from FFIEC call reports and from thrift financial reports."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "OTS extinction and loan loss recognition over time. Fig. 2 plots the estimated impact of the OTS extinction on loan loss provisioning and nonperforming loan ratios in each quarter of the sample period. The dots represent the coefficients βt from estimating the empirical specification of Eq. (2) using the loan loss provision ratio (left) and nonperforming loan ratio (right) as dependent variables. The vertical bands represent 95% confidence intervals for the point estimates in each quarter. The shaded period is the financial crisis as defined by the NBER recession period.Data are from FFIEC call reports and from thrift financial reports."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Small business lending and OTS extinction: Impact over time. Fig. 3 plots the estimated impact of the OTS extinction on small business lending in each year of the sample period. The shallow circles represent the coefficients βt from expanding the model specification in Column (2) of Table 7, Panel A to include a set of interaction variables between the year indicators and a binary variable taking the value of one if the depository institution’s primary supervisor in 2010 was the OTS. The vertical bands represent 90% confidence intervals for the point estimates in each year.Data come from the CRA small business lending dataset."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Small business lending and OTS extinction: Impact by capitalization. Fig. 4 plots the impact of OTS supervision on small business lending across different Tier 1 capital ratio bins. The shallow circles represent the coefficients βi from expanding the model specification in column (2) of Table 7 to include a set of interaction variables between a dummy variable taking the value of one if the depository institution’s primary supervisor in 2010 was the OTS and each of six indicator variables that take the value of one if the Tier 1 capital in the fourth quarter of 2010 is below 10, between 10 and 12.5, between 12.5 and 15, between 15 and 17.5, between 17.5 and 25, and more than 25 percent, respectively. The vertical bands represent 90% confidence intervals for the point estimates in each interaction between OTS dummy and the capitalization bins.Data come from the CRA Small Business Lending Dataset and from Call reports and thrift financial reports."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "OTS extinction and banks’ non-interest costs. Fig. 5 plots the evolution of the non-interest expenses and growth in full-time employees of former OTS banks and other commercial banks. Panel A plots the average non-interest expense ratio (total non-interest expenses divided by total assets) of former OTS banks and all other commercial banks as well as coefficients and respective confidence intervals from estimating the empirical specification of Eq. (2) using the non-interest expense ratio as outcome variable. In Panel B, we repeat the analysis using the growth in full-time employees (2010:Q2–2011:Q2 = 100) as outcome variable. The shaded period is the financial crisis as defined by the NBER recession period.Data are from FFIEC call reports and from thrift financial reports."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "OTS extinction and banks’ revenues and overall profitability. Fig. 6 plots the evolution of the ratio of bank revenues to total assets and of the ROA of former OTS banks and other commercial banks. Panel A plots the ratio of bank revenues to total assets of former OTS banks and all other commercial banks as well as coefficients and respective confidence intervals from estimating the empirical specification of Eq. (2) using the ratio of bank revenues to total assets as the outcome variable. In Panel B, we repeat the analysis using ROA as the variable of interest. The shaded period is the financial crisis as defined by the NBER recession period.Data are from the FFIEC call reports and from the thrift financial reports."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "OTS extinction and delinquencies in the C&I lending portfolio. Fig. 7 plots the evolution of loan delinquencies in the C&I lending portfolios of former OTS banks and other commercial banks. Panel A plots the average C&I non-performing loan ratio (non-performing C&I loans divided by total C&I assets) of former OTS banks and all other commercial banks during the period 2005:Q1 to 2019:Q4 and coefficients and respective confidence intervals from estimating the empirical specification of Eq. (2) using the C&I non-performing loan ratio as the outcome variable. In Panel B, we repeat the analysis using the average C&I charge-off ratio as the variable of interest. The shaded period is the financial crisis as defined by the NBER recession period.Data are from the FFIEC call reports and from the thrift financial reports."
+        ],
+        "correlation": []
+    }
+}

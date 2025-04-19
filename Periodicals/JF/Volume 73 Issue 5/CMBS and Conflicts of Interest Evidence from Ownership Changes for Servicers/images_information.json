@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Trends in liquidation volume and commercial property prices. The solid line plots the annual volume of liquidations in my data. The dashed line plots the monthly Moody's/RCA Commercial Property Price Index. The four arrows indicate the dates when the four special servicers of interest changed owners. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Monthly trends for current debt service coverage and loan-to-value ratios. Each point depicts monthly differences in the current loan-to-value (LTV) ratio and current debt service coverage ratio (DSCR), relative to month 11 (the omitted group), estimated from a regression of current loan attributes on a treatment dummy, report-month fixed effects, and their interactions with the treatment dummy. DSCR equals net operating income divided by debt service payments. The sample includes all current loans from November 2010 to November 2012. The ownership changes span November 2009 (Berkadia) to September 2010 (CW Capital). The first relative month for which I have current loan information (for Berkadia) is month 11. The figure ends in month 26 (the last relative month for which I have current loan information for CW Capital). The dashed lines report 95% confidence intervals.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Monthly trends in debt service coverage ratio and loan-to-value for liquidated loans. Each point depicts monthly differences in the current loan-to-value (LTV) and the current debt service coverage ratio (DSCR) reported for liquidated loans, relative to month 0, estimated from a regression of loan attributes on a treatment dummy, month-of-liquidation fixed effects, and their interactions with the treatment dummy. The sample includes all loans liquidated in the postperiod. The omitted group is month 0. The dashed lines report 95% confidence intervals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Monthly trend in share of loans that become 60-day delinquent. Each point depicts monthly differences in the share of loans (by dollar amount) that become 60-day delinquent in montht, estimated from a servicer-month-level analysis with the treatment dummy, month fixed effects, and interactions with the treatment dummy. Loans are transferred to special servicers after they become 60-day delinquent. The omitted group is month 12 (the first month for which I have data necessary to identify when a loan becomes 60-day delinquent). The dashed lines report 95% confidence intervals with robust standard errors.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Unconditional trends in volume of losses (treated and placebo). The top panel presents trends in the monthly volume of losses for the average treated and average placebo servicer, estimated using nonparametric regressions with servicer-month-level data aggregated from Bloomberg. I use a rule of thumb bandwidth and the Epanechnikov kernel. The bottom panel repeats the top panel, but highlights three areas to bound the stockpiling effect. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "CMBS issuance by year and market shares of special servicers. Each bar represents the total volume of CMBS debt issued each year between 2005 and 2007 and between 2011 and 2015 for treated (darker bar) and placebo (lighter bar) special servicers, respectively. The annual issuance volumes between 2008 and 2010 (ranging from $3 billion to $12 billion) have been suppressed. The numbers above the bars correspond to the market shares for the treated and placebo special servicers. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

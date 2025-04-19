@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Trading activity during the O.J. Simpson trial verdict.This figure shows the value of aggregate trading volume (in logs) on the New York Stock Exchange on October 3, 1995, the day the verdict of O.J. Simpson's murder trial was announced. The top, middle, and bottom panels display trading volume for, respectively, all, small, and large trades. Trades are sorted into five size groups, where small (large) trades are those in the bottom (top) quintile. The horizontal axis labels five-minute intervals starting from 9:30 a.m. EST. The vertical line marks the announcement time (10 a.m. PST or 1 p.m. EST). The solid horizontal line indicates the average (log) trading volume during that day (excluding the time period from 10:00 to 10:10 a.m.) for the trade size category displayed in the panel. The dashed horizontal line indicates the 5% confidence bound (1.96 times the standard deviation of (log) trading volume during the day). Data for this figure come from Trades and Quotes (TAQ). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Daily news pressure and distraction events. The blue line shows daily news pressure over the period 1968–2014. The red dots mark a subset of the distraction events that we use in this paper. Specifically, they consist of days when news pressure is the highest in a given year and that have survived our filter for excluding potential economic news (see SectionII). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distraction effect on retail and institutional trading in event time. This graph shows the coefficient estimates and their confidence intervals from regressing measures of (de-seasonalized and de-trended) retail and institutional trading on a set of event-time dummies. In Panel A, the dependent variable is the logarithm of number of households trading in the retail brokerage data. In Panel B, the dependent variable is the logarithm of the aggregated trade volume in the institutional trade data. In both panels, the bar at 0 represents the coefficient estimate on a dummy variable indicating distraction days; the bar at –1 is the coefficient estimate on a dummy variable indicating trading days one day prior to distraction days. Confidence bars are based on standard errors adjusted for autocorrelation up to three lags with the Newey-West method. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

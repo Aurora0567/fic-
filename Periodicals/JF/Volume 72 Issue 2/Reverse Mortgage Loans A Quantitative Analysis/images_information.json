@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Percentage of older homeowners with reverse mortgages. This figure shows the proportion of all homeowners aged 65 and above that have RMLs. The data are constructed using various years of the AHS.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Model fit: age profiles of the baseline model. The figures compare key asset age profiles from the calibrated baseline model to those in the data. The data counterparts are age profiles based on age-year regressions using HRS data pooled over the period 1996 to 2006.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Model versus data: distribution of debt. The figures compare mean and median age profiles of debt from the calibrated baseline model to those in the data. The data counterparts are age profiles based on age-year regressions using HRS data pooled over the period 1996 to 2006.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Model versus data: distribution of debt for each income quintile. The figures compare the proportion of homeowners in debt and median debt among debtors by income quintile, from the calibrated baseline model to the same profiles in the data. The data counterparts are age profiles based on age-year regressions using HRS data pooled over the period 1996 to 2006.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Model versus data: proportion of housing assets over total assets. The figures compare the proportion of housing to total assets by age for all homeowners, as well as homeowners by health status, from the calibrated baseline model to the same profiles in the data. The data counterparts are age profiles based on age-year regressions using HRS data pooled over the period 1996 to 2006.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Collateral constraints: conventional and reverse mortgages. This figure compares collateral constraints, measured as the maximum allowed debt amount as a proportion of house value, for conventional and reverse mortgages. For the former, collateral constraints vary with household characteristics because they are based on household income. In the figure, conventional mortgage collateral constraints are shown for households in good health in three income quintiles. These collateral constraints are downward-sloping since they depend on future income to be used to repay the debt. For reverse mortgages, the collateral constraint depends only on age, in particular, it is increasing in age.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Age distribution of borrowers at RML origination. These figures plot empirical and model histograms of the age distribution of RML borrowers when they first obtain RMLs. Panel A shows the profile in the U.S. data constructed by Shan (2011), while Panel B is the corresponding output of the calibrated baseline model. Since one period is two years in the model, while one bar represents one year in Panel A, we adjust the model output by dividing by two, so that the levels are annualized and comparable between the two figures.",
+        "correlation": []
+    }
+}

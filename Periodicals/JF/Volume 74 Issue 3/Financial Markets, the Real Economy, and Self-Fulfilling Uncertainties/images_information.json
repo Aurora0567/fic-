@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Three equilibrium cases, withYL<YM<YH. Case 1: top; Case 2: middle; Case 3: bottom. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Aggregate outputYin general equilibrium. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Information amplification. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Information contagion. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Two possible steady-state equilibria. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Transitional dynamics under a permanent negative shock onZt. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Comparative statics analysis. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Transitional dynamics under a permanent shock onZt. Left: A medium-sized shock of size−5%. Right: A small-sized shock of size−2.5%. The initial value of each variable is normalized to 1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Parameter regions of(Y,Z,b,c)for different equilibrium cases. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

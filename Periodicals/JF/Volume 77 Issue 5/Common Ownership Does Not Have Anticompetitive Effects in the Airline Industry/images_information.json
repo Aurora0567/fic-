@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Identification: Market-carrier-level regressions. Panel A plots coefficient estimates offor each of the 56 market-carrier-level regressions:Panel B plots coefficient estimates offor each of the 56 market-carrier-level regressions:Point estimates are shown along with 95% confidence intervals for each of the 56 coefficient estimates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Identification: Market-level regressions. Panel A plots coefficients estimates offor each of the 56 market-level regressions:Panel B plots coefficients estimates offor each of the 56 market-level regressions:Point estimates are shown along with 95% confidence intervals for each of the 56 coefficient estimates. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Measuring control rights: Different voting designations. For a subsample of institutions in our data set, we plot the percent of shares designated as “sole,” as well as those with “no” voting right, as a fraction of all shares owned, for each year-quarter observation in our sample. The inconsistencies reported across funds and within a fund over time are consistent with SEC officials noting that the “Special Instruction 12.b.viii to Form 13F” guidelines are vague, with reporting depending on how each institution interprets the guidelines. For instance, Vanguard switched to designating all shares owned as having no voting right in the third quarter of 2005 while State Street reported some shares as having sole, others as no, voting authority prior to the first quarter of 2004, after which it designated all shares as having sole voting authority (the reverse move of Vanguard's). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

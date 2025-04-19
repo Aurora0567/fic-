@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Term structure of interest rate swap spreads. The figure shows the history of swap spreads (monthly averages) from May 1994 through December 2015. The grey shaded areas represent U.S. recession periods. The source for our data is Bloomberg. The differences in market conventions have been taken into account in computing the spreads. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Relationship between 30-year swap spreads and the aggregate funding status of DB pension plans. The top panel shows a scatter plot of 30-year swap spreads on the y-axis against pension funds' underfunded ratio on the x-axis. The lower panel shows the time series of the two variables, wherein the black solid line is the 30-year swap spread (left-hand axis) and the blue dotted line is pension funds' underfunded ratio (right-hand side). The grey shaded areas indicate periods in which pension funds are fully funded or overfunded. Data on pension fund underfunding ratios come from the Financial Accounts of the United States, and the underfunding ratio is computed as indicated in equation4. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Price and trade patterns around institutional buy orders predicted by theory. This figure depicts three possible price and trade patterns around institutional buy orders, as predicted by theory. Each panel summarizes the predicted price pattern over the lifetime of an institutional order and shortly thereafter (top graph). It further shows how intermediaries (i.e., HFTs) trade by plotting their cumulative net flow in this period (bottom graph). The three panels correspond to market making (Grossman and Miller (1988)), predatory trading (Brunnermeier and Pedersen (2005)), and back-running (Yang and Zhu (2017)), respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "HFT net flow in the lifetime of an institutional order. This figure plots average HFT net flow from the start of an institutional order to various points over the life of the order. These points are in increments of 30 minutes. At each point, the average is taken across all institutional orders that are still executing at that point (i.e., the final child trade has not arrived yet). The size of the sample at each point is indicated by the dashed green line (righty-axis). Statistical significance is based on thet-value of the mean across stock-institution fixed effects (same as the overall mean), with residuals clustered at the stock-period level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "HFT net flow in placebo sample. This figure plots average HFT net flow for the placebo sample (and the main sample for reference). It mirrors Figure2but this time includes a placebo sample that consists of trading periods that match the treated sample in terms of trading conditions (volume, index return, idiosyncratic return, volatility, and market order imbalance) but does not contain trades by any of the four institutional investors. Statistical tests correspond to the differential across treated and placebo stock periods. These are done based on thet-value of the mean across stock-institution fixed effects (same as the overall differential mean), with residuals clustered at the stock-period level. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "How many names did an institution trade on days that it traded?This figure shows the empirical distribution of the number of (stock) names that an institutional investor traded on the days that it traded. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Institutional order's overall, transitory, and permanent price impact by HFT net flow tercile. This figure plots the average OPI, as well as its components, transitory price impact (TPI), and permanent price impact (PPI). OPI is the stock return over the lifetime of the order. PPI is the return from the start of an order until 24 hoursafterthe end of the order. TPI is OPI minus PPI. All variables are based on idiosyncratic returns, that is, we subtract beta times the market return from the raw return. OPI, TPI, and PPI are computed by HFT cumulative net flow terciles. The impact measures are plotted separately for the full sample and the against-wind and with-wind HFT net flow terciles. HFT net flow is computed over the lifetime of the order. The lowest tercile has strongly negative values (against-wind), the middle tercile is mostly zero (neutral), and the highest tercile has strongly positive values (with-wind). Sell order observations are converted to pseudo-buys by multiplying where appropriate by minus one. They can then be pooled with buy orders. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Unbiasedness regressions to measure speed of information revelation. This figure illustrates the speed of information revelation in the first four hours, for the subset of orders that lasted more than four hours. It does so separately for the tercile of orders in which HFTs traded against-wind and the tercile of orders in which they traded with-wind (calculated over the lifetime of the order). The unbiasedness regression that is estimated isPPI=αt+βt(Pt−P0)+εt, where PPI is the long-term price impact of the order (see equation1),tmeasures the time elapsed since the meta order started executing in increments of five minutes, andPt−P0is the midquote return from the start of order execution until timet. Both PPI and the midquote return are idiosyncratic (i.e., the market return component is removed). The analysis is run on the pooled set of orders where sell orders are converted to pseudo-buy orders. Alphas are tested in terms of being statistically different from zero. Betas are tested relative to one. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "HFT net flow over the lifetime of an institutional order by information content. This figure plots how HFT cumulative net flow develops over the lifetime of institutional orders, where the latter are split into terciles based on their informational content as measured by PPI. It is essentially the 3D version of Figure2with informational content on the additional axis. Sell orders are pooled with buy orders by converting them to pseudo-buy orders. The panel below the graph reports coefficient estimates for the odd hours (to conserve space) to reveal what part of it is statistically significant. Each column shows statistics for the orders that are still executing at that point, which explains the decreasing number of observations across columns. The analysis is run through the 15thhour of execution to retain at least 50 observations in each tercile.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Implementation shortfall and HFT gross trading revenue by HFT net flow terciles. This figure plots an institution's implementation shortfall and HFTs' gross trading revenue averages for the full sample as well as for the against-wind and with-wind HFT net flow terciles. Buy and sell meta orders are pooled after converting sell order observations to pseudo-buys by multiplying by minus one where needed. All HFT net flow observations are then sorted into equal-size bins. The tercile with the lowest values consists of strong against-wind HFT net flows, the middle tercile contains small HFT net flows in terms of size (we label this tercile neutral), and the tercile with the highest values contains strong with-wind HFT net flows. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

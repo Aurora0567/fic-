@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Proportion of buy day investment allocated to each stock on multiple-stock buy days. This figure shows a histogram of the proportion of the total buy day investment (in pounds) that is invested in Stock A, where Stock A is a randomly chosen stock from the group of stocks purchased. Bin width is 0.01. The sample is restricted to multiple-stock buy days. See SectionIfor details on the sample construction.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Naïve buying diversification versus naïve portfolio diversification investors topping-up two-stock portfolios. Panel A shows a histogram of the proportion of the total buy day investment (in pounds) in Stock A, where Stock A is randomly chosen from the pair of stocks purchased. Bin width is 0.01. Panel B shows a histogram of the proportion of the end-of-day investment in the portfolio that is allocated to Stock A, where Stock A is randomly chosen from the pair of stocks purchased. The sample is restricted to two-stock buy days in the sample of new accounts. See SectionIfor details on the sample construction. Bin width is 0.01.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Naïve buying diversification versus naïve portfolio diversification: all buy days. These plots illustrate the proportion of buy days on which multiple-stock purchases are split across stocks1/N$1/N$(in red) and on which the end-of-day portfolio positions are split1/N$1/N$(in blue). Separate panels for the number of existing positions within the portfolio at the start of the day, with the number of stocks purchased on the day are shown on thex-axis of each panel. The bandwidth used to define NBD and NPD is (£P/N×(1±0.02)$P/N \\times (1 \\pm 0.02)$). The sample is restricted to multiple-stock buy days in the new accounts, data. See SectionIfor details on the sample construction. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "NBD and stock similarity: Two-stock buy days. This figure shows the proportion of all two-stock buy days on which the buy day investments are split equally (in pounds) across the two stocks. “Equal” is defined in the range from 49% to 51%. The sample is restricted to two-stock buy days. See SectionIfor details on the sample construction. Ninety-five percent confidence intervals are illustrated in error bars.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Annualized total returns for NBD and non-NBD investors. This figure shows mean annual returns for 50% or More NBD, At Least One NBD, and Never NBD investors. 50% or More NBD investors had two or more multiple-stock buy days of which 50% or more were NBD. At least One NBD investors exhibited NBD at least once in the data period. Never NBD investors never exhibited NBD in the data period. The first two groups are not mutually exclusive. Mean annual returns are calculated as an average of monthly returns including dividend receipts and are net of fees. See SectionIfor details on the sample construction.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Distribution of total buy day investment (in £) by number of stocks bought. These panels illustrate the distribution of monies invested on the buy day (in pounds) for multiple-stock buy days involving two to five stocks. The sample is restricted to multiple-stock buy days. See SectionIfor details on the sample construction.",
+        "correlation": []
+    }
+}

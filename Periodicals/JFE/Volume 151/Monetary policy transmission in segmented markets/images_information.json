@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Dispersion in OTC rates. This figure shows the dispersion in repo rates and residualized repo rates at which dealers lend to and borrow from their customers in the OTC market at a monthly frequency. Dispersion is measured as the monthly volume-weighted standard deviation of repo rates and residualized repo rates. The four panels show results for repos backed by German, French, Italian, and Spanish government collateral, respectively. The sample period is from February 2017 to February 2020. (For interpretation of the colors in the figure(s), the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Dealer lend and borrow rates in inter-dealer and OTC markets. This figure shows the volume-weighted average repo rates at which dealers borrow and lend using German, French, Italian, and Spanish government collateral at a monthly frequency. Panel (a) shows the results for OTC repos and panel (b) shows the results for inter-dealer repos. The sample period is from February 2017 to February 2020."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Net interest margins. This figure shows the volume-weighted average residualized repo rates at which dealers lend and borrow in the inter-dealer and OTC markets, at a monthly frequency. The four panels show the results for repos backed by German, French, Italian, and Spanish government collateral, respectively. The sample period is from February 2017 to February 2020."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Net interest margins by sector. This figure shows dealers' residualized net interest margins with respect to OTC customers in different sectors. The top and bottom of each bar refer to the average residualized repo rate at which dealers lend to and borrow from customers in that sector. The length of each bar corresponds to the size of dealers' net interest margins. The four panels show the results for repos backed by German, French, Italian, and Spanish government collateral, respectively. The sample period is from February 2017 to February 2020."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "September 2019 rate cut. This figure shows the volume-weighted average daily repo rates for German, French, Italian, and Spanish government collateral around the monetary policy rate cut in September 2019. Panels (a) and (b) correspond to the rates at which dealers borrow and lend in the OTC market, and panels (c) and (d) correspond to the rates at which dealers borrow and lend in the inter-dealer repo market. The dotted vertical lines represent September 12, 2019, and September 18, 2019, which correspond to the announcement and implementation of the ECB's Deposit Facility Rate cut. Some data points have been omitted for confidentiality reasons."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Model fit: relationship between passthrough and the number of links. This figure shows the passthrough from the inter-dealer repo rate to the OTC repo rate for depositing customers with different number of links. The blue line corresponds to estimates of βN from Specification (14). The red line corresponds to passthrough from the fitted model. Error bars show 95% confidence intervals from a nonparametric bootstrap with 100 replications."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Model fit: relationship between the number of links and trading volume. This figure shows binscatter plots of trading volume versus the number of dealer links formed for repo depositors in different sectors in the pre-rate-cut month. The blue and red dots correspond to the data and model predictions, respectively. In the data, flow repo volumes are converted to average outstanding volumes by multiplying trade size by the maturity in days, and then dividing by the number of days in the month, as described in footnote 18. Volumes are in €thousands. In the model, we aggregate across collateral countries within a sector weighting the binscatters by the number of customers trading within the collateral country."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Number of links and passthrough with rate increases. This figure shows the number of dealer links formed, the inter-dealer to OTC passthrough, and rate dispersion, that our model predicts as monetary policy increases the inter-dealer rate. Each line corresponds to the results for a different sector. We present results for different sectors averaged across collateral country, where the weights are the number of customers in that segment in the data."
+        ],
+        "correlation": []
+    }
+}

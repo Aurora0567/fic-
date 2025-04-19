@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Aggregate capital share of total value added for public firms. The figure presents the aggregate capital share for all firms in the Compustat public firms database. The aggregate capital share is given as∑icapitalincomeidivided by∑ivalueaddedifor each year, where capital income is operating income before depreciation (OIBDP), and value added is capital income plus labor expenses. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Firm-level capital income-to-sales ratio by size. This figure presents the relation between the ratio of capital income (OIBDP) to sales and firm size for all firms in the Compustat public firms database. Firm size is measured as total assets. Each point represents the within-bin average of the ratio after grouping firms into 20 size bins. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Average and aggregate capital income to sales ratios. The aggregate capital income to sales ratio is∑iOperatingIncomeidivided by∑iSalesifor each year. The average capital-income-to-sales ratio is the simple average of the firm-level capital-income-to-sales ratio for each year. The dotted lines are the HP-filtered trends. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Aggregate and average labor-income-to-sales ratios. The aggregate labor-income-to-sales ratio is∑iExtendedXLRidivided by∑iSalesifor each year, and the average labor-income-to-sales ratio is the simple average of the within-firm labor-income-to-sales ratio for each year. The dashed lines are the HP-filtered trends. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Firm-level volatility of U.S. public firms. Panel A plots the annualized idiosyncratic firm-level stock return volatility in logs. The idiosyncratic return for firmiis the residual from the Fama and French (1993) three-factor modelrit=γ0,i+γ1,iMKTt+γ2,iHMLt+γ3,iSMBt+εi,t, wheretis a daily observation within yearT. Idiosyncratic return volatility for firmiin yearTis the standard deviation ofεi,t. A time series of idiosyncratic volatility is then obtained by averaging across firms each year. The dashed line is the 10-year moving average of idiosyncratic return volatility. Panel B plots the annualized firm-level idiosyncratic cash flow volatility in logs. The idiosyncratic sales growth for firmiis the residual from the factor modelgit=γ0,i+γiFt+εi,t, wheretis a quarter in the prior 20 quarters up to calendar yearTandFis the first five principal components of the cross-section of sales growth for the 20 quarters prior to yearT. Idiosyncratic return sales growth volatility for firmiin yearTis the standard deviation ofεi,tat the fourth quarter of yearT. A time series of idiosyncratic volatility is obtained by averaging across firms each year. The dashed line is the 10-year moving average of idiosyncratic sales growth volatility. (Source: CRSP 1960 to 2014 and Compustat/CRSP Merged Fundamentals Annual 1950 to 2014). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Power law exponent of firm size: 1960 to 2014. The variable γ is the power law exponent given byP(Size>X)=kX−γ, where size is either Total Assets or Sales. We estimateγtfor each yeartusing the Hill estimator:γt=(n−1)/∑i=1n−1(log(Size)(i)−log(Size)(n)), wherenis defined by the 95thpercentile of firm size in the year. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) Note: Variables are not winsorized. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "The stationary distribution of productivity. Parameter values are given byσ=0.2,0.4,r=5%,μ=2.5%,λ=0.04,ρ=3.5,α=0.3,k/l=1,ν=0.2, andP=1and are taken from the calibration given in SectionIV. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Valuation ratio. Panel A plots the ratio of aggregate market value to aggregate total assets. The market value of an individual firmiis measured as Total Assets + Stock Price × Common Shares Outstanding − Common/Ordinary Equities. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) Parameter values for the value-to-book ratio given in Panel B are taken from our benchmark calibration in TableI.  [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Capital-income-to-sales ratio by firm size. This figure presents the average capital-income-to-sales ratio by size over time. Size is measured by total assets, and the capital-income-to-sales ratio is measured as operating income (OIBDP) divided by sales. For each year, firms are categorized into five groups based on their total assets. We then estimate the average capital-income-to-sales ratio within each group for a given year. (Source: Compustat-CRSP merged Fundamentals Annual for 1960 to 2014.) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Average capital share of output: Industries. Industries are defined using the Fama-French five-industry classification. We omit the industry classification “other” because it contains few firms. Within each industry, we sort firms into five groups based on their total assets. The plot shows the average capital share within each size group for four industries.Δlog(σ)is the difference between the log of the industry-level average of idiosyncratic volatility over 1990 to 2014 and the industry-level average of idiosyncratic volatility over 1960 to 1970. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Exit threshold: Average capital-income-to-sales ratio three years before delisting. The figure plots the average capital shares of output three years before delisting. We define a firm's exit from the public firm domain using delisting codes 400-490 and 550-591. The dotted line is the HP-filtered trend. (Source: Compustat/CRSP Merged Fundamentals Annual (1960 to 2014) and CRSP delisting codes.) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Aggregate capital share of United States: Public versus private decomposition. This figure decomposes the aggregate capital share (black solid line) for all U.S. industries into the share due to private firms (gray solid line) and the share due to public firms (dashed black line). The universe of private firms covers all firms except publicly traded firms in Compustat. The aggregate capital share of U.S. value added is the ratio of NIPA's NOS retrieved from the Federal Reserve Economic Data (FRED) database and the total value added from the BEA's GDP-by-industry accounts. Private capital income is obtained by subtracting the aggregate capital income (earnings before interest and tax) reported by Compustat public firms from the NIPA net operating surplus. The private (public) share is the ratio of private (public) aggregate capital income and total value added. The dotted lines are the HP-filtered trends of the three time series of capital shares. (Source: Bureau of Economic Analysis, Gross domestic income: Net operating surplus: Private enterprises (W260RC1Q027SBEA) (1969 to 2015). Bureau of Economic Analysis, GDP by Industry Accounts (1960 to 2015). Compustat/CRSP Merged Fundamentals Annual (1960 to 2014).) [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Owner wealth shocks and employment growth. This figure plots the estimated effect of a stock portfolio induced 10% financial wealth loss on employment growth. The top dotted line (squares) shows the effect of a shock occurring during the 2006 to 2007 period, the dashed line (squares) during the 2010 to 2011 period, and the solid line during the financial crisis of 2008 to 2009, with 5% and 10% confidence bands in gray. The bottom dashed line (circles) provides the financial crisis effect for the subset of firms younger than 10 years as of 2007. Employment growth is relative to pre-shock employment levels (for example, 2007 for the financial crisis). See text for a description of data and methodology. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Stock portfolio returns. This figure provides histograms of the one-year (2008) and two-year (2008 and 2009) returns for the stock portfolios of the business owners in the sample. These returns are calculated by applying realized returns to end-of-year 2007 portfolio weights following the definition in equation (2), usingt=2007$t=2007$andj=1,2$j=1,2$. Returns above the 99thpercentile are omitted for the purposes of this illustration. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Differential effects of wealth shocks on employment growth based on relative investor-firm size. This figure shows the differential effects of wealth shocks on firm employment growth for different bins of the ratio of an owner's Gross Financial Wealth (GFW) to the firm's operating expenditures (OpEx$OpEx$). Point estimates come from estimating equation (6). Vertical lines provide 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative effects of owner wealth shocks on employment growth. Panel A plots the coefficients onGains08−09/GFW$Gains_{08-09}/GFW$in regressions of cumulative employment from yeartto 2007,EG07,tD$EG^D_{07,t}$. The point estimate for 2010 is analogous to the main estimate in TableIV, column (6). Panel B similarly plots the coefficient on the interaction termFirmAge<10$Firm \\ Age &lt;10$. The point estimate for 2012 equals the estimate provided in TableV, column (2). Dashed blue lines provide 95% confidence intervals. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

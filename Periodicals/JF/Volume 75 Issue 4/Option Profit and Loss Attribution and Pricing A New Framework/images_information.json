@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Implied volatility change correlation with the three-month at-the-money option. The figure plots the cross-correlation estimates of percentage implied volatility changes between the reference three-month at-the-money option contract and contracts at other maturities and moneyness. Each line shows the correlation variation across moneyness at one maturity. The solid line corresponds to the correlation estimates with contracts at the same three-month maturity. The two dashed lines correspond to estimates with contracts at the two adjacent maturities at two and six months. The two dash-dotted lines correspond to estimates with contracts at further apart maturities at one and 12 months. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Principal component analysis on implied volatility movements. Panel A uses bar charts to show the explained variation of the top 10 principal components on the 45 interpolated implied volatility change series. Panels B to D plot the loadings of the first, second, and third principal component, respectively, across different moneyness at different maturities, with the solid lines corresponding to the one-month maturity, dashed lines corresponding to the two- and three-month maturities, and dash-dotted lines corresponding to the six- and 12-month maturities. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

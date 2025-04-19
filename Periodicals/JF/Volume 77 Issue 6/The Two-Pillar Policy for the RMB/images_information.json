@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "RMB central parity and spot rates. In Panel A, the solid blue line shows the historical central parity rate and the dashed red line shows the spot rate. In Panel B, the solid blue line shows the difference between the logarithms of the central parity and spot rates and the solid red lines show the bounds imposed by the PBC. The exchange rates of the RMB and their differences are plotted for the period 2004 to 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "RMB indices. In this figure, we plot the official CFETS, SDR, and BIS RMB indices (dotted red lines) together with the daily indices that we constructed (solid blue lines) in Panels A, B, and C, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Index-implied dollar basket. In this figure, we plot the dollar indexDXY(dotted red lines) together with the CFETS-, SDR-, and BIS-implied dollar baskets (solid blue lines) in Panels A, B, and C, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Rolling-window regression coefficient. This figure plots the coefficient β on the basket pillar in equation (7) from rolling-window regressions with window size of either 60 days (Panel A) or 90 days (Panel B). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Regression residuals. This figure depicts the residuals from regression (11) for Subperiod I with the 24-hour reference period, regression (12) for Subperiods II, IV, and VI with the 15-hour reference period, and regression (13) for Subperiods III and V with the 15-hour reference period and the countercyclical factor. Panels A, B, and C depict the regression residuals based on the CFETS, SDR, and BIS RMB indices, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Timing of Uber entry.This figure illustrates the variation in Uber’s entry into markets. Panel A reports the number of markets entered through time. Panel B presents a choropleth (geographic heat map) of the order of Uber’s first entry into a state."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Representativeness of worker characteristics.This figure reports worker characteristics in our sample of laid-off workers (Sample) and the CPS displaced worker supplement (CPS). The table reports the relative share in each sample across industry (Panel A), gender (Panel B and C), home ownership status (Panel D and E), and age bins (Panel F and G). The figure reports the share in the unweighted sample and when re-weighting our sample by the industry composition of the CPS sample."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Changes in outcomes around job separations.This figure reports the difference in outcome variables for eligible car owners relative to non-eligible owners around job separation. The figure is based on a modified version of Eq. (1), where the indicator for being laid off is replaced with a vector of dummies corresponding to event-time (in months) around being laid off. The figure reports coefficients of the triple interaction of EligibleOwner, Uber, and the event-time dummies, with corresponding 95% confidence bands. Outcomes include the outstanding credit balance (Panel A), overall credit delinquency rate (Panel B), mortgage credit delinquency rate (Panel C), monthly probability of receiving UI benefits (Panel D), and dollar amount of benefits received (Panel E)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Changes in outcomes around Uber’s entry.This figure reports the estimated effect of Layoff×Eligible on outcome variables in the time around Uber’s entry into a market. We define the month that Uber first entered CBSA j by Uj. Following this, we remove the indicator variable Uberjt, denoting Uber’s presence in CBSA j as of month t from Eq. (1). In its place, we include a vector of 17 indicator variables that correspond to the event time around Uber’s entry (in quarters), ranging from Uj−8 to Uj+8. We assign any month occurring prior to Uj−8, and any month subsequent to Uj+8, to their respective “book-end” event time fixed effects. The figure also reports 95% confidence bands. Outcomes include the outstanding credit balance (Panel A), overall credit delinquency rate (Panel B), mortgage credit delinquency rate (Panel C), monthly probability of receiving UI benefits (Panel D), and dollar amount of benefits received (Panel E)."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Changes in outcomes around Uber’s entry by car age.This figure reports the estimated effect of Layoff×Uber on outcome variables for owners of cars with different ages. Here, we remove the indicator variable EligibleOwner from Eq. (1). In its place, we include a vector of 11 indicator variables that correspond to the age of the car, ranging from 10 through 20. The figure also reports 95% confidence bands. Outcomes include the outstanding credit balance (Panel A), overall credit delinquency rate (Panel B), mortgage credit delinquency rate (Panel C), monthly probability of receiving UI benefits (Panel D), and dollar amount of benefits received (Panel E)."
+        ],
+        "correlation": []
+    }
+}

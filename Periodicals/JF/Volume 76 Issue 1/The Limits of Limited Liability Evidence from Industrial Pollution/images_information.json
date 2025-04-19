@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Treatment and control groups. This map shows the states that are in the treatment and control groups. The treatment group consists of states in circuits that adopted the Ability-to-Control or Actual-Control standards for parent liability prior to theBestfoodsdecision. The control group consists of states in circuits that used the veil-piercing standard. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Total emissions by type, 1994 to 2003. This figure shows the total pounds of emissions (in millions) reported by plants in the TRI database from 1994 to 2003. The sample excludes industries that were not required to report over the entire period. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of plants by circuit courts and treatment assignment. This figure shows the percentage of observations in different circuit courts and the percentage assigned to the treatment and control groups. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Distribution of liabilities-other by environmental disclosure. This figure shows kernel density plots for Liabilities-Other/Total Assets for public firms in the sample in 1997. Panel A plots the density for firms that disclose and do not disclose ongoing environmental cleanups. Panel B plots the density for firms that disclose and do not disclose accruals for environmental liabilities.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Distribution of pollution by environmental disclosure. This figure shows kernel density plots for the natural log of total emissions for public firms in the sample in 1997. Panel A plots the density for firms that disclose and do not disclose ongoing environmental cleanups. Panel B plots the density for firms that disclose and do not disclose accruals for environmental liabilities.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Ground emissions coefficient dynamics. This figure shows the coefficient dynamics for ground emissions around theBestfoodsdecision. The dependent variable is the log of one plus the pounds of ground emissions. Panel A includes subsidiaries of both public and private firms. Panel B limits the sample to subsidiaries of public firms. The figure is constructed using the baseline regression specification, but replacesBestfoodswith indicators for each year around the decision. The regression specification includes plant, parent-year, and chemical-year fixed effects. Standard errors are clustered by circuit court. Dashed lines indicate 95% confidence intervals.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Sorts on the previous month's volatility. We use the monthly time series of realized volatility to sort the following month's returns into five buckets. The lowest, “low vol,” looks at the properties of returns over the monthfollowingthe lowest 20% of realized volatility months. We show the average return over the next month, the standard deviation over the next month, and the average return divided by variance. Average return per unit of variance represents the optimal risk exposure of a mean-variance investor in partial equilibrium, and also represents “effective risk-aversion” from a general equilibrium perspective (i.e., the implied risk aversion,γt, of a representative agent needed to satisfyEt[Rt+1]=γtσt2). The last panel shows the probability of a recession across volatility buckets by computing the average of an NBER recession dummy. Our sorts should be viewed as analogous to standard cross-sectional sorts (i.e., book-to-market sorts) but are instead done in the time series using lagged realized volatility. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Time series of volatility by factor. This figures plots the time series of the monthly volatility of each individual factor. We emphasize the common comovement in volatility across factors and the fact that volatility generally increases for all factors in recessions. Light shaded bars indicate NBER recessions and show a clear business cycle pattern in volatility.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative returns to the volatility-managed market return. The top panel plots the cumulative returns to a buy-and-hold strategy versus a volatility-managed strategy for the market portfolio from 1926 to 2015. The y-axis is on a log scale and both strategies have the same unconditional monthly standard deviation. The lower left panel plots rolling one-year returns from each strategy and the lower right panel shows the drawdown of each strategy.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Utility benefits and leverage constraints. We plot the empirical percentage utility gainΔU%for a mean-variance investor going from a buy-and-hold portfolio to a volatility-managed portfolio for different levels of risk-aversion and for various constraints on leverage. Specifically,U=E[wtRt+1]−12γvar(wtRt+1). We compute the unconditional target buy-and-hold weight (i.e., the optimal portfolio for an investor who does not change risk exposure over time) asw=1γμσ2and volatility-managed weights aswt=1γμσt2. The x-axis denotes the targeted buy-and-hold weightwas we vary investor risk-aversion γ and represents the desired unconditional weight in the risky asset. The solid line shows the percentage increase in utility (U(wt)/U(w)−1) when our weights,wt, are unrestricted and illustrates that in this case the utility gain does not depend on risk-aversion. The dot-dashed and dashed lines impose leverage constraints of zero leverage and 50% leverage (consistent with a standard margin constraint), respectively. We evaluate the utility percentage increasesU(min(wt,w¯))/U(min(w,w¯))−1withw¯={1,1.5}. Numbers presented are for the market return. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Dynamics of the risk-return trade-off. The figure plots the impulse response of the expected variance and expected return of the market portfolio for a shock to the realized variance. The x-axis is in years. The bottom panel gives the portfolio choice implications for a mean-variance investor who sets her risk exposure proportional toEt[Rt+1]/vart[Rt+1]. The units are percentage deviations from their average risk exposure. We compute impulse responses using a VAR of realized variance, realized returns, and the cyclically adjusted price-to-earnings ratio (CAPE) from Robert Shiller. We include two lags of each variable. Bootstrapped 95% confidence bands are given in dashed lines. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Results by re-balancing period. This figures plots alphas and appraisal ratios by re-balancing period given in years on the x-axis. We compute scaled portfolios using the inverse of monthly realized variance and plot the alphas and appraisal ratios for different rebalancing horizons. All numbers are annualized for ease of interpretation. The top two panels do this for the market return, the middle panels use the MVE portfolio formed from the Fama-French three factors, and the bottom panels add the momentum factor. We include 90% confidence bands for alphas in dashed lines. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Equilibrium models and volatility timing. The figure plots the distribution of moments recovered from 1,000 simulations of 100-year samples for the different equilibrium models. The dashed line shows the point estimate in the historical sample. The left panels show the alpha of the volatility-managed strategy, the middle panels the appraisal ratio of the volatility-managed strategy, and the right panels the slope coefficient in a predictive regression of the market excess return on the previous month's realized variance. Moments are recovered by replicating in the simulations exactly the same exercise as in the data. In the first row we show the habits model of Campbell and Cochrane (1999), in the second row the rare disaster model of Wachter (2013), in the third row the long-run risk model of Bansal and Yaron (2004), and in the last row the intermediary-based model of He and Krishnamurthy (2013). Simulations are done using the original papers' parameter calibrations. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

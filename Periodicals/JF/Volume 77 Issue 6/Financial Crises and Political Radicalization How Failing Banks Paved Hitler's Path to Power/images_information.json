@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Danatbank and the crisis in newspapers. Panel A shows a frequency count of the number of mentions of Danatbank, Dresdner Bank, and Deutsche Bank in connotation with the word “Krise” (crisis) in German-speaking newspapers in the 12 months before and after the failure of Danatbank in July 1931. Panel B shows the number of mentions of Goldschmidt (Danatbank's leading manager), Nathan and Goetz (of Dresdner Bank), and Wassermann (of Deutsche Bank) in connotation with their respective banks over the same period. Source: ANNO database of the Austrian National Library. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "The banking crisis and Nazi voting. This figure shows a density plot of the September 1930 to July 1932 change in theNationalsozialistische Arbeiterpartei Deutschlands(NSDAP) vote share (conditional on city-level controls) for municipalities with and without Danat presence. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The geographic footprint of Danatbank. This figure shows a map of Germany in 1930. Blue solid dots (gray diamonds) indicate towns and cities with (without) a Danat presence. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Firm precrisis leverage and size. Panel A plots leverage for all joint stock companies not connected to any of the four great banks (black line), firms connected to Danatbank (blue line), and firms connected to other great banks (red line). Panel B plots the distribution of log assets for the wage bill sample of firms (blue line) as well as for all joint stock companies in 1929 (black line). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Pretrends. Panel A shows the coefficient and 90% confidence interval for regression equation (2), where we use the change inNationalsozialistische Arbeiterpartei Deutschlands(NSDAP) vote shares for different federal elections relative to the 1930 results as outcome variables. Panel B presents estimates ofβt$\\beta _t$and 90% confidence intervals forNSc,t=∑y≠1930m9It=yβtDanatc+θc+τt+εc,t$NS_{c,t} = \\sum _{y \\ne 1930m9} I_{t=y} \\beta _t Danat_c + \\theta _c + \\tau _t + \\epsilon _{c,t}$. The dependent variable is the NSDAP vote share in each election andDanatcis a dummy with a value of 1 if a city has above-average exposure to Danatbank. Regressions include baseline controls interacted with a dummy equal to 1 for elections after July 1931 and 0 otherwise. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

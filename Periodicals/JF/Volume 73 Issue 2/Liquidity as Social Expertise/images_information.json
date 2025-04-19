@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "An example in which condition11does not hold. At low levels of informativeness, more informativeness lowers the value for sellers. The example usesλ=0.3,θ=1, andZ∼U[0,1]. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Two possible long-run outcomes. The example usesμ=μ¯=0.9,g0=0.7,λ=1.5,Z∼U[0,1],θ=1,γ=0.54, andφ=5x. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Simulated path. The example usesμ=μ¯=0.9,g0=0.7,λ=1.5,Z∼U[0,1],θ=1,γ=0.54,φ=5x+0.04(1−x), andδ=0.0001. The gray area in the first panel shows the region ofμ̂in which trade breaks down. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Long-term distribution of informativeness. This distribution is computed by sampling 10,000 equally spaced observations over a simulation of 100,000 periods in calendar time and approximating the density with a Gaussian kernel. The gray area shows the region of τ in which trade breaks down. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Impulse response. The figure plots the impulse response after, in period 1,000, a series of consecutive unlikely observations shift the economy into the illiquid region. The quantiles are computed over 5,000 simulations, each 10,000 periods long in calendar time. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

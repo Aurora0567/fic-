@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Input-output network at the sector level. This picture contains a network representation of the Bureau of Economic Analysis (BEA) Input-Output Accounts for 2012 at the sector level, that is, two-digit North American Industry Classification System (NAICS) code level. An arrow from sectorjto sectorimeans thatjis selling toi; the intensity of the arrow (transparency and width) indicates how muchiis buying fromjrelative to other suppliers. Each node (circle) represents a different sector in the economy, with the size of nodes representing output shares. Node labels specify the two-digit NAICS sector.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Changes in network sparsity and network concentration. This figure shows three simulated networks with 23 sectors. Panel A presents a network with low network sparsity and low network concentration. Panel B presents a network with low network concentration, but high network sparsity. Panel C presents a network with high sparsity and high concentration.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Network factors and network representation. This picture contains representations of three different networks. In Panel A, the weights in Network 1 arew1,1=w1,2=w2,1=w2,2=0.5. In Panel B, the weights in Network 2 arew1,1=w2,2=0.1andw1,2=w2,1=0.9. In the Panel C, the weights in Network 3 arew1,1=w2,1=0.9andw1,2=w2,2=0.9. Network edges (arrows) represent input flows, with the width of edges representing network weights. Each node (circle) represents a different sector in the economy, with the size of nodes representing output shares. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Different networks with same factors. This figure plots two distinct networks that have the same network factors. In Panel A, the weights in Network 4 arew1,1=w1,2=w2,1=w2,2=w3,1=w3,2=0.4andw1,3=w2,3=w3,3=0.2. In Panel B, the weights in Network 5 arew1,1=w2,1=w3,1=0.48andw1,2=w1,3=w2,2=w2,3=w3,2=w3,3=0.26. Network edges (arrows) represent input flows, with the width of edges representing network weights. Each node (circle) represents a different sector in the economy, with the size of nodes representing output shares. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Network factors. This figure shows the time series of concentration (solid line) and sparsity (dashed line) computed from Compustat. Panel A shows the factor levels, while Panel B shows the innovations (one period difference). The sample is from 1980 to 2013 at an annual frequency.",
+        "correlation": []
+    }
+}

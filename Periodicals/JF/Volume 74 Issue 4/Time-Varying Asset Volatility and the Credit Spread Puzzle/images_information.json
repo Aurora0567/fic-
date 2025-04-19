@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Levered and unlevered variance risk premia and volatilities. This figure illustrates the interplay between leverage, volatility of assets, and the equity variance risk premia (EVRP), computed using equation5. Panel A plots asset and equity variance risk premia versus leverage. Panel B plots the two types of variance risk premia against the variance risk premium parameterλV. Panel C plots the volatility of asset and equity variance dynamics against leverage. Finally, Panel D plots variance risk premia against the volatility of asset variance. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Sharpe ratios in the presence of variance risk. This figure plots the variation in Sharpe ratios of asset, equity, and debt as a function of a firm's leverage ratio. The parameters are those of the base case depicted in TableI. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Relative performance of the SVJ and the nested SV and CV models. This figure summarizes the pricing performance of the SVJ model specification and compares it to the nested stochastic volatility (SV) and constant volatility (CV) models. The top panel in this figure plots the median bias, that is, the model minus market spreads in basis points, per maturity segment. The median bias is calculated across the predicted spreads for the 49 firms in our sample. The second panel plots the basis point root mean squared error for the two model specifications across maturity segments for the same sample of firms. Recall that, in our estimation, the five-year CDS spread is assumed to be perfectly observed, so no pricing error results. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Credit spreads and risk premia. The two upper panels plot (for the 1- and 10-year tenors, respectively) mean market spreads, full model spreads, and spreads where we shut down the variance risk premium and jumps in the model. The middle left panel plots the average option-implied equity volatility. The middle right panel plots the proportion of variance risk premium (VRP) in spreads for firms rated A to AAA (“high rating”), those rated BBB, and those rated less than BBB (“low rating”). The lower left panel plots spreads with and without risk premia. The “Full” line represents the complete SVJ model with all risk premia as estimated. The lowest line represents the expected loss component of the term structure that would obtain in a constant volatility (CV) model, and the next two lines represent the expected loss components in the full model (SVJ) and the stochastic volatility model without jumps (SV). The bottom right panel plots the term structures of total risk premia, diffusive risk premia (DRP), variance risk premia (VRP), and jump risk premia (JRP). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Stochastic volatilty, variance risk, and the firm's default policy. This figure illustrates how a firm's endogenous default policy depends on the firm's asset variance dynamics. The first two panels show how the default boundary depends on the parameters that govern the physical dynamics of asset variance. The final plot considers the influence of a variance risk premium (VRP) on the default decision. As a benchmark, we also plot the constant volatility boundary in Leland (1994), to which ours converges in the limit when asset variance becomes a constant. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Stochastic volatility, variance risk, and the firm's leverage policy. The tax rate is assumed to be 35% and the proportional costs of financial distress, realized at default, amount to 50%. The initial asset variance is 0.22, the speed of mean reversion κ is 4, the correlation between the asset value and variance shocks ρ is −0.15, and the volatility of asset variance σ is 0.30. The default boundary is endogenous. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

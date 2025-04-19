@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "The structure of the ex-ante optimal disclosure policy."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Comparative statics of the optimal disclosure policy with respect to ρ."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Comparative statics of the optimal disclosure policy with respect to μ."
+        ],
+        "correlation": []
+    }
+}

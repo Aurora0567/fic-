@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Percentage of articles that mention positive returns about firms in the top 20th percentile of campaign contributions to the Republican and Democratic Parties, in the New York Times and Wall Street Journal."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Results from Table 2 describing Positive Words and Tone as a function of %Contributions to Republican Party. Fig. 2A (left) describes the predicted difference in Positive Words used in the WSJ compared to the NYT as a function of %Contributions to Republican Party. Fig. 2B (right) describes the predicted difference in Tone used in the WSJ compared to the NYT as a function of %Contributions to Republican Party. Spikes represent 90% confidence intervals for the coefficient estimates."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Results from Table 3 describing Abnormal Trading Volume as a function of Disagreement in Coverage for Top Donor and Non Top Donor firms. Fig. 3A (left) compares abnormal trading volume for firms that are top donors (solid line) to those that are not top donors (dashed line) as a function of Difference in Tone between the two newspapers. Fig. 3B (right) compares abnormal trading volume between Top Donors (solid line) and Non Top Donors (dashed line) as a function of Cosine Difference between the two newspapers. Shaded spikes represent 90% confidence intervals."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Results from Table 5 comparing the likelihood and tone of coverage as a function of % Contributions to Republican Party before and after the WSJ was acquired by News Corporation. Fig. 4A (left) shows the likelihood that an article about a firm on a given day appears in the WSJ versus the NYT in the Pre-News Corp (dashed line) and Post-News Corp (solid line) years. Spikes represents 90% confidence intervals. Fig. 4B (right) shows the tone of coverage in the WSJ in the Pre-News Corp (dashed line), and the Post-News Corp (solid line) years. Spikes represent 90% confidence intervals."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Results from Table 7 of likelihood of coverage and article length as a function of % Contributions to Republican Party. Fig. 5A (left) describes the likelihood that an article about a firm appears in the WSJ (dashed line) or the NYT (solid line). Fig. 5B (right) describes article length (total words) in the WSJ (dashed line) and NYT (solid line). Spikes represent 90% confidence intervals for the coefficient estimates."
+        ],
+        "correlation": []
+    }
+}

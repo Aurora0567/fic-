@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Zombie credit and inflation. This figure shows the year-over-year (yoy) growth of the CPI on the left axis and the asset-weighted share of zombie firms in our sample on the right axis. A firm is classified as zombie if it is low quality (i.e., above-median leverage and below-median interest coverage ratio) and receives subsidized credit (interest expenses/debt lower than that of AAA-rated industry peers in a given year). See SectionII.Bfor a detailed explanation of how we identify zombie firms in the data. Sources: Eurostat, Amadeus. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Intuition. This figure shows how zombie credit affects the equilibrium quantity and price. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Firm shares and firm financing. Panel A shows the share of zombie firms relative to all low-quality firms (solid line) and the share of low-quality firms relative to all firms (dashed line). Panel B shows the growth rate in bank and bond financing as a fraction of total debt relative to the beginning of our sample period for zombie firms (dotted line), low-quality nonzombie firms (dashed line), and high-quality firms (solid line). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Evolution of leverage and interest rates. This figure shows the evolution of interest rates and leverage for zombie firms. Year 0 corresponds to the first sample year in which a firm is classified as zombie. The zombie status can change after year 0, that is, the zombie condition is not imposed for years 1 to 4. The performance of zombies is compared to a matched sample of low-quality firms. Panel A shows the evolution of asset-weighted interest rates, while Panel B shows the evolution of asset-weighted leverage. The long dashed line in Panel A represents the benchmark interest rate below which debt is classified as subsidized. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Ex post firm default rates. Panel A shows the cumulative ex post default rate of zombie firms (firms that have been zombies continuously since at least 2012) and low-quality nonzombie firms (low-quality nonzombie firms that were never classified as zombies). Panel B shows the coefficients from specification (1). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Inflation dynamics—nonparametric evidence. This figure shows inflation (year-over-year CPI growth) at a monthly frequency for markets that experienced an above-median (High Zombie) and below-median (Low Zombie) increase in the asset-weighted share of zombie firms between 2009 and 2014. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "CPI growth counterfactual. This figure shows the actual CPI growth in our sample and two counterfactual CPI growth rates. The counterfactual inflation rates are measured as the CPI growth that would have prevailed from 2012 to 2016 if weakly capitalized banks entered our sample period with a higher Tier 1 ratio. Specifically, we consider the cases in which banks with a Tier 1 ratio below 9% and 10% in 2009, respectively, are recapitalized to the respective threshold value. For each counterfactual, the label includes the respective share of markets that would have become zombie-free, as well as the average spread between the actual CPI growth and the counterfactual CPI growth. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

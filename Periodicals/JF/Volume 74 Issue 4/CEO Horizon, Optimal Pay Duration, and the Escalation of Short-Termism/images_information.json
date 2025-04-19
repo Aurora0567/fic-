@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Solution to principal's optimization problem. Parameters:r=0.1,γ=1,g=1,θ=0.4,κ=0.3,σ=2,T=10, andτ=5. This plot shows the solution of the optimal contract in thet,zspace. The bottom left panel reveals that manipulation is zero when bothtandzare low. Astapproaches retirement dateT, manipulation escalates. In general, incentives are stochastic, as reflected byσzt≠0. However, the sign ofσztdepends on bothtandzt. Early in the CEO's career, the contract is virtually deterministic, but as the manager approaches retirement, the contract implements performance contingent vesting, which leads to vesting being positively correlated with performance.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Lower bound (z¯(t)) and drift (Et(dzt)) of incentives. Parameters:r=0.1,γ=1,g=1,θ=0.4,κ=0.3,σ=2,T=10, andτ=5. This plot shows the evolution ofz¯(t)together with the drift of the continuation value. The lower boundz¯(t)decreases over time toward zero, and the drift ofztis negative, which means that long-term incentives revert toward the targetz¯(t). The black curve representsz¯(t), while the contour lines represent the value of drift,Et(dzt), for different pairs(t,z). The relevant state space on path corresponds to the pairs(t,z)above the curvez¯(t). A darker background represents a lower (more negative) drift.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Expected path optimal contract. The expected path is computed simulating 1,000 paths and using antithetic variates for variance reduction. Parameters:r=0.1,γ=1,g=1,θ=0.4,κ=0.3,σ=2,T=10, andτ=5. The left panel shows the escalation of manipulation over time. To attenuate manipulation, the contract reduces short-term incentives over time, leading to a profile of decreasing effort. The right panel shows that the contract's volatility is very low at the beginning, but as times goes by the volatility of incentives increases and long-term incentives become negatively correlated to performance.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Deterministic contract. Parameters:r=0.1,γ=1,g=1,θ=0.5,κ=0.3,σ=2,T=10, andτ=1. The deterministic contract exhibits three regions. First, the CEO horizon is long enough such that manipulation is not an issue and effort is relatively high. Second, the contract implements zero manipulation but the manipulation constraint is binding, which leads to a decreasing effort profile. Third, implementing zero manipulation is too costly, and the manipulation and effort profiles are increasing.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Comparative statics. Baseline parameters:r=0.1,γ=5,g=1,θ=0.4,κ=0.3,σ=2,T=8, andτ=2.",
+        "correlation": []
+    }
+}

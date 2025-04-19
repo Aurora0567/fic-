@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Model overview. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium for assets and asset management. This figure illustrates the equilibrium determination of the number of searching investorsAand the number of informed asset managersM. Each investor decides whether to search for an asset manager or invest uninformed depending on the actions(A,M)of everyone else; similarly, managers decide whether to acquire information. The right-most crossing of the indifference conditions is an interior equilibrium. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Equilibrium effect of lower investor search costs. This figure illustrates that lower costs of finding asset managers imply more active investors in equilibrium and hence increased asset market efficiency. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equilibrium effect of lower information acquisition costs. This figure illustrates that lower costs of acquiring information about assets implies more active investors and more asset managers in equilibrium and hence increased asset market efficiency. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Testing the model at three levels. The figure illustrates stylistically the three layers for which our model has new cross-sectional implications: investors, asset managers, and financial markets. Further, the model also makes predictions on the interaction between these layers, that is, the interaction between investors, securities, and the industrial organization of asset management. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

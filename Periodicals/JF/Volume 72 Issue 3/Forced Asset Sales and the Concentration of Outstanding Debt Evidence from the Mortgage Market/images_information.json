@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "County coverage of the loan-level sample.",
+        "correlation": []
+    },
+    "2": {
+        "description": "County coverage of the zip code–level sample.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Distribution of the Top 4 index for select U.S. counties (2004 to 2006).",
+        "correlation": []
+    }
+}

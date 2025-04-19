@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Kernel density of standard deviations of conglomerate excess values. The figure plots the kernel density of the time-series standard deviation of two measures of conglomerates' excess value, where excess value is the log-difference between the conglomerates' true and imputed values. Imputed values are calculated as the sales-weighted sum of either the new divisionalqs obtained from quantile regressions using the 10 Fama-French industries (solid line) or the medianqs of standalone firms in the respective four-digit SIC industries as in Berger and Ofek (1995) (dashed line). For each firm, the standard deviation of the timeseries of its excess values is computed, requiring at least five consecutive observations.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The timeseries of relative divisionalqs. This figure plots relative divisionalqs for divisions in the 10 Fama-French industries.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "Lead-lag correlations. This figure presents correlations between macroeconomic activity and credit spreads. In the left (right) panel, the credit spread (macroeconomic activity) is lagged from zero up to eight quarters. Black, dark gray, and light gray bars indicate significance (using Newey-West standard errors) at the 1%, 5%, and 10% level, respectively. Dictated by data availability, the first, second, and third row of correlations are estimated with data from 1973Q1 to 2016Q2, 1967Q2 to 2017Q4, and 1919Q1 to 2017Q4, respectively.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Impulse responses of credit spreads to structural macro shocks. This figure presents the impulse response function (with 90% bootstrapped confidence intervals) of credit spreads to a one-standard-deviation structural shock in macroeconomic activity, which is ordered first in the VAR (see SectionII.A). The credit spreads are standardized to have zero mean and unit standard deviation. The impulse responses in the Panels A, B, and C are estimated with data from 1973Q1 to 2016Q2, 1967Q2 to 2017Q4, and 1919Q1 to 2017Q4, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Impulse responses of macroeconomic activity and credit spreads to external shocks. This figure presents the impulse response function (with 90% confidence interval constructed using Newey-West standard errors) of macroeconomic activity and credit spreads to three types of external shocks from local projections (see equation (4)). The size of the shock (indicated above each set of two panels) is one-standard-deviation. Responses of macroeconomic activity (top row of panels) and credit spreads (bottom row of panels) are standardized to have zero mean and unit standard deviation. The local projections control for four lags of macroeconomic activity, the credit spread, and the shock. For oil supply, the sample runs from 1975Q1 to 2017Q4. For IST news, the sample runs from 1952Q1 to 2012Q1. For defense spending news, we consider two sample periods: (i) the full sample from 1919Q1 to 2015Q4 and (ii) the subsample from 1935Q1 to 1959Q4 (i.e., excluding the period after the Korean War when this instrument is weak). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Forecast error variance decompositions of macroeconomic activity and credit spreads. Analogous to Figure3, this figure presents forecast error variance decompositions (with 90% confidence interval and bias-adjustment computed using bootstrap) of macroeconomic activity and credit spreads for three types of external shocks from local projections (see equations (5) and (7)). For oil supply, the sample runs from 1975Q1 to 2017Q4. For IST news, the sample runs from 1952Q1 to 2012Q1. For defense spending news, we consider two sample periods: (i) the full sample from 1919Q1 to 2015Q4 and (ii) the subsample from 1935Q1 to 1959Q4 (i.e., excluding the period after the Korean War when this instrument is weak). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Joint forecast error variance decomposition for the three shocks. This figure presents for macroeconomic activity (CFNAI$CFNAI$, Panel A) and credit spreads (GZ$GZ$, Panel B) the joint contribution to the forecast error variance (with 90% confidence interval and bias-adjustment computed using bootstrap) from all three shocks (oil supply, IST news, and defense spending news). Dictated by data availability, the sample period used for this exercise is 1975Q1 to 2012Q1. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Impulse responses of Gilchrist and Zakrajšek(2012)credit spread and its components. This figure is similar to Figure3and presents the impulse response function (with 90% confidence interval constructed using Newey-West standard errors) of the GZ spread decomposed to a one-standard-deviation oil supply (top panels) and IST news (bottom panels) shock. The response of the two components is scaled such that they sum to the response ofGZ$GZ$, which is standardized. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Impulse responses of Nozawa(2017)credit spread and its components. This figure is similar to Figure3and presents the impulse response function (with 90% confidence interval constructed using Newey-West standard errors) of theCS$CS$spread decomposed to a one-standard-deviation oil supply (top panels) and IST news (bottom panels) shock. The response of the two components is scaled such that they sum to the response ofCS$CS$, which is standardized. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Impulse responses of expected returns to shocks. This figure presents the impulse response function (with 90% confidence interval constructed using Newey-West standard errors) of expected corporate bond returns to oil supply (top panels) and IST news (bottom panels) shocks, estimated following the setup of equations (3) and (4). Expected returns are estimated by projecting realized corporate bond returns on two macro variables (CFNAI$CFNAI$andINF$INF$, see specification (2) in TableII). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Oil supply shocks and forecast errors. The panels on the right side of this figure present the impulse response function to oil supply shocks (with 90% confidence interval constructed using Newey-West standard errors) of forecast errors for GDP, the SPF survey-based credit spread, and the Blue Chip (BC) survey-based credit spread. The response of forecast errors is the difference between the response of the realization of each variable and its forecast, which are reported on the left. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "IST news shocks and forecast errors. The panels on the right side of this figure present the impulse response function to IST news shocks (with 90% confidence interval constructed using Newey-West standard errors) of forecast errors for GDP, the SPF survey-based credit spread, and the Blue Chip (BC) survey-based credit spread. The response of forecast errors is the difference between the response of the realization of each variable and its forecast, which are reported on the left. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Impulse responses for high, mid, and low leverage. This figure is similar to Figure7, but separates the impulse responses of bonds of firms with high, mid, and low leverage to oil supply (top panels) and IST news (bottom panels) shocks. Each figure presents the impulse response functions (with significant coefficient estimates at the 90% level highlighted by a “○”) from local projections (see equation (4)). The size of the shock is one-standard-deviation. The response of long-term risk premia and credit losses are normalized to sum to the response of credit spreads. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "12": {
+        "description": "Impulse responses of equity risk premia to external shocks. This figure presents the impulse response functions (with 90% confidence interval constructed using Newey-West standard errors) for three proxies of equity risk premia: (i) the dividend-to-price ratio (DP$DP$, top panels), (ii) the risk aversion implied by a calibration of the Campbell and Cochrane (1999) habit model to postwar consumption data (RA$RA$, middle panels), and (iii) the news implied volatility index of Manela and Moreira (2017,NVIX$NVIX$, bottom panels). The responses are estimated as in equation (4), the proxies are standardized, the size of the shock is one-standard-deviation, and the projections control for eight lags of macro activity, the proxies, and the shock. For oil supply, the sample runs from 1975Q1 to 2017Q4. For IST news, the sample runs from 1952Q1 to 2012Q1. For defense spending news, the sample runs from 1919Q1 to 2015Q4. To maximize the length of the sample period used for each shock, we employCFNAI$CFNAI$to measure macro activity in the case of oil supply andGDPDT$GDP_{DT}$for the remaining shocks. We do not study defense spending news in conjunction withRA$RA$because this instrument is weak over the sample withRA$RA$available. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

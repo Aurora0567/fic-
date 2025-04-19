@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Future annualized returns after fees: controlling for DVA. For each calendar year of data, mutual funds are sorted into quintile portfolios based on fund DVA as defined in (A3). Each quintile portfolio is then divided into three subgroups depending on the sample distribution of factor-related average returns in (2) across all funds, as estimated over the same four-year period. I compute the monthly AUM-weighted net returns over the next 12 months for the top-tercile-FRR and bottom-tercile-FRR portfolios. The time series of the monthly AUM-weighted returns is regressed on the FFC four factors and the seven factors in (1) to obtain the future benchmark-adjusted returns for a given fund portfolio. The dotted and dashed lines denote 95% and 90% confidence intervals, respectively.",
-        "correlation": []
-    }
-}

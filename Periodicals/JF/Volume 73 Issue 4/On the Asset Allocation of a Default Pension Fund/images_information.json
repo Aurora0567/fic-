@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Calibration and model fit. The figure shows the fit of the model to the data. The model simulation is based on 50 economies and 11,500 individuals. Financial wealth is expressed in SEK 1,000s. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Model fit of participants/nonparticipants and default/opt-out investors. The figure shows the average labor income and financial wealth (both in SEK 1,000s) of default/opt-out and participant/nonparticipant investors. The separation of default/opt-out investors is a result of an endogenous choice when investors are exposed to the “100-minus-age” default design (as in the calibration). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Averages for default and opt-out investors. The figure shows averages over 50 economies and 11,500 individuals for the optimal asset allocation of opt-out and default investors (4,754 vs. 6,746 individuals). The two groups are a result of an endogenous choice when investors are exposed to the “100-minus-age” default design (as in the calibration). Labor income and pension, consumption, notional and DC accounts, and financial wealth are expressed in SEK 1,000s. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Aggregate equity risk and inequality implied by the optimal asset allocation. The figure shows the aggregate equity risk and inequality for the optimal asset allocation of default investors. The simulation is based on 50 economies and 11,500 individuals. The left panels show how the averages vary over 50 economies. The second decile corresponds to the average of economies 6 to 10 (sorted). The ninth decile corresponds to the average of economies 41 to 45 (sorted). The right panels show how the averages vary over individuals who endogenously become default investors. A decile is then 1/10 of these default investors. The same economies and individuals are not tracked over time, that is, the sorting at one age is independent of the sorting at another age. The DC account, labor income and pension, and financial wealth are expressed in SEK 1,000s. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

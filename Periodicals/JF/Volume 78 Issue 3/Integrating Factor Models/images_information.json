@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Cumulative posterior probabilities of asset pricing models. This figure plots the cumulative posterior probabilities for the universe of candidate models in a BMA framework for different values of τ. The candidate modelsM1$\\mathbb {M}_1$toM4$\\mathbb {M}_{4}$are specified in TableI. The cumulative posterior probabilities for modelsM1$\\mathbb {M}_1$toM4$\\mathbb {M}_{4}$are defined in equations (IA.72), (IA.64), (IA.41), and (IA.30) in theInternet Appendix, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "BMA model performance. This figure plots the cumulative excess returns on an initial $1 investment for the market portfolio (MKT) and three tangency portfolios based on the integrated model. We employ a prior Sharpe multiple ofτ=1.5$\\tau =1.5$and consider three in-sample periods that correspond to the full sample (T), half of the sample (T2$\\frac{T}{2}$), and two-thirds of the sample (2T3$\\frac{2T}{3}$). The tangency portfolios are levered to the extent that their in-sample return volatility is the same as that of the market portfolio. The leverage ratios are carried forward to the out-of-sample periods. The blue dashed lines mark the end of the in-sample periods forT2$\\frac{T}{2}$and2T3$\\frac{2T}{3}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "Model disagreement: Entropy increase. This figure plots the contribution of the model disagreement component to the covariance matrix over time. We employ a prior Sharpe multiple ofτ=1.5$\\tau =1.5$, and consider three in-sample periods that correspond to the full sample (T), half of the sample (T2$\\frac{T}{2}$), and two-thirds of the sample (2T3$\\frac{2T}{3}$). Panel A plots the time series of the relative increase in entropy,EIt$EI_t$, in equation (25). Panel B plots, for each factor, the time series of the contribution to the overall entropy increase,EIk,t$EI_{k,t}$in equation (26). The blue dashed lines mark the end of the in-sample periods forT2$\\frac{T}{2}$and2T3$\\frac{2T}{3}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Model disagreement in mispricing, factor loadings, and risk premia. This figure plots, for each factor, the time series of the model disagreement in time-varying mispricing (α1zt$\\alpha _1 z_t$), fixed factor loadings with time-varying risk premia (β0aFzt$\\beta _0 a_F z_t$), time-varying factor loadings with fixed risk premia (β1(I⊗zt)αf$\\beta _1 (I \\otimes z_t) \\alpha _f$), time-varying factor loadings with time-varying risk premia (β1(I⊗zt)aFzt$\\beta _1 (I \\otimes z_t) a_F z_t$), and time-varying risk premia (aFzt$a_F z_t$), as defined in equations (IA.115) and (IA.117) in the Internet AppendixVIII. We employ a prior Sharpe multiple ofτ=1.5$\\tau =1.5$, and consider the in-sample period that corresponds to two-thirds of the sample (2T3$\\frac{2T}{3}$). The blue dashed lines mark the end of the in-sample period for2T3$\\frac{2T}{3}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Dispersion in portfolio choice and performance. Panel A plots, for each factor, the time series of the dispersion in tangency portfolio weights. Panel B plots the time series of the dispersion in tangency portfolio returns. We employ a prior Sharpe multiple ofτ=1.5$\\tau =1.5$, and consider the in-sample period that corresponds to two-thirds of the sample (2T3$\\frac{2T}{3}$). The blue dashed lines mark the end of the in-sample period for2T3$\\frac{2T}{3}$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

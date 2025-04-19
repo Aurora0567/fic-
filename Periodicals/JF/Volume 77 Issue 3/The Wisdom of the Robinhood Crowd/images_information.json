@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "RH holding changes by previous day net-of-market rate of return. Stock-days are first grouped by net-of-market stock returns into about 20 (not equally spaced) categories. Within each category, they-axis presents mean (change) statistics for the full sample (dark line) and two subsamples (light lines, pre-2020 and post-2020) for the subsequent day. Panel A assigns +1 and –1 to stock-days on which the RH number increased and decreased, respectively, and plots the mean over all stock-days in each rate of return bin. Panel B shows the net change in theARHinvestment weight. This weights a larger number of investor changes more (common in large stocks with more RH holders) and also considers otherARHchanges on the same day. The sample begins in June 2018 and ends in September 2020.Interpretation: RH investors preferentially purchase large movers. This is similar to the behavior of other retail investors described in earlier work. Contrarian increases are concentrated in small stocks with smaller weight increases relative to the increases in the total number of RH holdings. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Sum-total RH holdings and stock market performance, 2018 to 2020. Panel A shows the total number of RH investors. The green line shows the public interest in COVID according to Google Trends. Panel B shows the S&P 500 index and the percentage change in the sum-total of RH holdings. The red line indicates zero growth. (FigureA.1is a closeup for 2020.)Interpretation: RH investing accelerated during the U.S. COVID crisis. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "2018 to 2020 RH systematic contrarianism by horizon. This figure shows the percentage change in the sum-total of RH holdings versus the S&P 500 rate of return, similar to TableII, but inx-yrather than time-series format. The aggregation periods are contemporaneous, equally long forxandyvariables, and overlapping for the longer intervals. Days with large changes are indicated. The lines are fitted by a local polynomial regression (R loess) with a span of 0.75.Interpretation: Large S&P 500 price drops did not deter RH investors.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Snapshot ARHweightsby log-rank of market cap. Each point is one stock's percentage investment weight inARH. These weights are plotted against the log market-cap rank (from CRSP). For example, although AAPL was the biggest stock, accounting for 5.2% of the total CRSP market cap on June 30, 2020, it accounted for “only” 1.85% of theARHportfolio (as marked). For stocks with unusually largeARHinvestment weights, and for the biggest stocks, the plots show ticker symbols instead of points. The black line fits the (RH) points. For comparison, the blue line shows a smoothed line that a market-cap weighted portfolio would have assigned. Both lines are fitted via R loess with a span of 0.75.Interpretation: Relative to a value-weighted portfolio, RH investors typically underinvested in the biggest 500 stocks, especially in mid-2020. They overinvested in many consumer-related tech stocks, as well as fallen angels (such as Ford (F), General Electric (GE), and United Airlines (UAL)). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Sum-Total RH holdings and stock market performance in 2020. This figure is a closeup of Figure2.Interpretation: The COVID-related drop in the stock market coincided with an acceleration of sum-total RH positions. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

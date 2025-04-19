@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Anomaly returns around earnings announcement days. This figure plots the coefficients from regressions of daily returns on theHigh NetandLow Netdummy variables, dummies for three-day windows around earnings announcements, interactions betweenHigh NetandLow Netand the three-day window dummies, and day fixed effects. Returns are expressed in basis points.High NetandLow Netare defined in TableII. The figure plots the sum of the coefficients for the interactions and the coefficients forHigh Net(Long; darker line) andLow Net(Short; lighter line), that is, we plot the overall effect ofHigh NetandLow Netfor each of the seven three-day windows.",
-        "correlation": []
-    }
-}
