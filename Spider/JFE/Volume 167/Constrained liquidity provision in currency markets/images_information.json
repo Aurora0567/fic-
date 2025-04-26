@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Timeline."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Liquidity supply and demandNote: This figure plots liquidity costs against dealer-intermediated volumes. The baseline parameters are π=0.7, ex=1.2, ey=1.1, ez=1.32, where π denotes the fraction of traders that are buyers (sellers) in currency pair x (y), ex, ey, and ez denote the fundamental values of currency pairs x, y, and z, respectively. When the dealer is unconstrained (i.e., S), η=0.05 and ω=0.2, whereas η=0.1 and ω=0.4 when the dealer is constrained (i.e., S’). The solid lines indicate the equilibrium outcomes when varying the volatility of the exchange rates σ from 0.5 to 0.7. The parameter space for the left and right panel are identical. The only difference is the assumption that the liquidity supply curve does not shift in the counterfactual, that is, holding σ, η, and ω constant (left panel). Both liquidity costs and dealer-intermediated volume are normalised to unity."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "No-arbitrage violations and round-trip transaction costsNote: This figure plots the 22-day moving averages of hourly triangular no-arbitrage deviations VLOOP (left y-axis) and round-trip trading costs TCOST (right y-axis), respectively, for 15 triplets of currency pairs. Both variables are measured in basis points. The numbers in the titles refer to the correlation coefficient of VLOOP and TCOST. The sample covers the period from 1 November 2011 to 30 September 2022."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "State variables: Dealer constraint measure (DCM) and its componentsNote: This figure plots different state variables that we observe at the daily and quarterly frequencies. Observations have been standardised by subtracting the sample mean and dividing by the standard deviation of every variable. The three state variables are primary FX dealer banks’ (i) daily debt funding cost yield (DFC, solid grey line), (ii) quarterly Value-at-Risk measure (VaR, dashed black line), and (iii) the number of VaR breached in a given quarter (NVB, dashed grey line). We define our dealer constraint measure (DCM, black solid line) as the first principal component across these four variables. The sample spans from 1 November 2011 to 30 September 2022."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Dynamic impulse response function for EUR-USD-JPY; VLOOPNote: This figure plots the estimated dynamic impulse response of the shadow cost of intermediary constraints (VLOOP) and dealer-intermediated volume (VLM) associated with liquidity supply and demand shifts. The median response is shown by the black solid line. The grey shaded area marks a 95% confidence interval around the median. The sample covers the period from 1 November 2011 to 30 September 2022."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Dynamic impulse response function for EUR-USD-JPY; TCOSTNote: This figure plots the estimated dynamic impulse response of dealers’ compensation for enduring inventory imbalances (TCOST) and dealer-intermediated volume (VLM) associated with liquidity supply and demand shifts. The median response is shown by the black solid line. The grey shaded area marks a 95% confidence interval around the median. The sample covers the period from 1 November 2011 to 30 September 2022."
+        ],
+        "correlation": []
+    }
+}

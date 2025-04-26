@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "Model timeline. A credit-sensitive reference rateR$R$such as LIBOR is of the formr+W$r + W$, for some credit-spread benchmarkW$W$. A risk-free reference rate such as SOFR is of the formR=r$R=r$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Bank funding rates during financial distress. This figure shows funding spreads during the GFC (Panel A), and COVID pandemic (Panel B). Data Sources: FR 2420, FRED, FHLB Des Moines Historical Rate File. “All-in” FHLB spreads are calculated similarly to Ashcraft, Bech, and Frame (2010), with additional parameters to capture equity cost for FHLB stock. Overnight Corporate deposit rates are calculated from bank-level transactions in the FR 2420 report. Deposit and SOFR are over the effective federal funds rate of the same date. AppendixAprovides details on how these series are constructed. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "3": {
+        "description": "The risk-neutral probability density of LIBOR-OIS, the borrowers' liquidity preference shock, and the deposited fraction of drawn credit. The baseline probability density ofW$W$shown in the left panel is a mixture of two parametric distributions: With probabilityp=0.04$p=0.04$,W$W$has a conditional normal distribution with a GFC-like mean of 350 basis points and standard deviation of 40 bps. With probability1−p=0.96$1-p=0.96$,W$W$has a conditional log-normal distribution with a mean of 27 bps and a standard deviation of 24 bps, fitted by maximum likelihood estimation to daily LIBOR-OIS observations from January 2005 to April 2021. The common componentK(W)$K(W)$of borrowers' liquidity shockψ$\\psi$, plotted in the left panel with a solid red line, is specified byK(x)=C1+C2min(x,x0)+C3(x−x0)++C4/1+e−C5(x−x0)$K(x) = \\mathcal {C}_1 + \\mathcal {C}_2 \\min (x, x_0) + \\mathcal {C}_3 (x - x_0)^+ + {\\mathcal {C}_4}/\\left({1+e^{-\\mathcal {C}_5 (x - x_0)}}\\right)$, with coefficientsx0=146.1$x_0=146.1$bps,C1=−5.9$\\mathcal {C}_1 = -5.9$,C2=1608.8$\\mathcal {C}_2 = 1608.8$,C3=80.0$\\mathcal {C}_3 = 80.0$,C4=21.3$\\mathcal {C}_4 = 21.3$, andC5=380.3$\\mathcal {C}_5 = 380.3$, which were fitted by least squares to line utilization data for our sample of 20 large banks, as detailed in SectionIEof theInternet Appendix. At each potential outcome ofW=$W= $LIBOR-OIS, the range of the cross-sectional distribution among borrowers of the total liquidity shock isψ=(K(W)+ε)+$\\psi =(K(W)+\\epsilon)^+$, whereε$\\epsilon$has probabilityυ=0.050$\\upsilon = 0.050$of a “rare-disaster” outcome ofεd=157.6$\\epsilon ^d = 157.6$and probability1−υ$1-\\upsilon$of being conditionally uniformly distributed on(−ε¯,ε¯)$(-\\overline{\\epsilon },\\, \\overline{\\epsilon })$, withε¯=62.6$\\overline{\\epsilon }= 62.6$. The fractionΦ(x)$\\Phi (x)$of drawn credit that is deposited at levelx$x$of LIBOR-OIS, shown in the right panel, is as specified by (12), withD=0.2$D=0.2$,θ=1.0$\\theta = 1.0$,m=0.1$m = 0.1$, andw0=146.1$w_0 = 146.1$bps. For comparison with the baseline model, we also provide results for an alternative “high-deposit” specification forΦ$\\Phi$, withD=0.75$D= 0.75$, as shown in the right panel. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "The empirical cross-sectional distribution of credit line utilization and the modeled fraction of borrowers that utilize the entire or none of the credit line. The data source for the left panel is FRY 14Q Schedule H. For the middle and right panels, the parameters determiningK$K$,Φ$\\Phi$, and the probability distributions ofW$W$andε$\\epsilon$are as specified in the caption of Figure3. The other parameters determining the underlying equilibrium model are massM=26.79$M = 26.79$of borrowers, required capital ratioC=0.06$C=0.06$, risk-free rater=0$r = 0$, line feef=20$f=20$bps, and credit demand elasticity parameterα=1/25$\\alpha = 1/25$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "The effect of the LIBOR-SOFR transition on credit line prices, aggregate drawn quantities, and aggregate quantities of credit lines. All parameters are as specified in the captions of Figures3and4. The horizontal dashed-dotted lines in the right panel indicate the sizes of the credit lines. Vertical purple, orange, and red dotted lines are shown at the sample average of LIBOR-OIS (28 bps), at the level of LIBOR-OIS reached in the COVID shock of March 2020 (140 bps), and at the level of LIBOR-OIS reached during the GFC (360 bps). The aggregate line limit is the product of the quantityM$M$of borrower-bank pairs and the per-capita credit line sizeL$L$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "The effect of increasing the maximal fraction of drawdown deposited. All parameters are as specified in the caption of Figure4, except for parametric variation of the maximal deposited fractionD$D$of drawn funding. The aggregate line limit is the product of the quantityM$M$of borrower-bank pairs and the per capita credit line sizeL$L$. The expected aggregate drawdown is defined similarly. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Bank pricing of credit lines as a function of bank quality. All parameters are as specified in the caption of Figure4, except for variation in the bank-quality parameterθ$\\theta$. The bank's funding spread when lines are drawn is the product ofθ$\\theta$and LIBOR-OIS. The left panel shows the associated impact on the aggregate line limit,M·L$M\\cdot L$. The right panel shows the impact on the aggregate amount of drawn credit,ME(Q(L))$ME(Q(L))$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Y-9C versus FR 2052a total liabilities coverage. Data Source: FR 2052a and FR Y-9C for banks in the FR 2052a monthly panel. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Corporate loans by reference rate. Data Source: FR Y-14Q. This figure displays outstanding corporate loan balances by underlying reference rate over time. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Credit line originations by underlying reference rate. This figure shows the number of new credit line originations each quarter by the loan's underlying reference rate. The vertical line on January 1, 2022 represents the first date on which banks were prohibited from originating new loans that reference LIBOR as the underlying rate. Observed LIBOR-linked issuance post-2022 likely reflects misreporting errors in the FR Y-14Q. Data Source: FR Y-14Q. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

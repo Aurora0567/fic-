@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Average Outcomes Before, During, and After the Treatment Notes. Averages are over 7,686 postal codes. Pretreatment period (before): 31 days. Treatment period: 14 days. Posttreatment period (after): 38 days.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Frequencies of Different Donation Values in the Treatment Period Notes. The available data are aggregated at the PLZ-day level. In the treatment period, there are two donations in 3.5% of instances, three donation in three instances, and four donations in one instance. In those cases, we assign the average donation to the respective category. Zero donations are the omitted category.",
+        "correlation": []
+    }
+}

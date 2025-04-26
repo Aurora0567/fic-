@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Factor risk-return trade-off and market volatility. This barplot illustrates how the risk-return trade-off for the nine factors in our data set varies with realized market volatility. We first use the monthly time series of realized market volatility to sort the months in our sample into terciles. For each factor, we then estimate the risk-return trade-off for month \n\nt\n$t$\n as the realized factor return for month \n\n\nt\n+\n1\n\n$t+1$\n divided by the monthly realized factor variance estimated as the sample variance of daily returns for month \n\nt\n$t$\n. Finally, we report the risk-return trade-off averaged across the months in each tercile. Blue bars correspond to the tercile containing low-market-volatility months, gray bars to medium-market-volatility months, and red bars to high-market-volatility months. The sample spans January 1977 to December 2020.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Transaction costs at the stock and factor levels. This figure depicts several descriptive statistics of the transaction costs estimated using the method of Abdi and Ranaldo (2017) described in equation (12). Panel A depicts how the 95th percentile, mean, median, and 5th percentile of individual stock transaction-cost parameters vary over time for the out-of-sample period from January 1977 to December 2020, with NBER recessions shaded in gray. Panel B depicts the average monthly transaction cost of trading the nine factors in our data set.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative returns of individual-factor portfolios. The nine graphs in this figure depict the out-of-sample cumulative returns net of transaction costs with trading diversification of each unmanaged factor (blue line) and its associated volatility-managed individual factor portfolio (red line) over the out-of-sample period from January 1977 to December 2020. The cumulative returns are reported in dollars, and the volatility-managed individual-factor portfolio is scaled to have the same volatility as the unmanaged factor.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Cumulative returns of multifactor portfolios. This figure depicts the out-of-sample cumulative returns net of transaction costs of the unconditional (UMV) and conditional (CMV) mean-variance multifactor portfolios over the out-of-sample period from January 1977 to December 2020. Returns are reported in dollars and the conditional multifactor portfolio is standardized to have the same volatility as its unconditional counterpart.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Gross and net-of-costs mean factor returns. This barplot depicts the monthly average factor returns (in percentage) of the nine unmanaged and volatility-managed factors. The figure compares three quantities for each factor: (i) its mean gross return, (ii) its mean return net of transaction costs ignoring trading diversification, and (iii) its mean return net of transaction costs accounting for trading diversification. For the case in which we account for trading diversification, we use the factor weights that solve Problem (6) in-sample. The sample spans January 1977 to December 2020.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Weights of unconditional and conditional multifactor portfolios. This figure depicts the in-sample weights of the unconditional multifactor portfolio (UMV, blue line) and the conditional multifactor portfolio (CMV, solid red line) from January 1977 to December 2020. The figure also depicts the average weights of the conditional multifactor portfolio (\n\n\nE\n[\nCMV\n]\n\n$E[\\text{CMV}]$\n, dashed red line). Each of the nine graphs depicts the weights for a particular factor.",
+        "correlation": []
+    }
+}

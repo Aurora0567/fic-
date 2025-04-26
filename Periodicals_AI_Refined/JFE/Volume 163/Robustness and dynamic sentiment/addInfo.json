@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Market Mindset: Uncovering the Hidden Forces Driving Investor Sentiment and Asset Prices\"",
+    "AIsummary": "This academic paper studies the field of finance and economics, specifically focusing on understanding dynamic sentiment and its impact on portfolio choice and general equilibrium asset pricing. The problem addressed in this paper is how to model and understand the time-varying nature of investor sentiment, which has been a long-standing challenge in the field of finance. Previous approaches have used robust control methods with entropy criterion, but these models are limited in capturing the complexity of investor sentiment.The authors propose a new approach using Cressie-Read divergences, which allows for endogenous and state-dependent dynamics of belief distortions. This method enables the modeling of both pessimism and optimism, as well as regime-switching between these states. The authors apply this model to understand portfolio choice and general equilibrium asset pricing, demonstrating its ability to generate rich dynamics and explain empirically relevant phenomena.The proposed method is a significant contribution to the field of finance, as it provides a new framework for understanding investor sentiment and its impact on financial markets. By allowing for endogenous sentiment and regime-switching, this model can capture complex market behaviors and provide insights into the drivers of asset prices.",
+    "AIkeys": [
+        "Sentiment analysis",
+        "Dynamic sentiment modeling",
+        "Cressie-Read divergences",
+        "Belief distortions",
+        "Regime-switching models",
+        "Portfolio choice theory",
+        "General equilibrium asset pricing",
+        "Financial market dynamics"
+    ],
+    "AItitle-cn": "“市场心态：揭示驱动投资者情绪和资产价格的隐藏力量”",
+    "AIsummary-cn": "这篇学术论文研究了金融和经济领域，特别关注理解动态情绪及其对投资组合选择和一般均衡资产定价的影响。本文探讨的问题是如何对投资者情绪的时变特性进行建模和理解，这一直是金融领域长期面临的挑战。之前的方法使用了具有熵准则的鲁棒控制方法，但这些模型在捕捉投资者情绪的复杂性方面存在局限性。作者提出了一种使用Cressie-Read分歧的新方法，该方法允许信念扭曲的内生和状态依赖动态。这种方法能够对悲观主义和乐观主义以及这些状态之间的政权更迭进行建模。作者应用该模型来理解投资组合选择和一般均衡资产定价，证明了其产生丰富动态并解释实证相关现象的能力。所提出的方法对金融领域做出了重大贡献，因为它为理解投资者情绪及其对金融市场的影响提供了一个新的框架。通过考虑内生情绪和制度转换，该模型可以捕捉复杂的市场行为，并提供对资产价格驱动因素的见解。",
+    "Highlights": "学术要点 1：Cressie-Read 分歧度（Cressie-Read Divergence） 一种用于衡量不确定性的程度的指标，用于描述主观预期与真实概率之间的差异。|||\n学术要点 2：时变效用理论（Time-Varying Preferences） 个体对风险和回报的态度会随着时间推移而变化，这种变化影响投资决策和资产定价。|||\n学术要点 3：自我更新机制（Self-Updating Mechanism） 个体根据新信息不断调整自己的信念和预期，进而影响其投资决策和风险态度。|||\n学术要点 4：时变有效风险厌恶度（Time-Varying Risk Aversion） 投资者对风险的厌恶程度会随着时间推移而变化，这种变化影响其投资决策和资产定价。|||\n学术要点 5：动态情绪模型（Dynamic Sentiment Model） 个体的情绪状态（如乐观或悲观）会影响其对风险的态度，从而影响投资决策和资产定价。",
+    "AIfig": "该图表展示了1990-2019年期间美国GDP增长率的实际值、预测值和VAR模型估计值，以及与此相关的信念扭曲现象。"
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Data and Empirical Strategy",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Illustrative Examples of Grocery Shopping Habits Note. Each plot shows two grocery shoppers in the final sample who display heterogeneous patterns of behavior in relation to each of the four grocery shopping habits of how to buy.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Hierarchical Structure of Consumer Segments Notes. We decompose our prediction problem into two binary classification problems, each corresponding to a split in the hierarchy of consumer segments. The first problem is to separate never-delinquents from delinquents, and delinquents are a meta-class that includes both sloppy payer and defaulter classes. The second problem is to discriminate, among delinquents, between sloppy payers and defaulters.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Nested Cross-Validation for Model Learning",
+        "correlation": []
+    }
+}

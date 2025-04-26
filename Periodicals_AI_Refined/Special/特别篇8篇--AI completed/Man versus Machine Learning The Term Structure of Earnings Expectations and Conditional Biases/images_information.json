@@ -1,0 +1,6 @@
+{
+"1": {
+        "description": "Partial dependence plot The figure plots the partial dependence plot of one-quarter-ahead realized EPS on analysts’ forecasts. The partial dependence plot is calculated from a random forest regression of EPS on the variables mentioned in Section 2.2. The figure is smoothed using a generalize additive model. The random forest regression for the figure uses 2,000 trees and a minimum node size of one. The data start in 1986 and end in 2019.",
+        "correlation": []
+    }
+}

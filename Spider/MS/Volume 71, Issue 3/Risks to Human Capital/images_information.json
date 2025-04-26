@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "(Color online) Agents’ Utility (CEV) and Input Resources in the Constraint Efficient Allocation Notes. We use the parameter values in the benchmark calibration. At each level of λ l , we adjust the reservation utility of the high-cash individual such that the maximum utility achieved by the investor is equal to that in the market equilibrium outcome. This choice is irrelevant for all statistics, except for λ h in the bottom-right panel. The solid black horizontal line shows the outcome of the variable of interest in the market equilibrium. The dashed black vertical line in all plots is a value of the λ l for which the reservation utility of an l -individual is equal to her utility in the market equilibrium.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Equilibrium in the Nonconvex Economy Notes. The figure illustrates the equilibrium in the economy with nonconvex investment. The curved line shows the inverse state-price density ^ 𝜋 π ^ as a function of o l and δ ; the step line curve is the fraction of l -type individuals investing, o l , as a function of ^ 𝜋 π ^ and δ . Equilibrium, shown as ⊛ ⊛ , is the point at which the two lines intersect. (a) The low δ case (Case 1 in Appendix A.3 ), at which 𝑜 𝑙 = 0 o l = 0 represents an equilibrium. (b) The high δ case (Case 2) in which 𝑜 𝑙 = 1 o l = 1 represents an equilibrium.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Payouts to Investors and to Individuals Notes. The figure shows the dividend payout to outside investors (a) and the per-capita consumption of the low cash-on-hand individual (b) as a function of TFP δ , where the x axis shows C D F ⁡ ( 𝛿 ) CDF ⁡ ( δ ) . For example, an x -value of 0.4 represents δ at the bottom 40% of the distribution. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) State-Price Density Notes. The figure shows the state-price density as a function of TFP δ , where the x axis shows C D F ⁡ ( 𝛿 ) CDF ⁡ ( δ ) . For example, an x value of 0.4 represents δ at the bottom 40% of the distribution. 𝜋 ⁡ ( 𝛿 ) π ⁡ ( δ ) is the state-price density. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Comparative Statics for Occupational Choice Notes. The figure shows comparative statics on the occupational choice for the low cash-on-hand individual. See Figure 1 and Table 3 for more detail.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Comparative Statics for Second-Period Aggregate Consumption Notes. The figure shows comparative statics on the second-period aggregate consumption. See Figure 2 and Table 3 for more detail.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Comparative Statics for Dividends Notes. The figure shows comparative statics on the dividend to investors. See Figure 3 and Table 3 for more detail.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Comparative Statics for Consumption of the Low Cash-on-Hand individual Notes. The figure shows comparative statics for consumption of the l -individual in the second period. See Figure 3 and Table 3 for more detail.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Comparative Statics for the State-Price Density Notes. The figure shows comparative statics on the state-price density. See Figure 4 and Table 3 for more detail.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Comparative Statics for Cash Flows and Asset Prices over a Wide Range of H Notes. The figure reports comparative statics on cash flows and asset prices resulting from varying the productivity H . The minimum and maximum values of the range of H is set to imply a per annum growth rate in the frictionless case of 0% and 5%, respectively. All other parameters are as in the benchmark specification ( Table 2 ). The vertical dotted lines represent the benchmark calibration. The equity premium and return volatility are calculated based on the dividend claim. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Comparative Statics for Welfare over a Wide Range of H Notes. The figure reports comparative statics on welfare resulting from varying the productivity H . The minimum and maximum values of the range of H is set to imply a per annum growth rate in the frictionless case of 0% and 5%, respectively. All other parameters are as in the benchmark specification ( Table 2 ). The vertical dotted lines represent the benchmark calibration. Welfare is measured in consumption terms (see Panel D of Table 4 ). The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "correlation": []
+    }
+}

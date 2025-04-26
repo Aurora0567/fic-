@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Application denial rates.Note: Denial rates conditional on credit decision, 2018–2021. Non-MEW includes first-lien purchase loans and rate/term refinances.Home Mortgage Disclosure Act data."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Decomposition of denial rate differences by product type.Note: Kitagawa–Blinder–Oaxaca decomposition of Black–White denial rate differences by product type, 2018–2021. Independent variables are the same as in Table 2 column (5).Home Mortgage Disclosure Act data."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Decomposition of denial rate differences by lender.Note: Kitagawa–Blinder–Oaxaca decomposition of Black–White denial rate differences by product type, 2018–2021. Each panel includes separate decompositions for the top 50 largest lenders in that product type. Independent variables are the same as in Table 2 column (5).Home Mortgage Disclosure Act data."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Lender strictness and unexplained racial gaps.Note: Includes cash-out refinance, home equity loan, and home equity line of credit applications from Black and White consumers reported by financial institutions in 2018–2021. Sample is restricted to the top 50 lenders by application within each product type. “Strictness” (x-axis) reflects lender fixed effects from the fully saturated denial rate model, estimated on White applicants only. “Unexplained racial gap” (y-axis) is the unexplained Black–White denial rate gap from the decompositions reported in Fig. 3.Home Mortgage Disclosure Act data."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Denial rate differences and racial animus.Note: Minority-White difference, 2018–2021. Each panel represents a binned scatterplot of minority coefficients obtained from separate regressions for each of the 184 media markets in our sample. Media market level racial animus is from Stephens-Davidowitz (2014). Independent variables are the same as in Table 2 column (5).Home Mortgage Disclosure Act data."
+        ],
+        "correlation": []
+    }
+}

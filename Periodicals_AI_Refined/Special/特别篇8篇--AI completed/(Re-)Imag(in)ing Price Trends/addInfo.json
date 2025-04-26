@@ -1,0 +1,17 @@
+{
+    "AItitle": "\"Revolutionizing Stock Predictions: How AI-Driven Image Analysis Cracks the Code on Market Volatility\"",
+    "AIsummary": "This paper studies the field of finance, specifically focusing on predicting future stock prices using Convolutional Neural Networks (CNNs). The problem of predicting stock prices has been a long-standing challenge in finance, with previous methods relying on traditional statistical models and machine learning techniques. However, these methods have limitations in handling complex patterns and non-linear relationships in financial data.The author proposes a novel approach to solving this problem by utilizing CNNs, which are commonly used in image processing tasks. The method involves representing financial data as images and then using CNNs to extract features and make predictions. This approach is motivated by the idea that financial data can be visualized and patterns can be extracted from it, similar to how CNNs work with images.The author introduces a building block for a CNN model that combines convolution, activation, and max-pooling to form a robust feature extractor. The output of this block is then fed into a fully connected layer for the final prediction step. The proposed method is designed to capture complex patterns in financial data and make accurate predictions about future stock prices.Overall, the paper presents a new approach to predicting stock prices using CNNs, which has the potential to improve upon traditional methods by leveraging the power of deep learning techniques.",
+    "AIkeys": [
+        "Convolutional Neural Networks",
+        "Stock Price Prediction",
+        "Financial Data Analysis",
+        "Deep Learning in Finance",
+        "Image-Based Financial Modeling",
+        "Time Series Forecasting",
+        "Machine Learning for Finance"
+    ],
+    "AItitle-cn": "“彻底改变股票预测：人工智能驱动的图像分析如何破解市场波动代码”",
+    "AIsummary-cn": "本文研究了金融领域，特别关注使用卷积神经网络（CNN）预测未来股票价格。预测股票价格的问题一直是金融领域的一个长期挑战，以前的方法依赖于传统的统计模型和机器学习技术。然而，这些方法在处理金融数据中的复杂模式和非线性关系方面存在局限性。作者提出了一种利用CNN解决这一问题的新方法，CNN通常用于图像处理任务。该方法涉及将金融数据表示为图像，然后使用CNN提取特征并进行预测。这种方法的动机是，财务数据可以可视化，可以从中提取模式，类似于CNN处理图像的方式。作者介绍了一个CNN模型的构建块，该模型结合了卷积、激活和最大池化，形成了一个鲁棒的特征提取器。然后，该块的输出被馈送到完全连接的层中，用于最终的预测步骤。所提出的方法旨在捕捉金融数据中的复杂模式，并对未来股票价格做出准确预测。总体而言，本文提出了一种使用CNN预测股票价格的新方法，该方法有可能通过利用深度学习技术的力量来改进传统方法。",
+    "Highlights": "学术要点 1：卷积神经网络（Convolutional Neural Networks, CNNs） CNN是一种利用图像特征提取进行分类的神经网络模型，对于本文中金融时间序列图像的处理尤其重要。|||\n学术要点 2：泄露函数（Leaky ReLU Activation Function） 本文使用了泄露函数作为激活函数来处理卷积层和池化层之间的输出，以此来保持图像特征信息的丰富性。|||\n学术要点 3：最大池化过滤器（Max-Pooling Filters） 最大池化过滤器用于降低图像的空间维度，并保留最重要的特征信息，这在处理金融时间序列图像时尤为关键。|||\n学术要点 4：图像深度（Image Depth） 本文将图像的通道数理解为“深度”，并对不同图像进行了不同通道数的设置，以此来捕捉不同的图像特征信息。|||\n学术要点 5： softmax 函数（Softmax Function） softmax函数被用作最终预测层，以输出不同类别之间的概率，这在本文中应用于未来价格的涨跌预测。",
+    "AIfig": "这幅图片展示了使用机器学习图像分析技术从股票价格图中提取的高预测性价格模式。这些模式不同于常见的趋势信号，表现出更准确的回报预测和更可靠的投资策略。"
+}

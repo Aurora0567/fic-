@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "LIBORs, ARRs, and noise shares in ARRs for CHF and GBP.This figure plots the time series of LIBORs and alternative reference rates (ARRs), overlayed with the noise shares in ARRs for SARON (CHF) and SONIA (GBP). We estimate the noise shares using the sequential price state-space model described in Section 2 with a one-year rolling window shifted daily to generate the estimates of IS and NS as the daily time series. The lines in the plot are smoothed using Locally Weighted Scatter-plot Smoothing (LOWESS) with tuning parameter of one-fourth. The vertical dashed line represents transition dates as per Table 1."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "LIBORs, ARRs, and noise shares in ARRs for EUR and JPY.This figure plots the time series of LIBORs and alternative reference rates (ARRs), overlaid with the noise shares in ARRs for ESTR (EUR) and TONAR (JPY). We estimate the noise shares using the sequential price state-space model described in Section 2 with a one-year rolling window shifted daily to generate the estimates of IS and NS as the daily time series. The lines in the plot are smoothed using Locally Weighted Scatter-plot Smoothing (LOWESS) with a tuning parameter of one-fourth. The vertical dashed line represents transition dates as per Table 1."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "LIBORs, ARRs, and noise shares in ARRs for USD.This figure plots the time series of LIBORs and alternative reference rates (ARRs), overlayed with the noise shares in ARRs for SOFR (USD). We estimate the noise shares using the sequential price state-space model described in Section 2 with a one-year rolling window shifted daily to generate the estimates of IS and NS as the daily time series. The lines in the plot are smoothed using Locally Weighted Scatter-plot Smoothing (LOWESS) with tuning parameter of one-fourth."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "The time series of estimated wealth transfers in USD and EUR.This figure plots the 8-week moving average of estimated wealth transfers in overnight interest swaps (OIS) due to noise in reference rates. Both vertical axes are in $million. Panel A (B) plots noise-related transfers in USD (EUR) OIS, calculated by multiplying the entity-netted notional outstanding by the estimate of noise for the end of that week. The data on OIS notional outstanding in each currency are from CFTC swaps reports. Estimation periods are as indicated in Table 2."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "The time series of estimated wealth transfers in JPY and GBP.This figure plots the 8-week moving average of the estimated wealth transfers in overnight interest swaps (OIS) due to noise in the reference rates. Both vertical axes are in $million. Panel A (B) plots noise-related transfers in JPY (GBP) OIS, calculated by multiplying the entity-netted notional outstanding by the estimate of noise for the end of that week. The data on OIS notional outstanding in each currency are from CFTC swaps reports. Estimation periods are as indicated in Table 2."
+        ],
+        "correlation": []
+    }
+}

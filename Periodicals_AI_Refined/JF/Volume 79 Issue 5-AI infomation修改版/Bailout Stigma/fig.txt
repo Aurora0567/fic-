@@ -1,0 +1,3 @@
+fig description :"Determination of the cutoff typeθ0$\\theta _0$in the laissez-faire economy.",
+
+Abstract  We develop a model of bailout stigma in which accepting a bailout signals a firm's balance-sheet weakness and reduces its funding prospects. To avoid stigma, high-quality firms withdraw from subsequent financing after receiving bailouts or refuse bailouts altogether to send a favorable signal. The former leads to a short-lived stimulation followed by a market freeze even worse than if there were no bailout. The latter revives the funding market, albeit with delay, to the level achievable without any stigma and implements a constrained optimal outcome. A menu of multiple bailout programs compounds bailout stigma and exacerbates the market freeze.

@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "(Color online) Investors’ Equity Stakes and Equity Shares Notes. This figure considers a startup with four investors with initial endowments, W 10 = W 20 = W 30 = W 40 = 25 , and heterogeneous risk aversion, γ 1 = 0.8 , γ 2 = 2 , γ 3 = 3 , and γ 4 = 9 . Lead investor 1 has all bargaining power. Panels (a) and (b) plot, respectively, investors’ book equity stakes ( W ˜ i t ), and book equity shares ( ϕ i t ≡ W ˜ i t / W t ) as functions of the firm’s total book equity W t . The small window inside (a) zooms in on the individual book equity stakes when W t is relatively small. The parameter values are r = 0.03, μ = 0.6 , σ = 0.89 , ρ = 0.1 , ξ = 0.64 , β = 0.9 ξ = 0.576 .",
+        "correlation": []
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AItitle": "Breakthrough in Asset Pricing: New Theorem Cracks Code on Market Risk",
+    "AIsummary": "This paper studies the field of financial economics, specifically focusing on the recovery theorem in asset pricing models. The problem addressed is how to accurately recover the underlying stochastic discount factor (SDF) from observable market data, which is essential for pricing assets and understanding investor behavior. Previous attempts at solving this problem have been unsuccessful, with competing recovery theorems being rejected by empirical tests.The author proposes a novel approach called Arbitrage-Based Recovery Theorem, which requires only the observation of option prices for one single maturity and the current state of the world. This method is distinct from previous approaches in that it relies solely on no-arbitrage principles, rather than making assumptions about investor behavior or market equilibrium.The author tests this theorem using over 26 years of S&P 500 options data with monthly observation frequency and performs several density tests and mean prediction tests. The results show that the Arbitrage-Based Recovery Theorem is not rejected by these empirical tests, even at a conservative significance level. This finding contradicts previous studies that have rejected competing recovery theorems.The proposed method provides a new perspective on asset pricing models and offers a promising approach for recovering the SDF from market data.",
+    "AIkeys": [
+        "Stochastic Discount Factor",
+        "Arbitrage-Based Recovery Theorem",
+        "Option Pricing Models",
+        "Asset Pricing Theory",
+        "No-Arbitrage Principles",
+        "Market Data Analysis",
+        "Risk Modeling"
+    ],
+    "AItitle-cn": "资产定价突破：新定理破解市场风险密码",
+    "AIsummary-cn": "本文研究了金融经济学领域，特别关注资产定价模型中的恢复定理。所解决的问题是如何从可观察的市场数据中准确地恢复潜在的随机贴现因子（SDF），这对于资产定价和理解投资者行为至关重要。之前解决这个问题的尝试都没有成功，相互竞争的恢复定理被经验检验所拒绝。作者提出了一种称为基于套利的恢复定理的新方法，该方法只需要观察一个单一到期日的期权价格和当前的世界状况。这种方法与以前的方法不同，因为它完全依赖于无套利原则，而不是对投资者行为或市场均衡做出假设。作者使用超过26年的标准普尔500指数期权数据，以月度观测频率对这一定理进行了检验，并进行了多次密度检验和均值预测检验。结果表明，即使在保守的显著性水平上，基于套利的恢复定理也没有被这些实证检验所否定。这一发现与之前拒绝竞争恢复定理的研究相矛盾。所提出的方法为资产定价模型提供了新的视角，并为从市场数据中恢复SDF提供了一种有前景的方法。",
+    "Highlights": "学术要点真实贴现因子（Stochastic Discount Factor）\n真实贴现因子是指在不允许套利的情况下，市场上各种资产之间的价格关系。在本文中，作者探讨了如何根据单一到期日的期权价格恢复真实贴现因子的分布学术要点2: 无套利恢复定理（Arbitrage-Based Recovery Theorem）\n无套利恢复定理是指在不允许套利的情况下，可以从单一到期日的期权价格中恢复出真实贴现因子的分布。该定理为恢复真实贴现因子提供了一种新颖的方法。\n        学术要点3:条件概率（Conditional Probabilities）\n条件概率是指在给定某一状态下的事件发生概率。在本文中，作者讨论了如何根据无套利恢复定理恢复出条件概率，这些概率反映了市场上各种资产之间的价格关系。\n        学术要点4伪代表性投资者（Pseudo-Representative Investor）\n伪代表性投资者是指假设存在的一个具有对数型效用的投资者的模型。在本文中，作者证明了根据无套利恢复定理恢复出的条件概率与伪代表性投资者的决策过程是一致的。\n学术要点5长期贴现因子（Long-Term Discount Factor）\n长期贴现因子是指在长期时间尺度上真实贴现因子的行为。在本文中，作者讨论了如何根据单一到期日的期权价格恢复出长期贴现因子，并探讨了其对市场预测和风险管理的影响。",
+    "AIfig": "该图片展示了利用Arbitrage-Based Recovery Theorem恢复S&P 500指数月度收益率的概率分布，以及与其他方法进行比较的结果。这张图片可能包含了不同时间段内恢复的概率分布图，反映了该方法在长期内预测和恢复概率分布方面的有效性。"
+}

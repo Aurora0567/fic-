@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "Tesla OHLC chart from Yahoo! Finance. This figure displays an OHLC chart for Tesla stock with 20-day moving average price line and daily volume bars. Data are daily from January 1, 2020, to August 18, 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Generated OHLC images with volume bar and moving average line. This figure displays market data image for 60 days of data.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Diagram of CNN models. This figure displays diagrams of a five-day (left), 20-day (middle), and 60-day (right) CNN model. The 5/20/60-day CNN models are built with 2/3/4 CNN building blocks as described in FigureA2. The notationH×W$H\\times W$shows the output size of the CNN building block, whereHis the height andWthe width. The number following “conv” or “Max-Pool” is the depth (number of channels, for example, 64, 128, 256, and 512). The output of the last CNN block is flattened to a vector and fed to a fully connected (FC) layer, where the reported input size (after FC) is calculated as the productH×W×D$H\\times W\\times D$from the last CNN building block. The final Softmax layer yields the probabilities of “up” and “down.” [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Convolutional filters that detect the next day's price change. The “1D” figure on the left displays a snippet of time-series prices. The “2D” figure on the left translates this time-series into a black and white image where “255” represents a white pixel (corresponding to a price entry) and “0” represents empty space in the image. The image is a discretized representation of the prices. For illustration, each unit on the y-axis of the image is 0.1. Because the difference between 1.04 and 1.0 is smaller than 0.05, the discretized prices on the image are flat over the first two periods. The figure on the right displays three 3 × 2 convolutional filters that detect no change, a small increase, and a large increase in price, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Cumulative volatility-adjusted returns of equal-weight portfolios. This figure displays cumulative volatility-adjusted log returns of equal-weight long-short portfolios of I5/R5, I20/R5, I60/R5, MOM, STR, WSTR, and TREND. All strategies are rescaled to have the same volatility as that of SPY over the test sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Prediction accuracy by decile. The left panel plots average realized returns in each decile of I5/R5 CNN model forecasts and for each decile of the benchmark signals. Return averages are based on cross-sectional decile averages in each period that are then averaged over time. The right panel plots the time-series volatility of decile returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Prediction accuracy of CNN and logistic models by decile. The left panel plots average realized returns in each decile of I5/R5 CNN model forecasts, as well as for each decile of forecasts from 1D CNN models and logistic models. Return averages are based on cross-sectional decile averages each period that are then averaged over time. The right panel plots the time-series volatility of decile returns. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Comparison with traditional technical indicators. The figure shows histograms of Sharpe ratios for 7,846 technical analysis portfolios that rebalance by week, month, and quarter, respectively. The top panels show equal-weight portfolios and the bottom panels show value-weight portfolios. Red vertical bars are the Sharpe ratios for the I20/R5, I20/R20, and I20/R60 CNN strategies, respectively. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Sharpe ratio gains from international transfer. The panels show annualized out-of-sample Sharpe ratio gains from I5/R5 transfer learning (both equal-weight and value-weight strategies) versus the average number of stocks in each country. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "10": {
+        "description": "Illustration of convolution and max-pooling operations. Panel A: The input tensor has size 6 × 6 (with only one channel of gray-scale). There are two 3 × 3 filters that detect edges. By construction, Filter 1 detects vertical edges and Filter 2 detects horizontal edges. When Filter 1 is applied to the yellow part of the input, the convolutional operation first calculates the element-wise products between the 3 × 3 yellow tensor and Filter 1 of the same size (solid red line) and then sums up the products and outputs a scalar (dotted red arrow) to the corresponding output location. As we can see from Output Channel 1, the right part of the output is activated by large values while the left part remains inactivated with all zeros, indicating that there is a vertical line on the right of the input image. Finally, 2 × 2 max-pooling is applied to the output and shrinks the shape by half from 4 × 4 to 2 × 2 by taking the max out of the 2 × 2 rolling window from the output. The final output in Channel 1 has value 765 at the upper-right corner and value 510 at the bottom-right corner, extracting the information that there are vertical edges on the right and the vertical edge is sharper at the top than at the bottom. Filter 2 is applied in the same fashion (green dotted line and green dotted arrow), extracting the information that there are horizontal edges at the bottom of the image and the bottom-left (765) has a sharper change than the bottom-right (510). Panel B: This example shows that the introduction of the max-pooling layer adds robustness to noise. We take the same 6 × 6 image from the example above and blur the borderline with gray color (pixel value 122). Take Filter 1, which detects vertical edges, for example. Nonzero values from Output Channel 1 are significantly changed. However, after max-pooling is applied, the original upper-right value of 765 remains intact while the original bottom-right value of 510 is replaced with 632, a slightly larger number, indicating a slightly stronger signal of the vertical line at the bottom than before. We observe a similar effect for Filter 2, which detects horizontal edges. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "11": {
+        "description": "Diagram of a building block. This figure illustrates that a building block of the CNN model consists of a convolutional layer with 3 × 3 filter, a leaky ReLU layer, and a 2 × 2 max-pooling layer. The notation D@HxW shows the output size of the CNN building block whereHis the height,Wis the width, andDis the number of channels. In this example, the input has size 16 × 8 with two channels. To double the depth of the input, four filters are applied, which generates the output with four channels. The max-pooling layer shrinks the first two dimensions (height and width) of the input by half and keeps the same depth. Leaky ReLU keeps the same size of the previous input. In general, with input of sizeH×W×D$H\\times W\\times D$, the output has sizeH/2×W/2×2D$H/2 \\times W/2 \\times 2D$. One exception is the first building block of each CNN model that takes the gray-scale image as input: The input has depth of one and the number of CNN filters is 32, boosting the depth of the output to 32.",
+        "correlation": []
+    }
+}

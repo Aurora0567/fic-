@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Zip code–level shares of minority loan officers relative to minority population. This figure shows a binned scatter plot of the percentage of minority loan officers working in a ZIP code and the minority population share in the same area. The sample includes loan officer-years in the HMDA/NMLS matched panel for 2018 and 2019. Bin averages are computed for decile bins based on the ZIP code minority population share. The plot also includes the best fit line and the 45-degree line for reference.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Differences in mortgage approvals by credit score decile and applicant and loan officer race. This figure plots mortgage approval rates for White and minority mortgage applicants against credit scores (in decile bins). The left panel shows applications handled by White loan officers, and the right panel shows those handled by minority loan officers. The sample includes all completed home purchase mortgage applications in the HMDA database in 2018 and 2019, subject to the standard data filters described in Section I.F.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Differences in mortgage defaults by credit score decile and applicant and loan officer race. This figure plots mortgage default rates for White and minority borrowers against credit scores (in decile bins). Default is defined as the loan ever becoming 90 or more days delinquent. The left panel shows loans handled by White loan officers, while the right panel shows loans handled by minority loan officers. The sample includes FHA home purchase mortgages originated between 2012 and 2018 and tracked through 2019:Q3, subject to the standard data filters described in Section I.F.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Loan officer race, specialization, and gaps in minority mortgage approvals and defaults. This figure plots unexplained gaps in minority mortgage approvals and defaults against the loan officer's minority application share. The estimated minority gaps come from OLS regressions with the full set of controls, where the minority borrower indicator is interacted with indicators for each combination of White/minority officer and the group the officer falls into in terms of minority application share. The left panel shows the estimated minority gaps for White loan officers (with 95% confidence intervals), and the right panel shows the results for minority loan officers. For approvals, the sample is all completed FHA home purchase mortgage applications in the HMDA database in 2018 and 2019. For defaults, the sample is all FHA home purchase mortgages originated from 2012 to 2018 and tracked through 2019Q3. Both samples implement the standard data filters described in Section I.F.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Loan officer race, experience, and gaps in minority mortgage approvals and defaults. This figure plots unexplained gaps in minority mortgage approvals and defaults against the loan officer's years of experience. The estimated minority gaps come from OLS regressions with the full set of controls, where the minority borrower indicator is interacted with indicators for each combination of White/minority officer and the group the officer falls into in terms of experience. The left panel shows the estimated minority gaps for White loan officers (with 95% confidence intervals), and the right panel shows the results for minority loan officers. For approvals, the sample is all completed FHA home purchase mortgage applications in the HMDA database in 2018 and 2019. For defaults, the sample is all FHA home purchase mortgages originated from 2012 to 2018 and tracked through 2019:Q3. Both samples implement the standard data filters described in Section I.F.",
+        "correlation": []
+    }
+}

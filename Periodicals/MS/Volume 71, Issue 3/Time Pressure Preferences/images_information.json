@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Overview of the Experiment",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Examples of the Puzzle Task with and without a Time Limit",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) The Price List in Round 5 with a 25-Second Limit",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Impact of Time Pressure on Performance Notes. The figure plots the effect of time pressure on three outcomes, using observations from the four baseline rounds. The left-hand panel plots a binary indicator for having correctly solved the game within the time limit. The center panel plots the number of seconds spent on each game (until a solution is submitted or the time runs out). The right-hand panel plots the number of games solved per minute, calculated by dividing the total number of games solved by the total number of minutes spent on the 10 games for a given time limit (no time limit, 60 seconds, 25 seconds, or 15 seconds). The error bars are 95% confidence intervals based on standard errors clustered at the participant level.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Preferences for Working Under Time Pressure Notes. The figure shows the proportions of participants who are classified as time pressure (TP) averse, time pressure neutral, and time pressure loving at each of the three time limits. The classification is based on comparing the starting budget at which participants prefer performing under time pressure (as opposed to completing the games with no time pressure and a starting budget of €10) to their expected earnings based on their performance in the baseline games. Participants who require a premium of more than €1 to perform under time pressure are classified as time pressure averse. Participants who switch to performing under time pressure at a negative premium are classified as time pressure loving. Participants who require a premium of €1 or €0 are classified as time pressure neutral.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Distribution of Time Pressure Aversion Notes. The figure shows the full distribution of time pressure aversion for each time limit. Time pressure aversion is calculated by subtracting the switching point that maximizes expected earnings (based on the performance in the four baseline rounds under each time limit) from the actual starting budget participants chose to perform under the time limit over solving the games without a time limit. More details on how time pressure aversion is calculated are presented in the text.",
+        "correlation": []
+    }
+}

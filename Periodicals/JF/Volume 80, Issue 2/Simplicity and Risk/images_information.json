@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Risk aversion versus number of outcomes. This figure plots the results of fitting a CRRA model \n\n\nU\n\n(\np\n)\n\n=\n∑\np\n\n(\nx\n)\n\n\n1\n\n1\n−\nα\n\n\n\nx\n\n1\n−\nα\n\n\n\n$U(p) = \\sum p(x) \\frac{1}{1-\\alpha }x^{1-\\alpha }$\n to lotteries with two outcomes only, then to lotteries with four outcomes only, and so forth. Point estimates and 95% confidence intervals are shown, obtained over 1,000 bootstrap iterations, following the method of Bruhin, Epper, and Fehr-Duda (2010), which allows for individual-specific error terms.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dominance violations by complexity. This figure plots point estimates and 95% confidence intervals for the average frequency with which participants violate dominance, clustering standard errors by individual. Dominance violations are coded as one if, for the lottery at hand, the individual selects a switch row with sure outcome strictly less than the lowest possible outcome in a lottery, and zero otherwise.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Risk aversion versus number of outcomes, by cognitive ability. This figure plots the results of fitting a CRRA model \n\n\nU\n\n(\np\n)\n\n=\n∑\np\n\n(\nx\n)\n\n\n1\n\n1\n−\nα\n\n\n\nx\n\n1\n−\nα\n\n\n\n$U(p) = \\sum p(x) \\frac{1}{1-\\alpha }x^{1-\\alpha }$\n to lotteries with two outcomes only, then to lotteries with four outcomes only, and so forth, for the low- and high-cognitive ability groups separately, where low means below the median cognitive ability level in the sample. Point estimates and 95% confidence intervals are shown, obtained over 1,000 bootstrap iterations following the method of Bruhin, Epper, and Fehr-Duda (2010), which allows for individual-specific error terms.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Constructing the complexity cost function. Taking tiers to be support size in this figure, in EU, for finite \n\nX\n$X$\n, for any support size \n\n\ni\n≥\n2\n\n$i \\ge 2$\n, the utility range of \n\ni\n$i$\n-outcome lotteries is the open interval (\n\n\nu\n(\n\nx\n∗\n\n)\n\n$u(x_*)$\n, \n\n\nu\n(\n\nx\n∗\n\n)\n\n$u(x^*)$\n), where \n\n\nx\n∗\n\n$x_*$\n is a worst and \n\n\nx\n∗\n\n$x^*$\n a best outcome in \n\nX\n$X$\n. In simplicity theory, the utility range of \n\ni\n$i$\n-outcome lotteries is \n\n\n(\nu\n\n(\n\nx\n∗\n\n)\n\n−\nC\n\n(\ni\n)\n\n,\nu\n\n(\n\nx\n∗\n\n)\n\n−\nC\n\n(\ni\n)\n\n)\n\n$(u(x_*) - C(i), u(x^*) - C(i))$\n. For more general tiers, the intuition of complexity cost as the amount by which utility is pushed back relative to certainty continues to hold, though the measure of the utility range may not be identical for all tiers.",
+        "correlation": []
+    },
+    "A": {
+        "description": "Cognitive noise correction and complexity aversion. This figure plots the results of fitting a CRRA model \n\n\nU\n\n(\np\n)\n\n=\n∑\np\n\n(\nx\n)\n\n\n1\n\n1\n−\nα\n\n\n\nx\n\n1\n−\nα\n\n\n\n$U(p) = \\sum p(x) \\frac{1}{1-\\alpha }x^{1-\\alpha }$\n to lotteries with two outcomes only, then to lotteries with four outcomes only, and so forth, after including the cognitive uncertainty correction with weight on the prior at the level specified in each subfigure. Point estimates and 95% confidence intervals are shown, obtained over 1,000 bootstrap iterations following the method of Bruhin, Epper, and Fehr-Duda (2010), which allows for individual-specific error terms.",
+        "correlation": []
+    }
+}

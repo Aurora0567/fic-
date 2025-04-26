@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Macroprudential accounting regime of sovereign securities and QE announcements. The figure shows the evolution of some key aspects of the European Union macroprudential accounting regime that banks use to value their holdings of sovereign securities when computing regulatory net worth (see Section 2 for more details) and the two main announcements of the PSPP, which is the ECB’s largest QE program.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Sovereign security classification and prevalent macroprudential accounting regime. This figure shows how identical sovereign assets on the balance sheet are valued differently depending on their regulatory classification, for the purpose of computing regulatory capital. Between 2010 and 2018, sovereign assets classified as available for sale were valued at historical cost. Between 2018 and 2019, sovereign assets classified as available for sale were then marked to market. In 2020, amid the COVID-19 pandemic, regulators introduced a prudential filter that allowed banks to again value available-for-sale sovereign assets at historical cost, based on the market value as of December 31, 2019. Assets classified as held to maturity are always valued at historical cost, whereas those in the trading book are always marked to market.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The impact of the PSPP announcements, post indicator. Panel A replicates columns 1–3 of Table 3, and panel B replicates columns 5–7 of Table 3, using a post indicator variable interacted with the exposure measures. The figure plots the point estimates and 90% confidence intervals. The specification in (1) uses the broad measure of exposure (ie, all eligible securities) as a fraction of total assets (in percentages), (2) uses the MMA exposure as a fraction of total assets (in percentages), and (3) uses the MMA exposure dummy described in Section 4.1. All the regressions include controls for size, ECB lending, and central bank reserves, as well as bank and firm-time fixed effects. In panel B, the sample is restricted to bank-firm relationships present in December 2014 and January 2015. Standard errors are clustered at the bank level.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Effect of the PSPP announcement on bank loan supply. The figure plots the impact of the PSPP on bank lending over the 6-month period after the announcement (ie, September 2019 to February 2020 for the 2019 announcement, and January to June 2015 for the 2015 announcement), as a function of a bank’s mark-to-market exposure for banks with a positive exposure.",
+        "correlation": []
+    },
+    "5": {
+        "description": "The impact of the PSPP on bank trading activity. The figure presents the result of a series of regressions in which the dependent variable is the purchase in EUR (or sale if negative) of security s of bank b in month t per EUR millions of total assets in t—1, where a security is defined at the ISIN level. Panels A and B use a 12-month window around the 2019 announcement. Panel A refers to one single specification in which s is a PSPP-eligible security in the AFS portfolio and the specification includes two measures of exposure: one based on MMA PSPP-eligible securities and the other based on HCA PSPP-eligible securities. Panel B refers to one single specification in which s is a PSPP-eligible security in the trading book, and the specification includes two measures of exposure: one based on MMA PSPP-eligible securities and the other based on HCA PSPP-eligible securities. Panels C and D follow an identical pattern for the 2015 announcement. All regressions include bank fixed effects, security-time fixed effects, and the baseline controls (ie, size, ECB lending, and reserves). Standard errors are clustered at the bank and security level. The bars represent the 90% confidence interval around each point estimate.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Evolution of capital gains after the PSPP announcement. The figure presents box plots of the evolution of capital gains in the month of the PSPP announcement and in the following 3 months, for banks with strictly positive holdings of MMA-eligible securities in the preannouncement month. We plot the median (black dot), the 25th/75th percentiles (lower/upper ends of box), and the lower/upper adjacent values (lower/upper limits on whiskers). The lower (upper) adjacent value is the furthest observation within one and a half interquartile ranges of the lower (upper) end of the box.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Evolution of trading after the PSPP announcement. The figure presents box plots of the evolution of the variable Tradingb,t in the month of the PSPP announcement and in the following 3 months, for banks with strictly positive holdings of MMA-eligible securities in the preannouncement month. We plot the median (black dot), the 25th/75th percentiles (lower/upper ends of box), and the lower/upper adjacent values (lower/upper limits on whiskers). The lower (upper) adjacent value is the farthest observation within one and a half interquartile ranges of the lower (upper) end of the box.",
+        "correlation": []
+    },
+    "8": {
+        "description": "The effects of capital gains on lending. The figure presents the results of a regression for each announcement, in which the dependent variable is the change in the logarithm of disbursed loans from bank b to firm f in month t (in percentages) in the 12-month window around the announcement. Each panel plots the coefficients of [capital gains]b,t/[assets]b,t−1 interacted with an indicator equal to one in month t, for each post-announcement month. For each month t, the coefficient represents the effect on lending (in percentage points) of increasing capital gains in month t by one standard deviation. The regressions include bank fixed effects, firm-time fixed effects, and the baseline controls (ie, size, ECB lending, and reserves). Standard errors are clustered at the bank level. The bars represent the 90% confidence interval around each point estimate.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Monetary policy shocks to short- and long-term rates, 2010–2020. The figure plots the monetary policy shocks from the Euro Area Monetary Policy Event-Study Database (EA-MPD, Altavilla et al. 2019) for the period July 2010 to February 2020. These shocks are extracted from movements in market yields in a narrow window around ECB’s regular release of monetary policy information after its meetings. The dotted line represents the shocks to the 1-week overnight index swap rate, and the solid line represents the shocks to 10-year Italian bonds.",
+        "correlation": []
+    }
+}

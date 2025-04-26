@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Machine Learning Magic: Groundbreaking Approach Boosts Stock Return Predictions by Leaps and Bounds!\"",
+    "AIsummary": "This paper studies the field of finance, specifically focusing on the problem of stock return prediction using machine learning (ML) techniques. Traditionally, stock return prediction has been solved using statistical models and technical indicators, but these methods have limitations in capturing complex patterns in financial data. The author proposes a novel approach to solving this problem by utilizing an optimization process to select the most suitable ML model for out-of-sample use. The proposed method involves training multiple ML models on historical stock data, evaluating their performance during an optimization period, and selecting the best-performing model based on its Spearman rank correlation with future stock returns. The selected model is then used to generate predictions for a test period, resulting in significant improvements in stock return prediction accuracy.",
+    "AIkeys": [
+        "Stock Return Prediction",
+        "Machine Learning Models",
+        "Financial Data Analysis",
+        "Model Selection Optimization",
+        "Out-of-Sample Performance",
+        "Spearman Rank Correlation",
+        "Technical Indicators",
+        "Predictive Modeling"
+    ],
+    "AItitle-cn": "“机器学习魔术：突破性的方法通过跳跃和边界来提高股票回报预测！”",
+    "AIsummary-cn": "本文研究了金融领域，特别关注使用机器学习（ML）技术进行股票回报预测的问题。传统上，股票回报预测是使用统计模型和技术指标来解决的，但这些方法在捕捉金融数据中的复杂模式方面存在局限性。作者提出了一种新的方法来解决这个问题，即利用优化过程来选择最适合样本外使用的ML模型。所提出的方法涉及在历史股票数据上训练多个ML模型，评估它们在优化期间的性能，并根据其与未来股票回报的Spearman秩相关性选择性能最佳的模型。然后，所选模型用于生成测试期的预测，从而显著提高了股票回报预测的准确性。",
+    "Highlights": "学术要点 1：Spearman 等级相关性（Spearman Rank Correlation） 本文使用 Spearman 等级相关性来评估不同机器学习模型在优化期和测试期的性能，结果显示了两者之间强烈的正相关关系。|||\n学术要点 2：年化夏普比率（Annualized Sharpe Ratio） 年化夏普比率是用于评估投资组合风险调整后回报的指标，本文使用该指标来比较不同模型在测试期的表现。|||\n学术要点 3：机器学习模型优化（Machine Learning Model Optimization） 本文讨论了如何通过优化过程选择最佳的机器学习模型，以实现更好的投资组合表现。|||\n学术要点 4：10-1 投资组合（10-1 Portfolio） 本文使用 10-1 投资组合来评估不同模型在测试期的表现，该组合通过对股票进行排序并选择表现最好的 10% 来构建。|||\n学术要点 5：前瞻性优化（Ex-Ante Optimization） 前瞻性优化是指在投资决策过程中使用历史数据来评估和选择最佳的模型或策略，本文强调了其在实现更好投资表现方面的重要性。",
+    "AIfig": "该图显示了1932年4月至1933年3月以及1930年9月至1931年8月期间市场组合指数的累计月度收益率。"
+}

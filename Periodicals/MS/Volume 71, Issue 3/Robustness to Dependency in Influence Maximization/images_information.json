@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Construction of the Auxiliary Graph G ′ Notes . The bold edges in G ′ ( c ) denote the live edges ( i , j ) ∈ E such that c ij = 1. For the seed set S = { 1 , 2 , 3 } under the realization c , the maximum flow value is Z ( c , S ) = 3 and R ( c , S ) = 6 . Node 6 is not reachable under realization c , whereas it is reachable in the original graph.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Schematic Illustration of the CDF F R ( c ˜ , S ) ( τ ) of R ( c ˜ , S ) , Where c ˜ Is Distributed According to the Correlation-Robust Distribution of Corollary 4",
+        "correlation": []
+    },
+    "3": {
+        "description": "A Graph with Two Components: A Star Graph with Origin a and a Collection of Four Line Graphs with Common Origin b",
+        "correlation": []
+    },
+    "4": {
+        "description": "Example 1",
+        "correlation": []
+    },
+    "5": {
+        "description": "Example 2 with l = 2",
+        "correlation": []
+    },
+    "6": {
+        "description": "Example 4",
+        "correlation": []
+    },
+    "7": {
+        "description": "Schematic Illustration of d S ( τ ) as a Function of τ Notes . The graph coincides (up to discontinuities) with the CDF of R ( c ˜ , S ) , where c ˜ ∼ θ * , the correlation-robust distribution of Corollary 4 . The area of the shaded region is α · CVaR α corr ( S ) ; see Equation (17)",
+        "correlation": []
+    }
+}

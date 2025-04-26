@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Belief distortions: difference between subjective and objective beliefs. The left panel plots realized year-on-year real GDP growth, the corresponding one-quarter ahead consensus (median) forecast from the Survey of Professional Forecasters (SPF), and a forecast estimated from a VAR(2) model using real GDP, unemployment rate, Fed Funds Rate, and inflation. The right panel plots a proxy for belief distortions for real GDP growth defined as the difference between the consensus SPF forecast and the corresponding statistical (objective) forecast from a VAR(2). Gray shaded bars indicate recessions as defined by the NBER. Data is quarterly and running from Q1-1990 to Q4-2019."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "State dependent optimal distortions and portfolios. This figure plots optimal distortions and portfolios for pessimistic utility (top panels) and optimistic utility (bottom panels) at time zero. The preference parameters for robustness are θP=1 (top panels) and θO=−1 (bottom panels). Other parameters used are summarized in Panel A of Table 2 and the time horizon is T=1 year."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Time dependence of optimal distortions and portfolios. This figure plots optimal distortions and portfolios for pessimistic utility (top panels) and optimistic utility (bottom panels) at x=0. The preference parameters for robustness are θP=1 (top panels) and θO=−1 (bottom panels). Other parameters used are summarized in Panel A of Table 2 and the time horizon is T=100 years."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Value functions, optimal distortions and portfolios in regime switching models. This figure plots value functions (fP and fO in (32)), optimal distortions, and portfolios in the regime switching model at time zero (left panels), and the time dependence of optimal distortions and portfolios at x=0 (right panels). The preference parameters for robustness are θP=1 and θO=−1. The transition intensities are λP=λO=λexp((η−1)x). Other parameters used are summarized in Panel A of Table 2, the Cressie-Read parameter is η=0.5, and the time horizon is T=100 years."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Price-dividend ratio and realized return. This figure compares the empirical and model-generated price-dividend ratio and historical one-year return for each quarter from 1991-Q1 to 2019-Q4. Model parameters used are summarized in Panel B of Table 2 and time horizon is T=200 years. Realized GDP shocks and dividend shocks are fed into the model for the model-generated time series. More specifically, standardized GDP shocks and dividend shocks in every quarter are used to represent Brownian shocks dBtB and ρdBtB+1−ρ2dBtB,⊥ for the same quarter in the model. Regime-switching shocks are simulated and the equilibrium quantities are averaged across regime simulations."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "General equilibrium quantities. This figure plots the optimal distortion, interest rate, price–dividend ratio, stock volatility, and the Sharpe ratio in equilibrium for both optimistic state (red dash lines) and pessimistic state (black solid lines) at year 10. The stock volatility is σS=(σS,I)2+(σS,I,⊥)2. Parameters used are summarized in Panel B of Table 2 and time horizon is T=200 years. They all center at the mean of the sentiment variable and span 2 standard deviation above and below of the distribution for the sentiment variable during our sample period. The red circle on each curve indicates the value at the mean of the sentiment variable."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Objective and subjective expected return. This figure plots the objective expected return (under B) and the subjective expected return (under U) at year 10. Parameters used are summarized in Panel B of Table 2 and time horizon is T=200 years. They all center at the mean of the sentiment variable and span two standard deviations above and below of the distribution for the sentiment variable during the observation period."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Risk premia. This figure plots the objective risk premium (under B), the subjective risk premium (under U), their difference, and the jump risk premium under B at year 10. Parameters used are summarized in Panel B of Table 2 and time horizon is T=200 years. All panels center at the mean of the sentiment variable and span two standard deviations above and below of the distribution for the sentiment variable during the observation period."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) An Illustrator of the Difference Between the Online Vector Balancing Objective and the Online Blocking Objective",
+        "correlation": []
+    },
+    "2": {
+        "description": "An Illustrator of the Matched Pairs in a Single Continuous Dimension Note. The A stands for subjects in the control group, whereas B stands for subjects in the treated group.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Illustration of (Left) a Highly Clustered Arrival Sequence and (Right) a Weakly Clustered Arrival Sequence",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Empirical Distributions of the Estimators Under Two Different Designs",
+        "correlation": []
+    },
+    "5": {
+        "description": "Simulated Variances of the Estimator Under Pigeonhole Design Under Different Sample Sizes",
+        "correlation": []
+    }
+}

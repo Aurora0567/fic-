@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Earnings per Share as Reported in the Media Notes. (a) Yahoo Finance. (b) Markets Insider (Business Insider). (c) CNBC.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Number Processing Constraints: Underreaction to Earnings News with High EPS Magnitudes Notes. This figure shows the effect of number processing constraints on market reaction to earnings news using continuous measures of earnings surprises. The curves are drawn using local polynomial fits to capture the nonlinear relationship between abnormal returns and earnings surprises.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Correlations Between EPS Magnitudes and Proxies for Limited Attention Notes. This figure shows the correlations between EPS magnitudes and two commonly used attention measures: NRANK (decile ranks of busy earnings news day) and Friday (an indicator for whether the announcement is on Friday). The relationships with confidence intervals are drawn using local polynomial fits and each circle represents one cent. (a) NRANK. (b) Friday.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Concavity of Logarithmic Thinking Notes. This figure shows earnings response coefficients and 95% confidence intervals by decile of abs(EPS) based on regression Equation (1) . The top decile is normalized and serves as the benchmark. The fitting curve is drawn using local polynomial fits to capture the nonlinear relationship between abs(EPS) and the earnings response coefficient.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) The Dynamic Effects of Stock Splits Notes. This figure shows coefficient estimates and 95% confidence intervals for the event study regressions estimating the effect of number processing constraints on reactions to EAs four quarters before and after a split event. The split happens at t = 0, and t < −2 serves as the benchmark. (a) Underreaction to earnings news with high EPS magnitudes. (b) Large drift for earnings news with high EPS magnitudes.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "(Color online) Time Evolution of a Posterior Mean Reward Process Notes. (Left) Sample paths of posterior predictive mean reward process of an arm a , { μ ^ a , n ( ω ) } n ≥ 0 . This process is a martingale that starts at (prior) predictive mean μ ¯ a and converges to conditional mean μ a ( Remark 1 ). (Right) The distributions of μ ^ a , T − 1 and μ a : μ ^ a , T − 1 is more concentrated than μ a , while both have the same mean μ ¯ a ( y a ) .",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Regret Plot for a Bernoulli MAB with Two Arms Notes. The solid lines represent the (Bayesian) regret of algorithms, W TS ( T , y ) − V ( π , T , y ) , and the dashed lines represent the regret bounds that IRS algorithms produce, W TS ( T , y ) − W z ( T , y ) . Each data point reports the average across 20,000 simulations.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Regret Plot for a Bernoulli MAB with 10 Arms Note. L agr -RT and L agr -OT are simulated only for T ≤ 350 due to the computational cost (see Endnote 13 ).",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Regret Plot for a Gaussian MAB with Two Arms",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Regret Plot for a Gaussian MAB with 10 Arms",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Regret Plot for a Gaussian MAB with Five Arms with Different Noise Variances",
+        "correlation": []
+    }
+}

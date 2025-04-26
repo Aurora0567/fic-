@@ -1,0 +1,17 @@
+{
+    "AItitle": "\"Banking on Stigma: How Smart Interventions Can Avert Economic Chaos During Crises\"",
+    "AIsummary": "This paper studies the field of economics, specifically the impact of bank stigma on economic activity during banking crises. The problem addressed is how policymakers' interventions during banking panics can send signals that influence depositors and reallocate funds through the financial system, potentially altering credit allocations to commerce and industry. Historically, policymakers have tried to avoid casting stigmas by concealing the identities of banks receiving assistance. However, this approach has been criticized for inducing moral hazard.The author solves this problem by examining the 1933 US banking crisis, where policymakers reopened banks sequentially, creating winners and losers. The author finds that while deposits shifted towards earlier-reopened banks, this did not interrupt lending to businesses or affect economic activity in those communities. The author attributes this outcome to three factors: credit constraints being less binding during expansions, government programs extending credit directly to industries, and banks holding excess reserves and investing heavily in bonds post-crisis.The proposed method involves considering these factors when designing interventions during banking crises, allowing for more targeted assistance that may help mitigate the negative effects of stigma while avoiding moral hazard.",
+    "AIkeys": [
+        "Bank Stigma",
+        "Policymaker Intervention",
+        "Economic Activity",
+        "Deposit Reallocation",
+        "Credit Allocations",
+        "Moral Hazard",
+        "Financial Crisis Management"
+    ],
+    "AItitle-cn": "“利用耻辱：明智的干预如何避免危机期间的经济混乱”",
+    "AIsummary-cn": "本文研究了经济学领域，特别是银行业危机期间银行污名对经济活动的影响。所解决的问题是，政策制定者在银行业恐慌期间的干预如何发出信号，影响存款人并通过金融体系重新分配资金，从而可能改变对商业和工业的信贷分配。从历史上看，政策制定者试图通过隐瞒接受援助的银行的身份来避免污名化。然而，这种方法因引发道德风险而受到批评。作者通过研究1933年的美国银行业危机来解决这个问题，当时政策制定者依次重新开放银行，创造了赢家和输家。提交人发现，虽然存款转向了早些时候重新开放的银行，但这并没有中断对企业的贷款，也没有影响这些社区的经济活动。作者将这一结果归因于三个因素：信贷约束在扩张期间约束力较小，政府计划直接向行业提供信贷，以及银行在危机后持有超额准备金并大量投资债券。拟议的方法涉及在银行业危机期间设计干预措施时考虑这些因素，允许提供更有针对性的援助，这可能有助于减轻污名的负面影响，同时避免道德风险。",
+    "Highlights": "学术要点 1：信号传递（Signaling Effect） 政府通过序列性重启商业银行的方式，向公众传递有关银行健康状况的信息，导致了对银行声誉和资金流动的影响。|||\n学术要点 2：信用约束松弛（Credit Constraints Easing） 在经济扩张期，信贷约束减弱，企业更容易获得融资，降低了政府干预措施对商业和工业的潜在负面影响。|||\n学术要点 3：政府支持计划（Government Assistance Programs） 政府通过直接向行业提供信贷支持的方式，帮助那些受到经济衰退冲击的企业，减轻了银行体系问题的传导效应。|||\n学术要点 4：银行过剩储备（Excess Reserves Holding） 银行在金融危机后期通常持有大量过剩储备，并投资于债券等低风险资产，这可能降低了政府干预措施对实体经济的影响。|||\n学术要点 5：信息不完全（Information Imperfection） 即使在信息充分披露的情况下，普通存款人仍然难以评估银行的财务健康状况，从而导致他们容易受到外部信号和舆论的影响。",
+    "AIfig": "该图表显示了1933年1月4日至7月5日期间美国银行存款总额随时间变化的情况。"
+}

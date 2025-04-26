@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Trend in Press Attention to Sustainable Investing Note. The figure shows the number of Factiva newspaper articles in English language on “sustainable/socially responsible/ethical/ESG” “investing/investment,” relative to the total number of news on “investing/investment.”",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Time Series of Aggregate Demand and Supply for ESG and Environmental Attributes Notes. The figure shows the estimated time series of aggregate ESG demand, δ t , and supply, 𝐺 𝑊 , 𝑡 G W , t . The portfolios used for the estimation are obtained by value-weighting stocks sorted by their ESG scores in (a) and environmental scores in (b). The sample runs from January 2007 to December 2022.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Time Series of Expected Consumption Growth, ESG Scores, Expected Excess Returns, and Price-to-Dividend Ratios Notes. The figure shows the estimated time series of expected consumption growth, ESG scores, expected market and portfolio excess returns, convenience yields from ESG investing, total ESG premia, and price-to-annual dividend ratios. All quantities are annualized. The green, neutral, and brown portfolios are obtained sorting stocks by ESG score. The estimation is performed by maximum likelihood, observing the time series of market and portfolio returns, ESG scores, and consumption growth, as well as average price-to-dividend ratios. The sample runs from January 2007 to December 2022.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Returns of Green-Minus-Brown Portfolio Notes. The left graphs show the realized cumulative logarithmic return of the green-minus-brown portfolio, as well as the model-implied expected return, the unexpected return contribution attributable to ESG demand shocks, and the model-implied expected return augmented by the unexpected return contribution attributable to ESG demand shocks. The right graphs show the 12-month rolling logarithmic return of the same portfolio. The portfolios are obtained by value-weighting stocks sorted by their ESG scores in (a) and environmental scores in (b). The estimation is performed by maximum likelihood, observing the time series of market and portfolio returns, ESG or environmental ratings, and consumption growth, as well as average price-to-dividend ratios. The sample runs from January 2007 to December 2022.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Response to Annual One-Standard-Deviation Shock to Aggregate ESG Demand and Supply Notes. The graphs on the left show responses to a one-standard deviation positive annual shock applied to δ t . The graphs on the right show responses to a +0.1 annual shock to aggregate greenness. The expected and realized excess returns of the brown and green portfolios, the cumulative return of the green-minus-brown portfolio, and the price-to-annual dividend ratios of the brown and green portfolios are shown. The state variables are initially set at their average values and the shocks are equally distributed throughout 12 consecutive months.",
+        "correlation": []
+    }
+}

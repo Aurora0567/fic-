@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Propensity Score Before and After Matching",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Instrumental Variables Notes . The directed lines from firm B to firm A indicate firm A can hire employees with AI analytics skills from firm B. Undirected lines mean that both firms hire from each other. Assume each firm on the left has 10 employees with AI analytics skills. Accordingly, firm A has access to 30 employees with AI analytics skills. Now, firm B hired five more employees with AI analytics skills from firm C after ERP adoption. Then, firm A accessed 35 people with AI analytics skills.",
+        "correlation": []
+    }
+}

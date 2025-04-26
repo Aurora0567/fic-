@@ -1,0 +1,19 @@
+{
+    "AItitle": "\"Revolutionizing Stock Predictions: AI-Powered Sentiment Analysis Uncovers Hidden Market Signals in Unprecedented Detail\"",
+    "AIsummary": "This academic paper studies the field of finance and accounting, specifically focusing on the problem of predicting stock prices using sentiment analysis from various sources such as SEC filings, social media, and news articles.The paper aims to improve upon existing methods of sentiment analysis, which have been limited in their ability to accurately predict stock price movements. Previous studies have relied on simplistic approaches such as keyword extraction and dictionary-based methods, which have shown mixed results.The authors propose a novel approach that utilizes a combination of natural language processing (NLP) techniques and machine learning algorithms to analyze sentiment from multiple sources. The proposed method is able to capture more nuanced and context-dependent sentiment expressions, leading to improved predictive accuracy.The paper presents a comprehensive framework for integrating multiple sources of sentiment data, including SEC filings, Twitter feeds, and Ravenpack variables. The authors also introduce a new metric, called \"sentiment uncertainty,\" which captures the degree of uncertainty associated with sentiment expressions.Overall, the paper contributes to the existing literature on sentiment analysis in finance by proposing a more sophisticated and comprehensive approach to predicting stock price movements using multiple sources of sentiment data.",
+    "AIkeys": [
+        "Sentiment Analysis",
+        "Natural Language Processing",
+        "Machine Learning Algorithms",
+        "Stock Price Prediction",
+        "Financial Text Analysis",
+        "SEC Filings",
+        "Social Media Sentiment",
+        "News Article Analysis",
+        "Quantitative Finance"
+    ],
+    "AItitle-cn": "“彻底改变股票预测：人工智能驱动的情绪分析以前所未有的细节揭示隐藏的市场信号”",
+    "AIsummary-cn": "这篇学术论文研究了金融和会计领域，特别关注使用来自美国证券交易委员会文件、社交媒体和新闻文章等各种来源的情绪分析来预测股票价格的问题。本文旨在改进现有的情绪分析方法，这些方法在准确预测股票价格走势方面受到限制。之前的研究依赖于简单的方法，如关键字提取和基于词典的方法，这些方法的结果喜忧参半。作者提出了一种新方法，该方法结合了自然语言处理（NLP）技术和机器学习算法来分析来自多个来源的情绪。所提出的方法能够捕捉到更多细微差别和依赖于上下文的情感表达，从而提高了预测的准确性。本文提出了一个综合框架，用于整合多种情绪数据来源，包括美国证券交易委员会文件、推特推送和Ravenpack变量。作者还引入了一种名为“情绪不确定性”的新指标，该指标捕捉了与情绪表达相关的不确定性程度。总的来说，本文通过提出一种更复杂、更全面的方法，使用多种情绪数据来源预测股票价格走势，为现有的金融情绪分析文献做出了贡献。",
+    "Highlights": "学术要点 1：GF Index（Gunning Fog Readability Index） \nGF指数是一种衡量文档可读性的指标，用于评估企业报告和文件的清晰度和易懂性。|||\n学术要点 2：ML-based Sentiment \n基于机器学习的语气分析是指利用自然语言处理技术对文本的情感倾向进行自动化分析。|||\n学术要点 3：Ravenpack Variables \nRavenpack变量是一组用于衡量企业事件和情绪的指标，包括事件情绪得分、聚合事件情绪和聚合事件量等。|||\n学术要点 4：Event Sentiment Score（ESS） \n事件情绪得分是指对特定事件的情感倾向进行评估，用于了解市场和舆论的反应。|||\n学术要点 5：Composite Sentiment Score（CSS） \n综合情绪得分是一种将多个情绪指标合并的方法，用于全面评估企业或事件的情感状态。",
+    "AIfig": "本图展示了人工智能分析师与人类分析师之间的“胜率”比较，可以看出在不同年份中二者的相对表现，以及在经济衰退期间的趋势变化。"
+}

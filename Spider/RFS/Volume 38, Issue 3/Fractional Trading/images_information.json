@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Number of Robinhood users holding BRK.A. This figure plots the daily number of Robinhood users holding BRK.A during the sample period from January 16, 2020, to August 13, 2020. BRK.A has the highest nominal share price among the listed stocks.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number of off-exchange one-share trades for high- versus low-priced groups. This figure plots the number of off-exchange one-share trades for high- versus low-priced groups. The sample period is from January 2, 2019, to December 31, 2020. The solid line indicates the high-priced group (ie, stocks with nominal share price of $100 or above at the end of November 2019) and the dotted line represents the low-priced group (ie, stocks with nominal share price below $100 at the end of November 2019), respectively. The two vertical lines represent November 25, 2019 (the day Interactive Brokers introduced FT), and January 29, 2020 (the day Fidelity introduced FT), respectively.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stock bubbles and percentage of off-exchange one-share trades. This figure plots GameStop’s daily closing price (in solid line) and the daily number of off-exchange one-share trades as a percentage of the daily total number of trades (dotted line) during January 2021.",
+        "correlation": []
+    }
+}

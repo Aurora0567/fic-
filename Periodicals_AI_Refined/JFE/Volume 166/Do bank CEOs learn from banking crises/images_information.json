@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Number of US bank failures,1930–2015. This figure reports the total number of commercial banks, commercial and savings banks, savings institutions, savings banks and savings associations that were assisted, put under receivership, or closed by the Federal Savings and Loan Insurance Corporation (FSLIC) or the Federal Deposit Insurance Corporation (FDIC) as well as the total amount of failed deposits (assets) from 1930 through 2015. The total amount of failed deposits and assets are inflation-adjusted to 1982-1984 dollars with the annual average of the monthly consumer price index for all items and all urban consumers.FDIC, Bureau of Labor Statistics and author calculations."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Example of bank failure time series during the S&L crisis. This figure plots the amount of failed deposits during the period 1980–1993 in California (CA), Florida (FL), New York (NY) and Texas (TX). These four states had the highest total failed deposits."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Timing of change in bank polices. This figure presents event studies in which bank risk measures are regressed on a set of year dummies around the event that a CEO with higher-than-predecessor Crisis Exposure takes office. The horizontal axis represents time in years relative to the CEO turnover, while the vertical axis represents the coefficient estimates for event year dummies. The year preceding the turnover is omitted. Each point corresponds to the difference in outcome variables between the given year and the mean during the year preceding the turnover. The outcome variables in Panel A, B, C, D, E and F are Beta, MES, Tail Risk, Equity Volatility, Interest ROA Beta and Bad Loans/Loans (respectively). The specifications include the bank- and CEO-level controls, bank fixed effects, and year fixed effect. Vertical bars represent ninety percent confidence intervals adjusted for clustering at the bank level."
+        ],
+        "correlation": []
+    }
+}

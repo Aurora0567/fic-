@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "All-equity vs. Short-term debt bank."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Timing in the two-period model."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Timing."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Retention and Monitoring Dynamics."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Effect of monitoring technology on initial surplus. Proposition 3 provides sufficient conditions for ΔW>0. This corresponds to the case in which either Δ is high or κ̄ is low in the figures. Note that these examples also illustrate that sometimes ΔW<0 when these conditions are not satisfied."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Initial surplus under lender dispersion."
+        ],
+        "correlation": []
+    }
+}

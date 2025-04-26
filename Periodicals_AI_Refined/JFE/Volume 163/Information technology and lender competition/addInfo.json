@@ -1,0 +1,18 @@
+{
+    "AItitle": "Tech Tipping Point: How IT Progress Reshapes Lender Competition and Your Loan Rates",
+    "AIsummary": "This paper studies the field of economics, specifically the impact of information technology (IT) on lender competition and social welfare in the lending market. The problem it aims to solve is how IT progress affects the intensity of lender competition and whether it benefits or harms social welfare. Previous studies have shown that IT can either increase or decrease competition among lenders, but this paper provides a more nuanced analysis by distinguishing between two types of IT progress: IT-basic (reducing monitoring costs) and IT-distance (weakening the influence of lender-entrepreneur distance on monitoring costs). The author solves this problem by developing a theoretical model that examines how these two types of IT progress affect lender competition, loan rates, and social welfare. The method proposed by the author involves analyzing the impact of IT progress on lender differentiation, which is a key factor in determining the intensity of competition among lenders. The paper's findings suggest that IT-distance progress can lead to excessive competition and harm social welfare, while IT-basic progress has no effect on competition but increases lender profits. Overall, this study provides new insights into the complex relationship between IT progress, lender competition, and social welfare.",
+    "AIkeys": [
+        "Information Technology Progress",
+        "Lender Competition",
+        "Social Welfare",
+        "Loan Rates",
+        "Monitoring Costs",
+        "Lender Differentiation",
+        "Entrepreneur Distance",
+        "Financial Market Efficiency"
+    ],
+    "AItitle-cn": "技术转折点：IT进步如何重塑贷款人竞争和贷款利率",
+    "AIsummary-cn": "本文研究了经济学领域，特别是信息技术（IT）对贷款市场中贷款人竞争和社会福利的影响。它旨在解决的问题是，信息技术进步如何影响贷款人竞争的强度，以及它对社会福利是有益还是有害。先前的研究表明，信息技术可以增加或减少贷款人之间的竞争，但本文通过区分两种类型的信息技术进步提供了更细致的分析：信息技术基础（降低监控成本）和信息技术距离（削弱贷款人-企业家距离对监控成本的影响）。作者通过开发一个理论模型来解决这个问题，该模型考察了这两种类型的IT进步如何影响贷款人竞争、贷款利率和社会福利。作者提出的方法涉及分析信息技术进步对贷款人差异化的影响，这是决定贷款人之间竞争强度的关键因素。本文的研究结果表明，IT距离进步会导致过度竞争，损害社会福利，而IT基础进步对竞争没有影响，但会增加贷款人的利润。总体而言，这项研究为IT进步、贷款人竞争和社会福利之间的复杂关系提供了新的见解。",
+    "Highlights": "学术要点 1：IT-distance进步 （Progress in IT-distance） 指信息技术进步减少了借贷者距离对监控成本的影响，从而降低了借贷者的竞争力。|||\n学术要点 2：借贷者差异化 （Lender Differentiation） 借贷者之间的区别主要体现在他们的相对成本优势和市场份额上，信息技术进步会影响这种区别化。|||\n学术要点 3：过度竞争 （Excessive Competition） 指借贷市场中存在太多的竞争，从而导致借贷者的利润率下降以及监控激励不足。|||\n学术要点 4：社会福利效果不确定 （Ambiguous Welfare Effects） 信息技术进步对社会福利的影响取决于初始情况下的竞争力水平，可能导致过度竞争或不足竞争。|||\n学术要点 5：反向模式 （Perverse Pattern） 指借贷者的利率策略与社会福利最大化不一致，表明市场可能没有实现最优的监控激励和债务管理。",
+    "AIfig": "本图展示了信息技术改进对贷方竞争、企业家投资和福利的影响，以及贷方竞争强度与社会福利之间的关系。"
+}

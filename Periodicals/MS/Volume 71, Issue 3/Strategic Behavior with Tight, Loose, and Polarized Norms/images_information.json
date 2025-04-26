@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "(Color online) F ( x ) for Single Peaked (a) and Polarized (b) Distributions Notes. Case (ii)—absolute value loss function. Optimal contribution for an individual who faces a single peaked (a) or polarized (b) distribution of co-player contributions.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) F(x) for Tight (a) and Polarized (b) Distributions Notes. Case (ii)—absolute value loss function. Change in φ needed to generate a shift in optimal contribution from x ′ to x ″ when the distribution of co-player contributions is tight (a) or polarized (b).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Experimental Conditions: Distribution of Co-Player’s Contribution",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Overview of the Experimental Design",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Contributions, Aggregate Beliefs About the Co-Player’s Contribution, and Personal Values in Part I Notes. Dashed lines represent averages. Whiskers show 95% confidence intervals.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Aggregate Beliefs About Co-Player’s Contribution in Part II by Treatment Notes. Dashed lines represent average beliefs about co-player’s contribution. Whiskers show 95% confidence intervals. Right-hand box depicts the distributions shown in each treatment.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Distribution of Participants’ Contributions in Part II by Treatment Notes. Dashed lines represent average contributions. Right-hand box depicts the distributions shown in each treatment.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Effect of a High or Low Mean on Contributions Notes. Dashed lines represent the mean of the observed distributions (high = 2.4, low = 1.6). Whiskers show 95% confidence intervals.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Distribution of Personal Traits Among Low and High Contributors in the u-Shaped Condition",
+        "correlation": []
+    }
+}

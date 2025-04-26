@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Bank failures over time. This figure plots the time series of bank failures irrespective of resolution method and acquirer type during the 2000 to 2018 period. Data come from the Federal Deposit Insurance Corporation and are available at https://www.fdic.gov/bank/individual/failed/banklist.html. The time series includes the failed banks whose resolution process was a P&A transaction or a deposit payoff, but does not include open bank assistance. In Panel A, we plot the total number of bank failures, and in Panel B, we plot total assets (in billion USD) at failure.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Illustrative flow chart of failed-bank resolution and PE participation.",
+        "correlation": []
+    },
+    "3": {
+        "description": "PE participation in failed-bank acquisitions. This figure shows the number of failed banks acquired by other banks and by PE during the 2009 to 2014 period. Panel A plots the number of failed-bank acquisitions. Panel B plots total assets acquired. The 2009 to 2014 period comprises the active period for PE acquisitions during the crisis. Prior to 2008, PE acquirers were not yet allowed to participate in failed-bank auctions, and 2009 saw the first successful PE acquisition. After 2014, they were allowed to participate but no PE acquisitions of failed banks were made.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Comparing banks in different acquisition groups. This figure summarizes the characteristics of failed banks (and those of their neighboring banks) targeted by different pools of acquirers: those that were bid on and eventually acquired by PE investors, those bid on by PE investors but may eventually be won by a PE investor or an incumbent bank, and those that were only bid on and eventually acquired by other incumbent banks. For each characteristic, we present the sample mean across the three groups.",
+        "correlation": []
+    }
+}

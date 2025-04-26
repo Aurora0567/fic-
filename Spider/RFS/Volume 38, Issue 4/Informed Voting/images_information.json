@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Vote alpha as a function of its lagged value. This figure shows the relation between the vote alpha and its 1-year-lagged value. We group funds into lagged vote alpha bins with a width of half a percentage point. The top panel plots the mean vote alpha for each bin and the fitted line. The bottom panel performs a kernel-weighted local polynomial regression of vote alpha on the lagged vote alpha bins and plots the smoothed values with 95% confidence bands. We use the Stata function lpoly to estimate the kernel regressions, with the default options of local mean smoothing and the Epanechnikov kernel. Bins with fewer than 15 funds are not depicted; this removes 1.2% of the funds from our sample.",
+        "correlation": []
+    }
+}

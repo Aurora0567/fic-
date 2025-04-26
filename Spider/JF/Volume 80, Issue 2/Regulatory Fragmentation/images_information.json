@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Total number of words in the Federal Register (FR). This figure shows the number of words in the FR each year between 1995 and 2019 based on the three most prevalent types of documents: rules, proposed rules, and notices. The sample consists of 783,950 documents obtained from the FR server. In each document, we count only words in Grady Ward's English dictionary.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Topic clouds. We categorize the contents of the Federal Register into 100 distinct topics using LDA analysis. This figure plots word clouds of the most common words within four of these topics. We label each topic following the approach outlined in Section I of the Internet Appendix.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Regulatory fragmentation histograms. This figure shows the fragmentation of topics across agencies (\n\n\nR\ne\ng\nu\nl\na\nt\no\nr\ny\n\nF\nr\na\ng\nm\ne\nn\nt\na\nt\ni\no\n\nn\n\ni\n,\n\nt\n\n\n=\n1\n−\n\n∑\n\nA\ng\ne\nn\nc\ny\n\n\n\nω\n\ni\n,\nt\n,\na\n\n2\n\n\n$Regulatory\\ Fragmentatio{n_{i,\\ t}} = 1 - \\sum_{Agency} \\omega _{i,t,a}^2$\n, equation (2)), the distribution of topics within firms (\n\n\nT\no\np\ni\nc\nD\ni\ns\np\ne\nr\ns\ni\no\n\nn\n\nf\n,\nt\n\n\n=\n1\n−\n\n∑\n\nT\no\np\ni\nc\n\n\n\nP\n\nf\n,\ni\n,\nt\n\n2\n\n\n$TopicDispersio{n_{f,t}} = 1 - \\sum_{Topic} P_{f,i,t}^2$\n, equation (3)), and our main measure, regulatory fragmentation at the firm-year level (\n\n\nR\ne\ng\nu\nl\na\nt\no\nr\ny\n\nF\nr\na\ng\nm\ne\nn\nt\na\nt\ni\no\n\nn\n\nF\ni\nr\nm\n\nf\n,\n\nY\ne\na\nr\n\nt\n\n\n=\n\n∑\n\nT\no\np\ni\nc\n\n\n\nP\n\nf\n,\ni\n,\nt\n\n\n·\nR\ne\ng\nu\nl\na\nt\no\nr\ny\n\nF\nr\na\ng\nm\ne\nn\nt\na\nt\ni\no\n\nn\n\ni\n,\n\nt\n\n\n\n$Regulatory\\ Fragmentatio{n_{Firm\\ f,\\ Year\\ t}} = \\sum_{Topic} {P_{f,i,t}} \\cdot Regulatory\\ Fragmentatio{n_{i,\\ t}}$\n, equation (4)). The fragmentation of topics across agencies (Panel A) is at the topic-year level; it equals one minus the sum of squares of the fractions of words in the topic-year written by each agency. The distribution of topics within firms (Panel B) is at the firm-year level; it equals one minus the sum of squares of the fraction of each topic in the firm's annual report. Regulatory fragmentation (Panel C) is at the firm-year level; it equals the weighted average of the distribution of topics across agencies, where weights correspond to the fraction of the annual report devoted to each topic.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Time trends in regulatory fragmentation. Panel A shows the average level of regulatory fragmentation for each Fama-French 12 industry each year, over the 1995–2019 period. Panel B plots the annual firm-level regulatory fragmentation within the nondurables industry.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Changes in regulatory fragmentation around Trump election and the Global Financial Crisis. Panel A shows the topics with the largest changes in fragmentation across agencies (equation (2)), that is, the extent to which the topic is regulated by multiple agencies between the 2014 to 2016 period and the 2017 to 2019 period. Panel B shows the topics with the largest changes from the 2006 to 2008 period to the 2009 to 2011 period.",
+        "correlation": []
+    },
+    "6": {
+        "description": "A case study. This figure examines the determinants of the decrease in the fragmentation of the Banks topic in the years following the Trump election (Figure 5, Panel A). In Panel A, we show the number of words written on this topic in the FR by the top 10 agencies during 2014 to 2019. In Panel B, we show the regulatory fragmentation of the 12 firms with the greatest weight on the Banks topic during 2014 to 2019.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Placebo test to address endogeneity concerns. We replicate our main analysis, with one exception: We randomly assign the fragmentation of topics in the FR to Pf,i,t, the percent of firm f’s annual report that pertains to topic i at time t. Thus, instead of matching firm-years to the most relevant topics, the match is random. This generates a random set of Regulatory Fragmentation (equation (4)) and a random set of Regulation Quantity (equation (5)). We repeat this random matching 1,000 times and estimate our main regressions using the generated values of Regulatory Fragmentation and Regulation Quantity. The histograms show the t-statistics on Regulatory Fragmentation from regressions in which the dependent variable is SG&A / AT (Panel A), TFP (Panel B), ROA (Panel C), Sales growth (Panel D), Asset Growth (Panel E), and EMP/AT (Panel F).",
+        "correlation": []
+    }
+}

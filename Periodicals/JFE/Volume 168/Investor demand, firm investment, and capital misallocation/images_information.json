@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "Excess demand and price impact.This figure presents the model-predicted relationship between excess demand and the price impact on stocks. The solution is calculated using the parameter estimates reported in Table 4. Price impact is defined as the percentage difference between a firm’s market price and its intrinsic value ex-dividend, V−(1−τd)D, with V as defined in Eq. (16). We calculate the average price impact across all state variables (except ϵ) using the ergodic distribution."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Excess demand, firm value, and optimal policies.This figure illustrates the model-predicted relationships among excess demand, a firm’s intrinsic value as defined in Eq. (16), and its optimal investment and financing policies. The solution is calculated using the parameter estimates reported in Table 4. For the firm value and policies, we calculate the average across all state variables (except ϵ) using the ergodic distribution."
+        ],
+        "correlation": []
+    }
+}

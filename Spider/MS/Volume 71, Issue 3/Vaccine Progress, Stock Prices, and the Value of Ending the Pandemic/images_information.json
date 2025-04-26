@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Expected Time to Vaccine Deployment Notes. The figure shows our estimate of the expected time to widespread deployment of a COVID-19 vaccine in years. Construction of the forecasts is described in Section 3 .",
+        "correlation": []
+    },
+    "2": {
+        "description": "Welfare Gain Implied by Market Response to Duration News Notes. The figure shows the minimum and maximum allowable welfare gain to ending a disaster given an observed stock market response to disaster timing news. The welfare gain must lie in the plotted range for any choice of the disaster severity parameters. Cases (a) to (f) correspond to the parameter configurations listed in Table 1 .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Industry Sensitivity to Vaccine Progress Notes. The figure plots industry sensitivity to vaccine progress against exposure to COVID-19 as measured by cumulative returns. Cumulative returns are from February 1, 2020, to March 22, 2020. Sensitivity to vaccine progress is estimated from March 23, 2020, to October 31, 2020, as in ( 21 ).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Stock Market Sensitivity and Welfare Loss Rate Notes. The figure shows the welfare cost per unit (expected) time, V / E [ T ⋆ ] , as a function of the stock market sensitivity to changes in the expected time − Δ log P / Δ E [ T ⋆ ] as the current state s increases by one. Each point corresponds to a different set of disaster parameters. The ranges of these parameters are μ ( 1 ) ∈ [ − 0.01 , 0.03 ] , σ ( 1 ) ∈ [ 0.05 , 0.10 ] , χ ∈ [ 0.01 , 0.05 ] , ζ ∈ [ 1 , 2 ] . The remaining parameters are those given in Table 1 .",
+        "correlation": []
+    }
+}

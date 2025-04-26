@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Pre-Election Regression Discontinuity Plot of Job Change and Participation Outcomes Notes . This figure plots pre-election outcomes by candidate bins of the vote share margin on the horizontal axis. The markers to the right are bins of elected winners (treatment group), and those to the left are bins of nonwinners (control group). Marker size indicates the number of candidates in the bin. Sample is RDD-None. We employ the default bin sizes in the cmogram function in Stata. The curve is a quadratic fit to either side of the threshold along with 90% confidence intervals.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Model-Free Evidence of Moderatorship and Job Changes Notes . The graphs show the Kaplan-Meier failure curve for the respective subsamples, where the vertical axis is the failure (i.e., cumulative fraction/percent of candidates with job change) and the horizontal axis gives the half-years after the election. The solid curve is for winners, the dashed curve for nonwinners. Panel (a) is DID-CEM. Panel (b) is DID-PSM. Panel (c) is DID-All. Panel (d) is RDD-IK. Panel (e) is RDD-5%. Panel (f) is RDD-None.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Regression Discontinuity Plot Notes . This figure plots the percent of candidates per vote share bin who experience a job change over the postelection period against their vote share margin. The markers are candidate bins. Marker size indicates the number of candidates in the bin. Sample is RDD-None. We employ the default bin sizes in the cmogram function in Stata. The curve is a quadratic fit to either side of the threshold along with 90% confidence intervals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Regression Discontinuity Estimates for Various Bandwidths Notes . This figure plots the RDD hazard ratio estimates for bandwidths between 1% and 50% (in 0.25 percentage point steps). Panel (a) is Equation (2) without controls. Panel (b) is Equation (2) with controls. IK denotes the bandwidth of Imbens and Kalyanaraman (2012) used for RDD-IK. 5% marks the 5%-bandwidth used for RDD-5%. The dashed horizontal line denotes a hazard ratio of 1. Whiskers give 90% confidence intervals. Black dots mark the point estimate.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Graphical Assessment of Model Assumptions Notes . Panel (a) plots the log-log Kaplan Meier survival estimates against the log of time based on the full sample of candidates. Solid curve is for winners, dashed curve for nonwinners. Panel (b) plots the kernel density of the vote share margin along with 90% confidence intervals based on the procedure in Cattaneo et al. (2018) . Density plot is based on a triangular kernel.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Robustness Check on Employment Gaps Notes . Panels (a) and (b) plot the hazard ratios obtained from Equations (1) and ( 2 ), depending on how many of the job changes with employment gaps are recoded as no job change at random, for the DID and RDD subsamples. Panels (c) and (d) plot the hazard ratios obtained from Equations (1) and ( 2 ) when the equivalent number of job changes with employment gaps are recoded, at random, as ‘no job change’ in the DiD and RDD subsamples. The markers give the point estimate, and the whiskers are 90% confidence intervals.",
+        "correlation": []
+    }
+}

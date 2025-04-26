@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Machine Learning Revolutionizes Stock Predictions: Uncovering Hidden Biases in Earnings Forecasts\"",
+    "AIsummary": "This paper studies the field of financial economics, specifically focusing on the problem of predicting stock returns using earnings forecast biases. Historically, researchers have used linear models to estimate earnings forecasts, but these models have been shown to be less accurate than analyst forecasts. The authors propose a new method for estimating earnings forecast biases using random forests, a machine learning technique that can handle complex relationships between variables. By applying this method to a large dataset of stocks, the authors show that their approach can better capture the nuances of earnings forecast biases and improve predictions of stock returns.",
+    "AIkeys": [
+        "Earnings forecast biases",
+        "Random forest algorithm",
+        "Stock return predictions",
+        "Machine learning applications",
+        "Financial market analysis",
+        "Analyst forecasts accuracy",
+        "Predictive modeling techniques",
+        "Equity valuation methods"
+    ],
+    "AItitle-cn": "“机器学习彻底改变了股票预测：揭示盈利预测中隐藏的偏见”",
+    "AIsummary-cn": "本文研究了金融经济学领域，特别关注使用盈余预测偏差预测股票回报的问题。从历史上看，研究人员使用线性模型来估计收益预测，但这些模型已被证明不如分析师预测准确。作者提出了一种使用随机森林估计收益预测偏差的新方法，这是一种可以处理变量之间复杂关系的机器学习技术。通过将这种方法应用于大型股票数据集，作者表明他们的方法可以更好地捕捉盈利预测偏差的细微差别，并提高股票回报的预测。",
+    "Highlights": "学术要点 1：随机森林方法（Random Forest Method） 一种用于预测分析的统计方法，通过构建多棵决策树并对结果进行平均来提高预测准确性。|||\n学术要点 2：条件偏差（Conditional Bias） 指的是在某些条件下，分析师或模型对资产价值或回报的预测存在系统性的偏差。|||\n学术要点 3：异常得分（Anomaly Score） 用于衡量股票或投资组合相对于市场基准的异常表现程度。|||\n学术要点 4：五因子模型（Fama-French Five-Factor Model） 一种扩展的资本资产定价模型，考虑了除市值比和盈利比以外的其他三个风险因素。|||\n学术要点 5： универс性近似器（Universal Approximators） 指的是一种能够对任意函数进行近似的数学工具或方法，如随机森林在某些条件下具有这种特性。",
+    "AIfig": "本文研究了分析师盈利预测中存在的有条件偏差，并与机器学习基准模型进行比较。结果发现分析师预测普遍高估，并且这种偏差会随着预测期限的增加而加大。"
+}

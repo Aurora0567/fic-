@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Timeline.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Dilutable contracts under full retention. The figure plots different dilution patterns for contracts satisfying \n\n\nW\n\nε\n,\nn\n\n=\nW\n\nε\n,\nN\n\n\n$W\\left(\\varepsilon,n\\right) =W\\left(\\varepsilon,N\\right)$\n for all \n\n\nε\n,\nn\n\n$\\left(\\varepsilon,n\\right)$\n. The solid curve represents \n\n\nw\n(\nn\n)\n\n$w(n)$\n and the dashed curve \n\n\nΔ\nw\n(\nn\n)\n\n$\\Delta w(n)$\n. Panels A.1 to A.3 depict cases in which technological shocks have a stronger impact at higher retention levels (\n\n\n∂\np\n\nε\n,\nn\n\n/\n∂\nε\n\n$\\partial p\\left(\\varepsilon,n\\right) /\\partial \\varepsilon$\n increasing in \n\nn\n$n$\n), differentiating between a strong, moderate, and weak impact of the shocks. In Panel B, shocks have the same impact across different retention levels (\n\n\n∂\np\n\nε\n,\nn\n\n/\n∂\nε\n\n$\\partial p\\left(\\varepsilon,n\\right) /\\partial \\varepsilon$\n independent of \n\nn\n$n$\n). Panel C depicts the case in which shocks have a stronger impact at lower retention levels (\n\n\n∂\np\n\nε\n,\nn\n\n/\n∂\nε\n\n$\\partial p\\left(\\varepsilon,n\\right) /\\partial \\varepsilon$\n decreasing in \n\nn\n$n$\n).",
+        "correlation": []
+    }
+}

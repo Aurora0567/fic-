@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Elasticity Matrices (Standardized) Recovered Under Different Models Note . To standardize each entry in all four elasticity matrices, we divide the corresponding entry in the original elasticity matrices by the geometric mean of the averages of its corresponding column and row.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Figure Illustration of Stage 1 Performance Notes . This figure demonstrates the model’s performance in estimating the variance-covariance matrix. The tuning parameter is selected using adaptive CV with inverse square weights. The zero elements in the matrix are colored white. Red colors represent positive elements. Blue colors represent negative elements. The darker the color, the larger the absolute value of the corresponding element. In true Σ 𝑐 Σ c , we specify only positive covariance values among the utility shocks of products, in line with the empirical observations presented in Figure EC.8. Nevertheless, from a theoretical standpoint, the performance insights would remain applicable even if the covariance entries were negative.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Elasticity Matrices (Standardized) Recovered Under Different Models Note . To standardize each entry in all four elasticity matrices, we divide the corresponding entry in the original elasticity matrices by the geometric mean of the averages of its corresponding column and row.",
+        "correlation": []
+    }
+}

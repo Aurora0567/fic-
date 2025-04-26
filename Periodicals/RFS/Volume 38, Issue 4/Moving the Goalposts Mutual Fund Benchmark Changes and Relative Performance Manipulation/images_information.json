@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Frequency of benchmark changes over time. This figure contains a year-by-year plot of the number of funds that add or drop a benchmark index, as well as the percentage of funds in our sample that make any change each year. Our sample of changes begins in 2006 because we collect benchmark data starting in 2005 and thus use the 2005 observations as the baseline for our sample of funds.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Robustness tests. This figure presents robustness tests for the baseline results presented in Tables 3 and 4. Baseline results use returns winsorized at the 1% and 99% levels. In test 1, benchmark returns are winsorized at the 5% and 95% levels. In test 2, benchmark returns are not winsorized. In test 3, we exclude wholesale family-level benchmark changes. See Section 4.3 for more details.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Do funds choose benchmarks styles with lower past returns?. This figure contains charts illustrating the relation between funds’ style tilts and the past relative returns of the value and size factors. The x-axis for each graph is the 3-year returns of (1) the average value index minus the average growth index or (2) the average small stock index minus the average large stock index. The y-axis in panel A is the style tilt of the indexes funds add or drop. The y-axis in panel B is the style tilt of the index funds add minus the style tilt of the index that best reflects the funds investment strategy (this difference is labeled value or size mismatch). Panel B contains only the subset of additions that appear mismatched relative to a fund’s actual investment style.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Flows and alphas around benchmark changes. Panel A of this figure plots the flows and abnormal flows that funds making benchmark changes receive in the years around the benchmark change. The year for which the benchmark is first changed is labeled year 0, the subsequent year (ie, the year in which the prospectus change is first filed with the SEC) is labeled year 1, and so on. The blue line with the square marks plots average annualized unadjusted flows. The red line with circular marks shows annualized average abnormal fund flows obtained from a flow-performance regression (see the text for additional details). Panel B shows the annualized differences in average net-of-fee three factor Fama and French (1993) alpha and in expense ratio between benchmark-changing funds and nonchanging funds. The blue line with square marks plots the differences in the difference in alphas, while the red line with circular marks plots the inverted differences in expense ratio. The latter is inverted so that the expense ratio line shows the degree to which the difference in fees contributes to the difference in net alpha between the two groups.",
+        "correlation": []
+    },
+    "B": {
+        "description": "Example 4: Fund switching between mid-cap and small-cap benchmarks.. The Massachusetts Mutual Life (MML) Small Cap Equity Fund went back and forth between the Russell 2000 and the Russell 2500 within 4 years.. Footnote: Going forward, the Fund’s performance will be compared to the Russell 2500 Index rather than the Russell 2000 Index because the Russell 2500 Index more closely represents the Fund’s investment strategy.. Footnote: Going forward, the Fund’s performance will be compared to the Russell 2000 Index rather than the Russell 2500 Index because the Russell 2000 Index more closely represents the Fund’s current investment strategy.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Benchmark equivalence result. Traditional is equivalent to a Roth account plus an implicit government account equal to the balance of deferred taxes. Without asset management fees, the two accounts yield the same cash flows for individuals, and the same future value (FV) of cash flows for the government. A 150% return is approximately equal to a 3% rate compounded for 30 years.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Fee nonneutrality. Traditional is equivalent to a Roth account plus an implicit government account equal to the balance of deferred taxes. With asset management fees, the two accounts yield the same cash flows for individuals, but the Roth account yields a superior future value (FV) for the government thanks to lower total fees. A 150% return is approximately equal to a 3% rate compounded for 30 years; 20% fees are the future-value equivalent of 0.77%/year (the value we calibrate in this paper) over the same horizon.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Spatial competition. N firms are uniformly spaced along a circle of circumference 1, as in Salop (1979). Individuals are distributed uniformly along the circle, and prefer firms located at a closer distance.",
+        "correlation": []
+    }
+}

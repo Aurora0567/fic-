@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Crash Course in Caution: How CEOs' Past Disasters Shape Future Bank Risk Strategies\"",
+    "AIsummary": "Here is a summary of the paper in one sentence:This paper studies the field of finance, specifically bank risk management, and aims to solve the problem of how CEOs' past experiences influence their risk-taking behavior, proposing a novel method that uses data on CEOs' exposure to the 1980s Savings and Loan (S&L) crisis as a determinant of their future bank risk.Here is a comprehensive summary of the paper in 250 words:The paper explores how CEOs' past experiences shape their risk-taking behavior, focusing on the impact of the 1980s S&L crisis on bank risk management. Previous studies have shown that CEOs' personal characteristics and experiences can influence their risk preferences, but this study takes a novel approach by using data on CEOs' exposure to the S&L crisis as a determinant of their future bank risk.The author argues that the S&L crisis had a lasting impact on individuals who experienced it, shaping their risk perceptions and behavior. The paper uses a unique dataset that matches CEOs with their past experiences during the S&L crisis, allowing for a nuanced analysis of how these experiences influence their risk-taking behavior as bank CEOs.Using this data, the author finds that CEOs who were exposed to the S&L crisis are more likely to adopt conservative policies and manage risk more effectively. The study also controls for potential selection biases and alternative explanations, providing robust evidence for the impact of past experiences on CEOs' risk-taking behavior.Overall, the paper contributes to our understanding of how CEOs' personal characteristics and experiences shape their decision-making, highlighting the importance of considering these factors in bank risk management.",
+    "AIkeys": [
+        "CEO Experience",
+        "Risk Management",
+        "Bank Risk-Taking",
+        "Savings and Loan Crisis",
+        "Leadership Behavior",
+        "Financial Institutions",
+        "Decision-Making",
+        "Behavioral Finance"
+    ],
+    "AItitle-cn": "“谨慎的速成课程：CEO们过去的灾难如何塑造未来的银行风险策略”",
+    "AIsummary-cn": "本文研究了金融领域，特别是银行风险管理，旨在解决CEO过去的经历如何影响其冒险行为的问题，提出了一种新方法，该方法使用CEO在20世纪80年代储蓄和贷款危机中的暴露数据作为其未来银行风险的决定因素。本文以250字的篇幅对这篇论文进行了全面总结：本文探讨了首席执行官过去的经历如何塑造他们的冒险行为，重点关注了20世纪80年代的S&L危机对银行风险管理的影响。之前的研究表明，首席执行官的个人特征和经历会影响他们的风险偏好，但本研究采用了一种新的方法，将首席执行官在标准普尔危机中的暴露数据作为其未来银行风险的决定因素。作者认为，S&L危机对经历过危机的个人产生了持久的影响，塑造了他们的风险认知和行为。该论文使用了一个独特的数据集，将首席执行官与他们在S&L危机期间的过去经历相匹配，从而可以对这些经历如何影响他们作为银行首席执行官的冒险行为进行细致的分析。利用这些数据，作者发现，面临S&L危机的首席执行官更有可能采取保守政策，更有效地管理风险。该研究还控制了潜在的选择偏差和替代解释，为过去的经验对CEO冒险行为的影响提供了强有力的证据。总的来说，本文有助于我们理解首席执行官的个人特征和经历如何影响他们的决策，强调了在银行风险管理中考虑这些因素的重要性。",
+    "Highlights": "学术要点 1：风险暴露（Risk Exposure） 风险暴露指的是银行在特定市场或行业中的投资敞口，这些敞口会对银行的财务表现产生重大影响。|||\n学术要点 2：尾部风险（Tail Risk） 尾部风险是指在极端事件发生时，资产价格剧烈波动所带来的潜在损失，这种风险通常很难用传统的金融模型来预测和量化。|||\n学术要点 3：股权波动率（Equity Volatility） 股权波动率是指股票价格的波动幅度，它反映了投资者对公司未来表现的信心水平以及市场对公司信息的反应速度。|||\n学术要点 4：ROA 国际差异（International ROA Differences） ROA 国际差异是指不同国家或地区间银行资产回报率存在的显著差异，这些差异可能受多种因素影响，如金融监管、市场结构和经济发展水平。|||\n学术要点 5：CEO 风险偏好（CEO Risk Preferences） CEO 风险偏好是指公司首席执行官对风险的态度和偏好，它会直接影响公司的投资决策、融资选择以及整体风险管理战略。",
+    "AIfig": "本图显示了银行风险措施与CEO任职时间之间的关系，反映了CEO对银行风险管理策略的影响。"
+}

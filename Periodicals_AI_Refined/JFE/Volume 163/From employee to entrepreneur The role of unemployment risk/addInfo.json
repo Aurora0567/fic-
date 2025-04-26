@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Fired Up: How Job Insecurity Sparks a Surge in Entrepreneurship Among Long-Tenured Employees\"",
+    "AIsummary": "This paper studies the field of economics, specifically labor market dynamics, to solve the problem of how unemployment risk affects employees' decisions to become entrepreneurs. Previous research has shown mixed results on the impact of job security on entrepreneurship, with some suggesting that increased unemployment risk leads to a decrease in entrepreneurial activities. However, this study uses a quasi-experimental approach to analyze the effects of a reform to the Last-In-First-Out (LIFO) principle in Sweden, which provides a natural experiment to examine how changes in unemployment risk influence employees' decisions to become entrepreneurs.The author solves this problem by using rich individual- and firm-level administrative data to estimate the causal effect of increased unemployment risk on entrepreneurship. The results show that greater unemployment risk leads to an increased tendency for employees to become entrepreneurs, particularly among those with longer tenures. Furthermore, the study finds that these entrepreneurs do not underperform compared to similar entrepreneurs who were not exposed to increased unemployment risk.The method proposed by the author is a novel approach to studying the relationship between unemployment risk and entrepreneurship, providing new insights into how labor market policies can influence entrepreneurial behavior. The study's findings have important implications for policymakers seeking to stimulate entrepreneurship in countries with strong labor protection and generous unemployment insurance coverage.",
+    "AIkeys": [
+        "Entrepreneurship",
+        "Unemployment Risk",
+        "Labor Market Policies",
+        "Job Security",
+        "Last-In-First-Out Principle",
+        "Entrepreneurial Behavior",
+        "Economic Incentives",
+        "Career Choices"
+    ],
+    "AItitle-cn": "《激情澎湃：工作不安全感如何引发长期员工创业热潮》",
+    "AIsummary-cn": "本文研究了经济学领域，特别是劳动力市场动力学，以解决失业风险如何影响员工成为企业家的决策的问题。先前的研究表明，关于工作保障对创业的影响，结果喜忧参半，一些研究表明，失业风险的增加会导致创业活动的减少。然而，本研究使用准实验方法来分析瑞典对后进先出（LIFO）原则的改革的影响，这为研究失业风险的变化如何影响员工成为企业家的决定提供了一个自然的实验。作者通过使用丰富的个人和公司层面的管理数据来估计失业风险增加对创业的因果关系，从而解决了这个问题。结果表明，更大的失业风险会导致员工成为企业家的趋势增加，尤其是那些任期较长的员工。此外，研究发现，与没有面临失业风险增加的类似企业家相比，这些企业家的表现并不差。作者提出的方法是一种研究失业风险与创业之间关系的新方法，为劳动力市场政策如何影响创业行为提供了新的见解。这项研究的结果对寻求在劳动保护和失业保险覆盖率高的国家刺激创业的政策制定者具有重要意义。",
+    "Highlights": "学术要点 1：失业风险（Unemployment Risk） 本研究表明，失业风险会增加员工创业的倾向，这一效果在员工任职时间较长时更加明显。|||\n学术要点 2：LIFO改革（LIFO Reform） LIFO改革是指瑞典对最后进先出（LIFO）原则的改革，导致企业员工失业风险增加，从而促使他们考虑创业。|||学术要点 3：创业绩效（Entrepreneurial Performance） 研究发现，即使面临更高的失业风险，员工创办的企业在绩效方面并不比其他企业差。|||学术要点 4：劳动保护和失业保险（Labor Protection and Unemployment Insurance） 本研究指出，在强劳动保护和慷慨失业保险保障的国家，甚至是一点点的工作保障下降，也能刺激显著且有成效力的创业热潮。|||学术要点 5：员工任职时间（Employee Tenure） 研究表明，员工任职时间越长，面对失业风险考虑创业的倾向就越强烈。",
+    "AIfig": "图C.1展示了瑞典LIFO改革前后企业规模分布的情况。"
+}

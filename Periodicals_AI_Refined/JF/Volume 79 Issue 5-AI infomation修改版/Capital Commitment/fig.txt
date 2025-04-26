@@ -1,0 +1,3 @@
+fig description :"Timeline of a fund's life.",
+
+Abstract  Twelve trillion dollars are allocated to private market funds that require outside investors to commit to transferring capital on demand. We show within a novel dynamic portfolio allocation model that ex-ante commitment has large effects on investors' portfolios and welfare, and we quantify those effects. Investors are underallocated to private market funds and are willing to pay a larger premium to adjust the quantity committed than to eliminate other frictions, like timing uncertainty and limited tradability. Perhaps counterintuitively, commitment risk premiums increase with secondary market liquidity, and they do not disappear when investments are spread over many funds.

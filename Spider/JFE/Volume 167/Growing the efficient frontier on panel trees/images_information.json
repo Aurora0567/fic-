@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": [
+            "Example of a decision tree.Left: A decision tree has two splits, three leaf nodes, and three leaf parameters. Right: The corresponding partition plot is generated for the sample of predictor space on value and size."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Illustration of the first split.To determine the optimal characteristic and cutpoint value, we evaluate a list of candidate splits (i.e., standardized unexpected quarterly earnings (SUE) ≤−0.2; 40% percentile) for calculating the split criterion value."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Illustration of the second split.There are two potential candidates for the second split, each splitting one of the original leaf nodes. After the second split, three leaf basis portfolios are produced to update the latent factor."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Panel tree from 1981 to 2020.We provide splitting characteristics, cutpoint values for each parent node, and their respective node and splitting indexes. For example, node N1 is split by SUE at -0.2 (40% percentile) as the first split S1, and the second split S2 is on node N3 by DOLVOL at -0.6 (20% percentile). The median monthly number of assets in the terminal leaf basis portfolios is also included. For example, node N8 has 134 stocks by monthly median. Table 1 describes equity characteristics. Fig. A.1 reports the P-Tree diagrams for subsamples."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Visualizing nonlinear interactions with partition plots.This diagram illustrates the partitions for the first few splits of the tree structure in Fig. 4. The first split (S1) occurs at 40% of SUE on the entire stock universe, and the second split occurs at 80% of DOLVOL on the high SUE partition. The portfolio results for each partition are provided (monthly average excess returns (AVG) and annualized Sharpe ratios (SR)). The arrows indicate the next split is implemented on the partitioned area from the previous one."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Diversified P-Tree test assets.This figure reports the performance of P-Tree test assets (presented in Table 3) and the 5 × 5 ME-BM portfolios. The 10 black circles represent P-Tree test assets, and the 25 light-red triangles represent ME-BM portfolios. Panel A shows the scatter plots of the mean and standard deviation for portfolio returns in percentage. Panel B shows the scatter plots of CAPM alpha and beta, with alphas in percentage."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Characterizing the efficient frontier with P-Trees.This figure shows the MVE frontiers of the first P-Tree, the sequence of boosted P-Tree factor models, benchmark factor models, and benchmark test assets. The dots on the frontiers represent the tangency portfolios. The mean and standard deviation are on a monthly scale. The sample period is from 1981 to 2020."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "OOS Performance of Random P-Forest SDF.This figure reports the Sharpe ratio, and pricing error (HJD) of the realized OOS SDF portfolio. Each P-Tree in the Random P-Forest is fed with 10 characteristics, randomly drawn without replacement from 61 ones, and generates 10 leaf basis portfolios. These P-Trees are independently trained. P-Trees are split with goal-oriented criteria to maximize the collective Sharpe ratio of leaf basis portfolios. The total number of leaf basis portfolios is denoted P. The horizontal axis shows model complexity c=P/T, with c ranging from 0.1 to 100 and T=240 months. We report five specifications with shrinkage parameter γ in [10−5,10−1,1,10,1000]."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Demonstration for ME baseline and ME-BM baseline P-Trees."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Evaluating a characteristic with P-Tree.This figure shows the Sharpe ratio of P-Tree basis portfolios after splitting on a characteristic, based on either ME or ME-BM baseline P-Trees. Sub-figures (a) and (b) display the results for ME and ME-BM baseline P-Trees, respectively. We sort the characteristics by their Sharpe ratios in ascending order. The red lines show the Sharpe ratios of P-Tree basis portfolios after splitting one step further on the controlling characteristics. A bar above the red line indicates incremental information against the benchmark characteristics and is colored black. Otherwise, the gray bar indicates the characteristic does not provide incremental information. The characteristics are listed in Table 1."
+        ],
+        "correlation": []
+    }
+}

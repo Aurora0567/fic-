@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Reference rates and average interest payments. The dark-colored solid line is the three-month WIBOR, and the light-colored dashed line is the three-month LIBOR CHF. The dotted line (right axis) is the average level of nonzero mortgage interest payments in the data.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Differential interest and income changes for PLN-denominated loans over time. Panel A shows coefficients on the interaction of mortgage size and a binary indicator for PLN-denominated loans from the regression with interest payments as the dependent variable. The line represents the differential impact of loan size on interest payments over time for households with PLN-denominated mortgages. Panel B displays analogous coefficients using gross household income as the dependent variable. Loan size is defined as the second interest payment for a given household. The regression controls for the same set of fixed effects as the main specification: individual, year-age-income bin cells, and county-year cells. Standard errors used to create the depicted 95% confidence intervals are clustered at the household level. The sample includes all mortgage holders, and the sample size equals 1,847,350.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Asymmetry of the labor supply response. The figure shows a binned scatterplot of the residuals from a regression of household income on the fixed effects from the main specification (previous-year income bin-age-year fixed effects and county-year fixed effects), plotted against the predicted change in the household's interest payment (equation (1) with interest instrumented with mortgage size and the reference rate). The regression focuses on mortgage holders and is similar to column (5) of Table III but with the independent variable being the change in the interest paid. Each dot represents an average of residuals. These averages are calculated for observations for which the change in interest payment, rounded to the nearest PLN 500, is equal to the corresponding level on the x-axis. The dot's size is proportional to the number of observations in a given bin. The lines are linear trends based on regressions of the residuals on the change in interest payments, performed separately for samples containing observations with positive and negative changes.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Labor supply response by age and presence of children. The figure shows coefficients from regressions of gross household income on household interest payments and on the level and the interaction of interest with an indicator for the year-over-year increase in payment. The five groups of bars represent coefficients from regressions in different subsamples: individuals younger than 30 years old, 30 to 45 years old, and above 45 years old and households with no children present or with at least one child under the age of 18. The regressions control for the same set of fixed effects as the main specification: individual, year-age-income bin cells, and county-year cells. Standard errors used to create the depicted 95% confidence intervals are clustered at the household level. The samples include all mortgage holders.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Labor supply response by labor market conditions and mortgage size. The figure shows coefficients from regressions of gross household income on household interest payments and the level of interest interacted with an indicator for the year-over-year increase in payment. The four groups of bars represent coefficients from regressions in different subsamples: individuals living in counties with a below- or above-median unemployment rate and individuals with mortgage-to-income ratio below- or above median. The regressions control for the same set of fixed effects as the main specification: individual, year-age-income bin cells, and county-year cells. Standard errors used to create the depicted 95% confidence intervals are clustered at the household level. The samples include all mortgage holders.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Labor supply response with multiple earners. The two groups of bars to the left show coefficients from regressions of gross household income on household interest payments and the level of interest interacted with an indicator for the year-over-year increase in payment. Single- and dual-earner refer to subsamples of individuals living in households with only one or two adults earning nonzero income. The two groups of bars to the right show coefficients from regressions of the subsample of dual-earner households, where the dependent variable is the income of the primary or secondary earner. The regressions control for the same set of fixed effects as the main specification: individual, year-age-income bin cells, and county-year cells. Standard errors used to create the depicted 95% confidence intervals are clustered at the household level. The samples include all mortgage holders.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Labor supply responses of men and women and the presence of children. The figure shows coefficients from regressing gross income earned by men and women on the level of interest paid by the household as well as the interaction of interest paid with an indicator for the year-over-year increase in mortgage payment. The left-most bars represent the overall response of men's and women's income. The four groups of bars to the right represent men's and women's responses in subsamples of households that have no children present or that have at least one child. The regressions control for the same set of fixed effects as the main specification: individual, year-age-income bin cells, and county-year cells. Standard errors used to create the depicted 95% confidence intervals are clustered at the household level. The samples include all mortgage holders.",
+        "correlation": []
+    }
+}

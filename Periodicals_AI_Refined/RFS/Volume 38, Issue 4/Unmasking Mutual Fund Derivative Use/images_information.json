@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "The extent of derivative use and derivative contribution to fund returns. The figure shows the cumulative distribution functions of the fund-level derivative use and (signed) derivative relative contribution to fund returns. The extent of derivative use is proxied by gross notional exposure in panel A, and by absolute derivative weight in panel B. The gross notional exposure is the sum of the notional amounts of derivative positions scaled by the fund’s total net assets. The absolute derivative weight is the sum of the absolute value of portfolio weights of all derivative positions for a fund. Signed derivative relative contribution is the ratio between DIR and non-DIR and is shown in panel C. Derivative induced return (DIR) in month t is calculated as the sum of realized PnL and change of unrealized PnL in month t⁠, normalized by the fund total net assets in month t−1⁠. Non-DIR is the difference between fund return and DIR. Derivative relative contribution is the absolute value of the signed derivative relative contribution and is shown in panel B.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Persistence of derivative underlying assets and classification. The figure shows the persistence of derivative underlying assets by derivative users in panels A and B, and the persistence of the classification in panel C. We calculate the fraction of gross notional exposure in the following six underlying asset categories and for long and short positions for each derivative user at each quarter. The six underlying asset categories include equity index, individual stock, interest rate securities, foreign exchange, commodity, and other assets. In panel A, we calculate and plot the histogram of the Euclidean distance between the previous and current quarter allocations. The measure is bounded between zero and 2⁠. The maximum distance is achieved when the fund completely changes the derivative underlying asset from one category to another, and the minimum distance is achieved when there is no change in the underlying asset category. In panel B, we calculate and plot the histogram of the cosine similarity between the previous and current quarters’ allocations. The maximum value of 1 is achieved when there is no change in the underlying asset category. In panel C, we plot the probability of a derivative user deviating from its major user group, which is defined as the most frequent classification of the fund throughout the sample.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Word cloud of derivative-related discussions in principal investment strategy. The figure shows a word-cloud of derivative-related discussions in the Principal Investment Strategy section of a fund’s prospectus using form N-1A. We identify and extract derivative-related sentences using keywords: derivative, futures, options, and swaps. We also extract one sentence before and after each identified sentence. Lastly, we plot the word cloud based on the frequencies of bigrams in our extracted sentences after removing common words. The font size of bigrams increases with the frequency, and we manually highlight some representative bigrams in red for each derivative user group. The list of common words includes “fund,” “security,” “portfolio,” “invest,” “investment,” “underlying,” “contract,” “manager,” “series,” and “adviser.”",
+        "correlation": []
+    },
+    "4": {
+        "description": "Distributions of correlation between derivative and non-derivative-induced returns. The figure shows the histogram of the correlation between DIR and non-DIR. DIR in month t is calculated as the sum of realized PnL and change of unrealized PnL in month t⁠, normalized by the fund total net assets in month t−1⁠. Non-DIR is the difference between the fund return and DIR. The correlation is calculated based on the availability of N-PORT data between July 2019 and December 2022. The figure also indicates which derivative strategies contribute to the histogram, and the detailed discussion of different derivative strategies is documented in Section 3.1.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Fund performance in COVID-19 pandemic. The figure shows the cumulative returns and alphas for funds starting from the outbreak on January 20, 2020, to June 8, 2020, when the S&P 500 index completely rebounded from the crash. The figure shows the performance of nonusers, long index users, and all other users. Daily alphas are estimated using a 1-year rolling window. The dotted vertical line represents the start of the recovery period (March 24, 2020).",
+        "correlation": []
+    },
+    "6": {
+        "description": "Tracking error in COVID-19 pandemic. The figure shows the funds’ tracking error starting from the COVID-19 outbreak on January 20, 2020, to June 8, 2020, when the S&P 500 index completely rebounded from the crash. Panel A shows funds’ tracking error, which is the 30-day rolling annualized standard deviation of the difference between fund returns and benchmark returns. Panel B shows the hypothetical tracking error based on the reported equity positions at the beginning of a quarter. The dotted vertical line represents the start of the recovery period (March 24, 2020).",
+        "correlation": []
+    },
+    "7": {
+        "description": "Quarter-by-quarter change in derivative use during Fed rate hike period. The figure shows the funds’ quarter-by-quarter change in gross notional exposure during the Fed Rate Hike period. For each quarter and each fund, we calculate the change in gross notional exposure from the previous quarter. We then plot the average change and its 95% confidence intervals for long index users and all other derivative users, respectively. The initial Fed rate increase took place in Q1 of 2022.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Fund performance in Fed rate hike period The figure shows the cumulative returns and alphas for funds starting from January 1, 2022, to December 31, 2022. The figure shows the performance of nonusers, long index users, and all other users. Daily alphas are estimated using a 1-year rolling window. The dotted vertical lines represent the announcement dates of rate hikes.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Tracking error during Fed rate hikes. The figure shows the funds’ tracking error starting from January 1, 2022, to December 31, 2022. Panel A shows funds’ tracking error, which is the 30-day rolling annualized standard deviation of the difference between fund returns and benchmark returns. Panel B shows the hypothetical tracking error based on the reported equity positions at the beginning of a quarter. The dotted vertical lines represent the announcement dates of rate hikes.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Loan size distribution of the SBA BPDL program. The figure shows the loan size distribution of BPDL. Source: SBA.",
+        "correlation": []
+    },
+    "2": {
+        "description": "SBA disaster loan amounts and natural disaster costs. The figure shows SBA disaster loan amounts by program and natural disaster costs by type of disasters. The SBA disaster loan amounts only become available after 2003. Sources: SBA, NOAA.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Geographical distribution of SBA disaster loans. The figure shows the average annual amount of BPDLs, regular EIDLs, and COVID EIDLs per capita in each county, respectively. Source: SBA.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Distributions for BPDLs: Loan amounts versus verified losses. The figure shows the verified loss and loan size distribution for BPDLs. The vertical lines represent the collateral thresholds. Source: SBA.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Bunching condition with collateral costs",
+        "correlation": []
+    },
+    "6": {
+        "description": "Counterfactual distribution and marginal buncher of BPDLs. This figure shows the observed (black) and counterfactual (red) percentage of loans in each bin. The counterfactual is estimated for each sample separately by fitting a fifth-order polynomial with round-number dummies to the observed distribution using a bin size of $500, excluding data in the bunching region. We set all estimation ranges to be from $0 to $65,000.",
+        "correlation": []
+    },
+    "7": {
+        "description": "New secured borrowing postdisaster loans. This figure shows the borrower’s likelihood of having new secured lending after taking regular disaster loans for nonbunchers versus bunchers. The sample includes firms in the regular SBA disaster loan programs form 2000 to 2020. The likelihood is estimated using the Cox Proportional Hazards Model. Bunchers are borrowers with disaster loan amount slightly below or equal to threshold K―⁠: [K-5,000, K]. Nonbunchers are borrowers with disaster loan amount slightly above threshold K―⁠: (K, K+5,000].",
+        "correlation": []
+    },
+    "8": {
+        "description": "Counterfactual policy simulation: Welfare as a function of collateral threshold. This figure shows the social welfare for different values of the collateral threshold (⁠K―⁠) across four scenarios (1) no collateral cost, (2) collateral cost of a fixed lien but firms do not respond strategically to the threshold, (3) collateral cost of a fixed lien and firms do not respond strategically to the threshold, and (4) collateral cost of a floating lien and firms do not respond strategically to the threshold. The circles represent the optimal thresholds under each scenario.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Counterfactual policy simulation: Optimal threshold. This figure shows the optimal collateral threshold (⁠K―⁠) that maximizes the social welfare across four scenarios (1) no collateral cost, (2) collateral cost of a fixed lien but firms do not respond strategically to the threshold, (3) collateral cost of a fixed lien and firms do not respond strategically to the threshold, and (4) collateral cost of a floating lien and firms do not respond strategically to the threshold.",
+        "correlation": []
+    }
+}

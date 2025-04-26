@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Stock market reaction to the first mention of a tiering systemThe chart shows the intraday development in the broad EuroStoxx50 index, as well as the narrow EuroStoxx Banks index on March 27, 2019, normalised to 100 at the start of trading at 9am. Former ECB president Draghi's speech containing a reference to “mitigating measures” to address the possible side effects of negative interest rates on bank profitability was released at 9:00 am in the morning and followed by an uptick in the EuroStoxx banks index of around 1 %, while the broader index remained largely unchanged. The release of a news bulletin reporting that the ECB was working on a tiering system at 13:25 was followed by an additional increase in banks’ equity prices by around 2.5 %, compared to a rise of 0.7 % in the broader equity index."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "The distribution of excess liquidity between banks before and after the tieringThe figure plots the distribution of the ratio of a bank's excess liquidity relative to the bank's exemptions equal to six times the MMR in the two maintenance periods before (MP5 and MP6) the tiering implementation in November 2019 and the two after (MP7 and MP8). MP5 goes between July 31, 2019 and September 17, 2019; MP6 between September 18, 2019 and October 29, 2019; MP7 between October 30, 2019 and December 17, 2019; and MP8 between December 18, 2019 and January 28, 2020."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Net borrowing in the money marketThe figure shows the average outstanding stock of net borrowing by banks in EUR billion. The stock of net borrowing is defined as the volume of outstanding borrowing transactions at the end of the day minus the volume of outstanding lending transactions. Panel A is based on transactions in the secured money market segment, and Panel B is based on transactions in the unsecured segment. The data is split between banks with unused tiering allowances (red line, left-hand side axis) and without (grey line, right-hand side axis) during the maintenance period immediately preceding the start of the tiering system at the end of October 2019. Vertical lines mark the speech by President Draghi on March 27, 2019, which first referred to the possibility of introducing a tiering system, as well as to the eventual start of the system on October 30, 2019."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Change in reserve holdings, money market net borrowing, and central bank borrowingThe figure shows the change in reserve holdings, net borrowing in the money market, and borrowing from the central bank by banks with (left panel) and without (right panel) unused allowances as of October 2019, right before the tiering implementation. The relevant cut-off date for determining the minimum reserve requirements (and therefore the tiering allowance) for the maintenance period ending on October 2019 were July 2019 (for banks reporting monthly) or June 2019 (for banks reporting quarterly). All series are normalized to banks’ reserve holdings on September 12, 2019, the date at which the introduction of the two-tier system was formally announced (first vertical dashed line). The second vertical line indicates the start of the tiering system implementation (October 30, 2019). The residual change in reserve holdings can be attributed to other sources of banks’ liquidity management, such as the purchase or sale of securities."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Money market interest ratesThe figure shows the volume-weighted average interest rates on the flow of new money market transactions by reporting banks per day, expressed as a spread over the prevailing DFR. The average is computed across all reporting banks and maturities. The red line indicates the values for banks with unused allowances, and the grey line banks without unused allowances under the tiering system. The vertical lines indicate the date when the reduction of the DFR took effect (September 18, 2019) and the start of the tiering system implementation (October 30, 2019)."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Increase in net unsecured borrowing conditional on unused allowances and counterparty’ excess liquidityThe figure shows the effect of the two-tier system on banks’ bilateral net borrowing in the unsecured market, conditional on the borrowing bank having unused allowances equal to the sample average, and conditional on the counterparty having liquidity holdings in excess of its tiering allowance as indicated on the horizontal axis. Specifically, the chart plots the change in net borrowing of a bank with average unused exemptions above zero after the implementation of the tiering as a function of the excess liquidity of the counterparty (above the tiering allowance and in percent of total assets): β2ExposureOct2019‾+β4ExposureOct2019‾×CounterpartyExcessLiquidityjt. We vary the counterparty's excess tiering allowances ranging from 0 % to 50 % of total assets. Dashed lines indicate the 90 % confidence interval, dotted lines the 95 % confidence interval."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Dynamic effects of unused exemptions on bank loan supplyIn order to test whether our results may be driven by pre-existing trends, we estimate a specification analogous to that in column 3 of Table 7, in which instead of including the terms Exposure(Feb 2019)*Interim(Mar-Oct 2019) and Exposure(Oct 2019)*Implementation (Nov 2019-Feb 2020), we interact Exposure(Oct 2019) with time dummies. The figure reports the estimated coefficients on each of these interactions and the 95 % confidence interval."
+        ],
+        "correlation": []
+    }
+}

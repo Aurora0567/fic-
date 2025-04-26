@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"The Status Effect: How Social Ambition Warps Investment Logic and Fuels Risky Bets\"",
+    "AIsummary": "This paper studies behavioral economics, specifically how social considerations influence investment decisions. The problem it aims to solve is understanding why people make seemingly irrational investment choices, such as demanding skewness in their investments. Previous research has attempted to explain these patterns using utility functions that only consider the first two moments (mean and variance) of an investment's returns. In contrast, this paper proposes a new aspirational utility function that incorporates skewness, the third moment of returns. The author derives this function by considering how social interactions can trigger desires for non-divisible goods, such as status goods. The paper then tests this theory using a lab experiment where participants are induced to aspire for charitable donations, and finds that the presence of aspiration indeed induces a demand for skewness in investments.",
+    "AIkeys": [
+        "Aspirational utility function",
+        "Skewness preference",
+        "Social influence on investment decisions",
+        "Non-divisible goods",
+        "Status goods",
+        "Charitable donations as aspiration",
+        "Risk-taking behavior",
+        "Irrational investment choices"
+    ],
+    "AItitle-cn": "“地位效应：社会野心如何扭曲投资逻辑并助长风险投资”",
+    "AIsummary-cn": "本文研究行为经济学，特别是社会因素如何影响投资决策。它旨在解决的问题是理解为什么人们会做出看似不合理的投资选择，比如要求投资偏斜。之前的研究试图使用效用函数来解释这些模式，效用函数只考虑投资回报的前两个时刻（均值和方差）。相比之下，本文提出了一种新的期望效用函数，该函数结合了偏度，即回报的第三矩。作者通过考虑社会互动如何引发对地位商品等不可分割商品的欲望来推导出这一函数。然后，本文使用一个实验室实验来检验这一理论，在该实验中，参与者被诱导渴望慈善捐款，并发现渴望的存在确实会引发对投资偏斜的需求。",
+    "Highlights": "学术要点1: 愿望效用（Aspirational Utility） 愿望效用是一种基于社会比较和愿望实现的效用函数，解释了投资行为中对风险和收益的态度.\n        学术要点2: 偏好逆转（Preference Reversal） 偏好逆转是指在面临不同的选择时，个人偏好发生改变的现象，愿望效用可以解释这一行为。\n        学术要点3: 四季度博弈（Four Seasons of Gambling） 四季度博弈是一种博弈策略，在不同阶段采用不同的风险态度和投资方式，愿望效用可以模拟这种动态决策过程。\n        学术要点4: 社会比较（Social Comparison） 社会比较是指个人通过与他人比较来评估自己的地位和成就的过程，愿望效用将这一机制纳入了投资行为的分析中。\n        学术要点5: 实验室实验（Lab Experiment） 本文作者进行了实验室实验来测试愿望效用的预测力，结果支持了理论模型的有效性。",
+    "AIfig": "图示为C、S和优化后的财富效用函数U∗(W)，省略了高档商品SU（Status Good for the Upper Class），但其形状与前两者相似。"
+}

@@ -1,0 +1,18 @@
+{
+    "AItitle": "Revolutionizing Asset Pricing: Mean Imputation Unlocks Hidden Potential in Machine Learning Models",
+    "AIsummary": "This paper studies the field of cross-sectional asset pricing research, specifically addressing the problem of handling missing data in machine learning (ML) models. The standard practice of dropping stock-months with missing predictors is often untenable, and previous ML studies have applied ad-hoc imputations or data adjustments without much discussion. To solve this problem, the author recommends using simple mean imputation, which may seem counterintuitive as it ignores all information about the missing data. However, the author argues that due to the missingness and covariance structures in cross-sectional predictor data, there is little information about missing values, making mean imputation a viable solution.The author's proposed method involves using mean imputation across a broad array of imputation and return forecasting methods, finding that it leads to similar portfolio returns and Sharpe ratios. The paper also explores the factor structure of the cross-section of returns, suggesting a high dimensionality for all stocks and a potential strong factor structure among very large stocks.The author's approach is notable for its simplicity and effectiveness, providing guidance on handling missing data in ML models for cross-sectional asset pricing research. By simplifying the imputation process, researchers can focus on more complex aspects of their models, ultimately leading to better investment decisions.",
+    "AIkeys": [
+        "Machine Learning Models",
+        "Cross-Sectional Asset Pricing",
+        "Missing Data Imputation",
+        "Mean Imputation",
+        "Return Forecasting Methods",
+        "Factor Structure Analysis",
+        "Portfolio Performance Evaluation",
+        "Asset Pricing Research"
+    ],
+    "AItitle-cn": "革命性的资产定价：均值估计解锁了机器学习模型中隐藏的潜力",
+    "AIsummary-cn": "本文研究了横截面资产定价研究领域，具体解决了机器学习（ML）模型中处理缺失数据的问题。在缺少预测因子的情况下减少库存月份的标准做法往往是站不住脚的，之前的机器学习研究在没有太多讨论的情况下应用了临时插补或数据调整。为了解决这个问题，作者建议使用简单的均值插补，这似乎违反直觉，因为它忽略了有关缺失数据的所有信息。然而，作者认为，由于横截面预测数据中的缺失和协方差结构，关于缺失值的信息很少，因此均值插补是一种可行的解决方案。作者提出的方法涉及在各种插补和回报预测方法中使用均值插补，发现它会导致类似的投资组合回报和夏普比率。本文还探讨了收益横截面的因子结构，提出了所有股票的高维度和非常大的股票中潜在的强因子结构。作者的方法以其简单性和有效性而闻名，为跨部门资产定价研究提供了处理机器学习模型中缺失数据的指导。通过简化插补过程，研究人员可以专注于模型中更复杂的方面，最终做出更好的投资决策。",
+    "Highlights": "学术要点 1：交叉-sectional predictor数据缺失模式（Missingness Patterns in Cross-Sectional Predictor Data） 本文研究了资产定价中常见的交叉-sectional预测变量数据缺失模式，发现这种模式下简单均值插补法（mean imputation）可能是最佳选择。|||\n学术要点 2：高维PC分析（High-Dimensional PC Analysis） 文中使用主成分分析（PCA）研究了大量股票的因子结构，发现其中大部分股票呈现出高维特征，很难通过少数几个公共因子进行解释。|||\n学术要点 3：监督式PC方法（Supervised PC Methods） 本文比较了不同的主成分分析方法，包括传统的无监督方法和最近提出的监督式方法，如Huang et al. (2022)，发现后者可能更适合于研究股票价格的因子结构。|||\n学术要点 4：大型股票的潜在强因子结构（Potential Strong Factor Structure among Large Stocks） 研究结果显示，大型股票中可能存在较强的因子结构，而这种结构可能通过监督式PC方法加以挖掘。|||\n学术要点 5：简单均值插补法对资产定价影响（Impact of Mean Imputation on Asset Pricing） 本文发现，在交叉-sectional预测变量数据缺失的情况下，简单均值插补法可能不会对资产定价产生显著影响，这与之前的研究结论有所不同。",
+    "AIfig": "本图展示了使用局部向后交叉模型（BLLP loc B-XS）和简单平均值插补法在scaled-PCA回归中预测股息的表现。两种方法的估计结果显示出相似的走势，表明简单平均值插补法可作为有效的替代方案。"
+}

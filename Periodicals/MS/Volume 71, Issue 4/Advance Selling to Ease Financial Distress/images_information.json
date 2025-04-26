@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Equilibrium Interest Rate 𝑟 * r * , Effort 𝑒 * e * , and Firm Profit 𝜋 * π * as a Function of Firm’s Funding Need I in the Benchmark Model Without Advance Selling Note. Parameter values: a = 0.7, 𝜆 = 0 . 2 λ = 0.2 , v = 1.5, 𝛽 = 0 . 9 , 𝑚 𝑜 = 0 . 5 β = 0.9 , m o = 0.5 ( 𝐼 𝑙 = 0 . 2 7 , 𝐼 ℎ = 0 . 5 0 I l = 0.27 , I h = 0.50 , and I max = 0.73).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Equilibrium Firm Profit Under the Three Advance Selling Schemes as a Function of Consumer Valuation v Note. Parameter values: I = 0.6, a = 0.7, 𝜆 = 0 . 2 , 𝑚 𝑜 = 0 . 5 , 𝛽 = 0 . 9 . λ = 0.2 , m o = 0.5 , β = 0.9 .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Thresholds ̅ 𝑣 𝑐 v ¯ c and ̅ 𝑣 v ¯ as a Function of λ Note. Parameter values: a = 0.5, I = 0.7, 𝛽 = 0 . 9 , 𝑚 𝑜 = 0 . 2 β = 0.9 , m o = 0.2 .",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Equilibrium Firm Profit ( 𝜋 * π * ) as a Function of the Firm’s Funding Need I in the Case of Moderate Financial Distress Note. Parameter values: a = 0.9, 𝜆 = 0 . 1 λ = 0.1 , v = 1.9, m o = 1, 𝛽 = 0 . 9 β = 0.9 ( 𝐼 𝑙 = 0 . 1 8 , 𝐼 ℎ = 0 . 5 8 5 , 𝐼 𝑚 = 0 . 4 8 4 I l = 0.18 , I h = 0.585 , I m = 0.484 , and I max = 0.99).",
+        "correlation": []
+    }
+}

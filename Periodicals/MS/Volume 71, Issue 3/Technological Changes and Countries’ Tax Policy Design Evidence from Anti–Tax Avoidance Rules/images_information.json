@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Tax Policy Measure Variation Notes. Annual average of our tax policy measures ( StatTR , InvScore , and AntiTAScore ) for all 34 sample countries over the sample period (1996–2016). Annual interquartile ranges (third to first quartile) are depicted in gray to illustrate cross-sectional variation in the three tax policy measures.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Technological Change by U.S. Industry Notes. Large technological change events for U.S. industries over the sample period (1995–2015). For each U.S. industry, we define technological change as the first factor of a factor decomposition of an industry’s yearly change in labor productivity, total factor productivity, and capital intensity. The factor score is standardized to have mean zero and standard deviation close to one.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Average Technological Change Exposure and Anti–Tax Avoidance Rules Note. Average value of TechExposure , our measure of exposure to U.S. technological changes, for each country over the sample period on the x axis and the 2017 value of the anti–tax avoidance score ( AntiTASc ).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Robustness to Exclusion of Single Industries Note. TechExposure coefficient when excluding single industries from the definition of U.S. technological change exposure.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Example of mutual fund currency forward disclosure. This figure shows a partial list of the currency forward contracts of JPMorgan Emerging Markets Debt Fund, disclosed in its N-Q filing as of May 31, 2018.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Fund asset denominations and currency exposure. These figures show histograms of sample funds' (i) fractions of assets issued by foreign-domiciled issuers, (ii) fractions of assets denominated in non-U.S. dollar currencies, (ii) net sales of foreign currency forwards scaled by TNA, and (iv) net exposure to non-U.S. dollar currencies.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Portfolio asset currency denominations and net foreign currency exposure. This figure shows scatter plots of sample funds' portfolio weights of assets denominated in foreign currencies and the net exposure to foreign currencies taking into account forward contracts. Each circle represents a fund. The size of each circle corresponds to the TNA of each fund. For a given fund, the portfolio weight of assets denominated in foreign currencies and net foreign currency exposure are averaged across the sample periods. The 45\n\n\n\n∘\n\n$^\\circ$\n line represents cases where the portfolio net currency exposure is equal to the portfolio weight of assets denominated in non-U.S. dollar currencies.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Time series of fund aggregate currency forward use. This figure shows the time series of sample funds' (i) gross purchases, (ii) gross sales, and (iii) net sales of foreign currency forwards, scaled by total TNAs.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Examples of fund currency forward positions. These figures show the fractions of assets denominated in foreign currencies, the net currency forward sales, and the net exposure to foreign currencies of the DFA Five-Year Global Fixed-Income Portfolio in Panel A and the Oppenheimer International Bond Fund in Panel B.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Mutual fund use of GBP currency forwards around the Brexit referendum. These figures show sample funds' hedge ratios, forward sales, and net exposure to GBP around quarters before and after the Brexit referendum on June 23, 2016. Quarter 0 corresponds to 2016Q2. Point estimates are plotted as squares alongside the 95% confidence intervals.",
+        "correlation": []
+    }
+}

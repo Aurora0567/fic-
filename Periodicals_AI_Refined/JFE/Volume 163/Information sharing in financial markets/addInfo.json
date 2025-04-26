@@ -1,0 +1,18 @@
+{
+    "AItitle": "\"Financial Secrets Revealed: Why Investors Share Info and How Markets React in Surprising Ways\"",
+    "AIsummary": "This academic paper studies the field of finance and economics, specifically focusing on information sharing among investors in financial markets. The problem addressed is understanding why investors share information with each other, despite the potential risks and consequences. Previous theories have not adequately explained this phenomenon, instead assuming that investors either do not share information or share it randomly.The authors propose a novel theory to solve this problem, suggesting that an investor with coarse information optimally chooses to share it with a well-informed investor. This sharing of information benefits the less informed investor by inducing the more informed investor to trade against the shared information, thereby reducing the former's price impact. The more informed investor, on the other hand, never shares information as it would dissipate their informational advantage and erode their profits.The authors use a theoretical model to support their argument, demonstrating that market efficiency improves, while market liquidity worsens in the presence of information sharing. They also show that total trading volume can be higher or lower depending on the quality of the less informed investor's information. Overall, the paper provides a new perspective on why investors share information in financial markets and offers a complementary explanation to existing theories.",
+    "AIkeys": [
+        "Investor Information Sharing",
+        "Financial Market Efficiency",
+        "Trading Strategies",
+        "Asymmetric Information",
+        "Price Impact",
+        "Market Liquidity",
+        "Rational Expectations",
+        "Game Theoretic Models"
+    ],
+    "AItitle-cn": "“揭示的金融秘密：为什么投资者分享信息以及市场如何以令人惊讶的方式做出反应”",
+    "AIsummary-cn": "这篇学术论文研究了金融和经济领域，特别关注金融市场投资者之间的信息共享。解决的问题是理解为什么投资者会相互分享信息，尽管存在潜在的风险和后果。之前的理论并没有充分解释这一现象，而是假设投资者要么不分享信息，要么随机分享信息。作者提出了一种新的理论来解决这个问题，建议拥有粗略信息的投资者最好选择与消息灵通的投资者分享。这种信息共享有利于信息较少的投资者，引导信息较多的投资者根据共享的信息进行交易，从而减少前者的价格影响。另一方面，更知情的投资者从不分享信息，因为这会分散他们的信息优势，侵蚀他们的利润。作者使用一个理论模型来支持他们的论点，证明在信息共享的情况下，市场效率会提高，而市场流动性会恶化。他们还表明，总交易量可能会更高或更低，这取决于知情程度较低的投资者信息的质量。总的来说，本文为投资者在金融市场中共享信息提供了一个新的视角，并对现有理论进行了补充解释。",
+    "Highlights": "学术要点 1：信息共享理论（Information Sharing Theory） 本文提出的信息共享理论解释了为什么投资者会共享信息，以及如何通过这种方式实现互利。|||\n学术要点 2：价格影响缓解（Price Impact Mitigation） 投资者的价格影响是指其交易行为对市场价格的影响，本文中的信息共享机制可以减少这一影响，促进更有效的市场。|||\n学术要点 3：信息噪音（Informational Noise） 本文讨论了投资者在社交媒体上分享投资意见时产生的信息噪音问题，以及这种现象如何影响金融市场。|||\n学术要点 4：寻求阿尔法（Seeking Alpha） 文章提到了Seeking Alpha平台，指出其上的文章和评论可以预测股票回报和盈利惊喜，并强调了准确性与分享率之间的复杂关系。|||\n学术要点 5：市场效率与流动性（Market Efficiency and Liquidity） 本文讨论了信息共享如何影响市场效率和流动性，提出了市场效率可能提高，但流动性却可能恶化的观点。",
+    "AIfig": "这幅时间轴展示了投资者的信息共享过程，其中包括决策节点、信息共享和市场反应等阶段。"
+}

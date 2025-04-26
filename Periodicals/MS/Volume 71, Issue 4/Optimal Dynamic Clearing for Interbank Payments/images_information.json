@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Example 3 : The Clearing Region for Period 2 Note. When the state falls in the region above the surface, it is optimal to clear all the debts.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Average Debt Generation over a Day",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal Number of Clearings Varying with the Setup Cost for Payments Canada",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Total Debt in the System over a Day Under the Optimal Clearing Policy for (Left) 𝐾 = $ ⁢ 2 6 , 2 4 3 K = $ ⁢ 26 , 243 and (Right) 𝐾 = $ ⁢ 7 3 , 4 6 9 K = $ ⁢ 73 , 469",
+        "correlation": []
+    }
+}

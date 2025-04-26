@@ -1,0 +1,19 @@
+{
+    "AItitle": "\"The Price of Virtue: Investors Will Pay Premium for Ethical Companies\"",
+    "AIsummary": "This academic paper studies the field of finance and ethics, aiming to solve the problem of understanding how shareholders value ethical behavior in companies. Previous research has struggled to isolate the impact of a firm's externalities on investor decisions due to confounding variables. The authors propose an experimental design where participants submit bids for companies that vary by their charity donations, allowing them to quantify the effect of corporate social responsibility on investment decisions.The study finds strong evidence that individuals incorporate a large portion of charity externalities in their bids and exhibit value-alignment, caring only about charity donations when they own the stock. The results suggest that investors prioritize deontological preferences over consequentialist thinking, valuing ethical behavior regardless of its impact. The authors' proposed method provides a novel approach to studying investor behavior and sheds light on the moral preferences of shareholders.The paper contributes to our understanding of how corporate social responsibility affects investment decisions, providing insights for policymakers, investors, and companies seeking to improve their social and environmental impact.",
+    "AIkeys": [
+        "Corporate Social Responsibility",
+        "Investor Behavior",
+        "Ethical Investment",
+        "Shareholder Value",
+        "Charity Donations",
+        "Deontological Preferences",
+        "Consequentialist Thinking",
+        "Moral Preferences",
+        "Experimental Finance"
+    ],
+    "AItitle-cn": "“美德的代价：投资者将为有道德的公司支付溢价”",
+    "AIsummary-cn": "本文研究了财务和伦理领域，旨在解决理解股东如何重视公司伦理行为的问题。之前的研究一直在努力隔离由于混杂变量导致的公司外部性对投资者决策的影响。作者提出了一种实验性设计，参与者对因慈善捐款而异的公司进行投标，使他们能够量化企业社会责任对投资决策的影响。该研究发现，有强有力的证据表明，个人在出价中纳入了很大一部分慈善外部性，并表现出价值一致性，在拥有股票时只关心慈善捐款。结果表明，投资者优先考虑道义论偏好而不是结果主义思维，重视道德行为而不管其影响。作者提出的方法为研究投资者行为提供了一种新方法，并揭示了股东的道德偏好。本文有助于我们理解企业社会责任如何影响投资决策，为政策制定者、投资者和寻求改善其社会和环境影响的公司提供见解。",
+    "Highlights": "学术要点 1：道德偏好（Moral Preferences） 本文探讨了投资者对公司外部性（Externalities）的道德偏好，以及他们在投标时如何将这些偏好纳入决策中。|||\n学术要点 2：价值一致性（Value Alignment） 投资者只关心自己拥有股票的公司的慈善捐款，而不是其他公司，这表明了投资者的道德偏好与其所有权之间存在着价值的一致性。|||\n学术要点 3：非后果主义动机（Non-Consequentialist Motives） 投资者在投标时更多地表现出非后果主义的动机，即他们对公司外部性的看法不太依赖于这些行为的实际结果。|||\n学术要点 4：实验设计 本文采用了独特的在线实验设计，模拟了投资者投标的场景，以研究投资者的道德偏好和决策过程。|||\n学术要点 5：慈善外部性（Charity Externalities） 慈善外部性是指公司通过捐款或其他方式对社会造成积极影响的行为，这种行为会影响投资者的投标决策。",
+    "AIfig": "图表展示了调整后投标量与慈善价值之间关系的线性趋势。"
+}

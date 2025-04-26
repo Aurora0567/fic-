@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Market Size and Average BDC Characteristics Notes. This figure shows the total number of firms, the total market value of equity, a value-weighted average of the book-to-market ratio, the book leverage ratio, and the dividend yield for the BDCs in the sample. BE, book equity; ME, market equity.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Lender’s Equity Value, Volatility, and Default Probability Notes. We plot the equity value, volatility, and probability of default for a lender using the parameters of Nagel and Purnanandam (2020) with different values of dW 0 . For each value of dW 0 , we compute the borrower’s aggregate asset value A 0 , as well as the model-implied equity value S 0 , σ E , and the lender’s probability of default.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) BDC’s Equity Volatility, Equity Value, and Credit Spreads Notes. The figure shows equity volatility, equity values relative to assets, and credit spreads of bonds issued by BDCs. To estimate equity volatility, we first compute the realized variance using the three-month rolling window. We then regress the next three months’ realized variance on the past three months to obtain the forward-looking measure of equity variance and volatility. “Full Model” is the calibrated model and “Restricted Model” is the output of the model when the borrower-asset correlation is constrained to 0.5 as in Nagel and Purnanandam (2020) .",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Equity Volatility, Equity Value, and Credit Spreads: Comparing BDCs and CLOs Notes. The figure shows equity volatility, equity values relative to assets, and credit spreads of bonds issued by BDCs and CLOs implied by the estimated Nagel-Purnanandam model. We first calibrate the model to the value-weighted portfolio of BDCs and then modify the leverage of the lender and borrower to match the characteristics of average CLOs. “CLO AAA” represents the model-implied credit spreads of the average CLO.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Credit Spreads on CLO AAA-Rated Tranche and Model-Based Spreads Notes. “CLO AAA” is the simple average of LIBOR spreads on CLO AAA tranches issued over the past three months, and the shaded area represents the 10th and 90th percentiles. There is no new CLO issuance from September 2008 through March 2010. “Model” is the benchmark credit spreads estimated using the Nagel and Purnanandam (2020) model. “Corp AAA” is the option-adjusted spread of AAA-rated corporate bonds (measured against the LIBOR swap rate).",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Effect of Diversification on Credit Spreads on Lender’s Debt Notes. The figure plots credit spreads for lenders with the number of loans n = 30, 100, or 500 against the benchmark case of the infinite number of loans in Nagel and Purnanandam (2020) . The parameter values are taken from Table 4 .",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Credit Spreads on CLO Junior Tranche and Model-Based Spreads Notes. “CLO Junior” is the simple average of LIBOR spreads on CLO junior tranches (rated BB+ or below at issuance) issued over the past three months. The shaded area represents the 10th and 90th percentiles for LIBOR spreads. There is no new CLO issuance from September 2008 through March 2010. “Model” is the benchmark credit spreads estimated using the Nagel and Purnanandam (2020) model.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Model-Based Credit Spreads on CLOs with Overcollateralization Ratio Constraint Notes. “CLO AAA” is the simple average of LIBOR spreads on CLO AAA tranches issued over the past three months, and the shaded area represents the 10th and 90th percentiles. There is no new CLO issuance from September 2008 through March 2010. “Model” is the output of the Nagel and Purnanandam (2020) model, taking into account the leverage constraints on CLOs. “Corp AAA” is the option-adjusted spread of AAA-rated corporate bonds (measured against the LIBOR swap rate).",
+        "correlation": []
+    }
+}

@@ -1,0 +1,370 @@
+TITLE:Unobserved Performance of Hedge Funds
+Abstract:  We investigate hedge fund firms’ unobserved performance (UP), measured as the risk-adjusted return difference between a firm's reported gross return and its portfolio return inferred from its disclosed long-equity holdings. Firms with high UP outperform those with low UP by 6.36% per annum on a risk-adjusted basis. UP is negatively associated with a firm's trading costs and positively associated with intraquarter trading in equity positions, derivatives usage, short selling, and confidential holdings. We show that limited investor attention can delay investors’ response to UP and lead to longer lived predictability of fund firm performance.
+introduction:   Despite the growing importance ofhedge funds in financial markets, identification of skilled hedge fund managers and the sources of their skill that can help reliably predict their future performance has remained elusive, due to hedge funds’ lax regulation, opaque structure, and limited disclosure. In this paper, we introduce a new skill measure for hedge funds that strongly predicts future hedge fund performance and is a better predictor than other measures suggested in the literature. We also provide evidence on the role of limited investor attention and eventual learning that can result in delayed investor reaction and prolonged persistence in fund performance when there is limited transparency and significant complexity in investment strategies (as is the case for hedge funds). Our results are consistent with the equilibrium process portrayed in the theoretical framework of Berk and Green (2004) but with sluggish investor reaction to signals of fund manager ability.
+  Two strands of academic literature have made some progress with respect to hedge fund performance prediction using two distinct approaches. The first strand employs a returns-based methodology to investigate the relation between hedge funds’ reported returns to different risk factors.1One of the main findings from this literature is that hedge fund performance can be explained by exposures to different risks, but the average fund manager seems to be skilled enough to deliver a positive and significant net-of-fee alpha. The second strand of the literature follows a different approach and investigates the performance of hedge funds’ portfolio holdings. Due to limited disclosure requirements, researchers can only analyze funds’ long equity positions disclosed to the Securities and Exchange Commission (SEC) on a quarterly basis.2In contrast to the returns-based approach, empirical evidence on skill in hedge funds using the holdings-based methodology is relatively scarce. For example, Griffin and Xu (2009) document that hedge funds are no more skilled than mutual funds in security selection, and that returns of funds’ disclosed long-equity portfolios do not significantly outperform the market return after fees. Several limitations of holdings data can potentially explain the limited evidence of skill. These include access to quarterly snapshots of long but not short positions, coverage of large equity positions only (more than 10,000 shares or more than $200,000 in market capitalization), some of which may be driven by hedging motives rather than information (Jiao, Massa, and Zhang (2016), Chen, Da, and Huang (2019)), potential distortion of disclosed portfolios, disclosure only at the hedge fund firm level (i.e., not at the individual fund level), and funds’ intraquarter trading.
+  Our paper addresses these prima facie conflicting findings on the existence of managerial skill in the hedge fund industry and the determinants of such skill. For this purpose, we propose using a similar measure as introduced by Kacperczyk, Sialm, and Zheng (2008) for mutual funds and combine the returns- and holdings-based approaches to evaluate hedge funds. The underlying intuition behind our investigation is as follows. When the returns-based approach shows positive alpha but the disclosed long-equity positions do not, the alpha should stem from the unobserved actions of hedge funds, that is, actions that cannot be inferred from hedge fund firms’ quarterly long-equity holdings.
+  Unlike long-equity portfolio returns, hedge fund firms’ reported returns are influenced by their exposure to nonequity classes. Accordingly, we focus onequity-orientedfund firms in this study.3To capture the unobserved return component, we combine data on fund returns reported to commercial databases with data on long-equity positions of hedge fund firms disclosed in their 13F filings. Consistent with the limited evidence of skill in long-equity positions, we find that the average alpha of 0.35% per month (t-statistic = 3.88) for hedge fund firms in our sample is driven mostly by the fund firms’ unobserved return component with an average alpha of 0.22% per month (t-statistic = 6.29).4Fund firms’ average alpha for their long-equity positions is smaller (0.13% per month) and statistically indistinguishable from zero (t-statistic = 1.61). We estimate alphas using a nine-factor model, in particular, the Fung and Hsieh (2004) seven-factor model augmented with book-to-market and momentum factors.
+  We next adjust for known risk factors that can influence hedge fund returns to construct our measure of unobserved performance (UP). This measure is therisk-adjusteddifference between fund firms’ reported gross returns and hypothetical buy-and-hold returns from long-equity positions of 698 fund firms from 1994 to 2017.5We investigate whether a hedge fund firm's UP is able to predict future performance and whether it does so better than known drivers of hedge fund performance. Our results from univariate portfolio sorts of fund firms’ UP in monthtand future alphas measured in montht+ 3 show that firms with high UP outperform their peers with low UP by 0.53% per month. Interestingly, UP predicts future fund firm performance significantly better than either past reported gross fund firm performance (future alpha spread of 0.26%) or past performance derived from long-equity positions (future alpha spread of 0.07%). We also examine whether the relation between UP and future fund firm performance varies with the correlation between reported fund firm returns and long-equity portfolio returns. We find the predictability of UP to be strongest for fund firms in the lowest quintile of the correlation, but it also exists for the other correlation quintiles.
+  The spread in alphas of funds sorted on UP is not explained by differences in the exposure to alternative risk factors that have been shown to contribute to hedge fund performance, or by the exposure to other asset classes. The predictability of UP for future fund performance is also not subsumed by other fund firm characteristics and continues to hold when we control for a fund firm's past reported performance, size, age, volatility, manager delta, management and incentive fees, minimum investment, lockup and redemption periods, offshore location, leverage usage, high watermark provision, hurdle rate, as well as other skill measures such asR2(Titman and Tiu (2011)) and strategy distinctiveness (SDI; Sun, Wang, and Zheng (2012)). Notably, UP outperforms the latter two measures in predicting future fund firm performance. Moreover, the predictive power of UP for future performance is stable over time and across different states of the world (high versus low economic growth, market returns, or market volatility). These results suggest that investors can benefit from aggregating information from reported returns and long-equity positions to forecast fund performance.
+  As noted above, because individual funds do not disclose equity positions, our analysis is conducted at the hedge fund firm level. This raises the question of whether our findings extend to individual funds. In addition, it is not clear whether investors can implement a profitable trading strategy using UP as they face several practical constraints, such as restrictions on capital withdrawal in the form of lockup and redemption periods, portfolio concentration considerations, and delays in disclosure. To evaluate the performance of a real-life trading strategy using UP, we focus on single-fund firms, that is, firms that only offer one fund, and consider a nonoverlapping holding period of 12 months. We also relax other restrictions by excluding funds with a lockup and restriction period (sum of redemption and notice periods) of more than 12 months, focusing only on the long side of the strategy, and implementing the procedure suggested by Avramov, Barras, and Kosowski (2013) to mimic a realistic trading strategy. Even after accounting for these real-world frictions, investors can profit substantially from a trading strategy based on UP.
+  We probe further into the nature of hedge funds’ trading strategies that can help them enhance UP. While the opaqueness of the industry makes it challenging to provide definitive answers here, we are still able to shed light on four potential trading channels that contribute to UP. First, UP is positively related to active intraquarter trading of long-equity positions and the associated transaction costs. We find a negative relation between UP and transaction costs, suggesting that funds that trade more efficiently exhibit higher UP, that is, UP captures trading skill. Second, our results show a positive relation between UP and the use of put options but an insignificant relation for the use of call options, consistent with funds increasing performance by mitigating downside risk. Third, funds with higher UP short sell more actively. Fourth, more frequent use of confidential holdings is associated with higher UP.
+  Finally, we investigate whether investors use UP for manager selection and how investor flows affect the performance predictability of UP. If UP is a measure of manager skill, it should predict hedge fund performance, everything else equal. However, Berk and Green (2004) show that skilled fund managers’ ability to generate abnormal performance is hampered by investor inflows, which—combined with diseconomies of scale among hedge funds (e.g., Teo (2009), Getmansky (2012), and Yin (2016))—should lead to zero future net alphas in equilibrium. Such an equilibrium would emerge quickly if investor flows immediately and fully react to signals of skill, eroding any persistence in a fund's abnormal performance. However, if this is not the case and investor reaction is sluggish, for example, because it is difficult for investors to parse information about skill due to limited disclosure and complexity of investment strategies, we would expect some degree of persistent predictability in future performance of skilled managers. Consistent with this idea, we find predictive power of UP for up to three years in the future, suggesting that investor reaction to UP is slow moving at best.
+  We investigate this delayed equilibrium mechanism in three steps. First, we analyze how investors react to different skill signals and find that they direct their money to fund firms with high reported gross fund firm performance, butnotto those with high UP in the past year. We conjecture that investors are either not aware of the predictive power of UP or unable to compute the measure due to substantial data requirements (i.e., data from commercial databases must be combined with detailed 13F holdings) and the statistical analyses involved. Hence, investors quickly react to past reported fund firm performance by allocating money over the next year. In contrast, investor reaction to UP is more muted but gradually evolves over subsequent years as UP predicts future performance, which eventually leads to future investor flows. Second, we examine how these flow dynamics affect future fund firm performance over longer horizons. Consistent with Berk and Green (2004), predictability of future fund firm performance based on past reported (and easily observable) performance disappears after one year because of quick investor reaction. For UP, performance predictability persists up to three years into the future because of delayed investor reaction. Third, we investigate why fund firms with high UP exhibit deterioration in future performance after receiving investor inflows. Our results reveal that, after large investor inflows, high-UP fund firms reduce intraquarter trading as well as their use of put options, short-selling activities, and confidential holdings, suggesting that these trading channels are not easily scalable, which eventually leads to diseconomies of scale. In light of earlier findings that these channels drive UP, it is intuitive that the predictive power of UP for fund firm performance finally deteriorates over time.
+  To provide additional evidence on the delayed equilibrium mechanism we propose, we also analyze the impact of how muchinvestor attentiona fund firms attracts. To proxy for investor attention, we use the number of downloads for a fund firm's 13F portfolio holdings to classify fund firms into high-attention or low-attention firms. If our hypothesized equilibrium mechanism is correct, we should observe that for low-attention fund firms, (i) investor flows react least to UP and (ii) UP performance predictability is particularly high. This is exactly what we find.
+  Our paper makes several contributions to the literature. First, we propose a new performance metric for hedge funds,Unobserved Performance, which combines information from both equity-oriented hedge fund returns reported to commercial databases and long-equity positions disclosed to the SEC. We show that this measure strongly predicts the cross-section of future fund firm returns and outperforms predictions by returns-based performance measures and holdings-based performance measures. Second, we uncover different sources of managerial skill in hedge funds by showing that UP is driven by fund firms’ intraquarter equity trades, derivatives use, short selling, and delayed disclosure of long-equity positions. Consequently, our UP measure captures managerial skills that are distinct from those inferred from the return gap measure of Kacperczyk, Sialm, and Zheng (2008) for mutual funds, which are more restricted in their use of such investment strategies. Third, we provide novel evidence on the relations between manager skill, performance predictability, and investor flows, and how these relations vary with investor attention. We show that investors’ limited attention and ability to parse managerial skill can lead to delayed response and longer lived predictability of fund performance. Moreover, we shed light on the dissipation of performance persistence due to managers’ inability to scale up the unobservable actions that contribute to their superior performance.
+  The structure of the paper is as follows. SectionIdescribes the data and introduces the concept of UP. SectionIIpresents evidence on the predictive ability of UP for future fund performance. SectionIIIexamines trading channels that contribute to UP. SectionIVlays out the framework to understand the relations between UP, investor flows, and performance predictability in equilibrium. SectionVconcludes.
+
+I. Data and Unobserved Hedge Fund Performance:   We obtain the data for this study from five distinct sources. The first source is the Union Hedge Fund Database, which contains monthly net-of-fee returns of hedge funds as well as a snapshot of fund characteristics. We create this data set by merging hedge fund data from four different commercial databases, namely, Eurekahedge, Hedge Fund Research (HFR), Morningstar, and Lipper TASS. Our second data source is the 13F long-equity holdings database from Thomson Reuters. The third data source is the SEC's EDGAR (Electronic Data Gathering, Analysis, and Retrieval) database. These data contain a fund firm's long positions in call and put options as well as long-equity positions that are disclosed with a delay (i.e., confidential holdings), all extracted from the 13F filings. Our fourth source is EDGAR log file data, which contain information on downloads of investment firms’ 13F filings.6Finally, we retrieve data on long and short transactions of institutional investors from Abel Noser.
+  The Union Hedge Fund Database includes data for a total of 39,933 funds from 1994 to 2017. It is important to construct a comprehensive database because 71% of all funds report to only a single database (e.g., Lipper TASS has only 19% unique funds). We display the overlap between the four databases in FigureIA.1in theInternet Appendix.7We use multiple standard filters for our sample selection. First, we start our sample period in 1994, the year in which commercial hedge fund databases started to track defunct funds. Second, we require a fund to have at least 24 monthly return observations. Third, we exclude funds denoted in a currency other than U.S. dollars. Fourth, following Agarwal, Arisoy, and Naik (2017), we eliminate the first 24 months of a fund's return series to mitigate backfill bias.8This filtering process leaves us with a sample of 12,424 hedge funds from January 1994 to December 2017.
+  The 13F Thomson Reuters Ownership database consists of quarterly long-equity positions of 8,705 institutional investors during the period from 1980 (when Thomson Reuters data start) to 2017. This database does not separately categorize hedge fund firms. We therefore follow Agarwal, Fos, and Jiang (2013) and identify hedge fund firms manually. We end up with a sample of 2,512 unique hedge fund firms among the 13F filing institutions holding $3.25 trillion of long-equity positions in 2017.
+  We merge the hedge fund firms from the 13F database with the firms listed in the Union Hedge Fund Database. Following Agarwal, Fos, and Jiang (2013) and Agarwal, Ruenzi, and Weigert (2017), we match firms by name allowing for minor variations. For each firmiin montht, we computeNet Fund Firm Returnas the assets under management (AUM)-weighted average of its underlying funds’ net-of-fee returns in excess of the risk-free rate. Similarly, we computeEquity PF Returnas the value-weighted return of the long-equity positions in excess of the risk-free rate.9We are able to match 95.02% of firms’ 13F long-equity positions to Center for Research in Security Prices (CRSP) stock returns.
+  Since 13F positions are reported only on a quarterly basis, we use a firmi’s long-equity positions in monthtto computeEquity PF Returnover monthst+ 1 tot+ 3 to obtain a monthly return series.10We eliminate all pairs of firms in which there are fewer than 24 overlapping periods of data from the 13F and Union data sets. To ascertain the style of a hedge fund firm, we use the style in which its funds have invested most of their assets. In line with our focus on equity-oriented firms in this study, we only include firms that employ “Emerging Markets,” “Event Driven,” “Equity Long,” “Equity Long-Short,” or “Equity Market Neutral” styles. We end up with 698 fund firms managing 2,409 distinct funds.
+  For some of our analyses in SectionIII, we merge our sample with quarterly 13F filings of long option positions and confidential holdings of firms in the period from April 1999 (when electronic filings become available) to December 2017 obtained from the SEC EDGAR database. The 13F filing institutions need to report long option positions on 13F securities and indicate whether the options are calls or puts and the underlying securities. As stated earlier, institutions can request confidential treatment from the SEC for certain holdings to delay disclosure. Following Agarwal et al. (2013), we extract confidential holdings from 13F amendments. Of the 698 firms that appear in both the Union Hedge Fund Database and the 13F Thomson Reuters Ownership database, 344 firms report at least one long option position, and 176 firms file at least one confidential position. To proxy for investor attention for fund firms in SectionIV, we use SEC EDGAR log file data, which contain information on downloads of fund firms’ 13F filings between 2003 and 2017. We can identify downloads for 584 fund firms. The mean (median) number of downloads per firm and year is 4,611 (671).
+  Finally, to estimate intraquarter portfolio turnover, compute actual short sales of hedge fund firms, and compute a proxy for transaction costs, we use proprietary data from the brokerage firm, Abel Noser (i.e., Abel Noser Data). Abel Noser provides actual transaction data for different investment management firms and plan sponsors with identifying manager information between January 1999 and September 2011. We follow Jame (2018) to manually merge these data with the Union Hedge Fund Database and the 13F data based on fund firm names. We are able to merge 27 hedge fund firms through this process.11Following Busse et al. (2021), we calculate transaction costs for trades reported in the Abel Noser data as the sum of monthly implicit trading costs, commissions, and tax plus fees.
+  Since funds only report the net fund firm return to commercial databases, we estimate their gross-of-fee returns following the procedure in Agarwal, Daniel, and Naik (2009). The main idea behind this procedure is to impute gross-of-fee returns as the sum of net-of-fee returns and the asset-based management fee if no incentive fee is paid out. If the hedge fund manager is entitled to an incentive fee, gross-of-fee returns are computed as the sum of net-of-fee returns, the asset-based management fee, and the incentive fee estimated from an algorithm that considers the hurdle rate and high watermark provisions, if any.12
+  We report descriptive statistics for firms’ reported gross and net excess returns, long-equity portfolio excess returns, unobserved return components, and characteristics in TableI, Panel A. We calculate statistics by averaging the monthly cross-sectional statistics across all firms during our sample period.
+  Our results indicate that, on average, the hypotheticalEquity PF Returnof hedge fund firms exceeds the reportedGross Fund Firm Returnby 0.10% per month, that is,URCis negative. We also investigate the time-series variation in the different return components. To do so, we compute theAggregate Gross Fund Firm Return,Aggregate Equity PF Return, andAggregate Unobserved Return Componentas the monthly equally weighted average of the respective individual measures across all firms. Panel A of Figure1plots the monthly time series forAggregate Gross Fund Firm ReturnandAggregate Equity PF Return, while Panel B displays the time series forAggregate Unobserved Return Component.
+  Visual inspection shows that the time series ofAggregate Equity PF Returnis more volatile than the time series ofAggregate Gross Fund Firm Return. We find that the highest spikes in Aggregate Unobserved Return Componentcoincide with periods of financial downturns—11.48% in October 2008 (one month after the bankruptcy of Lehman Brothers and the beginning of a worldwide recession), 9.07% in August 1998 (Asian Financial Crisis with the collapse of Long-Term Capital Management), and 8.12% in September 2001 (burst of the dotcom bubble)—suggesting that unobserved actions of hedge funds are particularly valuable and informative during crisis periods. In contrast, the lowest values forAggregate Unobserved Return Componentare in October 2011 (−8.89%), April 2009 (−7.83%), and April 2001 (−7.47%), periods characterized by high equity market returns.
+  To determine the components of hedge fund returns that are associated with superior risk-adjusted performance, we estimate time-series regressions ofAggregate Gross Fund Firm Return,Aggregate Equity PF Return, andAggregate Unobserved Return Componenton the risk factors in Fung and Hsieh's (2004) seven-factor model (i.e.,S&P,SCMLC,BD10RET,BAAMTSY,PTFSBD,PTFSFX, andPTFSCOM) augmented by the Fama and French (1993) book-to-market factor (HML) and the Carhart (1997) momentum factor (UMD). We adjust the standard errors for serial correlation using the Newey and West (1987) correction over 36 lags. Panel B of TableIshows that the monthly alpha forAggregate Gross Fund Firm Return(0.35%,t-statistic = 3.88) is much higher than that forAggregate Equity PF Return(0.13%,t-statistic = 1.61). Therefore, the alpha of hedge funds seems to stem largely from their unobserved actions (0.22%,t-statistic = 6.29).
+  Therefore,Unobserved Performance(UP) reflects the performance of a fund firm's unobserved actions that are not captured by the performance inferred from its disclosed long-equity portfolio positions. Risk-adjusted performance of high-UP firms strongly deviates from that of their disclosed long-equity portfolio, suggesting superior skill, while low-UP firms exhibit performance similar to that of their long-equity portfolio. A negative UP measure indicates that the unobserved actions of a firm are associated with worse performance compared to the buy-and-hold performance of their disclosed equity holdings, that is, managers’ active trading decisions destroy value.
+  As mentioned before, our UP measure is closely related to the return gap measure proposed by Kacperczyk, Sialm, and Zheng (2008).13However, unlike mutual funds, hedge funds use dynamic trading strategies often involving derivatives, short selling, and leverage. Therefore, UP not only captures intraquarter trading as in the case of mutual funds, but also reflects the distinctive nature of hedge funds’ investment strategies, which involve the use of derivatives and short selling as well as long-equity positions disclosed with a delay. In SectionIII, we explore these unique trading features of hedge funds that contribute to the UP measure.
+  We report summary statistics forGross Fund Firm Performance,Equity PF Performance, andUnobserved Performancein Panel C of TableI. As before, we calculate statistics by first averaging over the monthly cross-section and then over the time series. We find that averageGross Fund Firm Performanceis 0.44% per month across all fund firms and months in the sample, whereas averageEquity PF Performanceand averageUnobserved Performanceare 0.13% and 0.31%, respectively.14As in Panel B of TableI, we find that after adjusting for standard hedge fund risk factors, fund firms’ performance is driven largely by their UP component. Panel C of TableIalso reports descriptive statistics forUnobserved Performancefor different equity-oriented fund styles. Perhaps not surprisingly, UP is smallest (value of 0.15%) for the Emerging Markets/Equity Long style, which follow long-only buy-and-hold strategies similar to mutual funds. UP is the highest for Equity Market Neutral funds (value of 0.41%), which hedge out most of their equity market exposure, and therefore short selling and derivatives use are likely to contribute to a higher UP measure as we show later.15
+  TableIA.Iin theInternet Appendixreports the correlations betweenUnobserved Performanceand other variables. As expected, based on the way we construct the UP measure, we find it to be positively correlated withFund Firm Performance(+0.53) and negatively correlated toEquity PF Performance(−0.60). In addition, in TableIA.IIof theInternet Appendix, we examine the relations between UP in montht+ 1 and different firm characteristics measured in monthtusing the Fama and MacBeth (1973) methodology. Our results reveal that pastUnobserved Performance,Gross Fund Firm Performance, managerial incentive measures (such a manager delta and high watermark), as well as discretion (proxied by the length of a fund's lockup period) are positive predictors of UP. Moreover, firms with high UP show a lowR2from the nine-factor model (Titman and Tiu (2011)) as well as high SDI (Sun, Wang, and Zheng (2012)), consistent with managers’ ability to generate superior performance through active and unique investment strategies. We carefully control for these characteristics in our subsequent analysis of UP's ability to predict future fund performance.
+
+II. UP and Future Hedge Fund Performance:   In this section, we analyze whether UP reflects managerial skill and therefore reliably predicts future net-of-fee performance. All measures to evaluate fund performance (i.e., excess returns and alphas) are computed net-of-fees unless stated otherwise.
+  To assess the predictive power of differences in a fund firm's UP on the cross-section of future hedge fund firm returns, we relateUnobserved Performancein monthtto firm returns and alphas in montht+ 3. We leave out two months to ensure that investors can observe the long equity holdings that are disclosed with a delay of up to 45 days. We begin our investigation with univariate sorts. For each montht, we sort firms into quintiles based on the UP measure. We then compute equally weighted monthly average excess returns of these quintile portfolios in montht+ 3, and report them in column (1) TableII, Panel A.
+  Hedge fund firms in the portfolio with the lowest (highest) UP earn future returns of 0.28% (0.75%) in excess of the risk-free rate. Moreover, future returns increase monotonically across the UP quintiles. The return spread between portfolios 5 and 1 is 0.47% per month, significant at the 1% level (t-statistic = 4.17). We compare these findings with portfolio sorts based onGross Fund Firm Performance(column (2)) andEquity PF Performance(column (3)) and show that the respective spreads between portfolios 5 and 1 amount to clearly less economically and statistically significant monthly values of 0.17% (t-statistic = 1.67) and 0.09% (t-statistic = 0.95).16Finally, in columns (4) and (5), we document that the 5−1 differences in returns between forecasts based onUnobserved PerformanceandGross Fund Performanceand based onUnobserved PerformanceandEquity PF Performanceare significant at the 1% level. These findings suggest thatUnobserved Performanceis a better predictor of future firm returns in the cross section compared to bothGross Fund Firm PerformanceandEquity PF Performance. Despite the constraint to short hedge funds, this analysis demonstrates the superior predictability of the UP measure relative to returns-based or holdings-based performance measures. That is, funds in the highest UP quintile significantly outperform funds in the highestGross Fund Firm PerformanceandEquity PF Performancequintiles by 0.17% (t-statistic = 4.11) and 0.25% (t-statistic = 3.68) per month.
+  Panel B of TableIIreports the results when we adjust future firm returns for standard hedge fund risks in the nine-factor model. We continue to find thatUnobserved Performanceis clearly superior in predicting future risk-adjusted returns (or alphas) in comparison to eitherGross Fund Firm PerformanceorEquity PF Performance. Hedge fund firms in the portfolio with the lowest UP earn an insignificant future average alpha of −0.12% per month, whereas those with the highest UP earn a significant future average alpha of 0.41% per month (see column (1)). The spread between average alphas of portfolios 5 and 1 is 0.53% per month (6.36% per annum), significant at the 1% level with at-statistic of 4.52. This effect is much larger than the alpha spreads between the best and worst performance quintiles sorted on alphas estimated from reported gross fund firm returns (0.26% in column (2)) or equity portfolio returns (0.07% in column (3)). Moreover, the difference in the alpha spreads of firms sorted on UP is significantly larger than those of firms sorted on either reported gross fund firm alphas (0.27%,t-statistic = 3.46; see column (4)) or firms sorted on equity portfolio alphas (0.46%,t-statistic = 3.38; see column (5)).
+  Can the return spread based on UP be explained by additional hedge fund risk factors or funds’ exposure to other asset classes? We address this question in TableIA.IIIof theInternet Appendixby regressing the high minus low (5 − 1) UP return spread on additional risk factors (Panel A) and the returns from other asset classes (Panel B). To ease comparison, in column (1) of Panel A, we report results of the nine-factor model as our baseline specification. In column (2), we replace the nine-factor model by the five-factor model of Fama and French (2015). In subsequent columns, we extend the nine-factor model from column (1) to include the Pástor and Stambaugh (2003) traded liquidity factor, the Frazzini and Pedersen (2014) betting-against-beta factor, the Bali, Brown, and Caglayan (2014) macroeconomic uncertainty factor, the Baker and Wurgler (2006) investor sentiment factor, the Buraschi, Kosowski, and Trojani (2014) correlation risk factor, and the Agarwal, Ruenzi, and Weigert (2017) tail risk factor. In column (9), we control for all risk factors together. Our results indicate a significantly positive alpha for the high minus low (5 − 1) UP return spread, in each case ranging from 0.52% to 0.63% per month.
+  Panel B of TableIA.IIIinvestigates whether the return spread based onUnobserved Performanceis due to hedge funds’ exposure to other asset classes. Columns (2) through (8) extend our baseline specification by adding returns of the MSCI Emerging Market index, the MSCI European Market index, the Barclays U.S. Government Bond index, the Barclays U.S. Corporate Investment Grade Bond index, the S&P GSCI Commodities index, the FTSE NAREIT U.S. Real Estate index, and the U.S. Private Equity index from Cambridge Associates, respectively. Column (9) controls for funds’ exposure to all of these asset classes simultaneously.17Statistical and economic significance of the return spread based onUnobserved Performanceremain unchanged.
+  We plot the cumulative returns from pursuing the UP-based investment strategy in Figure2. To do so, we assume an initial investment of $1 at the beginning of 1997 and apply monthly rebalancing without accounting for trading costs.
+  Panel A of Figure2displays how $1 invested in different UP portfolios grows over time on a risk-adjusted basis. The top UP portfolio outperforms the other portfolios by a wide margin by the end of our sample period. In Panel B, we compare the performance of the hypothetical (5 − 1) UP spread to the (5–1) spread portfolios based onGross Fund Firm PerformanceandEquity PF Performance. At the end of our sample period in 2017, the final wealth of the investor amounts to $3.10 when pursuing the UP strategy and is substantially higher than the $1.47 and $1.22 from competing strategies.
+  The return spread based on UP could potentially be driven by its core building blocks,Gross Fund Firm PerformanceandEquity PF Performance. In line with this idea, we find (as shown in TableIA.Iin theInternet Appendix) that the correlations betweenUnobserved PerformanceandFund Firm Performance(+0.53), and betweenUnobserved PerformanceandEquity PF Performance(−0.60), are high in absolute value terms. To disentangle the return spread based on UP from the two performance variables, we double sort portfolios on (i)Gross Fund Firm PerformanceandUnobserved Performanceas well as (ii)Equity PF PerformanceandUnobserved Performance. TableIIIreports the results.
+  First, we conductdependentportfolio double sorts based onGross Fund Firm PerformanceandUnobserved Performance. For this purpose, we form quintile portfolios sorted onGross Fund Firm Performance. Then, within eachGross Fund Firm Performancequintile, we sort firms into five portfolios based onUnobserved Performance(both sorts in montht). We report the equally weighted average returns of the 25Gross Fund Firm Performance×Unobserved Performanceportfolios in Panel A. Firms with high UP have higher returns than firms with low UP in allGross Fund Firm Performancequintiles. Moreover, return spreads between UP 5 and UP 1 portfolios are statistically significant in four out of five quintiles. The average spread in returns between high-UP and low-UP firms after controlling forGross Fund Firm Performanceis 0.39% per month, significant at the 1% level. The last row in Panel A shows similar results for nine-factor alphas (i.e., spread of 0.45%).
+  Second, we conduct dependent portfolio double sorts based onEquity PF PerformanceandUnobserved Performanceusing the same methodology. We find that high-UP firms outperform low-UP firms in allEquity PF Performancequintiles. Again, the spread is statistically significant in four out of five quintiles. The average UP return (nine-factor alpha) spread after controlling forEquity PF Performanceis 0.51% (0.54%) per month, significant at the 1% level.18
+  Third, we examine whether the return spread based on UP is related to the correlation betweenGross Fund Firm ReturnandEquity PF Return. In contrast to mutual funds, where the average time-series correlation between both return series is close to one, hedge funds show a much lower average of 0.50. In addition, there is considerable variability in the correlation (i.e., the interquartile range is from 0.31 to 0.76) because of several undisclosed aspects of trading strategies that include confidential holdings, derivatives, and short positions. For each fund firmiin montht, we estimate the correlation(Corr)between the two return series using a rolling window of 36 months. We then double sort (dependent) based onCorrandUnobserved Performanceusing the same methodology as above. Results in Panel C reveal thatCorrcannot explain the spreads based on UP: High-UP firms outperform low-UP firms in allCorrquintile portfolios, both using raw and risk-adjusted returns.
+  Fourth, we investigate the effect of UP on future fund performance when we explicitly control for alternative manager skill measures,R2and SDI. In Panel A of TableIV, we double sort fund firms based onR2and UP, first into quintiles according to theirR2in reverse order (from high to low) since funds with lowR2have been shown to exhibit greater managerial skill, and then within eachR2quintile, we sort on UP. We observe positive return and alpha spreads between the highest and lowest UP quintile within eachR2quintile, and these spreads are significant in four of five cases. The average return (alpha) spread is 0.48% (0.52%) per month.
+  In Panel B, we repeat the same exercise for SDI and UP. In all cases, we find significantly positive return and alpha spreads between the highest and lowest UP quintile within each SDI quintile. The average return (alpha) spread across SDI quintiles is 0.50% (0.53%) per month. These findings show that the spread in fund firm performance based on UP cannot be explained by either of the alternative skill measures.19
+  Finally, in Panel C, we analyze whether UP has stronger predictive power for future performance compared to eitherR2or SDI. In the first three columns, we show 5−1 quintile return and alpha spreads from univariate sorts on UP (repeated from column (1) in Panels A and B from TableIIfor comparison),R2, and SDI. Consistent with Titman and Tiu (2011) and Sun, Wang, and Zheng (2012),R2and SDI predict future fund performance. However, UP is a stronger predictor than eitherR2or SDI. In columns (4) and (5), we compute the difference between the spreads from sorts on UP andR2and from sorts on UP and SDI, respectively. Differences are significant at the 1% level based on raw returns (0.38% and 0.40%, respectively) and at the 10% level or better based on nine-factor alphas (0.32% and 0.29%, respectively), showing that UP predicts performance significantly better thanR2and SDI.
+  Panel A of TableVshows that even after simultaneously controlling for a host of fund firm characteristics, the impact of UP on future fund firm performance is positive and statistically significant at the 1% level in all specifications. Depending on the specification, the coefficient onUnobserved Performanceranges from 0.041 to 0.065 when we use future returns as the dependent variable and is 0.025 in column (6) when future alpha is the dependent variable.
+  In columns (1) to (8) of Panel B in TableV, we examine the predictive power of UP on future alphas in different states of the world and across different time periods. We use the same specification as in column (6) of Panel A, but only report the coefficient estimates ofUnobserved Performancefor brevity. We find that the impact of UP on future fund firm alphas is positive and statistically significant during periods of both high and low economic growth (compared to the median gross domestic product (GDP) growth rate from 1997 to 2017), as well as positive and negative market returns in excess of the risk-free rate. Further, the predictive ability of UP for future fund firm alphas is strong in periods of high and low market volatility as well as in the 1996 to 2008 and 2009 to 2017 subperiods. These findings suggest that UP is a robust measure of skill that predicts fund firm performance under different market conditions.
+  To examine the stability of our results regarding the relation between UP and future fund firm performance, we conduct a host of robustness checks. We first estimateUnobserved Performancewith a 24-month rolling window, use the seven factors in the Fung and Hsieh (2004) model or the four factors in the Carhart (1997) model for risk adjustment, or average UP over the past 36 months. Second, we computeUnobserved Performanceusing an alternative estimate of gross fund firm returns following Ben-David, Birru, and Rossi (2020) or as the difference between a fund firm's performance based on its reported net-of-fee return series and a firm's performance based on its transaction-cost-adjusted long-equity portfolio (see SectionIII.Afor our computation method of transaction costs). Third, we use alternative performance metrics that include the Sharpe ratio, the Treynor ratio, the Goetzmann et al. (2007) manipulation-proof performance measure (MPPM, with a risk-aversion parameter of three), and the value-added measure of Berk and van Binsbergen ((2015)). Fourth, we include non–equity-related fund firms in the sample, restrict our sample to only long-short equity fund firms or funds listed in the TASS database, exclude the smallest (bottom 20%) funds to allow for feasibility of investment, and restrict our sample to funds with similar long-only leverage (long-equity portfolio relative to funds’ assets being 120% or less) to mitigate the effect of leverage. Finally, we use the Getmansky, Lo, and Makarov (2004) methodology to unsmooth fund returns, control for backfill bias when we delete the first 12 monthly observations of a fund (instead of 24 months) and infer the bias as in Jorion and Schwarz (2019), and assign a delisting return of −1.61% as in Hodder, Jackwerth, and Kolokolova (2014) to funds that leave the database.20
+  Panel A in TableVIreports the results from univariate portfolio sorts (as in column (1) of TableII, Panel B), using each of these robustness checks. We only report spreads in the nine-factor alphas of the high minus low (5 ‒ 1) UP portfolios. Panel B reports results of Fama and MacBeth (1973) regressions (as in column (6) of TableV, Panel A) of future fund firm alphas in montht+ 3 onUnobserved Performanceand different fund firm characteristics measured in montht.21For brevity, we only report the coefficient onUnobserved Performanceand suppress the coefficients on the other control variables included in the regressions. Across all robustness checks, we continue to find that UP strongly predicts future fund performance.
+  Finally, we provide a comparison of the predictive power of UP between hedge funds and mutual funds. To do so, we follow Kacperczyk, Sialm, and Zheng (2008) and repeat our analysis for mutual funds during our 1997 to 2017 sample period. We retrieve data on open-end U.S. domestic equity funds in the CRSP Mutual Fund Database for which CDA/Spectrum holdings data are complete. Our filtered sample consists of a total of 2,705 funds with an average of 1,432 funds each year.22To facilitate comparison, we also report the baseline results from column (1) in TableII, Panel B, and column (6) in TableV, Panel A.23Our findings reveal that the performance spread is statistically positive, but economically smaller than for hedge funds. These results are consistent with the fact that hedge funds are less restricted in their asset allocation and investment strategies compared to mutual funds. Consequently, unobserved actions of hedge funds are more diverse and informative about future performance.
+  SectionsII.AtoII.Ddocument that UP strongly predicts hedge fund firm performance. However, it is not clear whether investors can implement a profitable investment strategy using UP after incorporating real-world trading constraints, a question we examine in this section. Since a typical investor is unlikely to invest in all funds belonging to a firm, we start our investigation by looking at the performance impact of UP for hedge fund firms with only one fund (there are 407 single-fund entities in our sample of 698 fund firms).
+  In Panel A of TableVII, we conduct univariate portfolio sorts on UP in monthtand evaluate fund performance in montht+ 3. Column (2) shows that, compared to the baseline specification in column (1) forallfirms, there is greater dispersion in spreads: Top UP funds outperform bottom UP funds by 0.67% per month (t-statistic = 4.17) for raw returns and by 0.76% per month (t-statistic = 4.38) for alphas. This result is intuitive because we only consider single-fund firms here and hence there is less diversification across a firm's funds. In columns (3) and (4), we use an alternative approach to conduct our analysis at the fund level instead of the fund firm level, but account for all fund firms (both single- and multifund firms) in our sample. Specifically, we assign UP estimates obtained at the firm level to each individual fund of a firm (i.e., observations are at the individual fund level and all funds of a firm receive the same UP measure). We continue to observe economically and statistically significant performance spreads for UP when we consider an equally weighted (column (3)) or value-weighted (i.e., weighted by a fund's AUM, column (4)) portfolio sorting scheme.
+  Thus far, we have investigated the ability ofUnobserved Performancein monthtto predict future fund firm returns and alphas in montht+ 3. A natural question to arise is whether the predictive power of UP extends to longer horizons. This question is particularly important to investors who aim to benefit from investing in high-UP firms, for two reasons. First, a majority of hedge fund firms in our sample employ lockup and restriction periods that can sometimes be more than one year. Second, long-equity positions of hedge fund firms are not immediately observable to investors, as regulation allows for a disclosure delay of up to 45 days after quarter-ends, and thus investors may not be able to rebalance their fund portfolios within a quarter.
+  Panel B reports results on the relation between univariate portfolio sorts based on UP, measured at timet, and portfolio returns for holding periods of three months (fromt+ 1 tot+ 3), six months (fromt+ 1 tot+ 6), 12 months (fromt+ 1 tot+ 12), 18 months (fromt+ 1 tot+ 18), and 24 months (fromt+ 1 tot+ 24). All portfolio sorts are performed with nonoverlapping data, which reduces transaction costs of rebalancing hedge fund portfolios and alleviates concerns regarding trading restrictions.24Our results reveal that UP has predictive power for hedge fund firm performance up to two years into the future. For example, the risk-adjusted return spread for the 24-month holding period for all fund firms is 5.67% (t-statistic = 2.77), while it is 6.32% (t-statistic = 2.93) for the subsample of single-fund firms.
+  Finally, we follow Avramov, Barras, and Kosowski (2013) to impose various real-world constraints that might impede the implementation of a trading strategy based on UP in practice. To do so, we first simulate the strategy using a rebalancing frequency of 12 months but exclude all fund firms with lockup and restriction periods of more than 12 months from our sample. Second, we limit the minimum and maximum number of funds in a portfolio to 25 and 75, respectively. Third, we restrict the maximum investment by a typical fund of hedge fund (FOF) to 10% of each underlying hedge fund's AUM each month. This ensures that the FOF does not end up being too dominant an investor in any hedge fund. Even after accounting for these real-world frictions, we find that high-UP firms outperform low-UP firms by a risk-adjusted return of 4.23% per annum (t-statistic = 4.68) for the full sample and 3.45% per annum (t-statistic = 2.63) for the subsample of single-fund firms (see the last column of TableVII, Panel C).
+  As it is not possible to short hedge funds, investors can allocate money to hedge fund firms with the highest UP but cannot short sell funds with the lowest UP. Accounting for this limitation and again applying a rebalancing frequency of 12 months with the same real-world constraints imposed as in Panel C, we find that the annual alpha for the top-quintile UP portfolio for all fund firms is 3.69% (t-statistic = 4.54) and that for single-fund firms is 2.91% (t-statistic = 3.65), suggesting that investors can still profit by only investing in the long leg of the investment strategy.
+
+III. UP and Different Trading Channels:   Having established that UP is a strong and implementable predictor of future hedge fund performance, we next investigate four trading features of hedge funds that can influence a fund firm's UP: intraquarter trading of long-equity positions, derivatives use, short-selling activities, and confidential holdings.
+  Hedge fund firms disclose long-equity positions to the SEC at a quarterly frequency but their intraquarter transactions are not revealed to the public. However, any gains or losses from intraquarter trading will be reflected in firms’ reported returns even though they will be excluded from the buy-and-hold returns inferred from long-equity positions. Our UP measure, which captures the wedge between reported and inferred returns, should therefore be related to funds’ interim trading, although how this relation affects the predictability of UP for future fund performance is not obvious. Several studies investigate the relation between active trading and performance. While Bennett, Sias, and Starks (2003), Cai and Zheng (2004), and Yan and Zhang (2009) find mixed results on whether institutional trading predicts future stock returns, Chen, Jegadeesh, and Wermers (2000), Kacperczyk, Sialm, and Zheng (2005), and Alexander, Cici, and Gibson (2007) show that the stocks that mutual funds purchase earn significantly higher returns than the stocks they sell. Using a proprietary database of institutional trades, Puckett and Yan (2011) find that institutions earn significant abnormal returns on their interim trades. At the same time, active trading leads to higher transaction costs, which should reduce hedge fund returns and in turn UP.
+  Columns (1) and (2) of TableVIIIexamine the relation betweenUnobserved Performancein monthtand two proxies each for (i) interim trades by firms and (ii) transaction costs incurred for these trades. Our first proxy for interim trading is fund firmi’sPortfolio Turnoverin montht, which is defined as the total of its stock purchases and sales (computed based on changes in quarterly disclosed holdings) in montht, divided by its total equity portfolio market capitalization in montht−1. The underlying premise behind this proxy (which is a lower bound for actual trading activity) is that firms that change their positions more between disclosure dates are also more likely to engage in intraquarter trading. Following DeMiguel et al. (2017), we also compute a proxy for a firm's trading costs in monthtby applying proportional transaction costs to changes in equity portfolios. Our second proxy for interim trading is estimated from the actual transactions of 27 hedge fund firms identified in the Abel Noser database as in Jame (2018) between January 1999 and September 2011. Over each month, we sum the daily buys and sells of a fund firm in monthtand divide it by the fund firm's total equity portfolio market capitalization in montht−1. Following Busse et al. (2021), we compute a firm's total trading costs using transaction-level data as the sum of monthly implicit trading costs, commissions, and tax plus fees.
+  0.0016***
+  (4.61)
+  −5.958***
+  (−3.11)
+  0.0153***
+  (2.89)
+  −6.379**
+  (−2.56)
+  −0.00130
+  (−0.50)
+  0.0235***
+  (4.59)
+  0.0365***
+  (2.77)
+  0.0339***
+  (7.66)
+  −0.014***
+  (−4.77)
+  0.0033
+  (0.70)
+  −0.0096***
+  (−3.04)
+  −0.0167***
+  (−4.33)
+  −0.018***
+  (−5.31)
+  0.0009
+  (0.05)
+  0.669**
+  (2.52)
+  0.224*
+  (1.77)
+  0.848***
+  (3.32)
+  0.710***
+  (3.16)
+  0.657***
+  (2.87)
+  −0.177
+  (−1.08)
+  0.0194
+  (0.85)
+  0.373
+  (0.79)
+  0.0482**
+  (2.58)
+  0.0459***
+  (2.96)
+  0.0476**
+  (2.54)
+  0.219***
+  (3.21)
+  −0.0137
+  (−1.00)
+  −0.0802
+  (−0.81)
+  −0.00166
+  (−0.13)
+  −0.00669
+  (−0.54)
+  0.000966
+  (0.08)
+  −0.0308
+  (−0.41)
+  0.128***
+  (3.42)
+  3.499
+  (1.19)
+  0.0681
+  (1.61)
+  0.0678
+  (1.61)
+  0.0527
+  (1.33)
+  0.829
+  (0.95)
+  0.429***
+  (3.07)
+  −2.371
+  (−1.40)
+  0.339***
+  (3.73)
+  0.330***
+  (3.42)
+  0.366***
+  (3.95)
+  −0.536
+  (−0.74)
+  0.478
+  (1.02)
+  −3.605
+  (−0.47)
+  −0.690***
+  (−2.90)
+  −0.658***
+  (−3.44)
+  −3.175*
+  (−1.87)
+  −0.728***
+  (−2.88)
+  Column (1) reports the results for the first proxy for interim trading and transaction costs, taking into account control variables at the hedge fund firm portfolio level.25We find that the relation betweenUnobserved PerformanceandPortfolio Turnoveris significantly positive, whereas the relation betweenUnobserved PerformanceandTrading Costsis significantly negative. A one-standard-deviation change inPortfolio Turnover(Trading Costs)is associated with an annualized change inUnobserved Performanceof 1.99% (−1.24%). Column (2) shows that the results hold for the smaller sample with actual hedge fund transactions.
+  Hedge funds are known to employ derivatives in their trading strategies (e.g., Agarwal and Naik (2004), Aragon and Martin (2012), and Agarwal, Ruenzi, and Weigert (2017)). Since profits and losses from derivatives trading will be reflected in fund firms’ returns but not in their long-equity portfolio performance, we conjecture that derivatives holdings of hedge funds should also influence the UP measure.
+  To capture derivatives use by fund firms, we use long call and put option holdings data from the 13F filings in the SEC EDGAR database from April 1999 to December 2017. We find that 49.3% of firms in our sample (i.e., 344 of 698 firms) file at least one long option position. To merge fund firms that disclose their derivative positions quarterly with monthly UP estimates, we again apply the convention that disclosed positions in monthtare carried forward for the subsequent monthst+ 1 tot+ 3. We then compute for each fund firmifor montht,Value of Equity Shares Underlying Call PositionsandValue of Equity Shares Underlying Put Positions(in $ millions).26To mitigate the effect of outliers, we winsorize these measures at the 1% level. The average value of equity shares for call positions is $112.38 million and the corresponding value for put positions is $104.96 million.
+  We regressUnobserved Performanceof hedge fund firmiin monthton the natural logarithms of one plusValue of Equity Shares Underlying Call Positionsand one plusValue of Equity Shares Underlying Put Positionsin monthtusing the Newey and West (1987) adjustment with 36 lags accounting for portfolio-level controls. We display the results in columns (3) and (4) of TableVIII. We find that the use of put options, but not call options, significantly increases a fund firm's UP. A one-standard-deviation increase in the put options measure increases a fund firm's annualized UP by 1.94%.
+  Short selling is a quintessential component of arbitrage strategies used by hedge funds. It should therefore impact the reported returns of hedge fund firms but is excluded from the buy-and-hold returns imputed from long-equity positions. Short-selling activity should therefore be positively related to UP. Recent studies show that short-selling strategies yield abnormal profits on average (e.g., Jones, Reed, and Waller (2016), Jank and Smajlbegovic (2021), Von Beschwitz, Lunghi, and Schmidt (2022), and Busse et al. (2023)). Hence, the return spread in UP-sorted fund portfolios that we document above may be related to the profitability of short positions.
+  We examine the relation between UP and short-selling activity. Our proxy for short-selling activity comprises short-sale transactions for a sample of 27 fund firms that disclose long-equity positions to the SEC and detailed transaction data to Abel Noser between January 1999 and September 2011. We follow Choi et al. (2020) to identify short positions for firmieach stock-day.27For each firmiand montht, we compute a proxy for short-selling activity, namelyValue of Equity Shares Underlying Short Positions. To mitigate the effect of outliers, we winsorize this measure at the 1% level. The average short-selling activity in our sample is $91.64 million, which corresponds to 11.3% of the fund firm's average reported AUM of $810.12 million. We regress the UP of firmiin monthton the proxy for short-selling activity in monthtusing the Newey and West (1987) adjustment with 36 lags and portfolio-level control variables. Column (5) of TableVIIIshows a significant relation between UP and short-selling activity with meaningful economic magnitude: A one-standard-deviation increase in short-selling activity is associated with a 2.52% higher annualized UP.
+  Another channel that influences a fund firm's UP could be their requested confidential treatment of certain long-equity positions. However, these requests made through 13F amendments are not included in the Thomson Reuters 13F data and therefore are not included in our imputed equity portfolio return of fund firms. Prior studies by Agarwal et al. (2013) and Aragon, Hertzel, and Shi (2013) find that stocks in confidential filings are disproportionally associated with information-sensitive events and greater information asymmetry, as well as characteristics that make hedge funds more susceptible to front-running. Furthermore, confidential holdings allow hedge funds to reduce price impact and earn significantly positive abnormal returns over the confidential period. We therefore conjecture that fund firms that report more confidential holdings have higher UP.
+  We retrieve the confidential holdings from 13F filings in the SEC EDGAR database from April 1999 to December 2017. During this period, 25.2% of hedge funds in our sample (i.e., 176 of 698 firms) file at least one confidential position. Disclosed positions in monthtare carried forward for the subsequent months,t+ 1 tot+ 3. For each firmiand monthtpair, we computeValue of Equity Shares Underlying Confidential Holdings(in $ millions). To mitigate the effect of outliers, we winsorize this variable at the 1% level. The average value of confidential positions is $45.98 million. We regress the UP of firmiin monthton the natural logarithm of one plusValue of Equity Shares Underlying Confidential Holdingsin monthtusing the Newey and West (1987) adjustment with 36 lags and portfolio-level controls. Results in column (6) of TableVIIIreveal a positive and significant relation between confidential holdings and UP. This result is also economically meaningful. A one-standard-deviation increase in the value of confidential positions increases a firm's annualized UP by 1.84%, suggesting that confidential holdings are an important channel that influences a firm's UP.
+  Overall, these findings provide evidence on different trading channels that contribute to UP. However, while these channels can only be measured with noise or often are available only for a small sample of funds over a limited time, the UP measure jointly captures the effect of these channels, as well as other unobserved actions of funds that drive performance.28
+
+IV. Investor Response to UP:   Our results above show that UP is a measure of manager skill that strongly predicts future fund firm performance. This result gives rise to questions such as whether investors realize the value of UP for manager selection and how fund flows affect the performance predictability of UP in equilibrium. We attempt to address these questions in this section.
+  In general, a measure of manager skill should predict hedge fund performance, everything else equal. However, as Berk and Green (2004) show, managers’ ability to generate abnormal performance is hampered by investor flows, which combined with diseconomies of scale should lead to zero future net alphas in equilibrium. If investor flows react immediately and fully to signals of skill, one should observe no performance predictability. However, if investor reaction is delayed, one can observe longer lived predictability of future performance. We provide evidence consistent with such a delayed equilibrium mechanism. Our analysis proceeds in three steps. First, we analyze whether and how investors respond to UP as well as other skill signals and what role investor attention plays in this context. We show that investor reaction is sluggish. Second, we show that UP predicts longer term performance better than other skill measures to which investors react more rapidly, particularly for funds with low investor attention. Third, we provide evidence on the limited scalability of the trading channels that contribute to UP, which explains the dissipation in the predictive power of UP in the long run.
+  As shown in prior literature (Agarwal, Daniel, and Naik (2004), Fung et al. (2008), Baquero and Verbeek (2009), Liang et al. (2019)), investors direct money to the best performing funds. We first examine which performance metric they employ to make their decisions. To this end, we regress fund firm flows in yeart+ 1 onUnobserved Performance,Gross Fund Firm Performance, andEquity PF Performancein yeartcontrolling for fund firm characteristics as in TableV, Panel A.29
+  In columns (1) and (2) of TableIX, we includeGross Fund Firm PerformanceandEquity PF Performance, respectively, as performance measures in the regressions, but omitUnobserved Performance. Both performance measures have a positive and significant effect on investor flows in the next year. In column (3), we add both performance measures together and find that onlyGross Fund Firm Performancehas a significant impact on future flows, whileEquity PF Performanceloses statistical significance. Thus, the positive effect ofEquity PF Performanceis driven only by its positive correlation withGross Fund Firm Performance(see TableIA.Iin theInternet Appendix). Column (4) reports results when we includeGross Fund Firm PerformanceandUnobserved Performancejointly in the regressions. The coefficient onGross Fund Firm Performancein column (4) remains positive and significant (coefficient = 0.457;t-statistic = 3.69), whileUnobserved Performancedoes not show any significant association with future flows.30Investors seem to rely mainly on reported performance to allocate their capital, while UP, despite its superior predictive power for future performance, is not considered by most investors. We hypothesize that either many investors are not aware about the predictive power of UP, or this behavior is related to the significant effort necessary to construct the UP measure.
+  It is possible that some investors respond to UP with a delay if they do not pay attention to hedge fund holdings, which are necessary to compute UP. We test this possibility by using the data on downloads of 13F filings from the SEC to proxy for investor attention. In columns (5) and (6) of TableX, we divide all fund firms each year based on the median download into high- and low-investor-attention firms. Our results reveal that for fund firms with high investor attention, future investor flows do significantly respond to UP (column (5), coefficient = 0.326;t-statistic = 3.71). In contrast, column (6) shows that for fund firms with low investor attention, investors solely consider past reported fund performance, and not UP (coefficient = 0.053;t-statistic = 0.59), when making their capital allocation decisions.31
+  0.171***
+  (11.23)
+  0.0763***
+  (3.91)
+  0.0997***
+  (3.40)
+  0.0555**
+  (2.20)
+  0.0476
+  (1.74)
+  0.144***
+  (6.05)
+  0.0980***
+  (3.99)
+  0.169***
+  (5.83)
+  −0.0521
+  (−0.32)
+  0.00452
+  (0.02)
+  0.00462
+  (0.03)
+  0.181
+  (0.84)
+  0.0300
+  (0.13)
+  −0.00573
+  (−1.32)
+  −0.00786
+  (−1.11)
+  −0.00411
+  (−0.61)
+  0.000415
+  (0.13)
+  −0.00671
+  (−0.91)
+  −0.326*
+  (−1.89)
+  −0.405**
+  (−2.16)
+  −0.432**
+  (−2.68)
+  −0.641**
+  (−2.42)
+  −0.422***
+  (−3.18)
+  −0.0250
+  (−0.46)
+  −0.0235
+  (−0.37)
+  −0.0443
+  (−0.95)
+  0.0281
+  (0.63)
+  −0.0805
+  (−1.66)
+  0.0293
+  (0.06)
+  0.311
+  (0.40)
+  0.179
+  (0.27)
+  0.917
+  (1.50)
+  0.457
+  (0.60)
+  −0.0143
+  (−0.38)
+  −0.0363
+  (−0.65)
+  −0.0110
+  (−0.26)
+  0.00795
+  (0.19)
+  −0.00460
+  (−0.09)
+  0.0199
+  (1.52)
+  0.0259
+  (1.48)
+  0.0259
+  (1.66)
+  0.00901*
+  (2.10)
+  0.0172
+  (0.85)
+  0.878**
+  (2.62)
+  1.041***
+  (3.15)
+  0.915**
+  (2.86)
+  1.178*
+  (1.98)
+  0.973**
+  (2.17)
+  1.018**
+  (2.48)
+  1.465**
+  (2.37)
+  1.158***
+  (3.28)
+  1.151**
+  (2.19)
+  1.796
+  (1.41)
+  −0.130
+  (−0.30)
+  0.209
+  (0.44)
+  0.360
+  (0.72)
+  0.364
+  (0.81)
+  −0.144
+  (−0.19)
+  −0.0640
+  (−0.93)
+  −0.0799
+  (−0.98)
+  −0.0733
+  (−0.96)
+  −0.0002
+  (−0.15)
+  −0.0721
+  (−0.94)
+  0.625
+  (0.70)
+  1.012
+  (0.85)
+  0.440
+  (0.51)
+  −0.246
+  (−0.62)
+  0.396
+  (0.35)
+  −1.036
+  (−1.31)
+  −1.473
+  (−1.59)
+  −1.370*
+  (−1.75)
+  −0.0149
+  (−0.03)
+  −2.367***
+  (−2.92)
+  −0.842
+  (−0.36)
+  0.632
+  (0.31)
+  0.551
+  (0.20)
+  2.116
+  (1.00)
+  1.321
+  (0.45)
+  2.411
+  (1.53)
+  4.812***
+  (3.49)
+  3.692**
+  (2.35)
+  4.405**
+  (2.33)
+  3.463*
+  (1.84)
+  1.619
+  (0.49)
+  −0.0481
+  (−0.01)
+  −0.284
+  (−0.08)
+  −4.220
+  (−1.48)
+  −0.545
+  (−0.14)
+  According to the framework of Berk and Green (2004), inflows to funds should lead to diseconomies of scale and a quick decline of any abnormal performance (see also Bollen and Busse (2006), as well as Glode and Green (2011)). We test this prediction in this section. First, in TableX, we check the relation between firm performance in yeart+ 1 as well asUnobserved Performance,Gross Fund Firm Performance, andEquity PF Performancein yeart, again controlling for firm characteristics.
+  In line with the short-term monthly results in Panel A of TableV, in columns (1) to (3), we show that UP andGross Fund Firm Performanceare significant predictors for one-year-ahead fund firm performance, whereasEquity PF Performancedoes not pass significance at the 10% level. In columns (4) and (5), we separately investigate the relation between future performance in yeart+ 1 as well asGross Fund Firm PerformanceandUnobserved Performancein yeartfor fund firms with high and low investor attention. Consistent with the idea that inflows into high-UP funds with high investor attention (but not into those with low investor attention) can lead to a deterioration of future performance, we find that the positive impact of UP is much more pronounced for firms with low investor attention. The coefficient estimate on UP for the low-investor-attention subsample is 0.169, nearly double the coefficient estimate of 0.098 for the high-investor-attention subsample.
+  In Figure3, we analyze this pattern for longer term performance persistence. In particular, we plot the coefficient estimates ofUnobserved PerformanceandGross Fund Firm Performancefor future nine-factor alphas in yearst+ 2,t+ 3, andt+ 4.
+  When considering all fund firms in our sample, we find that UP has predictive power for fund firm performance up to yeart+ 3, while the predictive power ofGross Fund Firm Performancedissipates quickly after yeart+ 1 (Panel A). However, when comparing fund firms with high and low investor attention, UP is a persistent predictor of fund firm performance even four years in the future for funds with low investor attention (Panel C), while it only predicts performance for the following year for funds with high investor attention (Panel B). UP can therefore benefit investors with manager selection until performance deteriorates because of their flows, and this benefit lasts much longer if investor attention is low.32
+  The results in SectionsIV.AandIV.Bare consistent with investors directing flows in response to past performance and with inflows eventually leading to a drop in performance—albeit in the case of low-attention, high-UP funds, only slowly. In this section, we investigatewhythis is the case and how hedge funds’ trading strategies may be affected by investor inflows. We do so by concentrating on trading channels shown to influence UP in SectionIII.
+  To investigate whether high-UP firms change their trading behavior after large inflows, we regress each trading channel measured in yeart+ 1 on an indicator variable that takes a value of one if a firm is in the top quintile of investor inflows in a given year as well as an interaction term between a fund firm's UP and the top quintile flow indicator in yeart. TableXIreports the results.
+  Our results reveal that high flows lead to higher trading costs and less activity in trading channels that, as TableVIIIshows, contribute to a higher UP. The interaction term in yeartis also significantly negatively related to all trading channels identified as increasing UP. In particular, we find a negative association between the interaction term and turnover, put option use, short-selling activity, and confidential holdings use, while there exists a positive association with transaction costs. Our results therefore indicate that more capital infusion makes it more challenging for fund managers to follow exactly those trading strategies that are associated with higher UP. This effect is particularly pronounced for funds with high UP, as indicated by the significant interaction terms.
+  Overall, our findings show that the limited scalability of these strategies leads to diseconomies of scale that eventually leads to a weakening of the predictive power of UP for future performance in the longer run. More capital makes fund managers trade in a way that reduces their UP, particularly so in the case of high flows and high past UP. This makes future performance persistence due to UP disappear for these fund firms.
+
+V. Conclusion:   In this paper, we propose a new measure of hedge fund skill, namely, UP, defined as the risk-adjusted difference between a fund firm's reported return and the hypothetical portfolio returns derived from its long-equity holdings. Our results indicate that UP is persistent and strongly predicts future performance. High-UP firms outperform low-UP firms by 6.36% per annum after accounting for standard hedge fund risk factors. UP predicts future firm performance better than either past gross firm performance or past performance derived from long-equity positions. UP also outperforms other predictors of fund performance (R2and SDI). We find that various trading channels such as intraquarter trading of equities, put option strategies, short selling, and confidential holdings are positively related with UP and contribute to superior performance of high-UP funds. However, if funds face large inflows, they are not able to scale up these trading channels, leading to diseconomies of scale.
+  A trading strategy based on UP continues to deliver positive abnormal returns even after considering real-world trading restrictions and transaction costs. UP predicts fund performance for up to three years in the future. This relatively long-term predictive power can arise because investors only react to UP with a significant delay, after observing realized performance. Investor reaction is stronger and quicker—and UP only predicts shorter term performance—for hedge funds for which holdings information is accessed more intensively by investors. Overall, our evidence paints a nuanced picture of the dynamics and interactions between skill, flows, and performance in the hedge fund industry, and is broadly in line with a slow path to the equilibrium of active management laid out in Berk and Green (2004).
+  Editors: Stefan Nagel, Philip Bond, Amit Seru, and Wei Xiong
+
+Supporting Information:   Appendix S1: Internet Appendix.
+  Replication Code.
+  Please note: The publisher is not responsible for the content or functionality of any supporting information supplied by the authors. Any queries (other than missing content) should be directed to the corresponding author for the article.

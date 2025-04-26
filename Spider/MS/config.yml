@@ -1,0 +1,6 @@
+'article_url': 'https://pubsonline.informs.org/doi/10.1287/mnsc.2023.4701'
+'config_path': './Spider/MS/config.yml'
+'driver_path': 'C:\Users\winger\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe'
+'is_intact': 'True'
+'issue_url': 'https://pubsonline.informs.org/toc/mnsc/70/8'
+'save_path': './Spider/MS'

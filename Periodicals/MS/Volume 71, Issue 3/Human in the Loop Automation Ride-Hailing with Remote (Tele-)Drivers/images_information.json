@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "(Color online) An Illustration of a Ride-Hailing Service with Tele-Drivers",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) The Impact of Vehicle Supply Capacity on Pickup Times and Unfulfilled Demand Notes. (a) m = 4,000. (b) m = 5,600. (c) m = 12,000.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) The Impact of Vehicle Supply Capacity and Remote Driver Capacity on Pickup Times and Unfulfilled Demand Notes. (a) m = 4,000, n = 3,500. (b) m = 5,600, n = 5,250. (c) m = 12,000, n = 8,000.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) An Illustration of the Parameter Range for Condition (5) to Hold in the Supply-Limited and Intermediate Regimes",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) The Impact of Using Remote Drivers on System Performance in the Supply-Limited Regime",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) The Impact of Using Remote Drivers in the Intermediate Regime",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) The Impact of Using Remote Drivers in the Supply-Rich Regime Note. Panel (b) shows both the maximum percentage and maximum absolute reductions in the number of drivers that guarantee a reduction in service level of less than 0.01 (relative to a system with n = m ).",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Results from Numerical Experiments Based on TLC Data Notes. (a) Supply-limited regime. (b) Supply-rich regime.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) The Impact of the Number of Drivers on Expected Customer Delay Under the Nearest Dispatching Policy Notes. The results pertain to a system in which 𝜇 ⁡ ( 𝑚 , 𝑞 ) μ ⁡ ( m , q ) is given by ( 4 ) if 𝑞 ≤ 𝑛 q ≤ n and 𝜇 ⁡ ( 𝑚 , 𝑞 ) = 1 / ( ( 𝑠 ⁢ / √ ( 𝑚 − 𝑛 + 1 ) ⁢ ( 𝑞 − 𝑛 ) ) + 𝑠 ) μ ⁡ ( m , q ) = 1 / ( ( s ⁢ / ( m − n + 1 ) ⁢ ( q − n ) ) + s ) otherwise. The approximation is asymptotically exact (up to a geometry-dependent coefficient) when the origin–destination pair associated with each requested trip is uniformly distributed over a square service region. See theorem 5 in Wang et al. (2022) for the validation and more discussions. (a) Intermediate regime: m = 120, λ = 10, and s = 10. (b) Supply-rich regime: m = 220, λ = 10, and s = 10.",
+        "correlation": []
+    }
+}

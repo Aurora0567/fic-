@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": "Histogram of risk premium estimates ofV$V$. The figure provides histograms of the risk premium estimates in six scenarios for eight estimators we compare, including SPCA, PCA, PLS, rpPCA, Lasso, Ridge, four-split, and the standard two-pass estimator. We simulate the models withN=1,000$N = 1,000$andT=240$T= 240$. The number of Monte Carlo repetitions is 1,000. Values reported are percentages. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "2": {
+        "description": "Histogram of the standardized estimates in simulations. The left panels provide the histograms of the standardized SPCA estimates as in Algorithm3with asymptotic standard errors given by Theorem2, while the right panels provide those of the standardized PCA-based risk premia estimates as in Algorithm1. We simulate the model in scenario (f)) withN=1,000$N = 1,000$andT=240$T= 240$. The number of Monte Carlo repetitions is 1,000. These standardized statistics serve as the basis for testing the null hypotheses that the risk premia are equal to their true values. The sizes of theset$t$-tests at the 5% level are reported in the figure subtitles, allowing us to assess the tail behavior of our asymptotic approximations.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Out-of-sample Sharpe ratio patterns with different models ofgt$g_t$. Each panel reports out-of-sample Sharpe ratios for PCA (blue) and SPCA (red) as a function of number of factors,p$p$, for a specific model ofgt=ηvt+zt$g_t = \\eta v_t + z_t$. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "4": {
+        "description": "Logarithm of the first 25 eigenvalues in the Chen-Zimmerman data. The figure plots the logarithm of the first 25 eigenvalues of the data, obtained from Chen and Zimmermann (2022) plus 49 industry portfolios, covering the period 1976 to 2020. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "5": {
+        "description": "Out-of-sampleR2$R^2$heatmaps, tradable factors. Each panel reports the out-of-sampleR2$R^2$heatmap for a different factor. Thex$x$-axis reportsp$p$. They$y$-axis reports the number of assets selected, governed byq$q$. The colors in the heatmap correspond to the out-of-sampleR2$R^2$of the SPCA-implied hedging portfolio for the factorgt$g_t$; thisR2$R^2$is computed entirely in the evaluation period. The red marks are the points chosen by CV within the training sample. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "6": {
+        "description": "Out-of-sampleR2$R^2$heatmaps, nontradable factors. Same as Figure5, but for a subset of nontradable factors. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "7": {
+        "description": "Strength of the latent factors. Each panel of the figure shows the log eigenvalues extracted by PCA from the universe of all assets in the training sample, as well as the log eigenvalues extracted by SPCA at each iteration (for the first five factors), for the tuning parameter selected by CV. All eigenvalues are normalized by the number of assets used, which is a measure of the strength of the factor that is directly comparable. Panels A and B study two groups of tradable factors, Panel C a selection of the nontradables, and Panel D the remaining nontradables. [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "8": {
+        "description": "Varying the universe of test assets. For value, momentum, and RMW (profitability), the figure provides out-of-sampleR2$R^2$heatmaps when all the test assets from Hou, Xue, and Zhang (2020) are used in the estimation (left), and when value portfolios, momentum portfolios, or profitability portfolios, respectively, are excluded (right). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    },
+    "9": {
+        "description": "Out-of-sample Sharpe ratios of different factor models. Each panel reports the out-of-sample Sharpe ratio of an observable factor modelgt$g_t$(dashed line), together with the out-of-sample Sharpe ratio obtained from the factors recovered using SPCA, using both the HXZ data (triangles) and CZ (circles). Thex$x$-axis corresponds to the number of factors used in SPCA (p$p$). [Color figure can be viewed atwileyonlinelibrary.com]",
+        "correlation": []
+    }
+}

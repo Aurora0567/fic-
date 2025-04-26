@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Weekly Total Deposits as a percent of Deposits on January 4, 1933.Notes: Data from all weekly reporting banks in the United States. Reports from close of business on Wednesdays from January 4 to July 5, 1933. The figure displays total deposits on each date divided by deposits on January 4, 1933. Data obtained from the Board of Governors (1943)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Fraction of Commercial Banks Reopened in March 1933 by County."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Distribution of Predicted Values By Outcomes.Notes: Histogram of the average predicted probability from the binary classification machine learning methods. The black represents observations that were correctly classified and the gray represents observations that were misclassified."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Initial Fundamentals and Subsequent Change in Deposits (1932–1933).Notes: Figures provide bin scatter plots of the change in deposits between July 1932 and July 1933. The sample consists of all commercial banks in July 1932 who were open at the start of the Bank Holiday and fully reopened by July 1933. The panel divides banks based on whether they were fully reopened during March 1933 or whether they reopened by July 1933. The sample drops banks with a value of the ratio in 1932 that was below the 1 percentile or above the 99 percentiles."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Effect of Reopening Timing on National Bank Deposits (1928–1941).Notes: Figure provides the coefficients on the interaction between year fixed effects and various indicators for the spread of reopening in Eq. (3). The sample consists of national banks that reported data every year from 1928 through 1940. The top figure displays the coefficient and a 2 standard error band, whereas the bottom figure displays the coefficients for the three different indicator variables. All regressions contain interactions between Fed Districts and year indicators as well as population in 1930 and year indicators. The coefficients and standard errors are provided in Appendix A2."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Effect of March Reopening on National Bank Balance Sheets (1928–1941).Notes: Table provides the coefficients on the interactions between year fixed effects and the March reopening indicator in Eq. (3). The sample consists of national banks that reported data every year from 1928 through 1940. The figures display the coefficient and a 2 standard error band. All regressions contain interactions for Fed District and year indicators as well as population in 1930 and year indicator. The coefficients and standard errors are provided in Appendix A2."
+        ],
+        "correlation": []
+    }
+}

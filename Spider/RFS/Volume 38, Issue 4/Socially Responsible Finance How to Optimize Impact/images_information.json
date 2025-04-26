@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Social welfare. Solid line: Social welfare as a function of Sector 1 size K1 using the social-welfare-maximizing emission cap, given K1. Dashed line: Social welfare without emission caps, |$\\hat U(1, K_1 , 1 - K_1 )$|⁠, as a function of Sector 1 size K1. Parameters: |$\\gamma _1 = \\gamma _2 = \\alpha _1 = \\alpha _2 = 0.5$|⁠, δ = 6.",
+        "correlation": []
+    },
+    "2": {
+        "description": "SRF’s performance as a function of the SRF’s size S and strategy. panel a) Mere exclusion strategy where |$K_2^{FB} : = 1 - K^O$|⁠, panel b) Scope 1 strategy, panel c) upstream Scope 3 strategy. Parameters are: |$\\gamma _1 = \\gamma _2 = \\alpha _1 = \\alpha _2 = 0.5$|⁠, δ = 6, |$\\psi = 0.025, \\;\\lambda = 0.5$|⁠.",
+        "correlation": []
+    },
+    "3": {
+        "description": "SRF size and impact as a function of the fraction θ of value-alignment investors. Three strategies: mere exclusion (solid lines), Scope 1 (dotted line), and Upstream Scope 3 (dashed line). These graphs are for δ = 6, |$\\mu = 0.005$|⁠, and |$\\psi = 0.025, \\;\\lambda = 0.5$| with capital market frictions in both sectors. Furthermore, for panels a) and b), |$\\alpha _1 = \\alpha _2 = \\gamma _1 = \\gamma _2 = 0.5$|⁠; for panels c) and d), |$\\alpha _1 = 0.1, \\alpha _2 = 0.8, \\gamma _1 = 0.2, \\gamma _2 = 0.8$|⁠.",
+        "correlation": []
+    },
+    "4": {
+        "description": "SRF size and impact. Size (panel a) and impact (panel b) as a function of the fraction θ of value-alignment investors for three strategies: mere exclusion (Solid lines), Scope 1 (dashed line), Upstream Scope 3 (dotted line), Downtream Scope 3 (gray dashed line), and Degrowth (gray solid line). These graphs are obtained for |$\\alpha _1 = \\alpha _2 = \\gamma _1 = \\gamma _2 = \\lambda = 0.5$|⁠, δ = 6, |$\\mu = 0.005$|⁠, and |$\\psi = 0.025, \\;\\lambda = 0.5, \\;\\rho = 0.05$| with capital market frictions in both sectors.",
+        "correlation": []
+    }
+}

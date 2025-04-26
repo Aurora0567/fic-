@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Timeline.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Optimal scenario as a function of the prior mean \n\n\n\nx\n¯\n\n1\n\n$\\bar{x}_{1}$\n and the correlation between the bank's risk exposures to factor 1, \n\n\nΣ\n\nx\n,\n12\n\n11\n\n$\\Sigma _{\\bf{{x}},12}^{11}$\n.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Optimal scenarios.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Utility gain relative to gains achieved by \n\n\n\nκ\n′\n\n=\n0.9\n×\nκ\n\n$\\kappa ^{\\prime }=0.9\\times \\kappa$\n.",
+        "correlation": []
+    },
+    "A": {
+        "description": "Feasible set of residual variances, \n\n\n\n\nΣ\n̂\n\n\nx\n,\n11\n\n\n,\n\n\nΣ\n̂\n\n\nx\n,\n22\n\n\n\n$\\left(\\hat{\\Sigma }_{\\bf{{x}},11},\\hat{\\Sigma }_{\\bf{{x}},22}\\right)$\n when there are two factors and one representative bank for different values of the regulator's prior correlation among the bank's risk exposures to factors 1 and 2. The figures illustrate the set of feasible posterior variances, \n\n\nΣ\n\n${\\bf \\bm{\\Sigma }}$\n, for different values of prior correlations among risk exposures when \n\n\n\nσ\n\nε\n̂\n\n2\n\n=\nβ\n\n\n\ns\n̂\n\n\n2\n\n+\n\nβ\nτ\n\n\ne\n\nτ\n\n\n\ns\n̂\n\n\n2\n\n\n\n\n$\\sigma _{\\hat{\\epsilon }}^{2}=\\beta \\left\\Vert \\hat{s}\\right\\Vert ^{2}+\\beta _{\\tau }e^{\\tau \\left\\Vert \\hat{s}\\right\\Vert ^{2}}$\n. The parameters used are \n\n\nM\n=\n1\n\n$M=1$\n, \n\n\nN\n=\n1\n\n$N=1$\n, \n\n\nJ\n=\n2\n\n$J=2$\n, \n\n\nθ\n=\n0\n\n$\\theta =0$\n, \n\n\n\nx\n¯\n\n=\n\n\n1\n,\n1\n\n′\n\n\n$\\bar{x}=\\left[1,1\\right]^{\\prime }$\n, \n\n\n\nΣ\n\nx\n,\n11\n\n\n=\n\nΣ\n\nx\n,\n22\n\n\n=\n1\n\n$\\Sigma _{\\mathrm{\\bm{x,11}}}=\\Sigma _{\\mathrm{\\bm{x,22}}}=1$\n, \n\n\nβ\n=\n5\n\n$\\beta =5$\n, \n\n\n\nβ\nτ\n\n=\n5\n\n$\\beta _{\\tau }=5$\n, \n\n\nτ\n=\n2\n\n$\\tau =2$\n, and \n\n\nE\n\n\nε\n2\n\n\n=\n1\n\n$\\mathbb {E}\\left[\\epsilon ^{2}\\right]=1$\n.",
+        "correlation": []
+    },
+    "C": {
+        "description": "Optimal scenario and information choice as a function of the uncertainty about risk factor 2, \n\n\nE\n\n\ns\n2\n2\n\n\n\n$\\mathbb {E}\\left[s_{2}^{2}\\right]$\n. The figure illustrates the regulator's optimal choice of scenario and the implied posterior variance as a function of the uncertainty about risk factor 2, \n\n\nE\n\n\ns\n2\n2\n\n\n\n$\\mathbb {E}\\left[s_{2}^{2}\\right]$\n. The parameters used are \n\n\nN\n=\n1\n\n$N=1$\n, \n\n\nJ\n=\n2\n\n$J=2$\n, \n\n\nθ\n=\n0\n\n$\\theta =0$\n, \n\n\np\nγ\n=\n0.1\n\n$p\\gamma =0.1$\n, \n\n\nΦ\n=\n\n\n0.75\n,\n0.75\n\n′\n\n\n$\\Phi =\\left[0.75,0.75\\right]^{\\prime }$\n, \n\n\n\nx\n¯\n\n=\n\n\n1\n,\n1\n\n′\n\n\n$\\bar{x}=\\left[1,1\\right]^{\\prime }$\n, \n\n\n\nΣ\nx\n\n=\n\nI\nJ\n\n\n$\\Sigma _{\\mathrm{\\bm{x}}}=\\bm{I}_{J}$\n, \n\n\nα\n=\n0\n\n$\\alpha =0$\n, \n\n\nβ\n=\n5\n\n$\\beta =5$\n, \n\n\n\nβ\nτ\n\n=\n7\n\n$\\beta _{\\tau }=7$\n, \n\n\nτ\n=\n2\n\n$\\tau =2$\n, \n\n\nE\n\ns\n\n=\n\n\n0\n,\n0\n\n′\n\n\n$\\mathbb {E}\\left[s\\right]=\\left[0,0\\right]^{\\prime }$\n, \n\n\n\nE\n∼\n\n\ns\n\n=\n\n\n1\n,\n1\n\n′\n\n\n$\\tilde{\\mathbb {E}}\\left[s\\right]=\\left[1,1\\right]^{\\prime }$\n, \n\n\n\nΣ\ns\n\n=\n\nI\nJ\n\n\n$\\Sigma _{s}=\\bm{I}_{J}$\n, \n\n\n\nE\n∼\n\n\ns\n\n=\n3\n×\n\nI\nJ\n\n\n$\\tilde{\\mathbb {E}}\\left[s\\right]=3\\times \\bm{I}_{J}$\n, \n\n\nκ\n=\n0.2\n\n$\\kappa =0.2$\n, \n\n\n\nW\n∼\n\n=\n100\n\n$\\tilde{W}=100$\n, and \n\n\nE\n\nε\n\nε\n′\n\n\n=\n\nI\nN\n\n\n$\\mathbb {E}\\left[\\epsilon \\epsilon ^{\\prime }\\right]=\\bm{I}_{N}$\n.",
+        "correlation": []
+    }
+}

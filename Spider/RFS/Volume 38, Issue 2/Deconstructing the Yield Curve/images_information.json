@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Principal component loadings in financial and nonfinancial data. This figure presents the loadings of the first three principal components for bond yields (top left), oil price futures (top right), S&P 500 options returns (bottom left), and global surface temperature (bottom right). For each panel, principal components analysis is applied to the sample correlation matrix. A full description of the data and data sources is available in the  Appendix.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Realized sample versus bootstrapped sample. The left column of this figure shows the time series of yields, forwards, and excess returns from Gurkaynak, Sack, and Wright (2007) for the sample 1972:Q1–2022:Q4. The right column of this figure shows the corresponding bootstrapped time series for these same objects.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Actual and bootstrapped yields and it∗. This figure shows actual and bootstrapped yields along with it∗⁠. The left chart shows realized yields along with it∗ constructed as the sum of the perceived target rule (πt∗) and the exponentially weighted moving average of real interest rates (rt∗)⁠. The middle and right chart show the bootstrap counterparts of yields and it∗ based on the Bauer and Hamilton (2018) (BH) bootstrap and the nonparametric bootstrap introduced in Section 1.2 (CG).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Expectations hypothesis tests: OLS sampling properties. This figure presents the in-sample OLS estimate based on the realized data (black line) and 1,000 draws (gray lines) from the nonparametric bootstrap introduced in Section 1.2 (CG). The top row presents the estimates for the CS2 test, the middle-left plot for the CS1 test, the middle-right plot for the FB test, and the bottom row for the CG test. The black dashed horizontal line represents a value of one corresponding to the EH. The sample period is 1972:Q1–2024:Q1.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Expectations hypothesis tests: Time-series properties. This figure presents the dependent and explanatory variables from different regression-based tests of the expectations hypothesis. The top row presents the time series for the CS2 test, the middle-left plot for the CS1 test, the middle-right plot for the FB test, and the bottom row for the CG test. The sample period is 1972:Q1–2024:Q1.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Probability of recession. This figure plots the fitted values of P(H2,t=1|xt) as defined in Section 3.3. xt is either (1) a constant and the term spread, or (2) a constant, the term spread, and the deviation of the 3-month yield from its 3-year moving average. The black (red) line represents the estimated probability with (without) the bootstrap bias correction; pink shading represents 68% pointwise confidence intervals for the probability of recession. Gray shading denotes NBER recessions. The sample period is 1971Q3–2024Q1.",
+        "correlation": []
+    }
+}

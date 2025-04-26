@@ -1,0 +1,58 @@
+{
+    "1": {
+        "description": "SDF cross-validation estimation procedure. This figure illustrates the folded “out-of-sample” cross-validation procedure that we rely on for estimating the high-frequency SDF. The procedure consists of first estimating the SDF for each set of hyperparameters, dropping one year from the full 25-year sample at a time. We then validate the resultant estimates on a quarterly basis, dropping one quarter at a time.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Tangency portfolio returns. This figure reports the 15-minute intraday and overnight returns on our estimated tangency portfolio, rescaled to have the same realized volatility as the Fama-French market portfolio. NBER-defined recessions are highlighted in gray.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Tangency portfolio volatility. The figure plots the annualized realized volatility of the estimated tangency portfolio. For visual clarity, we smooth the underlying realized variance series using a 30-day half-life EWMA. The tangency portfolio itself is rescaled to have the same unconditional realized volatility as the Fama-French market portfolio.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Jump identification example and jump returns. The top subplot shows the intradaily returns on the estimated tangency portfolio for the last 3 weeks of March 2020, together with the specific jump threshold that we rely on and the jump returns that exceed the threshold marked (in red). The full-sample jump returns for the estimated tangency portfolio, again rescaled to have the same realized volatility as the Fama-French market portfolio, are plotted as a time series in the lower-left subplot and as a histogram in the lower-right subplot.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Article counts. The figure shows the average number of news articles in our filtered data set for each 15-minute interval and day of the week. The shaded areas represent London Stock Exchange and New York Stock Exchange market hours.",
+        "correlation": []
+    },
+    "6": {
+        "description": "News event time variation. The figure shows the average time-of-day adjusted realized variance centered at Bloomberg news announcement times. The time-of-day adjustment is computed using the average realized variance across days for each particular time of day. Minute zero on the x-axis corresponds to the Bloomberg calendar time of the event. The gray area represents 95% confidence intervals.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Conditional topic frequencies. The heatmap shows the fraction of jumps associated with each topic across all detected jumps for each year in the 1996–2020 sample. The display is limited to the top-20 topics by frequency over the full sample.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Select topic headlines. The figure displays the intradaily 15-minute returns for the estimated tangency portfolio in gray, together with all the jumps associated with Monetary policy, US politics, and Energy markets. The select headlines are drawn from articles that were published in the same time interval as the jumps; the jumps themselves are marked as of a particular topic if the corresponding topic weight exceeds 50%. Not all jumps are annotated in order to prevent overlapping headlines.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Metatopic variance contributions. The heatmap displays the fraction of jump variation associated with each metatopic relative to the total jump variation for each year in the 1996–2020 sample.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Metatopic risk premiums over time. The left subplot shows the cumulative returns on the Monetary policy and finance, Macroeconomic data, and International affairs metatopic-mimicking portfolios computed from the tangency portfolio returns rescaled to 10% per annum over the full sample. The right subplot shows a 30-day EWMA of the realized volatility of the same three portfolios. The shaded regions correspond to NBER-defined recessions.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Average jump count by classification. The figure shows the average monthly (3-month EWMA) number of growth, risk premium, short-rate, and long-rate shocks associated with the SDF jumps, based on the shock classification scheme discussed in the main text.",
+        "correlation": []
+    },
+    "A": {
+        "description": "Predicted versus actual returns. The three subplots report the predicted versus actual realized returns for each of our 272 test assets based on our estimated SDF, the CAPM, and the FF6 model. The predicted returns are computed using full-sample time-series regressions between each factor model and each of the test assets. The outlier seen on the far left of all three plots is the Fama-French coal industry portfolio, corresponding to SIC codes 1200–1299, which has seen abnormally low returns over our sample. All returns are reported in annualized form. The annotations give the uncentered R2 between the predicted and the realized returns.",
+        "correlation": []
+    },
+    "B": {
+        "description": "Examples of news-driven jumps. The upper subplot shows the intradaily returns on the estimated tangency portfolio. The lower three subplots show 3 specific days with large jump returns readily associated with specific economic news.",
+        "correlation": []
+    },
+    "C": {
+        "description": "Examples of news-driven jumps. The left subplot shows the cumulative returns on the Politics, Commodities and energy, Fiscal policy, Labor, and Regulation metatopic mimicking portfolios computed from the tangency portfolio returns rescaled to 10% per annum over the full sample. The right subplot shows a 30-day EWMA of the realized volatility of the same portfolios. The shaded regions correspond to NBER-defined recessions.",
+        "correlation": []
+    }
+}
