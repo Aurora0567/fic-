@@ -32,7 +32,7 @@
         "correlation": []
     },
     "9": {
-        "description": "(Color online) The Impact of the Number of Drivers on Expected Customer Delay Under the Nearest Dispatching Policy Notes. The results pertain to a system in which 𝜇 ⁡ ( 𝑚 , 𝑞 ) μ ⁡ ( m , q ) is given by ( 4 ) if 𝑞 ≤ 𝑛 q ≤ n and 𝜇 ⁡ ( 𝑚 , 𝑞 ) = 1 / ( ( 𝑠 ⁢ / √ ( 𝑚 − 𝑛 + 1 ) ⁢ ( 𝑞 − 𝑛 ) ) + 𝑠 ) μ ⁡ ( m , q ) = 1 / ( ( s ⁢ / ( m − n + 1 ) ⁢ ( q − n ) ) + s ) otherwise. The approximation is asymptotically exact (up to a geometry-dependent coefficient) when the origin–destination pair associated with each requested trip is uniformly distributed over a square service region. See theorem 5 in Wang et al. (2022) for the validation and more discussions. (a) Intermediate regime: m = 120, λ = 10, and s = 10. (b) Supply-rich regime: m = 220, λ = 10, and s = 10.",
+        "description": "(Color online) The Impact of the Number of Drivers on Expected Customer Delay Under the Nearest Dispatching Policy Notes. The results pertain to a system in which μ ( m , q ) is given by ( 4 ) if q ≤ n and μ ( m , q ) = 1 / ( ( s / ( m − n + 1 ) ( q − n ) ) + s ) otherwise. The approximation is asymptotically exact (up to a geometry-dependent coefficient) when the origin–destination pair associated with each requested trip is uniformly distributed over a square service region. See theorem 5 in Wang et al. (2022) for the validation and more discussions. (a) Intermediate regime: m = 120, λ = 10, and s = 10. (b) Supply-rich regime: m = 220, λ = 10, and s = 10.",
         "correlation": []
     }
 }

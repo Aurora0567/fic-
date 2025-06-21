@@ -1,6 +1,0 @@
-{
-    "1": {
-        "description": "Optimal contract. This figure illustrates how the board's choice of contract depends on \n\n\n\n\n(\n\nλ\n1\n\n−\n\nλ\n0\n\n)\n\n\n(\n\nv\nh\n\n−\n\nv\nℓ\n\n)\n\n\n\nc\n¯\n\n\n$\\frac{(\\lambda _1 - \\lambda _0) (v_h - v_\\ell)}{\\bar{c}}$\n, the (normalized) productivity of managerial effort, and on \n\nθ\n$\\theta$\n, the likelihood that manipulation does not cause a reduction in the firm's cash flow from \n\n\nv\nh\n\n$v_h$\n to \n\n\nv\nℓ\n\n$v_\\ell$\n. The parameter values in this numerical example are \n\n\n\nλ\n0\n\n=\n\n1\n6\n\n\n$\\lambda _0 = \\frac{1}{6}$\n, \n\n\n\nλ\n1\n\n=\n\n5\n6\n\n\n$\\lambda _1 = \\frac{5}{6}$\n, and \n\n\nδ\n=\n\n7\n8\n\n\n$\\delta = \\frac{7}{8}$\n.",
-        "correlation": []
-    }
-}

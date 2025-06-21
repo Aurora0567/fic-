@@ -4,15 +4,15 @@
         "correlation": []
     },
     "2": {
-        "description": "(Color online) Equilibrium in the Nonconvex Economy Notes. The figure illustrates the equilibrium in the economy with nonconvex investment. The curved line shows the inverse state-price density ^ 𝜋 π ^ as a function of o l and δ ; the step line curve is the fraction of l -type individuals investing, o l , as a function of ^ 𝜋 π ^ and δ . Equilibrium, shown as ⊛ ⊛ , is the point at which the two lines intersect. (a) The low δ case (Case 1 in Appendix A.3 ), at which 𝑜 𝑙 = 0 o l = 0 represents an equilibrium. (b) The high δ case (Case 2) in which 𝑜 𝑙 = 1 o l = 1 represents an equilibrium.",
+        "description": "(Color online) Equilibrium in the Nonconvex Economy Notes. The figure illustrates the equilibrium in the economy with nonconvex investment. The curved line shows the inverse state-price density π ^ as a function of o l and δ ; the step line curve is the fraction of l -type individuals investing, o l , as a function of π ^ and δ . Equilibrium, shown as ⊛ , is the point at which the two lines intersect. (a) The low δ case (Case 1 in Appendix A.3 ), at which o l = 0 represents an equilibrium. (b) The high δ case (Case 2) in which o l = 1 represents an equilibrium.",
         "correlation": []
     },
     "3": {
-        "description": "(Color online) Payouts to Investors and to Individuals Notes. The figure shows the dividend payout to outside investors (a) and the per-capita consumption of the low cash-on-hand individual (b) as a function of TFP δ , where the x axis shows C D F ⁡ ( 𝛿 ) CDF ⁡ ( δ ) . For example, an x -value of 0.4 represents δ at the bottom 40% of the distribution. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "description": "(Color online) Payouts to Investors and to Individuals Notes. The figure shows the dividend payout to outside investors (a) and the per-capita consumption of the low cash-on-hand individual (b) as a function of TFP δ , where the x axis shows CDF ( δ ) . For example, an x -value of 0.4 represents δ at the bottom 40% of the distribution. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
         "correlation": []
     },
     "4": {
-        "description": "(Color online) State-Price Density Notes. The figure shows the state-price density as a function of TFP δ , where the x axis shows C D F ⁡ ( 𝛿 ) CDF ⁡ ( δ ) . For example, an x value of 0.4 represents δ at the bottom 40% of the distribution. 𝜋 ⁡ ( 𝛿 ) π ⁡ ( δ ) is the state-price density. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
+        "description": "(Color online) State-Price Density Notes. The figure shows the state-price density as a function of TFP δ , where the x axis shows CDF ( δ ) . For example, an x value of 0.4 represents δ at the bottom 40% of the distribution. π ( δ ) is the state-price density. The solid line represents the frictionless case, the dashed line the case with the nonconvex technology (with frictions), and the dashed-dotted line the case with the convex technology.",
         "correlation": []
     },
     "5": {

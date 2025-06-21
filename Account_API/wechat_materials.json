@@ -37,15 +37,6 @@
       "is_permanent": true
     },
     {
-      "file_name": "JF_Top.png",
-      "file_md5": "d76d481761cdb9377d894d714138c657",
-      "media_id": "nviH_gtArO5neo9gazxDzDOzQKxd5pwyWdVHMQESokdMKpKGErwyqYNwlbufNShj",
-      "media_type": "image",
-      "upload_time": "2025-04-21T12:37:33.587564",
-      "expires_time": null,
-      "is_permanent": true
-    },
-    {
       "file_name": "MS_Top.png",
       "file_md5": "e183aa62902122afe85a25515d62bce0",
       "media_id": "nviH_gtArO5neo9gazxDzON5c8TjuSl_AO0hW8FYyprANRG5bBHfv-RwrRG0t946",
@@ -73,14 +64,22 @@
       "is_permanent": true
     },
     {
-      "file_name": "JF_Top.png",
+      "file_name": "JF.png",
       "file_md5": "",
-      "media_id": "nviH_gtArO5neo9gazxDzFY2TVUg9IphOGkrirANeTVGQdeO3iKYlZ00sl4-INDK",
+      "media_id": "nviH_gtArO5neo9gazxDzKrxWtHXb0qoSyY8-93M7NKbdT68OonyTWchylE4_Gki",
       "media_type": "image",
       "upload_time": "",
       "expires_time": null,
-      "is_permanent": true,
-      "url": "http://mmbiz.qpic.cn/mmbiz_png/y2LkHVa2pA4GlpQTOxSjqSc5hNOzFhdTLON7ibM2dWq6QyCKbVDHOegSTUHm0nvoahUdrzna2ic6j0f8ca79tP2w/0?wx_fmt=png"
+      "is_permanent": true
+    },
+    {
+      "file_name": "JF_Top.png",
+      "file_md5": "",
+      "media_id": "nviH_gtArO5neo9gazxDzGRz628MmRkSnexa3xy_cxpw8p2gkV8eMSSwegInGI3l",
+      "media_type": "image",
+      "upload_time": "",
+      "expires_time": null,
+      "is_permanent": true
     }
   ]
 }
