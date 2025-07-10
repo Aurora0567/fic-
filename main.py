@@ -28,16 +28,17 @@ if __name__ == '__main__':
     # 找到最开始的论文路径
     root = r'Periodicals' # 期刊总路径
     periodical = r'MS'  # JF/JFE/RFS 中的一个
-    volume = r'Volume 71, Issue 1' # 哪一期
+    volume = r'test' # 哪一期
     run_date = '2025-03-18 02:00:00' # 定时时间
-    title = r'【JF 80-1】西财人的专属学术外挂！每天1 分钟，AI 帮你读完三大顶刊！' # 推文标题
+    # title = r'【JF 80-1】西财人的专属学术外挂！每天1 分钟，AI 帮你读完三大顶刊！' # 推文标题
+    title = r'每天1 分钟，AI 帮你读完三大顶刊！'
 
     volume_path = os.path.join(root, periodical, volume)
     destination_path = os.path.join('Periodicals_AI_Refined', periodical, volume)  # 精炼之后的位置
 
     # 先存入数据库
-    print('存数据库')
-    process_volume(volume_path)
+    # print('存数据库')
+    # process_volume(volume_path)
 
     # 从出数据库读取数据（待开发）
 
@@ -54,7 +55,7 @@ if __name__ == '__main__':
 
     # 精炼后的文件存入数据库
     print('精炼之后存')
-    update_ai_refine_to_database(volume_path)
+    # update_ai_refine_to_database(volume_path)
 
     print(volume_path)
 
