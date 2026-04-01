@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Impact of Different Policies on Liquidity Demand and Supply by Different Types of Traders Notes. (a) Liquidity demand. (b) Liquidity supply. The figure shows liquidity demand and supply by different types of traders: manual (M), bank-AI (B), and HFT (H). (a) Liquidity demand shares, monthly traded volume when a particular trader demands liquidity divided by total monthly traded volume. (b) Liquidity supply shares, monthly traded volume when a particular trader provides liquidity divided by total monthly traded volume. Vertical lines mark the decrease in tick size from 1 pip to 0.1 pips on March 2011 and the increase in tick size from 0.1 pips to 0.5 pips on September 2012.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Quoted Spreads Notes. (a) Sixty days before and after decrease in tick size. (b) Sixty days before and after increase in tick. The figures show daily average of quoted spreads in pips (0.0001 for EUR/USD and 0.01 for USD/JPY) both in the spot (solid line) and futures (dash line) markets estimated during the most liquid time of the day (we drop observations that occur in the four-hour period starting at 4 p.m. and ending at 8 p.m. ET). (a) The vertical line marks March 7, 2011, when EBS decreased the tick size from 1 pip to 0.1 pip. (b) The vertical line marks September 24, 2012, when EBS increased the tick size from 0.1 pip to 0.5 pip.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Top of the Book Depth Notes. (a) Sixty days before and after decrease in tick size. (b) Sixty days before and after increase in tick. The figures show daily average top of the book depth (millions of euros for EUR/USD and millions of US dollars for USD/JPY) both in the spot (solid line) and futures (dash line) markets estimated during the most liquid time of the day (we drop observations that occur in the four-hour period starting at 4 p.m. and ending at 8 p.m. ET). (a) The vertical line marks March 7, 2011, when EBS decreased the tick size from 1 pip to 0.1 pip. (b) The vertical line marks September 24, 2012, when EBS increased the tick size from 0.1 pip to 0.5 pip.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Kyle’s Lambda Notes. (a) Sixty days before and after decrease in tick size. (b) Sixty days before and after increase in tick. The figures shows minutely price impact in pips per billion of base currency both in the spot (solid line) and futures (dash line) markets estimated over one day using one-minute midquote returns and aggregate order flow over one minute during the most liquid time of the day (we drop observations that occur in the four-hour period starting at 4 p.m. and ending at 8 p.m. ET). (a) The vertical line marks March 7, 2011, when EBS decreased the tick size from 1 pip to 0.1 pip. (b) The vertical line marks September 24, 2012, when EBS increased the tick size from 0.1 pip to 0.5 pip.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Information Shares of Spot and Futures Market Order Flow Notes. (a) EUR/USD. (b) USD/JPY. The figure shows the information shares of spot and futures market order flow estimated each month from January 2010 to December 2013. We use the structural VAR methods of Hasbrouck (1991) . The one-minute return computed using spot market midquotes is a function of past one-minute returns, contemporaneous and past one-minute order flow in the spot market and order flow in the futures market. We only use data during the busiest times of the market (we drop observations that occur in the four-hour period starting at 4 p.m. and ending at 8 p.m. ET). We use data from Thomson Reuters Tick History to estimate futures market order flow in the Chicago Mercantile Exchange (CME) and we only use data on the most liquid front-month contract. We use data from Electronic Broking Services (EBS) to calculate spot market order flow and one-minute returns. Vertical lines mark the decrease in tick size from 1 pip to 0.1 pips on March 2011 and the increase in tick size from 0.1 pips to 0.5 pips on September 2012.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Trading Volume in the Spot and Futures Markets Notes. (a) EUR/USD. (b) USD/JPY. The figures show spot and futures monthly trading volume in the euro-dollar exchange rate market (a) and USD-JPY exchange rate market (b). We only use data during the busiest times of the market (we drop observations that occur in the four-hour period starting at 4 p.m. and ending at 8 p.m. ET) to calculate trading volume in both markets. We use data from Thomson Reuters Tick History to estimate futures market trading volume in the Chicago Mercantile Exchange (CME). We use data from Electronic Broking Services (EBS) to calculate spot market trading volume. We use the most liquid front-month contract to calculate trading volume in the futures market. Vertical lines mark the decrease in tick size from 1 pip to 0.1 pips on March 2011 and the increase in tick size from 0.1 pips to 0.5 pips on September 2012.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Kyle’s Lambda at Different Horizons by Different Trader Types: Decrease in Tick Size Notes. (a) Before decrease in tick size. (b) After decrease in tick size. The figure shows Kyle’s lambda or the price impact of aggressive orders by different trader types at different horizons, from 100 milliseconds to 1 minute. Panel (a) shows Kyle’s lambda estimated using 60-days before the decrease in tick size from 1 pip to 0.1 pips on March 2011. Panel (b) shows Kyle’s lambda estimated using 60-days after the decrease in tick size from 1 pip to 0.1 pips on March 2011.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Kyle’s Lambda at Different Horizons by Different Trader Types: Increase in Tick Size Notes. (a) Before decrease in tick size. (b) After decrease in tick size. The figure shows Kyle’s lambda or the price impact of aggressive orders by different trader types at different horizons, from 100 milliseconds to 1 minute. (a) Kyle’s lambda estimated using 60 days before the increase in tick size from 0.1 pips to 0.5 pips on September 2012. (b) Kyle’s lambda estimated using 60-days after the increase in tick size from 0.1 pips to 0.5 pips on September 2012.",
+        "correlation": []
+    }
+}

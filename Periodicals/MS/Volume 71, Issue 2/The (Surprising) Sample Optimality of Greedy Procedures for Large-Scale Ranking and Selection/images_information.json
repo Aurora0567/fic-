@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) A Comparison Between the Greedy Procedure and the OCBA Procedure",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Sequential Sampling Process of the Greedy Procedure for a Simplified R&S Problem with Four Alternatives Note. The numbers inside the markers represent sample sizes.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) A Comparison Between the Greedy Procedure, the EFG Procedure, and the EA Procedure",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Estimated PCS of the EFG Procedure and the Greedy Procedure for Different Values of c Note. k = 8,192.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Estimated PCS of the EFG Procedure for Different Values of 𝑝 = 𝑛 0 / 𝑐 p = n 0 / c Note. c = 200 and k = 8,192.",
+        "correlation": []
+    }
+}

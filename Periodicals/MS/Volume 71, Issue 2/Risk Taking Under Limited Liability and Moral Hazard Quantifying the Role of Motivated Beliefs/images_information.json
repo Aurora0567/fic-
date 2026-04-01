@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Two Informationally Identical Dot Spot Matrices Notes. Both matrices contain 215 red dots (gray dots if printed in black and white) but with a different pattern. Varying the pattern allows us to present, across treatments, different matrices that convey the same information but cannot be recognized as being identical.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cumulative Density Function Across Treatments",
+        "correlation": []
+    },
+    "3": {
+        "description": "Cumulative Density Functions of Stated Success Probabilities Across Treatments",
+        "correlation": []
+    },
+    "4": {
+        "description": "Triangulation of Changes in Investment Notes. Figure showing the differences in investment across treatments. In the left panel, subjects form beliefs about the success probabilities of the investment. In the right panel, the success probabilities are exogenously given. In BL and RBL , subjects have full liability. In NM and RNM , subjects have limited liability but no moral hazard. In MA and RMA , subjects have both limited liability and moral hazard. The arrows point in the direction of the change in investment. For both figures, in bold is the treatment with the highest investment. (a) Subjective risk. (b) Objective risk.",
+        "correlation": []
+    }
+}

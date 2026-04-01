@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "(Color online) Time Series of Jobs Listed as Remote Notes. This chart illustrates the fraction of full-time, U.S.-based job listings in our sample that are tagged as remote-eligible. The x -axis denotes the number of weeks since the March 15, 2020 mandated COVID closures with the orange line indicating the date of closure. The y -axis is the 15-day rolling mean of the fraction of listings that are remote-eligible.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Employer Size and Remote-Eligible Jobs Notes . These charts report changes in the distribution of full-time, US job listings by company size before and after the pandemic-induced shutdowns in March 2020. The preperiod in panel 1 includes dates from January 1, 2018 through March 15, 2020. The postperiod in panel 2 are dates after March 15, 2020. The gray bars designate the number of onsite listings, and the black bars designate the number of remote-eligible listings. Panel 3 reports the change in the fraction of overall listings accounted for by remote listings from the preperiod to the postperiod.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Heat Map of Remote Listings by Job Role and Wage Notes. These heat maps illustrate the fraction of full-time, U.S.-based job listings that are designated as remote. Each cell illustrates the fraction of job listings that are remote by wage bracket and job role. The top panel includes job listings posted before or on March 15, 2020, and the bottom panel is job listings posted after that date.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Applications Sent to Remote and Onsite Job Listings Notes. This figure illustrates changes in numbers of applications to US, full-time job listings in our sample over the time window spanning two years before the pandemic-induced closures and about two years after the closures. The solid line is total number of applications to all job openings in this time window. The short-dotted line is applications to onsite applications only. The long-dotted line is applications to remote positions only. The dashed vertical line at the ”0” indicator is the week corresponding to March 15, 2020. The top facet illustrates all applications and the bottom facet illustrates applications per posting.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Differences in Characteristics of Applicant Pools to Remote and Onsite Jobs Notes. These trend lines illustrate the time-series of the differences in the fraction of applicant types to remote and onsite work. In each panel, the sample of jobs is limited to full-time, U.S. listings. The top panel plots the difference in the fraction of female applicants to remote and onsite listings over the sample period. Most of the series is below zero, suggesting more female applicants to onsite relative to remote jobs. The second panel plots the difference in the fraction of URM applicants to remote and onsite listings during the sample period, where the application sample is limited to cases where applicants report race. The third panel is the difference in industry experience of applicants to remote and onsite listings. In all panels, the y -axis is the difference between remote and onsite jobs. In all panels, the x -axis represents weeks since closures and the vertical dashed line is March 15, 2020, the date of the pandemic-induced closures.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) OLS and Matched Sample Estimates of Remote Coefficient Notes. These figures illustrate the results of OLS and matching tests. The sample is limited to U.S. full-time job listings from 2018 to 2022. The reported point estimate is the coefficient estimate on the remote indicator in the specification: 𝑦 𝑖 = 𝑟 𝑒 𝑚 𝑜 𝑡 𝑒 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑠 𝑎 𝑙 𝑎 𝑟 𝑦 ) 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑒 𝑞 𝑢 𝑖 𝑡 𝑦 ) 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑎 𝑝 𝑝 𝑠 ) 𝑖 + 𝛾 𝑖 + 𝜖 𝑖 y i = remote i + log ⁡ ( salary ) i + log ⁡ ( equity ) i + log ⁡ ( apps ) i + γ i + ϵ i . Here, y is the logged measure shown in the panel header (female apps, URM apps, average experience of applicants), 𝛾 γ is a vector of fixed effects including week of posting and job role, and i indexes job listings. In each panel, the first row is the OLS estimate on the full sample. The last three rows are estimates from samples matched on salary, equity, job role, and week of posting with remote indicated as the treatment. These last three rows show estimates produced from matched samples drawn from the whole sample, only 2018 and 2019, and only 2021 onwards, respectively. The error bars on each point estimate indicate a 95% confidence interval and standard errors are clustered on employer and week of posting.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Finer Grained Job Title Controls on Matched Sample Notes . This chart illustrates the estimate on the remote coefficient using the same specification as in Figure 6 , but instead of broad job categories, we substitute fixed-effects for specific job titles. The sample is limited to postings where the posted job title is one of the 1,000 most frequently appearing job titles.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Distributed Lag Model Estimates of Remote Effects Notes. This figure illustrates the coefficient estimate on 𝑟 𝑒 𝑚 𝑜 𝑡 𝑒 × 𝑤 𝑒 𝑒 𝑘 remote × week from the following specification: 𝑦 𝑖 = 𝑟 𝑒 𝑚 𝑜 𝑡 𝑒 𝑖 × 𝑤 𝑒 𝑒 𝑘 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑠 𝑎 𝑙 𝑎 𝑟 𝑦 ) 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑒 𝑞 𝑢 𝑖 𝑡 𝑦 ) 𝑖 + 𝑙 𝑜 𝑔 ⁡ ( 𝑎 𝑝 𝑝 𝑠 ) 𝑖 + 𝛾 𝑖 + 𝜖 𝑖 y i = remote i × week i + log ⁡ ( salary ) i + log ⁡ ( equity ) i + log ⁡ ( apps ) i + γ i + ϵ i where 𝑤 𝑒 𝑒 𝑘 𝑖 week i is the number of weeks since the pandemic closures and 𝛾 𝑖 γ i includes job-role fixed effects and i indexes the job posting. The sample is the same used in Figure 6 . The lines in grey indicate 95% confidence intervals. y i is the logged fraction of female applications, the logged fraction of URM applications, and the logged average experience of applicants in the first, second, and third panels, respectively. The time period in each panel is limited to 100 weeks before and 100 weeks after the pandemic-induced closures.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Estimates Using Listings That Would Have Been Onsite Prepandemic Notes . This figure estimates the model 𝑦 𝑖 = 𝑅 𝑒 𝑚 𝑜 𝑡 𝑒 𝑖 + 𝐿 𝑜 𝑔 ⁡ ( 𝑆 𝑎 𝑙 𝑎 𝑟 𝑦 ) + 𝐿 𝑜 𝑔 ⁡ ( 𝐸 𝑞 𝑢 𝑖 𝑡 𝑦 ) + 𝐿 𝑜 𝑔 ⁡ ( 𝐴 𝑝 𝑝 𝑠 ) + 𝛾 𝑖 + 𝜖 𝑖 y i = Remote i + Log ⁡ ( Salary ) + Log ⁡ ( Equity ) + Log ⁡ ( Apps ) + γ i + ϵ i but it is restricted to a sample of listings that were posted after the pandemic and would have been predicted to be onsite, based on job characteristics and activity in the preperiod. Further details of how this comparison was constructed can be found in Online Appendix C. Standard errors are clustered on employer and week of posting.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Remote Effect by Quantile of Local Market Diversity Notes. This chart indicates the remote coefficient estimate from the specification used in Figure 6 but with the sample divided into five quantiles according to levels of diversity in the local market, proxied by the demographic content of applications to onsite jobs. For this analysis, we only retain markets that received at least 40 onsite applications. For the URM analysis, the lowest quantile (1) includes the least diverse URM markets (Boulder, Seattle, Menlo Park, Redwood City, Somerville, Berkeley, Pittsburgh, Minneapolis, Sunnyvale, Bellevue, Cincinnati, Madison) and the highest quantile (5) includes the most diverse markets (New York, Dallas, Orlando, Atlanta, Miami, San Antonio, Las Vegas, Houston, Indianapolis, Baltimore, Tampa, and West Hollywood).",
+        "correlation": []
+    },
+    "11": {
+        "description": "Top URM Donor Cities for Least Diverse Local Markets Notes. This figure plots the eight largest city fixed-effects from the regression 𝑢 𝑟 𝑚 𝑖 = 𝑗 𝑜 𝑏 𝑡 𝑦 𝑝 𝑒 𝑖 + 𝑐 𝑖 𝑡 𝑦 𝑖 + 𝜖 𝑖 urm i = jobtype i + city i + ϵ i on a sample of all applications to remote jobs posted in the least diverse cities (Quantile 1) from Figure 10 . The sample is also restricted to applications that originate from a city that is different than the one in which the job is being posted, and to originating cities that produce at least 500 job applications in this sample.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Remote Effect by Stated Preferences for Remote Work Notes. This chart indicates the remote coefficient estimate from the specification used in column (3) of Table 3 but with the sample stratified by the stated remote preferences of workers.",
+        "correlation": []
+    }
+}

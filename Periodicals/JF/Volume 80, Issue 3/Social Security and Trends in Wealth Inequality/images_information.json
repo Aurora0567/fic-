@@ -1,0 +1,58 @@
+{
+    "1": {
+        "description": "Simulated and actual full-retirement age benefits.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Aggregate Social Security wealth under alternative discount rates. This figure reports the estimates of the aggregate present value of Social Security. The “SSA reports” line reports estimates by the Office of the Chief Actuary (OACT) for both their accrued benefits and NPV approach. We subtract the value of the Disability Insurance program by assuming that it represents 1.8/12.4 of the total, which is consistent with the allocation of payroll tax revenues. The “SSA discount rates” line reports our estimates using OACT discount rates. The “TIPS Yield Curve” line reports our estimates when we assume no inflation and use the real yield curve implied by Treasury Inflation-Protected Securities. The “Risk-free valuation” line reports our estimates using the nominal market yield curve.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Top 10% and top 1% wealth shares with and without Social Security. This figure shows the evolution of the top 10% and 1% wealth shares with and without Social Security wealth. In the risk-free valuation, cash flows are discounted using the yield curves implied by the price of government bonds. In the risk-adjusted valuation, we adjust discount rates to account for the long-run cointegration between the labor and stock markets, as detailed in Section IV.A.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Risk-adjusted valuation. Panel A presents aggregate Social Security wealth in 2019 dollars. Panel B presents average Social Security wealth by age in 2019.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Total wealth distribution by age—Risk-adjusted valuation. This figure shows the shares of total wealth by age group for Social Security and non-Social Security wealth for 2019 and 1989 using the risk-adjusted valuation method.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Funding gap: Payable benefits under 1989 and 2019 SSA projections. This figure shows the proportion of payable benefits under the SSA's different funding gap assumptions. Benefits cuts for horizons greater than 75 years are assumed to be the same as the 75th-year benefits cuts.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Top 10% and Top 1% wealth shares—Funding gap adjustment. This figure shows the top 10% and 1% wealth shares under four risk-adjusted specifications. The “Low cost” specification refers to the SSA's high economic growth scenario in which benefits are fully paid. In the “Intermediate cost” and “High cost” specifications, benefits are cut to match expected tax revenues under the baseline and worst-case economic growth scenarios. All specifications use the risk-adjusted valuation method.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Liquidity premium adjustment. This figure shows the evolution of the top 10% and 1% wealth shares, average Social Security wealth by age in 2019, and the aggregate value of Social Security wealth when we add 1, 2, or 3 percentage points to our discount rates to reflect a hypothetical liquidity premium. All specifications use the risk-adjusted valuation method.",
+        "correlation": []
+    },
+    "9": {
+        "description": "Portion of Social Security wealth accruing to households with liquid wealth. This figure shows the share of Social Security wealth in 2019 held by households with less than $\n\nX\n$X$\n dollars of liquid wealth (Panel A) and liquid plus quasi-liquid wealth (Panel B) for the bottom 90% and all individuals, where \n\nX\n$X$\n varies across the X-axis. Liquid wealth includes checking, savings, or money market accounts, certificates of deposit, directly held mutual funds, stocks, and bonds. Quasi-liquid wealth also includes quasi-liquid retirement accounts and home equity. Section II of the Internet Appendix provides more details on the construction of these variables. Individuals' liquid and quasi-liquid wealth is obtained in the SCF by splitting wealth equally between each member of two-person households.",
+        "correlation": []
+    },
+    "10": {
+        "description": "Ten-year yield under heterogeneous discounting. This figure shows the 10-year yield used to discount Social Security benefits for each within-cohort earnings quintile and age in 1989 and 2019 calculated from equation (IA9). Panel A displays yields for constrained households only. Panel B displays the weighted-average yields across constrained and unconstrained households calculated from equation (IA10). For comparison, the yield used in the risk-adjusted specification is plotted as well.",
+        "correlation": []
+    },
+    "11": {
+        "description": "Top 10% and Top 1% wealth shares—Heterogeneous discount rates. This figure shows the top 10% and top 1% wealth shares under individuals' private valuations of Social Security wealth.",
+        "correlation": []
+    },
+    "12": {
+        "description": "Top 10% and Top 1% wealth shares—Net present value. This figure shows the top 10% and top 1% wealth shares with and without the risk-adjusted value of Social Security wealth under the NPV wealth concept.",
+        "correlation": []
+    },
+    "13": {
+        "description": "Top 10% and Top 1% wealth shares—Alternative measures of accrued benefits. This figure shows the top 10% and top 1% wealth shares for: accrued benefits as a portion of future taxes, assuming individuals stop working tomorrow, and assigned pro rata based on working years.",
+        "correlation": []
+    },
+    "14": {
+        "description": "Previous studies top 1% and top 0.1% with Social Security.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": "(Color online) Examples of Onboarding Surveys Notes. At left, an example question from an onboarding survey used by Winc, a subscription wine company. At right, a screenshot from the onboarding survey used by StitchFix, a subscription clothing company.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Illustration of Item Selection Notes. A simulated example of item selection with a one-dimensional z . At left is the estimate of the utility function, calibrated on the four observations denoted by asterisks. The bands represent the uncertainty interval. At right is a plot of the MU acquisition function. The points on the x -axis denote possible items to show. Under MU, the next item shown would be D (the solid line), the point at which uncertainty is highest. Under KUR, the next item shown would be C (the dashed line) as C reduces uncertainty for neighboring points B and D as well.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Example of a Binary Choice Task Note. An example of a real binary choice question from our web application used in the empirical application.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Distribution of Individual-Level Accuracies Notes. Density plots of the distribution of individual-level accuracies on the random pairs across three models. The dashed line represents an accuracy of 0.5 (i.e., random chance).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Learning Rates Note. The evolution of accuracy on the test set across models, smoothed using LOESS.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Gains from Adaptivity Note. The original learning rates of MU-Agg and Nearest from Figure 5 compared with the results of retraining the GP model with aggregate parameters on the random selected items from Nearest.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Distribution of Accuracy by Representation Note. Density plots of the distribution of respondent-level random pair accuracy across the original MU-Agg study with the RecSys embeddings and the new VGG-PCA-10 study also using MU with aggregated hyperparameters.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Learning Rates by Representation Note. The evolution of accuracy on the test set across different representations, smoothed using LOESS.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Individual Preference Map Notes. Points on the plot are products reduced to two dimensions through UMAP; shades represent predicted utility for that product under the MU-Agg model. Two representative products from different regions of the UMAP space are shown in the overlays. An interactive version of the UMAP results, in which the dress at any point can be viewed by hovering over the point, is available at https://adpref.shinyapps.io/umap_explorer/ .",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) UMAP Visualization of Segments Notes. Points on the plot are products reduced to two dimensions through UMAP; shades represent average predicted utility for that product under the MU-Agg model averaged over respondents assigned to that cluster. An interactive version of the UMAP results, in which the dress at any point can be viewed by hovering over the point, is available at https://adpref.shinyapps.io/umap_explorer/ .",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Attribute Effect Distributions Notes. The distribution of respondent-level estimates of the effects of six attributes on utility calculated through Equation (11) . Dashed lines are the mean values.",
+        "correlation": []
+    },
+    "12": {
+        "description": "(Color online) Boxplots of Attribute Effects Note. Boxplots showing the distribution of each attribute’s respondent-level IPW estimated effect sorted by median effect.",
+        "correlation": []
+    }
+}

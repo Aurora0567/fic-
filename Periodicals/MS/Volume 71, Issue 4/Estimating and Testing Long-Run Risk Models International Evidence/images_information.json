@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "(Color online) Filtered Latent States: US, UK, and Japan Note. This figure plots the posterior means of the filtered latent states, the growth rate of preference shocks ( 𝑥 𝜆 , 𝑡 x λ , t ), the long-run consumption component ( x t ), and the consumption volatility state ( σ t ), for the US, the UK, and Japan.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Fitted Risk-Free Rates and Market Returns: US, UK, and Japan Notes. This figure plots the model-implied risk-free rates and market returns together with the actual returns in the data for the US, the UK, and Japan, respectively. For each country, the model-implied risk-free rates and market returns are computed from the posterior means of the model parameters and the posterior means of the filtered latent states.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Stochastic Discount Factor: US, UK, and Japan Notes. This figure plots the model-implied SDF and its components, together with per capita consumption growth for the US, the UK, and Japan, respectively. For each country, the model-implied SDF is computed from the posterior means of the model parameters and the posterior means of the filtered latent states.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Conditional Risk Premium and Volatility: US, UK, and Japan Notes. This figure plots the model-implied conditional equity premium and conditional volatility of equity returns, together with per capita consumption growth for the US, the UK, and Japan, respectively. For each country, the conditional equity premium and conditional volatility of equity returns are computed from the posterior means of the model parameters and the posterior means of the filtered latent states.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Counterfactual Analysis: US, UK, and Japan Notes. This figure plots counterfactual risk-free rates and market returns for the US, the UK, and Japan that would be obtained in the absence of either the preference shock ( 𝑥 𝜆 , 𝑡 x λ , t ) or the long-run risk component ( x t ). For each country, the results are computed from the posterior means of the model parameters and the posterior means of the filtered latent states.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) A Global Consumption Factor Notes. This figure plots the time series of the global consumption factor (solid line) that is constructed first by taking the equal-weighted average of the filtered long-run consumption components across individual countries at each point in time and then taking the first difference. The global consumption factor is multiplied by 100. The bars represent a global equity market factor that is defined as the equal-weighted average of equity market returns across the 10 individual countries. These two factors are in quarterly frequency, spanning from 1973:Q4 to 2019:Q3. The shaded areas are NBER recession periods.",
+        "correlation": []
+    }
+}

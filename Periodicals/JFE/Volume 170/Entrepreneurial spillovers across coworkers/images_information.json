@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Working with entrepreneurial coworkers predicts entrepreneurship.Note: This figure that exposure to entrepreneurial coworkers predicts entrepreneurship. The figure presents the estimated coefficients from binscatter version of model (1), where the share of coworkers with entrepreneurial experience is replaced by indicators for having the share fall in different bins, e.g., between 0 and 0.01, 0.01, and 0.02, etc; the omitted bin is the indicator for having the share equal to zero (for expositional purposes, bins for coworker shares greater than 0.55 are excluded from the figure; fewer than 0.5% of workers fall into these bins). See column 5 of Table 2 for comparable linear specification."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Entrepreneurial individuals work and start firms across the economy.Note: This figure plots the distributions of sectors of 2004 primary firms for all individuals and for future (2005–2009) entrepreneurs, as well as the distribution of sectors in which the future entrepreneurs start firms."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Entrepreneurial spillovers vary by sector.Note: This figure presents regression coefficient and 95% confidence interval estimates of an adapted version of model (1), performed on the sample of individuals in 2004, in which I estimate separate coefficients on share of coworkers with recent entrepreneurship experience by establishment sector."
+        ],
+        "correlation": []
+    }
+}

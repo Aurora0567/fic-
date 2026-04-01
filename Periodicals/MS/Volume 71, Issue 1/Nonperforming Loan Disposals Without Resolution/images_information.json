@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Empirical Distribution of NPL Transaction Haircut Notes. This figure shows the empirical cumulative distribution function of the haircut of the NPL transaction price relative to the face value of the NPLs in the AMC’s purchases from banks. Positive (negative) x axis values mean an NPL package was purchased by the AMC at a discount (at a premium).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Length of the AMC’s Holding Period and the Resale Premium Note. This figure shows the scatter plot between the length of the AMC’s holding period and the resale premium.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Movement of NPLs in the Concealment Process Notes. The figure shows the movement of NPLs among banks, the AMC, and third-party bank affiliates. In our sample, more than 90% of the third parties are existing borrowers of the banks.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Timing of NPL Transactions Notes. The figures show the number and amount of NPL transactions over our sample period from 2014 to 2019. The left two plots show a time series plot where the light shaded bars are quarter ends and the darker shaded bars are calendar year ends, which coincide with banks’ fiscal year ends. The right two plots show the average number and average amount of transactions by month where the shaded bars are quarter ends. (a) Total number of NPL transactions by week. (b) Number of NPL transactions by month. (c) Total amount of NPL transactions by week. (d) Amount of NPL transactions by month.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Regulatory Allowance Ratio Notes. This figure shows the histogram of the allowance-to-NPLs ratio. The vertical bar denotes 150%, the regulatory minimum.",
+        "correlation": []
+    }
+}

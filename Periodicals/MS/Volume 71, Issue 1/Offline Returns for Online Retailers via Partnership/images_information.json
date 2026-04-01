@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "When Does a Return Partnership Occur? Notes . We overlaid examples of return partnerships that map to the specific regions. “RP” denotes that a return partnership is win-win to store and online retailers.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Customer Decisions and Payoffs in the Base Model",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Customers’ Decisions Based on the Store Visit Hassle, h s , and Preference, x , in the Base Model Notes . The following parameter values are used: u = 4 , h r = 0.75 , and h o = 0.5 . (a) δ = 6. (b) δ = 9.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Customers’ Decisions and Payoffs Under a Return Partnership",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Customers’ Decisions Based on the Store Visit Hassle, h s , and Preference, x , Under a Return Partnership Notes . The same parameter values are used as in Figure 3 . (a) δ = 6. (b) δ = 9.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Scenarios When Both Retailers Benefit from a Return Partnership (RP) Notes . The same parameter values are used as in Figure 3 . Additionally, m o = m s = 62.62 , m a = 31.31 , c r = 22.49 , c o = 5 , and c s = 2.8 . These values are motivated by a typical return partnership setting; see Online Appendix A for details. (a) Low return hassle cost, h r = 0.125. (b) High return hassle cost, h r = 0.75.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Impact of Model Parameters on Viability of Return Partnership (RP) Notes . The same parameter values are used as in Figure 6 . Additionally, δ = 6, and h s = 0.25 in panel (a) and h r = 0.125 in panel (b). (a) Variation with ease of shopping online. (b) Variation with extent of cost benefits.",
+        "correlation": []
+    }
+}

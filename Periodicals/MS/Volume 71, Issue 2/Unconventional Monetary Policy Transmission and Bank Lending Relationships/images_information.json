@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Banque de France’s Credit Rating Scale for Firms Notes. This figure illustrates the Banque de France credit rating scale for firms and whether loans to such firms are eligible as collateral for bank borrowing from the Eurosystem. It also shows the baseline empirical setting for the difference in differences research design (intention-to-treat). Assignment to treatment and control group is based on firms’ credit rating in December 2011.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Average Debt Growth for Treated and Control Firms Notes. (a) Single-bank firms. (b) Multibank firms. The figures show the percentage change in firms’ total bank debt (relative to their 2011 average) around the VLTRO policy (announcement date: December 2011; vertical line) for the treatment group and the control group. The top panel is for single-bank borrowers and the bottom panel for multibank borrowers. Assignment to treatment and control groups is based on firms’ credit rating in December 2011. The treated group is composed of 4-rated firms (newly eligible borrowers or “ACC firms”). The control group is composed of 5+ rated firms (closest ineligible borrowers on the Credit Rating scale of the Banque de France). For each month we plot average firm debt growth, that is, the cross-firm average of g ft as defined in Equation (1) .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Examining the Spillover Notes. (a) Multibank firms. (b) Firms in the two highest-rated ineligible categories. The top figure shows the percentage change in firms’ total bank debt (relative to their 2011 average) around the VLTRO policy (general announcement date: December 2011; vertical line) for the treatment group (ACC or 4 rated firms) and for firms in the two credit rating notches below (5+ and 5, both ineligible). Assignment to credit rating groups is based on firms’ ratings in December 2011. For each month we plot average firm debt growth, that is, the cross-firm average g ft as defined in Equation (1) . The bottom figure shows the average growth rate in debt around the policy for ineligible firms rated 5 and 5+, with lines for both single and multibank firms in a single figure.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Quarterly Dynamics of the VLTRO Effect on Firm Debt Notes. (a) Single-bank firms. (b) Multibank firms. The top (bottom) figure displays the evolution in the bank debt of eligible (ACC) single-bank (multibank) firms around the VLTRO policy announcement date, relative to the closest rating group of ineligible firms (5+ rated firms, for single-bank firms, 5 for multibank firms). Using specification 3, we display the estimated treatment coefficient for each quarter, rather than for a single “Post” period. The omitted periods are quarters 1 and 2 of 2010. The coefficient corresponds to the percentage change in firms’ total bank debt (relative to their 2011 average). The dashed lines plot 95% confidence intervals; standard errors are clustered by firm. The vertical line identifies the announcement (and implementation) quarter of the first three-year VLTRO; the second VLTRO (including the ACC) was implemented in the following quarter.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) VLTRO Effect for Higher Rated (Always Eligible) Firms Notes. (a) Single-bank firms. (b) Multibank firms. The figures show the average growth rate of debt around the VLTRO policy (general announcement date: December 2011; vertical line) for always eligible firms (4+, 3, and 3+ rated firms that are, respectively, one, two, and three notches higher than newly eligible 4/ACC firms) and ineligible firms (5 and 5+ rated; one and two notches lower). 4/ACC rated firms are omitted for clarity. Firms are assigned to credit rating categories based on their credit rating in September 2011, because always-eligible firms were eligible for use as collateral for the October 2011 one-year LTRO. For each month we plot average firm debt growth, that is, the cross-firm average of g ft as defined in Equation (1) .",
+        "correlation": []
+    }
+}

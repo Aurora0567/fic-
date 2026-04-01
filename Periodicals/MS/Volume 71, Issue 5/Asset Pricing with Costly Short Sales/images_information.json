@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Trading Regions with a Stochastic Disagreement Note . The figure illustrates the shape of the equilibrium trading regions and allows us to determine the configuration that occurs for each level of disagreement among agents.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Equilibrium Trading Regions Note . The figure illustrates the shape of the equilibrium trading regions and allows us to determine the equilibrium configuration that occurs for each level of disagreement among agents.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Equilibrium Shorting Cost and Lending Yield Notes . The solid and dashed-dotted lines represent the equilibrium shorting cost and lending yield as functions of the consumption share of the optimist in a single-asset model with σ = 0.1 and δ = 0.05 . The dashed and dotted lines represent the impact of a 10% increase and decrease, respectively, in the divergence of beliefs δ .",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Decomposition of the Equilibrium Price Notes . The left panel plots the price of asset 1 (the solid line) and the risk-adjusted present value of its dividends (the dashed line) when half of the supply is available for shorting. The right panel plots the present value of lending fees as a fraction of the asset price for different values of η 1 . In both panels, the parameters of the model are set to σ = 10 % , δ = 5 % , ρ = 1 % , e t = 1, and the hatched regions indicate the interval over which no shorting activity takes place in equilibrium.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Equilibrium with Two Risky Assets Notes . This figure plots the PD ratio and the volatility of the shortable asset (top panels), the shorting cost and the lending yield per unit of volatility (middle panels), and the shorting cost and the lending yield (lower panels) as functions of the consumption share of the optimist for different values of η 1 in a model with σ = 10 % , δ = 5 % , ρ = 1 % , and e t = 1. In each panel, the hatched region indicates the interval of states over which no shorting activity takes place in equilibrium.",
+        "correlation": []
+    }
+}

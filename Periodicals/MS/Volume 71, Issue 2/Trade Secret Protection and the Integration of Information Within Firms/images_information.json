@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Development of EMS Integration over Time Notes . This figure plots the development of firms’ EMS integration over time. The solid black line represents the development of yearly averages of EMS integration . The vertical bars show yearly interquartile ranges.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Event Study Estimates Notes . This figure plots event-study estimates from a two-way fixed effect regression (including firm and industry-year fixed effects but no linear controls) of the effect of the UTSA on firms’ EMS integration . We use the year prior to the UTSA enactment as the baseline. The gray symbols present point estimates of the lead/lag coefficients. The vertical bars indicate 95% confidence intervals (95% CIs). Standard errors are clustered at the state level.",
+        "correlation": []
+    }
+}

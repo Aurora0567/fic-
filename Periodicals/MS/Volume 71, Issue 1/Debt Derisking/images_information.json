@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Growth of the Corporate Bond Mutual Fund Industry Notes . Panel (a) reports the assets under management of active vs. passive corporate bond mutual funds over time. Panel (b) shows the relative growth of the equity and corporate bond mutual fund industry benchmarked against the size in 2005.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Sensitivity of Risk-Taking to Past Fund Performance Notes . The figure shows the sensitivity of risk-taking to the average fund alpha in the previous 12 months, and 95% confidence intervals are plotted. We fit a linear model that relates risk-taking with a second-order polynomial function of fund alpha. The same controls and fixed effects reported in Equation (3) are included. Risk-taking is represented on the vertical axes, and it is computed using Equation (2) on the basis of yields in panel (a) and on the basis of the first principal component of four illiquidity measures (Roll’s measure, Amihud’s measure, the bid-ask spread, and the interquartile price range) in panel (b).",
+        "correlation": []
+    }
+}

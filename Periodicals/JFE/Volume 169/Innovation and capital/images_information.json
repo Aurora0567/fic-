@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "The geography of innovation and venture capital.Notes: Panels (a) and (b) show, respectively, total corporate and university citation-weighted patents by county, over the years 1976–1980. Panel (c) shows average annual VC funds invested by county in the eleven years from 1970–1980. Panel (d) shows log growth in VC funds invested from 1980 to 1990, using five year averages for each end year since many counties do not receive VC investment in any particular year. Gray areas have no patents or no VC investment, depending on the panel. Patent data are from the NBER Patent Data Project; VC data are from VentureXpert. The Bayh-Dole Act was passed in December 1980."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "University patenting, 1970–1990.Notes: Figure shows annual number of patents produced by research universities and hospitals, by year, from the NBER Patent Database."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "VC in University and Non-University Counties.Notes: Figure shows raw means of VC outcomes by year in university (dark curve) and non-university counties (gray curve). University counties are defined as those containing a top 100 university or research hospital in terms of patenting before the Bayh-Dole Act. 75 counties contain the top 100 universities. Standard errors are clustered at the county level. Error bars indicate 95 % confidence intervals."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "University innovation effects on venture capital outcomes.Notes: Points represent coefficients on university innovation index X year indicators in a version of Eq. (2) that is expanded to estimate treatment effects separately by year. Each point thus reflects the effect of ex-ante university innovation on the VC outcome indicated in a particular county-industry and year. In Panel (a), the outcome variable is total VC dollars invested (in millions), in Panel (b), the number of unique VC investors, in Panel (c), the number of VC deals done. All regressions control for the interaction of corporate innovation index X Iyear≥1980. All regressions include fixed effects for county-industry, county-year, and industry-year. Standard errors are clustered at the county level. Error bars indicate 95 % confidence intervals."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "University, Ex Ante VC, and corporate innovation effects on VC allocation.Notes: Points on the dark curves represent coefficients on university innovation index X year indicators in a version of Eq. (4) that is expanded to estimate university treatment effects separately by year. Each point thus reflects the effect of ex-ante university innovation on VC dollars invested in a particular county-industry and year. Points on the gray curve in panel (a), analogously, represent coefficients on the ex-ante (pre-1979) VC index X year indicators in a difference-in-differences regression predicting VC funds invested, fully expanded to estimate ex-ante VC effects separately by year. Points on the gray curve in panel (b), represent coefficients on the corporate innovation index X year indicators in a difference-in-differences regression that's expanded to estimate corporate treatment effects separately by year. The dark curve regression in panel (a) controls for the interaction of VC index X Iyear≥1980. The dark curve regression in panel (b) controls for the interaction of corporate innovation index X Iyear≥1980. All gray curve regressions control for the interaction of university innovation index X Iyear≥1980. All regressions include fixed effects for county-industry, county-year, and industry-year. Standard errors are clustered at the county level. Error bars indicate 95 % confidence intervals."
+        ],
+        "correlation": []
+    }
+}

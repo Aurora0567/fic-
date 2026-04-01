@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Example Credit Card Product Detail Pages in the Control and Treatment Conditions Note. The experimental manipulation involved more than 50 blocks of content on more than 20 pages of CBA’s public-facing and secure online banking websites, such that for every credit card marketing web page where the features and benefits of a credit card were described, so too were its tradeoffs for customers randomly assigned to the treatment condition.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Acquisition Funnel Conversion Percentages During the Promotion and Nonpromotion Periods Notes. Marginal effects are from logistic regression models, estimated with robust standard errors clustered at the first website visit date level. *, **, and ***, signify significance at the 10%, 5%, and 1% levels, respectively. The results indicate that conversion rates are significantly higher during the promotion period. Moreover, although fewer customers who are exposed to the treatment during the promotion period start or soft submit an application, the treatment ultimately had an insignificant effect on rates of customer acquisition, neither during the promotion nor the nonpromotion periods.",
+        "correlation": []
+    }
+}

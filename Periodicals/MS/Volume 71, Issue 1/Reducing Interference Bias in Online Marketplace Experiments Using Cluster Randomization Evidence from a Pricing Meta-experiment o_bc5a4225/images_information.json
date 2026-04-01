@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "(Color online) Airbnb Host Search and PDP View Behavior in their Own Markets Notes . Panel (a) shows the distribution of PDP views to within-geography listings, whereas panel (b) shows the distribution of unique within-geography listings with at least one PDP view. Panel (c) shows the distribution of within-geography searches, whereas panel (d) shows the distribution of within-geography searches with dates. Searches with dates are generally considered to be higher intent to book.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Airbnb Guest Platform Fees in Search Notes . The upper panel shows a typical search result on Airbnb at the time of the experiment. In this case, the guest platform fee was included in the total price of $508. The lower panel shows what was displayed to guests after clicking the “price breakdown” tooltip; the guest platform fee (listed here as a service fee of $58) was broken out from the total nightly price.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Airbnb Guest Platform Fees on the Product Detail Page Note . The section of the Airbnb product detail page that provided a full pricing breakdown for would-be guests, in this pricing breakdown, the guest platform fee (listed here as a service fee) is $58.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Experiment Design Process Notes . In panel (a), we use listing-level co-occurrence in search in order to learn “demand embeddings” (panel (b)). A hierarchical clustering algorithm is then applied to those embeddings in order to generate clusters (panel (c)). Clusters are randomly assigned to meta-treatment or meta-control (panel (d)); within meta-control, treatment is assigned at the individual-listing level, whereas in meta-treatment, treatment is assigned at the cluster level (panel (e)). We arrange clusters into strata after treatment assignment to facilitate post-stratification ( Miratrix et al. 2013 ).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) These Maps Illustrate Clusters Generated Using the Hierarchical Clustering Scheme Described in This Paper Source . Srinivasan (2018) .",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Coefficient Estimates for the Joint Analysis of the Fee Meta-experiment Notes . Error bars represent 95% confidence intervals. The dotted line corresponds to a treatment effect of zero bookings per listing. The shaded area corresponds to values that are below the minimum detectable effect (MDE) (80% power, 95% confidence).",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Reduction in Bias from Cluster Randomization Note . This graph visualizes the reduction in interference bias from cluster randomization that we estimate across different samples: overall, listings in supply-constrained geographies, listings in demand-constrained geographies, listings in geographies with low-quality clusters, and listings in high-quality clusters.",
+        "correlation": []
+    }
+}

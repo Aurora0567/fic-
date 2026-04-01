@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Report Card Example Notes. This figure shows a real example of the Propublica report card for an example surgeon. This surgeon performed one of the key surgeries (lumber spinal fusion) 209 times with an adjusted complication rate of 2.9%, which scored in the green zone.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Physician Analysis: (Event Study) Effect of Feedback Valence (Using Individual Performance Feedback) on Physician Performance Notes. (a) Unadjusted performance (raw means). (b) Adjusted performance (fitted values). (c) DiD/event study graph. (d) Marginal effects. Unit of analysis is the patient encounter. Negative and positive feedback are defined using individual performance feedback, as explained in Section 3.2 . The vertical dotted line represents the time at which the report card was released. Panel (a) plots the unadjusted physician performance (raw proportion of good outcomes, i.e., encounters that did not experience in-hospital mortality or 30-day readmission) aggregated at each quarter from 2012 to 2016. Panel (b) plots the fitted values for physician performance from Equation (1) at each quarter separately for physicians receiving negative and positive feedback (at the means of all other covariates). Panel (c) plots the effect of positive feedback from Equation (1) at each quarter, with quarter 0 as the omitted category. Panel (d) plots the marginal effect of the report card on physician performance from Equation (1) , separately for physicians receiving positive and negative feedback. Heteroskedasticity-robust standard errors are clustered at the level of the physician. 95% confidence intervals are presented for each estimate.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Physician Analysis: (Event Study) Effect of Feedback Valence (Using Relative Performance Feedback) on Physician Performance Notes. (a) Unadjusted performance (raw means). (b) Adjusted performance (fitted values). (c) DiD/event study graph. (d) Marginal effects. Unit of analysis is the patient encounter. Negative and positive feedback are defined using relative performance feedback, as explained in Section 3.2 . The vertical dotted line represents the time at which the report card was released. Panel (a) plots the unadjusted physician performance (raw proportion of good outcomes, i.e., encounters that did not experience in-hospital mortality or 30-day readmission) aggregated at each quarter from 2012–2016. Panel (b) plots the fitted values of physician performance from Equation (1) at each quarter separately for physicians receiving negative and positive feedback (at the means of all other covariates). Panel (c) plots the effect of positive feedback from Equation (1) at each quarter, with quarter 0 as the omitted category. Panel (d) plots the marginal effect of the report card on physician performance from Equation (1) , separately for physicians receiving positive and negative feedback. Heteroskedasticity-robust standard errors are clustered at the level of the physician. 95% confidence intervals are presented for each estimate.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Experiment 1: Performance Improvement for Each Feedback Condition Notes. This bar chart shows the average performance improvement from the pre to the post period in each of the three experimental conditions in experiment 1. The values are calculated from Equation (3) and the experimental conditions are described in Section 4.1.1 .",
+        "correlation": []
+    },
+    "5": {
+        "description": "Experiment 2: Performance Improvement by Feedback Valence for Each Intervention Notes. This bar chart shows the average performance improvement from the pre to the post period in each of the eight experimental conditions in experiment 2. The values are calculated from Equation (4) , and the experimental conditions are described in Section 4.1.3 .",
+        "correlation": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Aggregate market cap and margin debt/market cap over time. This plot shows daily aggregate floating market capitalization (in black) and the ratio of aggregate margin debt to aggregate floating market capitalization (in blue) for all stocks in our sample, including those that are never marginable. Floating market capitalization is measured in trillions of yuan.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Margin debt/market cap by vintage. This plot shows the daily ratio of aggregate margin debt to aggregate floating market capitalization for the three vintages we study. Vertical lines denote starting dates of each vintage.",
+        "correlation": []
+    },
+    "3": {
+        "description": "No evidence of bunching at threshold. This plot shows the results of the manipulation tests outlined in Cattaneo, Jansson, and Ma (2018). Red and blue bars show a histogram of the underlying data, while red and blue lines show local polynomial estimates of the density. We report the robust, bias-corrected t-statistic.",
+        "correlation": []
+    },
+    "4": {
+        "description": "RD evidence of impacts of margin lending on equity prices. Panel A shows an indicator for marginability, the quantity of margin debt at the stock level, and the stock level ratio of margin debt to floating market capitalization plotted against the inclusion index. Panel B shows cumulative returns. The inclusion index is recentered to set each vintage specific threshold equal to 0. For each vintage, all not-yet-marginable stocks with inclusion index within 0.5 of the threshold at the time marginability was determined are included. Marginability, floating market capitalization, and margin debt are measured 60 trading days following the start of each vintage. Points show binned means in equal intervals. Lines shows local linear fits with 95% confidence intervals on either side of the threshold.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Institutional owners bought before the introduction of margin debt and sold afterwards. |$ \\ell $| runs from –11 to 6, with 12 quarters prior to the introduction acting as the omitted group. |$ {\\Bbb 1}\\{t-\\tau(k)=\\ell\\} $| is an indicator equal to one if the difference between quarter |$ t $| and the implementation date |$ \\tau(k) $| of vintage |$ k $| is |$ \\ell $|⁠. The dependent variables are the stock-level share of ownership by the top 10 investors (panel A) or mutual funds (panel B). Bars represent 95% confidence intervals based on standard errors clustered at the stock level.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Anticipating an increase in credit supply. In all figures the y-axis displays price, the x-axis displays time, and the vertical line indicates the event date of a credit supply shock. Panel A shows the expected price path for stocks receiving a credit supply shock at time 0 under three regimes (holding the total price effect constant). The black line shows the expected price path from a model with no anticipation. The blue line shows the expected price path from a version of our model with a large value of |$ \\theta $|⁠. The red line shows the expected price path from a low value of |$ \\theta $|⁠. Panel B shows price realizations for treated stocks from simulations based on our model. Each lighter blue line represents the price path for an individual stock. The thicker blue line represents the average price for all treated stocks in each period. Panel C plots, in black, average prices for the stocks in vintages 1–3, after normalizing relative to the first month in our sample (March 2009) and residualizing with respect to stock and month fixed effects (using the set of never-marginable stocks as a control group). In blue, the plot shows the (de-meaned) model implied price path estimated using the same data.",
+        "correlation": []
+    }
+}

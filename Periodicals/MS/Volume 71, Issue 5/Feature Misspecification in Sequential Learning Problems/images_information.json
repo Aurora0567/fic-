@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Performance Maximization Under Model Misspecification Notes . The mark ⊗ represents the true model. Contours represent different performance levels that increase along the direction of performance improvements. The mark “ ■ ” represents the model for the best performance in terms of best-system identification. Under model misspecification, dynamic learning policies may lead to an inefficient model, denoted by “ • .”",
+        "correlation": []
+    },
+    "2": {
+        "description": "Efficiency in Different Misspecification Regimes",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Nonconvergence to the Efficient Allocation Under Model Misspecification Notes . Allocation vectors are plotted in a simplex Δ with k = 3. The unshaded areas represent the safe zone Δ h ⊂ Δ , defined in ( 11 ). The square ( ■ ) represents the efficient allocation α * . The line with circular marks depicts the path of the allocations under the oblivious policy, which starts at ( 1 / 3 , 1 / 3 , 1 / 3 ) and ends at the stable allocation α ¯ . Panels (a) to (c) are allocations based on the large deviations information metric in Example 1 , whereas panels (d) to (f) are based on the gap-based information metric in Example 3 .",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Allocation Behaviors Under Two Policies π A and π B Notes . (a) The stable pair ( θ ¯ , α ¯ ) and the efficient pair ( θ ( α * ) , α * ) when the information metric is taken from Example 1 and the system configuration is characterized by k = 6 and d = 4. (b) The frequencies of α 1 , t m π for t m = 1.2 · 10 4 under the oblivious ( π A ) and PROS ( π B ) policies. Note that α 1 , t m π A ≈ α ^ 1 = 0.23 and α 1 , t m π B ≈ α 1 * = 0.36 .",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Best-Subset Selection Under Linear Gaussian Models Note . The estimates of the probability are plotted as a function of the sampling budget on a log-linear scale.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Top-One Selection Under Logit-Bernoulli and Log-Poisson Models Note . The estimates of the probability are plotted as a function of the sampling budget on a log-linear scale.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Feasibility Determination Under Linear Gaussian Models Note . The estimates of the expected number of incorrect determinations are plotted as a function of the sampling budget on a log-linear scale.",
+        "correlation": []
+    }
+}

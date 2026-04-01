@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Truth-Telling Comparison",
+        "correlation": []
+    },
+    "2": {
+        "description": "Last Revision Time",
+        "correlation": []
+    },
+    "3": {
+        "description": "Stability Comparison",
+        "correlation": []
+    },
+    "4": {
+        "description": "Efficiency Comparison",
+        "correlation": []
+    }
+}

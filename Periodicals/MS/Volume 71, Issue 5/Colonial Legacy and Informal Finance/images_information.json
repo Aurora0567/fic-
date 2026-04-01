@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "(Color online) FinMark Trust Sample Coverage Notes. This figure shows the sample coverage of our empirical, cross-country-border design. The data are obtained from the FinMark Trust. Colored polygons represent the ethnicity homelands divided by the British-French national borders.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Colonial Legacy and Informal Finance Notes. This figure presents the shares of respondents who use saving clubs, categorized by income quintiles, across different legal origins in sub-Saharan Africa. Data for the share of saving club membership is obtained from the Global Findex Database (2011–2017). Data on legal origin come from Djankov et al. (2007) .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Colonial Legacy and Informal Inclusion: RDD with Distance in Cameroon Notes. This figure depicts the overall cloud of original individual points close to the within-Cameroon border and shows how their distribution behaves as they move farther away from the border using a kernel-weighted, first-order local polynomial function. The gray areas are the 95% confidence intervals around the estimates.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Colonial Legacy and Informal Inclusion: RDD with Distance in Cameroon Note. This figure visualizes the results from the RD design based on the distance to the British-French border using a linear polynomial function.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Colonial Legacy and Informal Inclusion: Spatial RDD Within Cameroon Notes. This figure visualizes the results from the within Cameroon spatial RD design. (a) Entirety of Cameroon. (b) Region around the border. Dots represent village locations, with the colors reflecting the average level of informal financial inclusion; light gray represents zero inclusion and black indicates full inclusion. The black line is the British-French border. The black lines within the country represent the boundaries of ethnic homelands as defined by Murdock (1967) . Gray squares denote 0.5° × 0.5° grid cells.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Placebo Test: Random Border Selection Notes. This figure plots the coefficient of British when we randomly draw the French-British border within a ±20-km band around the actual border in Cameroon 1,000 times and estimate the British colonial impact on people’s tendency to use informal finance. The true estimate is represented by the line in the far-right corner.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Colonial Legacy and Informal Inclusion: Spatial RDD in Nigeria-Cameroon Notes. This figure visualizes the results from the spatial RD design around the Nigeria-Cameroon boundary. Dots represent village locations, with each color reflecting the average level of informal financial inclusion; the lightest gray (0) represents zero inclusion, and the darkest gray (1) indicates full inclusion. The lower-placed line is the border between Nigeria and British Cameroon, whereas the upper-placed line is the border between Nigeria and French Cameroon. The black lines within the country represent the boundaries of ethnic homelands as defined by Murdock (1967) . Gray squares denote 0.5° × 0.5° grid cells.",
+        "correlation": []
+    }
+}

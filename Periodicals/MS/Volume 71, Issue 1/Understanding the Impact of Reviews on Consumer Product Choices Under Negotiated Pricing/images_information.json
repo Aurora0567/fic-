@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Evolution of Review Characteristics Across Time Note. This figure presents the evolution of review characteristics across time for a representative product.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Mechanism Illustration of Online Reviews on Product Choice Note. WTP, willingness to pay.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Model Identification Strategy Notes. WTP, willingness to pay; C, marginal cost. In this example, the WTP is 200 when reviews are good, whereas the WTP is 150 when reviews are bad. In each panel, the left two columns refer to a high marginal cost while the two right columns refer to a low marginal cost. C is 100 when the marginal cost is high, and C is 50 when the marginal cost is low. (a) Online reviews affecting both a consumer’s baseline preference and the bargaining power. (b) Online reviews only affecting a consumer’s baseline preference. In (a), a consumer’s bargaining power is 0.8 when reviews are bad and is 0.2 when reviews are good. In (b), a consumer’s bargaining power is 0.8 regardless of whether the reviews are good or bad.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Estimated Relative Consumer Bargaining Power Notes. This histogram presents consumers’ predicted relative bargaining power. The shaded area is the density plot. The dashed line refers to the predicted average bargaining power for the entire sample.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Estimated Relative Consumer Bargaining Power by Product Notes. These density plots present consumers’ predicted relative bargaining power by product. The dashed line refers to the predicted average bargaining power for the consumers who have brought such a product.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Effect of Review Characteristics on Profits by Product Type Notes. This figure presents the heterogenous effects of review characteristics on dealer profits by product type. We categorized products based on countries of origin.",
+        "correlation": []
+    }
+}

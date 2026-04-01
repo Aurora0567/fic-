@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "The Economy."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Timeline."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Banks’ Coverage and Pricing under Different Regimes of Fintech Entry. This figure plots banks’ equilibrium loan rate against the entrepreneurial location on the arc between banks i and i+1. The parameter values are R=20, ιB=ιF=1, cB=70, q=0.8, N=2."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Loan Rates on the Arc between Banks i and i+1 in AE with ιB=ιF. This figure plots the equilibrium loan rate against the entrepreneurial location on the arc between banks i and i+1 in the AE regime. Fintechs can price discriminate, while banks cannot. Location zi belongs to the NBT area if (rBae)2(1−qdae)/(2cB)<ιB holds at zi, where dae≡minzi,1/N−zi; otherwise, location zi belongs to the BT area. The parameter values are R=20, ιB=ιF=1, q=0.8, cB=70, N=2."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Entrepreneurs’ Total Investment. This figure plots entrepreneurs’ total investment I (i.e., the mass of entrepreneurs undertaking investment projects) against cF1. Panel 1 plots the case with cF2=+∞, while Panel 2 plots the case with cF1=cF2. The other parameter values are: R=20, q=1.8, cB=95, ιB=ιF=1, N=30. When cF1 is in the shaded region, NBT areas will arise (i.e., banks are not willing to serve sufficiently far-away locations). In the shaded region, NBT areas will grow larger as cF1 decreases."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "The Effects of Funding Costs on Equilibrium Loan Rates in AE with cF1=cF2. This figure plots the equilibrium loan rate against the entrepreneurial location on the arc between banks i and i+1 when there is actual fintech entry and cF1=cF2 holds. Fintechs can price discriminate, while banks cannot. The parameter values are R=20, ιB=1, cB=100, cF1=cF2=102, q=0.2, and N=2 for both panels. ιF=1 in Panel 1, while ιF=1.1 in Panel 2. ."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Welfare Effect of cF1 (from BE to PE). This figure plots social welfare (solid curve) and entrepreneurial utility (dashed curve) against cF1. The parameter values are: R=20, N=30, and ιB=ιF=1. ."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Welfare Effect of cF1 (from BE to AE). This figure plots social welfare (solid curve), entrepreneurial utility (dashed curve), and lenders’ profits (dotted curve) against cF1. The parameter values are: R=20, q=1.8, cB=95, N=30, and ιB=ιF=1. When cF1 is in the shaded region, NBT areas will arise (i.e., banks are not willing to serve sufficiently distant locations). In the shaded region, NBT areas will grow larger as cF1 decreases. ."
+        ],
+        "correlation": []
+    }
+}

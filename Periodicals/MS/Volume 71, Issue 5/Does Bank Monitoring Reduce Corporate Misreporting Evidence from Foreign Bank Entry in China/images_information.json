@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Examples of Corner Solutions Notes. This figure examines the effects of early liquidation value L and late liquidation value C on fraud probability with corner solutions. We set θ equal to 0.60, β equal to 0.20, and the fraud “cost-benefit” ratio λf/B equal to 1.25. We consider two possible monitoring costs: m equal to 0.10 and 0.05. (a) We set C equal to 0.20 and vary L between 0.25 and 1.00. (b) We fix L at 0.40 and vary C between 0 and 0.375.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Fraud Probability Before and After Banking Liberalization Notes. This figure presents the average probability of fraud (vertical axis) by relative year to banking liberalization shock (horizontal axis). The probability of fraud is adjusted for calendar year fixed effects. The sample consists of firms listed on mainland China’s stock exchanges during the period of 2002 to 2006.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Location of the 14 Major Cities in Our Analysis",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Distribution of 911 Calls Across Cities Note. We classify “Suspicion,” “Disturbance,” and “Trespasser & Prowler” categories as Suspicion-Related Calls.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Percentage of Unfounded Suspicion Related Calls Across Different Call Categories",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Predicted Association Between the Percentage of Unfounded Suspicion-Related 911 Calls and Log Non-Black Population and the Confidence Interval from a Fractional Polynomial Estimation",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Predicted Association Between the Percentage of Unfounded Suspicion-Related 911 Calls and the Log of Non-Black Population Across Gentrifiable and Non-Gentrifiable Tracts from a Fractional Polynomial Estimation",
+        "correlation": []
+    }
+}

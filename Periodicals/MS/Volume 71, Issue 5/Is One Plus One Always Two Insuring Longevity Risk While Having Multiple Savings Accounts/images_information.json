@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Distribution of Chosen Annuities: Kernel Plots by Condition Notes. Distributions of amounts withdrawn as an annuity in the online experimental survey, by condition. Control represents the group exposed to one account; 1 , 9 0 0 : 1 0 0 1,900 : 100 is the group presented with an account of NIS 1.9 Million and an additional account of NIS 100 thousand; 1 , 9 7 0 : 3 0 1,970 : 30 is the group presented with an account of NIS 1.970 Million and an additional account of NIS 30 thousand; 1 , 5 0 0 : 5 0 0 1,500 : 500 is the group presented with an account of NIS 1.5 Million and an additional account of NIS 500 thousand; 1 , 0 0 0 : 1 , 0 0 0 1,000 : 1,000 is the group presented with two accounts of NIS 1 million each.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Proportion of Annuitized Policies for Retirees with Multiple Accounts and Total Accumulation Above NIS 50,000 Notes. Subsample of 7,292 individuals having more than one policy in the same insurance corporation. Proportion of policies that were partially or fully annuitized of the largest accounts’ subsample are higher compared with policies that were partially or fully annuitized of the smallest accounts’ subsample.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Proportion of Annuitized Withdrawals: Laboratory Experiment Note. Proportions of total accumulation withdrawn as an annuity in the first round of the experiment, separately for small and large accounts, by condition.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Proportion of Annuitized Withdrawals: Online Experimental Survey Note. Proportions of total accumulation withdrawn as an annuity in the online experimental survey, separately for small and large accounts, by condition.",
+        "correlation": []
+    }
+}

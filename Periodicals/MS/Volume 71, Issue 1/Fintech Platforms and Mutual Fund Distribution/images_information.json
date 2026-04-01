@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Introduction of Platforms Notes . The upper panel reports the aggregate industry size for equity, mixed, and bond mutual funds from year 2008 to 2020. The lower panel shows the coverage of mutual funds on major platforms as a fraction of the whole universe of funds. The two vertical lines denote the entrance of Tiantian and Ant Financial into the platform business. Dark (light) shaded areas exhibit two (five) years around the introduction of platforms. AUM, assets under management.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Centralized Information Distribution on Fintech Platforms Notes . This figure shows the display of information on the fintech platforms in China. The left three panels are screenshots from the Ant Financial Platform. Specifically, the panels show the front page of Alipay, the performance rank list in the mutual fund section, and the detailed information for a specific fund on Alipay. The fourth panel shows a performance rank list on the Howbuy platform, with the screenshot taken on the same day.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Flow-Performance Sensitivity Before and After the Introduction of Platforms Notes . This figure shows the net capital flow into the funds in each performance decile for the period before (2008–2012) and after (2013–2017) the introduction of platforms. At the beginning of each quarter t , we sort all funds into deciles based on their past 12-month cumulative raw returns. Quarter t flow for each decile is the equal-weighted average flow of all funds in that decile. Plotted on the graphs are the decile flows averaged over time for the before and after periods. The shaded areas indicate the 95% confidence intervals. The four graphs show the average fund flows for actively managed China equity funds, U.S. equity funds, China mixed funds, and China bond funds, respectively.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Time-Series Variation of Flow-Performance Sensitivity Notes . The blue lines marked with “x” plot the value-weighted average flow of all deciles. The red lines marked with “o” plot the difference between the top-decile flow and the average flow. The top decile contains the top 10% of funds with the highest past 12-month returns. The shaded areas indicate the 95% confidence intervals. The panels correspond to actively managed China equity, U.S. equity, China mixed, and China bond funds, respectively.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Purchase Fraction: The Whole Market vs. Howbuy Platform Notes . This figure shows the market share of purchase for each performance decile. At the beginning of each quarter t , we sort funds into deciles based on the past 12-month cumulative return. In each quarter, market share of purchase for each decile is calculated as the total purchase amount for funds in that decile divided by the aggregate purchase amount across all deciles. The upper panels present the market shares of purchases for each decile averaged quarter by quarter for the period before (2008–2012) and after (2013–2017) the introduction of platforms. The dotted lines represent the results using data from Howbuy, which are only available from 2015 to 2018. The shaded areas indicate the 95% confidence intervals. The lower panels exhibit the time-series purchase fractions of decile-10 funds on the Howbuy platform and in the whole market from 2008 to 2018.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Placebo Tests on Platform Entrance Notes . This figure reports the distribution of the coefficient estimates from the placebo tests. For each quarter, we randomly reshuffle the value of the platform dummy across funds and in the meantime, maintain its overall distribution. We then estimate the regression specifications in columns (4) and (8) of Table 3 and save the coefficient estimates on the interaction term, Decile10 × Platform . We conduct the placebo analysis 1,000 times. The upper and lower graphs show the distributions of the coefficient estimates for equity and mixed funds, respectively. The green dotted lines denote the actual estimates.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Front-Page Visibility and Flow-Performance Sensitivity Notes . This figure shows the flows to the Top-X funds before and after a fund enters platforms. The flows to the Top-X funds are estimated in a regression setting similar to columns (4) and (8) in Table 4 . The only difference is that we further divide the top 30 funds into 10 equal groups (Top 1–3, 4–6, etc.). Because the “Others” group is omitted in the regression estimation, the flows shall be interpreted as the additional flow benchmarking to the “Others” group. The upper panel reports the flows to the Top-X funds when they are off and on platform, respectively. The lower panel reports the on- and off-platform difference for each Top-X funds group and the corresponding 95% confidence intervals.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Front-Page Visibility Under Alternative Performance Measures Notes . This figure shows the extra flows to the top 10 funds constructed under alternative performance measures. At the beginning of each quarter, we rank funds into Top 10, Top 11–30, and Top 31–50 categories based on funds’ past X-month raw returns and alphas, respectively, with X referring to the look-back horizons of 3, 6, 9, 12, 15, 18, and 21 months. Platform-induced flows to the top 10 funds are estimated for each performance specification following the regression model in columns (4) and (8) of Table 4 . The graphs plot the coefficient estimates for the interaction term Top10 × Platform for equity (upper panel) and mixed funds (lower panel), respectively.",
+        "correlation": []
+    }
+}

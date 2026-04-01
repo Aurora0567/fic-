@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Average Negativity Over Time Notes. This figure plots the average negativity of shareholder letters and the S&P 500 index return over time. The solid line shows the average shareholder letter negativity according to the Loughran and McDonald (2011) dictionary of negative words. The sample period corresponds to the reporting dates of the shareholder letters in our sample and ranges from November 2005 to October 2021. The dashed line shows the S&P 500 returns over the six-month reporting period.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Cumulative Daily Flows Around the Filing Date of Shareholder Letters Notes. This figure shows cumulative flows from 10 days before up to 20 days after the filing date (day 0) of a shareholder letter separately for letters with positive (solid line) and negative (dashed line) orthogonalized tone. Tone is measured by the fraction of negative words in the shareholder letter based on the Loughran and McDonald (2011) dictionary. We orthogonalize LMD − in a regression and then use the residual from that regression as the orthogonalized tone measure. The orthogonalized tone regression corresponds to column (1) in Table IA.6 of the internet appendix. The two groups are obtained by a median split of the letters based on orthogonalized L M D − 𝑎 𝑑 𝑗 . LMD adj . − tone. For better readability, we plot daily abnormal net fund flows defined as the difference between a fund’s net flow and the average net flow of all funds on that event day.",
+        "correlation": []
+    }
+}

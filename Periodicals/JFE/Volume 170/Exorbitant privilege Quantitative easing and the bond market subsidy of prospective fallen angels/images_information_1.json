@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": [
+            "The growth of the BBB-rated segment of the U.S. corporate bond market. This figure shows the growth of U.S. non-financial corporate debt and, in particular, of the U.S. BBB-rated corporate bond market. The top left panel shows the evolution of financial sector debt, non-financial sector debt, and household debt, normalized by GDP. The sources are series dodfs, tbsdodns, and cmdebt from FRED. The top right panel shows the evolution on the left y-axis of (i) corporate bonds, (ii) mortgages, non-mortgage deposits (includes loans from banks, credit unions, and savings and loans associations), and commercial paper, (iii) other loans (loans from non-bank institutions, excluding mortgages, and industrial revenue bonds), and on the right y-axis of (iv) BBB-rated corporate bonds as a ratio of total corporate bond volume. The sources are series cblbsnncb, mlbsnncb, ncbilia027n, cplbsnncb, and olalbsnncb from FRED, Capital IQ, and Thomson Reuters. The bottom left panel shows the differences in offering spread (primary market bond yields minus Treasury yields with similar maturity) for newly issued bonds. The bottom right panel shows the asset-weighted debt over EBITDA (left y-axis) and market leverage (right y-axis) for BBB-rated and other IG-rated firms."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "High and rising credit ratings inflation for BBB-rated issuers. This figure shows credit ratings inflation across rating categories. The left panel shows asset-weighted credit ratings inflation. Credit ratings inflation is equal to zero if an issuer has a Z”-score above the median Z”-score of firms in the next lower rating category, otherwise credit ratings inflation is calculated as the number of notches between the issuer’s credit rating notch (e.g., AA+, AA, AA−, A) and the credit rating notch implied by its Z”-score. The right panel shows the sensitivity of downgrades of downgrade-vulnerable issuers relative to non-downgrade-vulnerable issuers by rating category. Specifically, the figure shows the estimated coefficient, β1, from the following regression specification estimated in each rating category separately: Yit+1=β1Vulnerableit+β2Xit+μht+ϵit+1, where i is a firm, h is an industry, t is a year, Yit+1 is a dummy equal to one in the case of a downgrade event in t+1, Vulnerableit is a dummy equal to one if a firm is downgrade-vulnerable in period t, μht are industry-year fixed effects, and Xit is a vector of controls (log of total assets, leverage, and interest coverage ratio). Dashed lines delimit 95 percent confidence intervals, with standard errors clustered at the firm-level."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Risk materialization during COVID-19. This figure shows total debt downgraded from BBB to speculative grade split by non-downgrade-vulnerable issuers (blue) and downgrade-vulnerable issuers (red). The vulnerability of the BBB market materialized at the onset of the COVID-19 pandemic and was concentrated in downgrade-vulnerable issuers. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Investors’ holdings and QE. This figure analyzes the interaction between investors’ bond holdings and QE using a balanced sample of investors. The left panel shows the size of the Fed balance sheet (solid line) and investors’ holdings of corporate bonds as a share of corporate bonds and Treasuries (dashed line). The right panel shows the evolution of the cross-sectional mean of the QE Exposure variable. This variable is defined as the share of investors’ total holdings of bonds that are also held by the Federal Reserve in the SOMA Treasury portfolio, where holdings are weighted by the share of amounts outstanding held by the Federal Reserve."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Bond spreads: downgrade-vulnerable minus non-downgrade-vulnerable issuers. This figure shows the difference in secondary market spreads between downgrade-vulnerable and non-downgrade-vulnerable issuers for issuers rated AAA, AA and A (dashed line), BBB (solid line), and B (dotted line), controlling for year-month fixed effects and bond-level controls for remaining maturity, offering amount, coupon, and dummy variables for convertible, senior, callable bonds, bonds with a price above par but below a price of 105, and the interaction between the latter two variables to account for changes in credit quality affecting spreads on callable bonds."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "M&A activity, BBB-rated issuers. This figure shows M&A activity by BBB-rated issuers. The left panel shows deal volume for downgrade-vulnerable issuers. The right panel shows deal volume for non-downgrade-vulnerable issuers."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "The sluggishness of credit ratings post-M&A. This figure shows the debt-weighted share (in %) of firms transitioning across issuer rating groups (AAA/AA, A, BBB, and BB and below) in one calendar year. The left matrix includes only firms without an M&A transaction within the past two years. The right matrix includes only firms within a two-year period after an M&A transaction. The one-year transition probabilities are measured for the years 2011 to 2018, to account for the t−2 M&A lag and to exclude the COVID-19 period."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Downgrade materialization of (prospective) fallen angels. This figure shows the total debt of downgrade-vulnerable BBB-rated firms that has been upgraded and downgraded in the years from 2011 to 2020. The downgraded debt is grouped according to downgrade severity. The downgrade severity is measured by the number of notches a firm is being downgraded by, and is subdivided into three broad categories: 0.5–1, 1.5–2, and >2 notches, as reflected by the green shades. The upgraded debt is shown by the orange bars, and is represented by the notches below zero. The left panel plots the total amount of up/downgraded debt for downgrade-vulnerable BBB-rated firms that have conducted an M&A since the year that they have become downgrade-vulnerable. The right panel shows the total amount of up/downgraded debt for firms that have not conducted an M&A since the year that they have become downgrade-vulnerable."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Quantifying the prospective fallen angel subsidy. The left panel plots the offering spreads by credit rating from the third column of Table 5 Panel A and Table OA.6 in the online appendix for downgrade-vulnerable and non-downgrade-vulnerable issuers, and shows the downgrade avoidance and within-rating subsidy components for prospective fallen angels. The right panel presents a range of estimates for the total subsidy of prospective fallen angels in dollar terms based on alternative counterfactual spreads of prospective fallen angels. EDF: counterfactual spread based on firm risk measured by the log of 2-year EDFs. Interpolation: counterfactual spread based on linear interpolation between spreads of downgrade-vulnerable A-rated and downgrade-vulnerable BB-rated firms. Non-downgrade-vulnerable BB spread: counterfactual spread based on the offering spreads of non-downgrade-vulnerable BB-rated firms. The total dollar subsidy is computed as the difference of the counterfactual spread relative to the prospective fallen angel spread multiplied by the average duration and the total offering amount of bonds issued by prospective fallen angels between 2009 and 2019."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "The increase in market share of prospective fallen angels. This figure shows the evolution of firm market shares. Firms are grouped by credit rating from A to BB and further distinguished between downgrade-vulnerable and non-downgrade-vulnerable within each rating."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "1": {
+        "description": "Slack Network for Example 3 Note. Node labels show the associated slack vectors, and arc labels indicate the state-action pairs.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Alternative Feasibility Network for Example 3",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Networks Resulting from Algorithm 1 When Applied to the Slack Network of Figure 1 Notes. The green and blue circles correspond to equivalent and merged nodes, respectively. The node labels identify the associated set of slacks, and the arc labels show the state-action pairs.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Minimal Network for Example 7",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Depiction of the y -Component of an Optimal FNR Solution Notes. Edges in orange represent positive flow in the optimal solution. Flow values are indicated next to each arc, also in orange.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Minimal Network at Period t for Example 9 Where the D-LAG Size Is Larger than the FNR(SA) Size Note. The labels 𝒮 𝑡 , 𝑗 × { 0 } S t , j × { 0 } and 𝒮 𝑡 , 𝑗 × { 1 } S t , j × { 1 } indicate that the arc represents a collection of zero-action arcs and one-action arcs, respectively, for each state 𝑠 𝑗 ∈ 𝒮 𝑡 , 𝑗 s j ∈ S t , j .",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Comparison of Model Sizes and Solution Times of FNR(SL), FNR(SA), and ALT-LAG for the Small Instances in Table 4 Notes. The vertical axes are in logarithmic scale. Shaded areas around each curve depict standard error.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Bound Comparison Between LAG and FNR(SA) for the Small and Large Knapsack Bandit Instances of Table 4 Note. Shaded areas around each curve depict standard error.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Bound and Policy Comparison Between LAG and FNR(SA) for the Large Preemptive Asset Maintenance Instances of Table 4 Note. Shaded areas around each curve depict standard error.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Solution Time Comparison Between LAG and FNR(SA) for the Large Instances in Table 4 Note. Shaded areas around each curve depict standard error.",
+        "correlation": []
+    }
+}

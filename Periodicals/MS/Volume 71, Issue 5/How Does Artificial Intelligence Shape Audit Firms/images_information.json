@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Growth of AI Employees Notes. The figure summarizes the percentage of AI employees by year. Employees are identified as AI employees if their job titles or job descriptions contain the AI keywords in Babina et al. (2024) and Fedyk et al. (2022) . Three lines with different markers represent three distinct groups: (1) non-Big 4 audit firms from our main sample (the line marked with circles), (2) Big 4 audit firms (the line marked with diamonds), and (3) all audit firms (the line marked with triangles).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Geographical Distribution of AI Employees Notes. The maps summarize the distribution of AI employees by state. (a) Summary of average number of AI employees by state. (b) Summary of average percentage of AI employees by state. First, we calculate the cross-sectional average number (percentage) of AI employees in all audit offices in a state in a given year. Second, we calculate the time-series average for each state across all years. The key on the bottom right of (a) refers to the average number of AI employees, and the key on the bottom right of (b) refers to the average percentage of AI employees (in basis points for readability).",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Falsification Tests Notes. The figure reports the distributions of coefficient estimates from falsification tests. The procedures for conducting the falsification tests are as follows. First, within each audit office, we randomly reassign the year when an audit office first hires an AI employee. We label this reassigned event as Placebo AI Year . Second, we construct Placebo Use of AI as an indicator variable that equals one on or after Placebo AI Year . Third, we replace Use of AI with Placebo Use of AI and reestimate our baseline specifications in Table 3 , column 2. After repeating the procedures 2,000 times, we summarize the estimates of Placebo Use of AI in this figure. The dashed line represents the value of our actual estimated value of Use of AI from Table 3 , column 2.",
+        "correlation": []
+    }
+}

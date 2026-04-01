@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Total Surplus T ( p ) and Illusional Surplus I ( p ) for Temptation Goods Note. [ 𝑣 ̅ , ̅ 𝑣 ] = [ 0 , 1 ] , ℎ ⁡ ( 𝑣 ) = 0 . 5 ⁢ 𝑣 + 0 . 5 [ v ¯ , v ¯ ] = [ 0 , 1 ] , h ⁡ ( v ) = 0.5 ⁢ v + 0.5 , and a = 0.4.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Total Surplus T ( p ) and Illusional Surplus I ( p ) for Aversion Goods Note. [ 𝑣 ̅ , ̅ 𝑣 ] = [ 0 , 1 ] , ℎ ⁡ ( 𝑣 ) = 1 . 5 ⁢ 𝑣 − 0 . 5 [ v ¯ , v ¯ ] = [ 0 , 1 ] , h ⁡ ( v ) = 1.5 ⁢ v − 0.5 , and a = 0.4.",
+        "correlation": []
+    }
+}

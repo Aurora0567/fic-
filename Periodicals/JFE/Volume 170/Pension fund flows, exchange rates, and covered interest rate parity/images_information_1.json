@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Daily flows to pension Fund A (2011–2020).Daily flows (in percentage of AUM) for the aggregate pension fund A in Chile. Dotted (solid) vertical lines mark days of FyF emails that recommend a move towards (away from) fund A. Daily data for the sample that covers the period from January 3, 2011 to February 29, 2020."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "The foreign exchange rate after FyF recommendations.The event study uses all 82 FyF emails from 2011 to Feb 2020. The perspective is of FyF emails that recommend a move towards foreign assets (following the last column in Table A.1 in the Appendix). Thus, the effects after an email with a recommendation to move away from foreign assets are multiplied by −1. Foreign exchange data is from Bloomberg. The figure does not adjust for overlapping events. Confidence bands based on robust standard errors are at the 95% level."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Banks’ daily net position in forward and spot markets.The figure presents the banks’ daily net position in spot and forward markets as reported by the Central Bank of Chile."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Monthly trading volume in the spot and forward markets by counterparty.The figures show the monthly average of the net flow (buy–sell) of different counterparties with the formal exchange market (mainly banks) for months with FyF recommendations to increase or decrease the portfolio allocation to fund A. Panel (a) shows net flows for the spot market and Panel (b) for the forward market. We subtract the monthly average of the net flow for each counterparty in months with no change in the FyF recommendation about fund A. All values are in millions of U.S. dollars. A positive number represents an increase in the purchases of foreign currency by each counterparty from banks. Blue (dark-colored) bars are for months with FyF emails that result in a net decrease in fund A and red bars (light-colored) are for months with FyF emails that result in a net increase in fund A. The category “others” includes households, the government, the central bank, and financial institutions not included in the previous categories. The sample covers the period from January 2011 to February 2020. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Flows in the spot and forward markets in response to FyF recommendation."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Banking sector imbalances after FyF recommendations.The event study uses all 82 emails from 2011 to Feb 2020. The perspective is of FyF emails that recommend a move towards foreign assets (following the last column in Table A.1 in the Appendix). Thus, the effects after an email with a recommendation to move away from foreign assets are multiplied by −1. The banking imbalance is defined as buys minus sells by the Chilean banking sector in the daily spot market or the forward market. The top row shows results in millions of U.S. dollars, while the bottom row normalizes by the total equity of the Chilean banking system, which is lagged by 30 days. The data is from the Central Bank of Chile. Confidence bands based on robust standard errors are at the 95% level."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Cross currency basis after FyF recommendations.The event study uses all 82 emails from 2011 to Feb 2020. The perspective is of FyF emails that recommend a move towards foreign assets (following the last column in Table A.1 in the Appendix). Thus, the effects after an email with a recommendation to move away from foreign assets are multiplied by −1. CCB data is from Bloomberg for the one-month CCB and from the Central Bank of Chile for the 3-month and 6-month CCBs. The figure does not adjust for overlapping events. Confidence bands based on robust standard errors are at the 95% level."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Decomposition of CCB after FyF recommendations.The top row presents the cumulative change in the one-month forward, foreign exchange rate, and the difference between the cumulative changes of the foreign exchange rate and one-month forward. The bottom row presents the cumulative change in the U.S. LIBOR one-month rate, the Chilean one-month rate and the difference between these cumulative rate changes after FyF recommendations. The event study uses all 82 emails from 2011 to February 2020. The perspective is of FyF emails that recommend a move towards foreign assets. Thus, the effects after an email with a recommendation to move away from foreign assets are multiplied by −1. Foreign exchange data is from Bloomberg. The figure does not adjust for overlapping events. Note that the bottom panel uses a different scale for the y-axis. Confidence bands based on robust standard errors are at the 95% level."
+        ],
+        "correlation": []
+    }
+}

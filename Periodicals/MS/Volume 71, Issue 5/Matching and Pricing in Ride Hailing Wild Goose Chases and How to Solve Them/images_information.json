@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "(Color online) Trip Cancellations as a Function of Slack Notes. This figure shows the fraction of trips canceled by riders as a function of slack (the number of idle drivers divided by the number of drivers on their way to pick up a rider), which is a measure of driver availability. Each observation represents averages during one half-hour period in one Public Use Microdata Area. Our model predicts that WGCs occur when slack goes below a threshold that is between 0.25 and 0.45. Colors represent the average surge multiplier.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Trip Supply and Demand with a Fixed Number of Drivers Notes. This figure shows supply and demand with a fixed number of drivers. The dotted line for demand represents a demand shift. The dotted part of the supply curve represents the WGC region.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Response to a Decrease in Prices Starting from a WGC Equilibrium Notes. This figure illustrates how the market equilibrates after a price decrease. Starting from point A, the market settles at point D after a series of steps that we explain in the main text.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Empirical Plots of the Number of Trips as a Function of ETAs Notes. (a) ETA against the number of trips completed. We normalize the number of completed trips by dividing by the average number of trips per hour for each region. Fit lines show nonparametric fits by quintile of the number of drivers for each region. Shaded regions represent 95% confidence intervals. (b) Residuals of the ETA and the log of completed trips after regressing on traffic speed, trip length, the number of drivers, precipitation, temperature, and the squares of these variables. The fit line represents a nonparametric fit based on splines.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Estimates of the Trip Supply Curve Notes. (a) Estimates of Equation (9) by OLS and 2SLS. The density of ETA residuals is shown in gray. (b) Raw patterns in the data that drive the OLS (left) and 2SLS (right) estimates, as well as spline-based nonparametric fits. The left panel is similar to Figure 4(b) , but it shows residuals from regressions on controls and region by hour-of-the-week fixed effects—as in Equation (9) . The right panel presents a similar plot, where the vertical axis shows residuals of the best prediction for the ETA based on the number of riders who open the app. In other words, the variable in the vertical axis is the residual of the prediction ̂ 𝑇 𝑟 ⁢ 𝑡 T ^ r ⁢ t from the first stage of a 2SLS estimation for Equation (9) , where 𝑓 ⁡ ( 𝑇 𝑟 ⁢ 𝑡 , 𝛽 ) = 𝛽 ⁢ 𝑇 𝑟 ⁢ 𝑡 f ⁡ ( T r ⁢ t , β ) = β ⁢ T r ⁢ t is linear.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Pickup Time Elasticities and Prevalence of WGCs Notes. (a) Distribution of estimated pickup time elasticities. (b) and (c) Fraction of time that when WGCs occur (the fraction of time that 𝑠 < − 𝜖 𝑇 𝐼 s < − ϵ I T ) by hour of the week and by region. Observations are weighted by the number of trips.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Performance Measures as a Function of Slack Notes. This figure shows rider cancellation rates and average pickup times as a function of 𝑠 + 𝜖 𝑇 𝐼 s + ϵ I T . Our model predicts that WGCs occur when that sum is less than zero. Each observation represents a one half-hour period in one region. Colors represent the average surge multiplier.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Revenue and Welfare as a Function of Price Notes. This figure shows welfare and revenue as a function of the price for the average market. The opaque lines represent a ride-hailing platform that uses first dispatch. Dashed lines represent the low-price region in which WGCs take place. The transparent lines represent a platform that matches with the technology of street-hail taxis. The vertical lines represent the welfare- and revenue-maximizing prices for first dispatch.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Welfare as a Function of Price for Two Markets Notes. The welfare-maximizing prices for each market are the dotted vertical lines. If the market can only set one price for both markets, the price that maximizes total welfare is the vertical dotted line in black.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Surge Pricing by Market and Uniform Pricing Notes. This figure shows the welfare maximizing prices when markets are defined as regions during a half-hour period, both for a ride-hailing market with first dispatch and for a market in which matching follows the protocol of street-hail taxis. The gray line and the shaded regions represent the distribution of surge prices—that is, the optimum market-by-market. The gray line is the mean, the dark shaded region is the interquartile range, and the light shaded region goes from the 5th to the 95th percentiles. The horizontal dashed line shows the optimal uniform price—that is, that set by a platform that is constrained to one price for all markets.",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Welfare as a Function of the MDR for the Three Matching Protocols Notes. These figures show welfare with the three alternative protocols as a function of the MDR. Welfare is measured as a percent of the first-dispatch optimum. Parameters are set at the values for the strong market, and the surge multiplier is 0.9. Dotted lines represent WGC equilibria.",
+        "correlation": []
+    }
+}

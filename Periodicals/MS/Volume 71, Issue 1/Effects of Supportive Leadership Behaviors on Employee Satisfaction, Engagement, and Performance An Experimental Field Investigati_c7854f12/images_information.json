@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Experimental Design",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Treatment Effects on Main Outcome Variables Notes. Histograms of the main outcome variables for the treatment group (orange/light gray) and control group (dark gray). (a) Distribution of work satisfaction ( n = 302). (b) Distribution of employee engagement ( n = 302). (c) Distribution of performance ( n = 130).",
+        "correlation": []
+    },
+    "3": {
+        "description": "Decomposing Treatment Effects Notes . Percent of treatment effect explained by mediators. We only include the blocking variable as a control variable in the regression and cluster standard errors at the team level.",
+        "correlation": []
+    }
+}

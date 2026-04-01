@@ -1,0 +1,54 @@
+{
+    "1": {
+        "description": "The Simplest Matching Model: A Two-Sided Matching Queue with Abandonment",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cost of Impatience for the Four Operating Regimes Where 𝜃 𝑚 𝑖 𝑛 = m i n ⁡ { 𝜃 𝑐 , 𝜃 𝑠 } , 𝜌 = 𝜆 𝑐 / 𝜆 𝑠 θ min = min ⁡ { θ c , θ s } , ρ = λ c / λ s and ℋ ⁡ ( 𝜌 ) = ∑ ∞ 𝑛 = 1 1 𝑛 ⁢ ( 𝑛 + 1 ) ⁢ ( 1 − 𝜌 ) 𝑛 − 1 H ⁡ ( ρ ) = ∑ n = 1 ∞ 1 n ⁢ ( n + 1 ) ⁢ ( 1 − ρ ) n − 1 Note . 𝑃 ⁢ 𝐶 , 𝐼 ⁢ 𝐶 , 𝑃 ⁢ 𝑆 , a n d 𝐼 ⁢ 𝑆 P ⁢ C , I ⁢ C , P ⁢ S , and I ⁢ S denote Patient-Customer, Impatient-Customer, Patient-Server, and Impatient-Server, respectively, so that 𝑃 ⁢ 𝐶 ∩ 𝐼 ⁢ 𝑆 P ⁢ C ∩ I ⁢ S denotes the Patient-Customer, Impatient-Server regime.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The Two-Sided Queue, 𝑄 = 𝑄 𝑐 − 𝑄 𝑠 Q = Q c − Q s",
+        "correlation": []
+    },
+    "4": {
+        "description": "CoI in the Four Operating Regimes Notes . Each cell corresponds to an intersection of customer and server regimes and should be read with the appropriate “∼” correspondence. For example, the upper-left cell is the statement that C o I ℳ 𝑐 𝐼 ⁢ 𝐶 ∩ ℳ 𝐼 ⁢ 𝑆 ∼ 𝐴 CoI ∼ M I ⁢ C c ∩ M I ⁢ S A , where A is the expression in that cell.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) With Fixed Patience Rates, C o I ∼ 𝜌 1 − 𝜌 CoI ∼ ρ 1 − ρ When Customers Are Patient and C o I ∼ √ 𝜆 𝑐 CoI ∼ λ c When Customers Are Impatient",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) The Maximum Patience Rate Has a Moderate Impact on the CoI, Whereas the Minimum Patience Rate Has a Significant Impact on the CoI",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) The CoI Is More Sensitive to Changes in θ min in the 𝑃 ⁢ 𝐶 ∩ 𝐼 ⁢ 𝑆 P ⁢ C ∩ I ⁢ S Regime than in the 𝐼 ⁢ 𝐶 ∩ 𝐼 ⁢ 𝑆 I ⁢ C ∩ I ⁢ S Regime",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) A Proportional Increase in λ c and λ s , Keeping ρ and θ Fixed, Results in a Decrease in the CoI When Servers Are Patient, but an Increase in the CoI When Servers Are Impatient",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) The CoI Approximation Ratio (the CoI Approximation from Theorem 1 Divided by the Exact CoI ) Is Less Than Four When the Conditions in Definition 1 , 𝜌 ≥ 1 / 𝑀 ρ ≥ 1 / M and 𝜃 𝑐 ≤ 𝑀 ⁢ 𝜆 𝑐 θ c ≤ M ⁢ λ c , Are Satisfied for 𝑀 ∈ [ 1 , 2 0 ] M ∈ [ 1 , 20 ]",
+        "correlation": []
+    },
+    "10": {
+        "description": "The Transition-Rate Diagram for the 𝑀 ⁡ ( 𝜆 𝑐 ) = 𝑀 ⁡ ( 𝜆 𝑠 ) = 1 + 𝑀 ⁡ ( 𝜃 𝑐 ) M ⁡ ( λ c ) = M ⁡ ( λ s ) = 1 + M ⁡ ( θ c ) Queue and the Single-Sided Truncation of the Two-Sided Queue When 𝜃 𝑠 = ∞ θ s = ∞",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) The Optimal Safety Capacity for a Two-Sided and Single-Sided Queue with Abandonment Has the Form 𝜆 * 𝑠 − 𝜆 𝑐 ∼ 𝛾 ⁢ √ 𝜃 𝑐 ⁢ 𝜆 𝑐 λ s * − λ c ∼ γ ⁢ θ c ⁢ λ c for 𝛾 ≥ 0 γ ≥ 0 That Does Not Depend on λ or θ Note . The ability to hold inventory of servers in the two-sided queue allows the safety capacity to grow logarithmically in abandonment cost 𝑐 𝑎 / 𝑐 𝑠 c a / c s , slower than the square root growth in the single-sided queue.",
+        "correlation": []
+    },
+    "12": {
+        "description": "(Color online) The Optimal Operating Regime for Each Set of Parameters 𝜆 𝑐 , 𝜃 𝑐 , 𝜃 𝑠 , 𝑐 𝑎 , 𝑐 𝑠 λ c , θ c , θ s , c a , c s , Where 𝛿 ⁢ 1 √ 𝜃 𝑐 ⁢ ( 1 + √ 𝜃 𝑐 𝜃 𝑠 ⁢ 𝑒 𝛿 2 ⁢ 1 𝜃 𝑠 ) = 𝑐 𝑎 𝑐 𝑠 δ ⁢ 1 θ c ⁢ ( 1 + θ c θ s ⁢ e δ 2 ⁢ 1 θ s ) = c a c s",
+        "correlation": []
+    },
+    "13": {
+        "description": "Model with Three Participant Types and Two Matches",
+        "correlation": []
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Project characteristics and optimal contracts. This figure illustrates optimal contracts for projects with different probability of success, \n\n\nP\n0\n\n$P_{0}$\n, and return conditional on success, \n\nα\n$\\alpha$\n. In all cases, \n\n\nm\n=\n0.2\n\n$m=0.2$\n, \n\n\nc\n=\n0.008\n\n$c=0.008$\n, and \n\n\n\nP\n0\n\n<\n1\n−\nc\n/\nm\n\n$P_{0}<1-c/m$\n.",
+        "correlation": []
+    }
+}

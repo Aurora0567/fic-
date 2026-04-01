@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Government-led open banking regimes around the world. These maps show the current implementation status of government-led open banking policies and the year in which the major open banking policy was passed. Panel (a) shows the implementation status of their government open banking policies. Fully implemented corresponds to countries that have implemented open banking government policies; Implementation to those that have determined the specifics of the open banking approach and are currently implementing it; Discussion to those either considering implementing open banking policies or discussing that implementation; None to those with no government open banking approach; and NA to those where we have not collected data. Panel (b) shows the passage year of countries’ major open banking policies. Data on government open banking policies is current as of October 2021."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Open banking government policy dimensions. These maps show mandated data sharing and technical specifications among countries with government-led open banking efforts developed enough to specify those policy dimensions. Panel (a) shows whether the current or proposed policy requires banks to share data upon customer request. Panel (b) shows whether the regulator sets a technical standard for open banking application programming interfaces—the technology used to share bank customer data. Countries marked NA either have no government-led open banking regime, are too early in discussion for the issue to be decided, or were excluded from our data collection. Data on government open banking policies is current as of October 2021."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "New SME lending relationships around CCDS eligibility threshold. This figure shows the association between new lending relationship formation and firm sales before and after the implementation of the Commercial Credit Data Sharing (CCDS) policy. The underlying data is company-year data on secured loans for UK firms from Companies House. Panel (a) presents observations from before the implementation of the CCDS (2014–2016) and Panel (b) presents observations after the policy (2017–2019). Each dot is the fraction of firms forming new lending relationships (y-axis) among firms in a given sales bucket (x-axis). We use 22 equally sized buckets from £10 million to £40 million of 2016 firm sales. A firm establishes a new relationship when it gets a loan from a lender that it had not borrowed from in the preceding three years. The vertical line denotes the cutoff firm sales for data sharing under the policy (£25 million), with firms to the left of the line in Panel (b) being treated by the policy and firms to the right of the threshold serving as the control group. The solid curves plot best-fit quadratic polynomials for lending relationship propensity, separately estimated above and below the policy cutoff."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Event-study of SME data sharing and new lending relationships. This figure shows changes in new lending relationship formation for SMEs treated by the UK Commercial Credit Data Sharing (CCDS) policy using a panel event-study analysis. The underlying data is company-year data on secured loans for UK firms with 2016 sales between £10 million and £40 million from Companies House via Bureau van Dijk for the 2014–2019 period. Firms are classified as treated if their 2016 sales is below the CCDS’s £25 million eligibility threshold, with firms above the threshold serving as the control group. Panel (a) shows an event-study on the rate of new lending relationships with any lender for treated firms, while Panel (b) shows an event-study on the rate of new lending relationships with non-banks. The event-study specification is estimated using one period lagged firm-level control variables of the log of total assets, a low credit risk dummy, cash to total assets, and leverage ratio, as well as firm, sector-by-year, region-by-year, and relationship stage-by-year fixed effects. Low credit risk is defined as a QuiScore above 80, sectors are defined based on 1-digit 2003 UK SIC codes, regions are the 124 postcode areas, and relationship stage is the decile of the average relationship length the firm has with its lenders. The shaded regions denote 95% confidence intervals calculated using standard errors clustered at the firm level."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Event-study of fintech investment after open banking government policies. This figure shows changes in fintech venture capital (VC) activity around the passage of open banking government policies using a panel event-study analysis. We perform this analysis on our high-coverage Pitchbook panel of 2011–2021 data for the 21 countries with at least five fintech VC deals in the 2000–2010 period. Panel (a) shows an event study on the log of one plus the number of fintech VC deals, and Panel (b) shows an event study on the log of one plus the millions of US dollars invested in fintech VC deals. Year 0 is the passage year of each country’s major open banking initiative. The coefficient for year 0 is set to zero and other coefficients are presented net of country fixed effects and region-by-year fixed effects. Regions are (i) Africa, Middle East & North Africa; (ii) Europe & Central Asia; (iii) Latin America & the Caribbean; (iv) North America; (v) South Asia, East Asia & Pacific, following World Bank geographic terms. European Union member states are weighted to count as a single country for estimates and standard errors. The shaded regions denote 95% confidence intervals calculated using standard errors clustered at the country level."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Aggregate and distributional outcomes of open banking. Panel (a) presents model-implied aggregate changes after open banking (OB), with each bar showing the percentage change in the relevant outcome caused by moving from the status-quo relationship banking regime to the OB regime. Magenta and cyan bars show outcomes for the financial advice and non-GSE residential mortgage calibrations, respectively. # entrants is the number of new entrants. Quantities (all) is the population fraction obtaining the financial service, which we further split into Quantities (relationship), i.e., relationship bank, and Quantities (outsiders), i.e., fintechs. Price (average) is the average fee or rate charged. Relationship profit is relationship banks’ profits. Panels (b)–(e) show the distributional outcomes of OB in the credit case. x-axes show borrowers with different marginal costs. Red lines and dotted green lines indicate outcomes for the relationship banking and calibrated OB regime, respectively. Dashed blue lines indicate outcomes in a counterfactual simulation where borrowers’ privacy preference is 25% lower. Panel (b) shows the fraction of the population opting into data sharing. Panel (c) shows the average interest rate. Panel (d) shows the fraction of the population obtaining credit. Panel (e) shows the outsiders’ market share. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Effect of Societal Privacy Preferences on Open Banking Equilibria This figure shows how the impact of open banking (OB) varies as societal privacy preferences vary under the model of Section 4. Specifically, it shows outcomes (y-axis) for the advice (red) and credit (blue) OB as population preferences for privacy vary (x-axis). The solid lines with circle indicators show the fraction of the population opting into open banking. The x markers show the fraction of the population made worse under open banking. Privacy preferences are presented as a multiple of the baseline calibration, with a lower value corresponding to individuals being more willing to share data. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

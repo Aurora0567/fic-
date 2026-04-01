@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Different Formats of Video Advertising in YouTube Streaming Notes . These formats can be used at different timestamps of a YouTube video, and they differ in their lengths, designs, and how users interact with them. (a) Skippable in-stream ads. (b) Nonskippable in-stream ads. (c) Bumper short ads. (d) Overlay ads. (e) Clickable sponsored cards.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Polynomial Regularizer f k ( x ) in Proposition 1 (Solid Line) vs. e x − 1 (Dashed Line)",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) The Upper Bound Instance When π ( i ) = NK − i + 1 , i ∈ [ NK ]",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Four Simple Examples of Multistage Vertex-Weighted Matching Notes . We consider two different instances of this problem (one instance for (a) and (b) and one for (c) and (d)). Both problem instances have two stages, where U 1 = { u 1 2 , u 1 2 } , U 2 = { u 2 2 , u 2 2 } , and V = { v 1 , v 2 , v 3 , v 4 } ; edges are as drawn in the figures above. In (a) and (b), all the weights w 1 , w 2 , w 3 , and w 4 are equal to 1 ; in (c) and (d), w 1 = w 2 = w and w 3 = w 4 = w ^ . We run online water-filling, batched water-filling, batched water-filling (ignoring weights), and convex programming–based batched matching (considering the weights) algorithms in (a), (b), (c), and (d), respectively. (a) Ignoring the batch arrival. (b) Considering the batch arrival. (c) Ignoring the weights. (d) Considering the weights.",
+        "correlation": []
+    }
+}

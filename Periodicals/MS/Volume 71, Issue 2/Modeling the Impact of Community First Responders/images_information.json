@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) OHCA Incidence for Auckland, New Zealand Notes . (a) The empirical incident rate per area unit in Auckland, New Zealand. (b) Scatter plot of the actual and estimated number of cardiac arrests between 2013 and 2020 over all area units.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Impact of Increasing the CFR Availability α on Fraction of Late Arrivals and Survival, Assuming 1% of the Population Is Signed Up as CFRs, Distributed over the Area Units Proportionally to Demand Notes . (a) Late arrivals. (b) Survival.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Impact of Increasing Number of Available CFRs ( n α ) for Different CFR Distributions ( ν ) on the Fraction of Late Arrivals ( τ = 6 min) and the Survival Probability Notes . The optimal lines are each formed by the solution of 50 optimization problems. (a) Late arrivals τ = 6 min. (b) Survival.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Optimal CFR Distribution (Fraction of CFRs in That Region Divided by Surface Area) Notes . (a) and (c) Minimizing late arrivals for τ = 6 min. (b) and (d) Maximizing survival, with n α = 500 or n α = 5 , 000 . Darker colors represent higher CFR density. The white circles represent the location of the ambulance bases, and the numbers within them indicate the number of ambulances stationed at each base. (a) Late arrival, nα = 500. (b) Survival, nα = 500. (c) Late arrival, nα = 5,000. (d) Survival, nα = 5,000.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Time-Dependent Profile Recruitment That Maximizes Survival for n = 500 / 0.14 = 3 , 571 Notes . The white circles represent the location of the ambulance bases, and the numbers within them indicate the number of ambulances stationed at each base. (a) Optimal recruitment ( x i values). (b) Resulting daytime density ( ν l 2 ).",
+        "correlation": []
+    }
+}

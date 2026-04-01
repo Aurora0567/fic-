@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Lender and AUS minority excess denials relative to White by FICO score. This figure plots race and ethnicity coefficients from denial regressions by FICO after controlling for all borrower and loan characteristics as in specifications (3) and (5) of Table II. Data source: HMDA.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Excess denials for the top 100 lenders. This figure plots estimates of lender-specific excess denials. The vertical axes are regression coefficients of lender denials on race after controlling for borrower and loan characteristics as well as AUS outcomes, estimated separately for each of the top 100 lenders in our data. Observations in the left-hand charts are sorted by the magnitude of the estimated lender-specific excess denial. Lender strictness coefficients are lender fixed effects from a regression of lender denials on all controls including AUS outcomes for only White borrowers. Data source: HMDA.",
+        "correlation": []
+    },
+    "3": {
+        "description": "How does lender strictness vary across different subsamples of the data? This figure compares estimates of strictness measured on different applicant populations. In Panel A, lender strictness coefficients in the horizontal axis are lender fixed effects from a regression of lender denials on all controls including AUS outcomes for only White borrowers. The vertical axis shows similar coefficients in a subsample restricted to White applicants with both an income and credit score less than the 90th percentile of those fields among Black applicants who were denied credit by their lender. In Panel B, lender strictness is defined similarly, but estimated in the subsample of Black (vertical axis) and White (horizontal axis) applicants separately. Data source: HMDA.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Lender strictness and loan performance. This figure plots a measure of ex post loan performance against lender strictness. We measure riskiness as the demeaned percentage of the issuer's loans originated in 2018 and 2019 that were ever delinquent 60 days or more within one year of origination. Residual riskiness is estimated as the issuer fixed effect in a regression of delinquency on a flexible function of DTI, LTV, and credit score, as well as month dummies. Lender strictness coefficients are lender fixed effects from a regression of lender denials on all controls including AUS outcomes for only White borrowers who applied for FHA/VA loans. The size of the circle represents the size of the lender/issuer. Data sources: HMDA, Ginnie Mae.",
+        "correlation": []
+    }
+}

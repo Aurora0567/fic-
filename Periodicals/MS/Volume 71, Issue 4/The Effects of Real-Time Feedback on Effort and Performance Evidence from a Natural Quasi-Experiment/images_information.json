@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "The Effect of the VAR on Different Dependent Variables in Event-Time Notes. This figure plots the results of an ordinary least squares (OLS) estimation of the effect of a game being in the treatment group (1 st Division) on our proxies for referee effort ((a) to (c)) and referee performance ((d) to (f)). The analysis is similar to our main model described in Equation (1) , except that instead of one interaction between the indicators for the VAR treatment group and the VAR treatment time, we include interactions with time dummies for each quarter of a season. We omit the indicator for the season-quarter before the VAR introduction ( t − 1), which serves as the benchmark period.",
+        "correlation": []
+    }
+}

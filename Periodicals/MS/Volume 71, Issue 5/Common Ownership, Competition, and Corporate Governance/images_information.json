@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Case Where the Marginal Cost of Common Ownership Always Exceeds the Marginal Benefit and Hence s = 0 Is a Global Maximum Note. The picture is drawn for the case of a quadratic monitoring cost function ( 20 ) and the product market specification of Example B.1 in Appendix B , with γ = 2, β = 4 5 , θ = 4 5 , δ = 3 5 , and ξ = 3 4 .",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Case Where the Marginal Cost Curve Cuts the Marginal Benefit Curve Twice, Starting from Above and Hence s = 0 Is a Local but Not Necessarily a Global Maximum Notes. Whether s = 0 is a local maximum or not depends on which of the two areas between the curves is larger. The picture is drawn under the same assumptions as Figure 1 , except that now ξ = 19 30 .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Case Where the Marginal Cost Curve Cuts the Marginal Benefit Once from Below and Hence s = 0 Is a Global Minimum Note. The picture is drawn under the same assumptions as Figure 1 , except that now ξ = 1 2 .",
+        "correlation": []
+    }
+}

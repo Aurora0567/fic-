@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Book to Market and Free Cash Flow to Price (FCF/P) over Time Notes . The figure presents the aggregate series of B/M in panel (a) and FCF/P in panel (b). The aggregate book-to-market ratio is defined as the sum of all book equity divided by the sum of all market equity in a given fiscal year. Similarly, aggregate free cash flow to price is the ratio of the sum of all free cash flows and the sum of all market values of equity in a fiscal year. The sample includes all Compustat firms with available information from 1977 to 2021.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Cumulative Factor Performance Notes . The figure presents the cumulative performance for variations of the value factor (panel (a)), the investment factor (panel (b)), and the profitability factor (panel (c)) from July 1998 to June 2022. All factors are constructed following the methodology of Fama and French (1993) using double sorts on the key characteristic and size. In panel (a), HML is based on traditional B/M, and HML OBS uses only off-balance sheet assets in the calculation of book equity, whereas HML total uses both on- and off-balance sheet assets. In panel (b), CMA PPE uses growth in PP&E as a proxy for investment, and CMA OBS uses growth in off-balance sheet assets as a proxy for investment. In panel (c), RMW uses OP as a proxy for profitability, whereas RMW total is based on adjusted OP (OP total ), which capitalizes intangible investments.",
+        "correlation": []
+    }
+}

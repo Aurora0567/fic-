@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Sample Disclosure from ICRM Reforms Note . This figure presents the sample disclosure form provided by the SEC to fund managers as part of the ICRM reforms that requires funds disclose gross income from securities lending activities, the costs associated with those activities, and the net income received by the fund.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Market for Lending Agents Notes . This figure shows the number of funds using each lending agent, with third-party funds tallied in black and affiliated funds tallied in grey. Our sample includes 542 active U.S. equity mutual funds with 2017 ICRM data.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Frequency of Fee Retention by Fund Family Note . This figure shows the frequency of fee retainers across fund families that have affiliated lending agents, with funds that are nonretainers tallied in black and funds that are fee retainers tallied in grey.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Equilibrium Prices and Quantities as a Function of Bias Notes . This figure shows equilibrium prices and quantities in our model as a function of retail investors’ bias b . In the left panels, there are no naive delegators ( ν = 0), and all mutual funds choose to be nonretainers ( nr ). In the right panels, half of the delegators are naive ( ν = 0.5 ), and half of mutual funds choose to be fee retainers ( fr ). The upper panels show the expected return, fee-inclusive expected return, and lending fee rate for stock 1. The lower panels show the equilibrium quantities demanded for each of the four groups of investors. The parameterization we use sets μ = 1, σ = 0.2 , γ = 2, Γ = 0.5 , Q 1 = 1 , Q 2 = 10 , A h f = A r i = 3 , and D = 6. The first two vertical lines indicate the cutoffs between low, moderate, and high b equilibrium regions, and the third indicates the point at which the fee retainers can cover costs purely with lending fees.",
+        "correlation": []
+    }
+}

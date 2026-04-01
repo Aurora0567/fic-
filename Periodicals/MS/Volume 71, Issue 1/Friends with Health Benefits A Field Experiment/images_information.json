@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Average Weekly Gym Visits Note. Participants’ average weekly gym visits after subtracting their baseline gym attendance (averaged over 10 weeks preintervention).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Average Number of Tandem Gym Visits Notes. Participants’ average number of tandem gym visits before, during, and after Gym Bonus Month by condition. A visit is deemed tandem if participants in the dyad swipe in within 30 minutes of each other. Ninety-five percent confidence intervals are shown. As a robustness check, we ran an additional analysis in which participants were randomly assigned to a partner to determine how often two participants randomly went to the gym in the same 30-minute window, which was near zero for all three periods.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Posttreatment Survey Responses Notes. Participants’ responses to questions on our follow-up survey about their experience during Gym Bonus Month by experimental condition; seven indicates the strongest possible agreement with the labeled experience. Error bars depict ±1 standard error; ** p < 0.05, * p < 0.10.",
+        "correlation": []
+    }
+}

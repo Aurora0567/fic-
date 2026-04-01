@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Decomposition of differences in price–earnings ratios. This figure visualizes the results of Table 1 for cash flow growth differences (CFGh), discount rate differences (DRh), and future price–earnings ratio differences (FPEh) at different horizons h. The x-axis shows the horizon h in years. The dots show the exact estimates from Table 1 based on earnings growth, negative returns, and price–earnings ratios h years ahead. The dashed lines show the values implied by the estimated VAR model in Eq. (6)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Movement over time of CFG15 and DR15. This figure shows rolling estimations of fifteen-year cash flow growth differences (CFG15) and discount rate differences (DR15) from 1963–2020. At each year τ, CFG15 shows the coefficient from a weighted regression of ∑j=115ρj−1Δẽi,t+jt=1963τ on pẽi,tt=1963τ. The regression weights are γτ−t, i.e., the weight geometrically decreases for older observations, where γ=0.87 ensures that half of the weight is placed on the most recent five years. The value for DR15 shows the coefficient from an analogous regression of negative fifteen-year returns on the price–earnings ratio. The 95% confidence intervals for CFG15 and DR15 based on the Driscoll–Kraay standard errors are shown by the shaded regions."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Testing the predictability of non-cumulative returns. This figure visualizes the probabilities of observing the results of Table 8 under the absence of return predictability. For 1,000 wild bootstrap simulations, the red line shows for every horizon the share of simulated βhr t-statistics greater than the observed t-statistic in the data. The blue line shows for every horizon the share of simulated βhe t-statistics smaller than the observed t-statistic in the data."
+        ],
+        "correlation": []
+    }
+}

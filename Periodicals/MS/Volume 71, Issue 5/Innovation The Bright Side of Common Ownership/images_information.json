@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Heterogeneity of the Relationship Between Common Ownership and Citation-Weighted Patents 𝑇 𝐶 𝑊 TCW Notes. This figure plots the distribution of how an increase by one standard deviation in common ownership changes citation-weighted patents 𝑇 𝐶 𝑊 TCW taking into account firm-specific levels of technology and product market spillovers. Negative coefficient estimates are shown in red and positive ones in black.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Heterogeneity of the Relationship Between Common Ownership and the Market Value of Patents 𝑇 𝑆 𝑀 TSM Notes. This figure plots the distribution of how an increase by one standard deviation in common ownership changes the market value of patents 𝑇 𝑆 𝑀 TSM taking into account firm-specific levels of technology and product market spillovers. Negative coefficient estimates are shown in red and positive ones in black.",
+        "correlation": []
+    }
+}

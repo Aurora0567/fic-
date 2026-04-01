@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "IPCA alphas. The figure plots portfolio alphas (in percent per month) from Table 3 against portfolio returns from Table 1 for long-short portfolios of delta-hedged call returns. The alpha is computed from the IPCA model with 3 factors. The sample period is 1996 to 2022.",
+        "correlation": []
+    },
+    "2": {
+        "description": "IPCA gammas. The figure shows IPCA gammas for each of the 3 factors in the IPCA model from Table 2. The sample period is 1996 to 2022.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Characteristics subsamples. The figure shows IPCA alphas versus raw returns (both in percent per month) for three different set of characteristics. In each case, we retain some characteristics and estimate a restricted IPCA model which we use to price the long-short portfolios constructed with the characteristics that are not included in the estimation (i.e., target long-short portfolios). In panel A we use the 17 statistically significant characteristics from Table 5 to estimate the model and the remaining 29 statistically insignificant characteristics to construct the target long-short portfolios. In panel B we use the 23 characteristics with the highest impact score from Table 5 to estimate the model and the remaining 23 characteristics to construct the target long-short portfolios. In panel C, we use the 10 characteristics from Zhan et al. (2022) to construct the target portfolios and the remaining 36 to estimate the IPCA model. The sample period is 1996 to 2022.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Managed portfolios contribution to IPCA factors. The figure shows average contribution by each managed portfolio to each of the three IPCA factors’ means. The sample period is 1996 to 2022.",
+        "correlation": []
+    }
+}

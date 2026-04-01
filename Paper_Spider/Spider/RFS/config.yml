@@ -1,0 +1,6 @@
+'article_url': 'https://academic.oup.com/rfs/article-abstract/38/2/507/7918340'
+'config_path': './Spider/RFS/config.yml'
+'driver_path': 'C:\Users\winger\.wdm\drivers\chromedriver\win64\135.0.7049.42\chromedriver-win32/chromedriver.exe'
+'is_intact': 'True'
+'issue_url': 'https://academic.oup.com/rfs/issue/38/5'
+'save_path': '../../Periodicals/RFS'

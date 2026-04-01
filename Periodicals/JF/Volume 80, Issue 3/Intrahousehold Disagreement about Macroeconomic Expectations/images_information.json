@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Distributions of belief differences between spouses. This figure plots the distributions of differences between spouses in beliefs about inflation, economic recessions, and stock market returns in Panels A, B, and C, respectively. Data are from the Health and Retirement Study. For each macroeconomic domain, belief difference between spouses is defined as the husband's belief minus that of the wife. How these beliefs are measured is described in the Appendix.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Variance decomposition of macroeconomic expectations. This figure decomposes the overall cross-sectional variance of inflation, economic recession, and stock market expectations over the years in Panels A, B, and C, respectively. Specifically, macroeconomic expectations elicited in each survey wave are decomposed into between- and within-household components as in equations (1) through (4). Data are from the Health and Retirement Study. How macroeconomic expectations are measured is described in the Appendix.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Experimental design. This figure summarizes the experimental design of the first wave in Panel A and of the second wave in Panel B. Subjects are recruited on Amazon's Mechanical Turk and the full experimental sample is restricted to married individuals between 25 and 64 years old who are U.S. residents. The first wave has two stages. In the first stage, subjects are asked about their expectations for the return of the stock market over the next year. A random subsample is exposed to objective information about recent stock market performance and their expected one-year stock returns are reelicited. In the second stage, all subjects are asked to imagine a scenario in which they and their spouse have $10,000 in a risk-free savings account that pays interest of 1% per year. Meanwhile, subjects are randomly assigned to one of the two treatment arms, where their spouses' expected one-year stock returns are either 10 percentage points higher or 10 percentage points lower than theirs, or the control arm, where their spouses' beliefs are the same as theirs. Subjects are then asked (i) if they are to make the decision for their households, whether they would like to take part of the $10,000 to buy and hold the S&P 500 index for one year; and (ii) if so, how much they would like to take out. The second wave no longer includes the information intervention. After their stock market expectations are elicited, subjects perform the same portfolio allocation task as in the first wave, except that for a random subsample of them, the exogenously introduced beliefs of their spouses are replaced by beliefs of random individuals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Recent past performance of the S&P 500 index. This figure plots the S&P 500 index performance from January 1, 2020 to July 9, 2021.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Causal impact of intrahousehold belief heterogeneity. This figure plots the stock market participation rate and the average equity share for each of the two treatment arms and the control arm, based on the main experimental sample. The experimental design is summarized in Figure 3 and variables are defined in Table VII. Error bars indicate 95% confidence intervals.",
+        "correlation": []
+    }
+}

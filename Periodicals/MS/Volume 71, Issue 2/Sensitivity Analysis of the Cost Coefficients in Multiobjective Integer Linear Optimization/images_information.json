@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "The Decision Space and the Objective Space for the Biobjective ILP ( 1 ) and Its LP Relaxation Notes . (a) Decision space. (b) Objective space.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The Objective Spaces for the Biobjective ILP ( 1 ) and Its LP Relaxation upon Changes to the Objective Function Coefficients Notes . (a) Δ = ( Δ ⁢ 𝑐 1 1 , Δ ⁢ 𝑐 2 1 ) = ( − 1 . 5 , 2 . 5 ) Δ = ( Δ ⁢ c 1 1 , Δ ⁢ c 1 2 ) = ( − 1.5 , 2.5 ) . (b) Δ = ( Δ ⁢ 𝑐 1 1 , Δ ⁢ 𝑐 2 1 ) = ( − 0 . 5 , 1 . 5 ) Δ = ( Δ ⁢ c 1 1 , Δ ⁢ c 1 2 ) = ( − 0.5 , 1.5 ) .",
+        "correlation": []
+    },
+    "3": {
+        "description": "The Two Cases, i) and ii), of Theorem 3 Notes . The symbols next to the lines represent their slopes. (a) Case i): Δ 1 < Δ 2 < ¯ Δ Δ 1 < Δ 2 < Δ ¯ . (b) Case ii): ¯ Δ < Δ 2 < Δ 1 Δ ¯ < Δ 2 < Δ 1 .",
+        "correlation": []
+    },
+    "4": {
+        "description": "The Decision Space and the Objective Space for the Biobjective ILP ( 8 ) Notes . (a) Decision space. (b) Objective space.",
+        "correlation": []
+    }
+}

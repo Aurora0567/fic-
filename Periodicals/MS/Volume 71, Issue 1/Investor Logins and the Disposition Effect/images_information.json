@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Illustration of the Model of Multiple Reference Points Notes. The figure illustrates the four-period model of multiple reference points. In panel (a), at 𝑡 = 0 t = 0 , the individual purchases an asset at a price 𝑝 0 p 0 , which constitutes a first reference point. At 𝑡 = 1 t = 1 , if the individual observes the individual’s portfolio, the price observed becomes a new reference point. At 𝑡 = 2 t = 2 , the individual chooses whether to sell the asset, and at 𝑡 = 3 t = 3 , the individual liquidates any remaining position in the asset. Panel (b) displays the predictions of the model under which an individual with prospect theory preferences based the individual’s selling decisions using the highest reference point. (a) Model structure. (b) Sell decisions for different reference points.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Illustration of the Disposition Effect: Probability of Sale and Returns Since Purchase in the Sell-Day Sample Notes. The figure shows a binned scatterplot with 95% confidence intervals. The y -axis variable is the probability that the stock is sold by the investor on the day. The x -axis variable is the returns on the stock since purchase. The sell-day sample includes all investor × stock × days on which the investor sold at least one position in the portfolio. Returns since purchase are calculated at the daily level.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Illustration of the Interaction Effect in the Sell-Day Sample Notes. The figure shows a binned scatterplot with 95% confidence intervals. The y -axis variable is the probability that the stock is sold by the investor on the day. The x -axis variable is the returns on the stock since purchase. Observations are divided by whether the investor made a gain or not since the latest login day. Sell-day sample includes all investor × stock × days on which the investor sold at least one position in the portfolio. Returns since purchase and returns since latest login are calculated at the daily level.",
+        "correlation": []
+    }
+}

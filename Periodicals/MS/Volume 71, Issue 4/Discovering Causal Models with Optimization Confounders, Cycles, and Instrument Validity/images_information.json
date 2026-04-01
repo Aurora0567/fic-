@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "Example Directed Acyclic Graph (DAG)",
+        "correlation": []
+    },
+    "2": {
+        "description": "Example Graphs with Latent Confounders and Cycles Notes. Example graphs: (a) A directed acyclic graph (DAG). (b) The more general acyclic directed mixed graph (ADMG), which does not contain cycles, but contains bidirected edges to represent unmeasured confounding. (c) A directed mixed graph (DMG) that allows for both cycles and confounding.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Collider Chains (a) and Noncollider Chains (b)",
+        "correlation": []
+    },
+    "4": {
+        "description": "Alternative Causal Relations Corresponding to Observed Independence Relations Notes . ( a ) The triple ( i , j , k ) satisfies all conditions in Lemma 1 (i) but does not form a collider chain. ( b ) The triple ( i , j , k ) satisfies all conditions in Lemma 1 (ii) but does not form a noncollider chain. In both cases the i → j edge is missing.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Examples of Valid and Invalid Instruments in Various Causal Structures Notes . Node i is a valid instrument for the effect of j on k in (a) and (b), but an invalid instrument in (c) because the path i ↔ l → k violates Definition 5 (2). Conditioning on W = { l } in (c) makes i a valid conditional instrument.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Visualization of Edge Frequencies from EdgeGen on Angrist and Krueger (1991) Data Over 50 Repetitions Notes . Edge frequencies over 50 bootstrap repetitions of E dge G en applied to Angrist and Krueger (1991) data for three levels of complexity penalty. Only edges with frequency ≥ 0.1 are shown.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Visualization of Edge Frequencies from EdgeGen on Card (1993) Data Over 50 Repetitions Notes . Edge frequencies over 50 bootstrap repetitions of EdgeGen applied to Card (1993) data for three levels of complexity penalty. Only edges with frequency ≥ 0.1 are shown.",
+        "correlation": []
+    }
+}

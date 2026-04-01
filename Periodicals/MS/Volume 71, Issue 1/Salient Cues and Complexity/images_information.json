@@ -1,0 +1,58 @@
+{
+    "1": {
+        "description": "(Color online) Probability Mass Function of the Symmetric Binary Lottery with an Expected Value E = 100, Variance V = 324, and Skewness S = 0 Notes . We depict the reference point for lottery L ( E , V , S ) , assuming that the choice set is given by C = { L ( E , V , S ) , E , L ( E , V ′ , S ) } with V ′ ∈ { 0 , 400 , 2500 } . We further depict the contrast in outcomes in the two states of the world under the assumption that the two lotteries L ( E , V , S ) and L ( E , V ′ , S ) are perfectly negatively correlated.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) High Variance Mao Pairs Notes . Main experimental result in the treatment Skewed for problems with either A = { 0.1 , 0.5 } or A = { 0.5 , 0.9 } . This implies that the variance of the risky option is 16 V / 25 .",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Mao Pairs and Low Cognitive Skills Note . Main experimental result in the treatment Skewed for subjects with below median cognitive skills (as measured by correct answers to the financial literacy, CRT, and math questions).",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Mao Pairs and High Cognitive Skills Note . Main experimental result in the treatment Skewed for subjects with above median cognitive skills (as measured by correct answers to the financial literacy, CRT, and Math Questions).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Twin Problems and Low Cognitive Skills Note . Main experimental result in the treatment Symmetric for subjects with below median cognitive skills (as measured by the financial literacy, CRT, and math questions).",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Twin Problems and High Cognitive Skills Note . Main experimental result in the treatment Symmetric for subjects with above median cognitive skills (as measured by the financial literacy, CRT, and math questions).",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Twin Problems with γ ′ = 0",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Twin Problems with γ ′ = 1 3",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Twin Problems with γ ′ = 3",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Positively Correlated Mao Pairs",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Computationally and Comparatively Complex Mao Pairs Note . We plot the kernel density of the percentage share invested in the right-skewed asset of more and less skewed Mao pairs, respectively.",
+        "correlation": []
+    },
+    "12": {
+        "description": "(Color online) Empirical Cumulative Densities (CDFs) of the Differences in Response Times in Computationally Complex and Simple Problems Notes . We split the sample by the skewness of the underlying assets and, for symmetric assets, also by whether the problem is (P.1) or (P.2). For visually clarity, we smooth the empirical CDFs, and we censor the distributions at −10 and 40 seconds, respectively.",
+        "correlation": []
+    },
+    "13": {
+        "description": "(Color online) Number of Correctly Recalled Outcomes by the Skewness of the Assets Note . We consider only data that refers to comparatively and/or computationally complex problems, and we further restrict attention to subjects who had to recall the joint distribution of a perfectly negatively correlated Mao pair (in Skewed ) or the joint distribution of the assets in (P.1) of a twin problem (in Symmetric ).",
+        "correlation": []
+    },
+    "15": {
+        "description": "(Color online) Correlation Between the Share of Safe Options Chosen by a Subject Across All Problems and the Subject’s Cognitive Skills as Measured by Correct Answers to the Financial Literacy, Modified CRT, and Math Questions Notes . In the left panel, we depict the results for the treatment Skewed , whereas in the right panel, we depict the results for the treatment Symmetric . The red lines depict the fitted values of an OLS regression with 95% confidence intervals in gray. The black triangles depict the data points.",
+        "correlation": []
+    }
+}

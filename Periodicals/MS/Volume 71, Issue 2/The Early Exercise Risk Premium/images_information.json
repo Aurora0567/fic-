@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Put and Stock Characteristics and the Early Exercise Risk Premium Notes. The figure plots the effects of moneyness (panel (a)), days to maturity (panel (b)), and underlying asset volatility (panel (c)) on the theoretical GBM world early exercise risk premium in puts. We let moneyness range from 0.90 to 1.10, days to maturity from 30 (one month) to 90 (three months) days, and underlying asset volatility from 15% to 45% per annum. We describe the base case parameter values in Section 2.2.1 .",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) The Delta-Hedged Early Exercise Risk Premium Notes. The figure shows delta-hedged early exercise risk premiums in the SV (panel (a)) and SVJ (panel (b)) worlds across various puts. We calculate the delta-hedged premium as the raw premium in the SV or SVJ worlds in panels B and C of Table 2 minus the corresponding raw premium in the GBM world in panel A of that table, all respectively. The first, second, and third bar in each bar group signal in-the-money (strike-to-stock price: 1.05), at-the-money (1.00), and out-of-the-money (0.95) puts, respectively. The first number on the x -axis gives the days to maturity and the second the annualized underlying asset volatility. We describe the base case parameter values in Section 2.2.1 .",
+        "correlation": []
+    }
+}

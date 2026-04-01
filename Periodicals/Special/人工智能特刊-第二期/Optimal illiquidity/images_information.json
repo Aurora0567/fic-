@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "The optimal penalty π∗ and the notional Pigouvian tax 1−β as a function of β in the case in which: (i) the population has homogeneous β; (ii) the planner is confined to the N-account System with N=1 accounts, with penalty π. Note that π∗ is always lower than 1−β. In particular, π∗ is negative at β=1. This is due to the redistributive motive of the planner: she wishes to redistribute from types with low θ to types with high θ."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "The welfare of various β cross sections of the population as a function of π2 in the case in which: (i) the population has heterogeneous β; (ii) the planner is confined to an N-account System with N=2 accounts, with penalties π1 and π2 respectively; (iii) π1=0 (i.e., the first account is completely liquid); (iv) the account allocations are chosen to maximize the welfare of the population as a whole. Note that the sub-population with β=0.82 (not shown) is indifferent between the system with π2=0 and the system with π2=1."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "The total penalties paid by various β cross sections of the population as a function of π2 in the case in which: (i) the population has heterogeneous β; (ii) the planner is confined to an N-account System with N=2 accounts, with penalties π1 and π2, respectively; (iii) π1=0 (i.e., the first account is completely liquid); (iv) the account allocations are chosen to maximize the welfare of the population as a whole."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "The welfare of the population as a whole as a function of π2 in the case in which: (i) the population has heterogeneous β; (ii) the planner is confined to an N-account System with N=2 accounts, with penalties π1 and π2, respectively; (iii) π1=0 (i.e., the first account is completely liquid); (iv) the account allocations are chosen to maximize the welfare of the population as a whole. Note that: (i) while this is not immediately apparent from the figure, the function in question is non-monotone; (ii) the optimal penalty π2∗ is approximately 85%; (iii) π2∗ yields a proportional increase of approximately 0.00002% in money-metric welfare relative to the case in which π2=1 (i.e., the case in which the second account is completely illiquid). In particular, the welfare cost of setting the penalty on the second account too low far exceeds that of setting it too high."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "The distribution function of the ratio c2/c1 of period-2 consumption to period-1 consumption in the population as a whole in the case in which: (i) the population has heterogeneous β; (ii) the planner is confined to an N-account System with N=3 accounts, with penalties π1, π2 and π3, respectively; (iii) π1=0 (i.e., the first account is completely liquid); (iv) π3=1 (i.e., the third account is completely illiquid); (v) both π2 and the account allocations are chosen to maximize the welfare of the population as a whole. There are two atoms in the distribution: a large atom accounting for about 76% of the total mass near c2/c1=0.94; and a small atom accounting for about 1% of the total mass near c2/c1=1.70. Individuals at the second atom have withdrawn the entire balance from the first (liquid) account, but have not yet touched the second account. Individuals at the first atom have withdrawn the entire balance from both the first and the second accounts. In particular, they have paid the penalty π2 on the entire balance of the second account."
+        ],
+        "correlation": []
+    }
+}

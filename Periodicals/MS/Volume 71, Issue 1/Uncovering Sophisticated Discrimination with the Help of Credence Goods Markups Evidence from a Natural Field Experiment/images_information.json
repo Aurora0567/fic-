@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Distribution of Syrians Under Temporary Protection by Year Source. Presidency of Migration Management, Ministry of Interior, Republic of Turkey.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Average Repair Price in TRY and 95% Confidence Intervals, Conditional on Treatment Note. MAJ-ORD, majority customers in an ordinary goods market; MAJ-CRE, majority customers in a credence goods market; MIN-ORD, minority customers in an ordinary goods market; MIN-CRE, minority customers in a credence goods market.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Cumulative Distribution Function of Repair Prices (in TRY), Conditional on Treatment Note. MAJ-ORD, majority customers in an ordinary goods market; MAJ-CRE, majority customers in a credence goods market; MIN-ORD, minority customers in an ordinary goods market; MIN-CRE, minority customers in a credence goods market.",
+        "correlation": []
+    }
+}

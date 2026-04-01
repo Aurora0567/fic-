@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Location of TSDF vs. Non-TSDF Plants. The figure plots the location of Non-TSDF (Treated; Red dots) and TSDF (Control; Blue dots) in the United States. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "State Liability: Joint and Several. This figure highlights states with and without joint and several liability regimes, with states operating under a joint and several liability regime shaded."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Market Thickness. Leverage dynamics for different investment frequencies. This figure highlights counties with thick real estate markets for plants in operating in Chemical Manufacturing (Panel A), Fabricated Metal Product Manufacturing (Panel B), and Transportation Equipment Manufacturing (Panel C)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Pollution Dynamics. The figure presents the effect of the Brownfields Act on pollution activity surrounding the passage of the reform by plotting the coefficients(ηk) from the following Poisson model:yc,p,i,t=∑k=1998,k≠20012006ηk[Treatedi×I(Yeart=k)]+αpc+αct+αi+ϵc,p,i,t.The outcome variable, yc,p,i,t, is the pounds of toxic emissions. I(Yeart=k) is an indicator variable that equals one when the year t equals k and zero otherwise. αpc, αct, αi represents plant×chemical-, chemical×year-, and firm-fixed effects. The vertical bars display 95% confidence intervals. The vertical red dashed line separates pre- and post-2002 years. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Placebo Test. The figure plots the coefficient from replicating my baseline specification (Column(1) in Table 5) with treatment status randomly assigned across plants with parent firms in the same industry (2-digit SIC). The vertical red line represents the point estimate from Column(1) in Table 5. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Bankruptcy Risk and Pollution. The figure plots the non-parametric relation between bankruptcy risk and toxic emissions. The slop of the fitted line is −0.188, implying an elasticity of 17.1% (exp(−0.188)−1)."
+        ],
+        "correlation": []
+    }
+}

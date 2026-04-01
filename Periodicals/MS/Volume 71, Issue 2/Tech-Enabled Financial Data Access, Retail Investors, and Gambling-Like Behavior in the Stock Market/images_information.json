@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Retail Trading Volume Around the Shutdown of Yahoo! Finance API Notes. This figure plots the daily retail trading volume ( Retail_Vol ) around the shutdown of Yahoo! Finance API for retail-favored stocks (solid line) and other stocks (dashed line). The y -axis is retail trading volume scaled by total shares outstanding multiplied by 100. In panel (a), we use retail holding to proxy for the revealed preference of retail investors. Panels (b) and (c) designate lottery-like and small-cap stocks as alternative proxies for retail-favored stocks. The vertical dashed lines indicate the shutdown of Yahoo! Finance API.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Weekly DID Estimates Notes. This figure plots the estimated difference in abnormal retail trading volume between retail-favored stocks and other stocks. The dots are the point estimates for RFS , and the vertical lines are the corresponding 90% confidence intervals of the weekly average DID coefficients. Specifically, we regress abnormal retail trading volume on the interaction of RFS and a series of dummy variables indicating each week relative to the API shutdown during the two-month sample period centered around the shutdown. The regression includes firm fixed effects, date fixed effects, and daily control variables (Return, Return 2 , daily news coverage). 0W is the first week when the Yahoo! Finance API was shut down.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "(Color online) Scatterplot Partitioning with H = 10 and H = 100 for Hypothetical Y and X i Note. The upper graphs display the scatterplot and the partitions, the lower graphs the corresponding empirical distributions (empirical densities are available in this case).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Estimates of ι ( Y , X i ) , ι W B ( Y , X i ) and Adv ( Y , X i ) at Increasing Sample Sizes and Varying Partitions for the Ishigami Function Notes. (a) Asymptotic behavior of the estimates of ι ( Y , X i ) (circle, ∘ ), ι WB ( Y , X ) (square, □ ), Adv ( Y , X i ) (diamonds, ⋄ ) for the Ishigami function. Red, importance measures of X 1 ; blue, importance measures of X 2 ; black, importance measures of X 3 . (b) Values at n = 200,000 and H = 60. Estimates of ι ( Y , X i ) , ι W B ( Y , X i ) , and Adv ( Y , X i ) at n = 200,000 for the Ishigami function.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Numerical Estimation of Probabilistic Sensitivity Measures for the n X = 999 and n X = 9,999 Correlated Normal Random Variables Test Case Notes. Boxplots represent variability over 20 replicates. The sample size increases from n = 50 to n = 500,000. (a) Correlated normal test case with n X = 999. (b) Correlated normal test case with n X = 9,999.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Estimates of ι ( Y , X i ) , and ι ϵ ( Y , X i ) for the Multivariate-Output Analytical Test Case Notes. Vertical axis: ι ^ ( Y , X i ) , ⋄ , and ι ϵ ^ ( Y , X i ) , ∘ . Horizontal axis: partition cardinality varies from H = 5 to H = 200. Dotted lines represent estimates; continuous lines analytical values (in Table 1 ).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Estimates of ι ( Y , X i ) (Vertical Axis) with Four OT-Solvers for the Model in ( 44 ) Note. Sample sizes (horizontal axis) vary from n = 50 to n = 1,000.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Global Sensitivity Analysis of the Final Profit of the ATO Simulator Notes. (a) First row: scatterplot partitioning. Second row: corresponding conditional densities. (b) Estimates of ι ( Y , X i ) , ι W B ( Y , X i ) , Adv ( Y , X i ) for the ATO final profit.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Results for the Multivariate Output of the ATO Simulator Notes. (a) Estimates of ι WB ( Y , X i ) and Adv ( Y , X i ) for the ATO inventory level. (b) Inputs ranks on profit and final inventory of the ATO simulator.",
+        "correlation": []
+    }
+}

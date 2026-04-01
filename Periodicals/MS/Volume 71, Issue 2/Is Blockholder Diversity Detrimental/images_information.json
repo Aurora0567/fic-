@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "(Color online) Time Trend of Block Ownership Notes. This figure demonstrates the evolution of block ownership between 1998 and 2016. We classify each block into one of the following four categories: Financial institution (i.e., blockholders that file a 13F form, but are not a hedge fund as defined in the next category), Hedge fund (i.e., blockholders that Brav et al. (2009 , 2015 ) identify as hedge funds), Individual (i.e., blockholders identified as individuals by filing under items 12 and 14 in 13G and 13D forms, respectively), and Other private entity (i.e., blockholders that do not file a 13F form and are not classified under one of the prior three categories). Block ownership data are manually collected from 13D and 13G filings. The sample is based on the merged CRSP/Compustat database and consist of 80,542 firm-year observations. (a) Firms’ average number of blocks, broken down by block type and year. (b) Firms’ average total block ownership (in percentage), broken down by block type and year.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Time Trend of Block Ownership Composition Notes. We classify each block into one of following four categories: Financial institution (i.e., blockholders that file a 13F form, but are not a hedge fund as defined in the next category), Hedge fund (i.e., blockholders that Brav et al. (2009 , 2015 ) identify as hedge funds), Individual (i.e., blockholders identified as individuals by filing under items 12 and 14 in 13G and 13D forms, respectively), and Other private entity (i.e., blockholders that do not file a 13F form and are not classified under one of the prior three categories). For each company we estimate the total number of different types of blockholders holding the firm in a given year. (a) Time trend in block ownership composition by reporting the average number of block types broken down by year. (b) Aaverage number of blocks by firm age.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Evolution of Block Diversity",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Number of 13G Filings Filed Notes. The figures report the number of 13G schedules filed in the period 1998–2016. Panel A reports this figure broken down by week, while Figure B reports this figure for the month of February, broken down by day.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Cumulative Abnormal Returns Around Delayed 13G Filings Notes. This figure reports the cumulative abnormal returns (CAR) around 13G filings filed in the period February 1–17, during the 1998–2016 period, by blockholders revealing for the first time their block position. The green line reports CARs for filings revealing that block diversity was maintained, while the red dashed line reports CARs for filings revealing that block diversity increased. Precise figures for CARs are reported in Table below the figure. ***, **, and *Significance at the 1%, 5%, and 10% levels, respectively.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Consensus Among Shareholders Notes. (a) This figure demonstrates how the measure Consensus among shareholders is estimated. For any proposal for which shareholders vote upon at a shareholder meeting, the percentage of votes cast consistent with management recommendation can range between 0% and 100%. At exactly these two extreme points, complete consensus among shareholders exists, since all shareholders cast an identical vote. Consensus among shareholders is at the lowest possible point when exactly 50% of the votes cast are consistent with management recommendation, and exactly 50% of the votes cast are inconsistent with management recommendation, since at this point half of the voted shares conflict with the other half of the voted shares. Accordingly, as this figure demonstrates, to create a measure for the Consensus among shareholders we use the following formula: absolute value (fraction voted with management, 0.5). This variable ranges from 0.5 (perfect consensus) to 0 (minimal consensus). (b) This figure reports the number of votes held between 2003 and 2016, broken down by the fraction of votes cast consistent with management recommendation.",
+        "correlation": []
+    }
+}

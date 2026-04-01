@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Results of Experiment 1 Notes . This figure shows the mean worker performance in Experiment 1 by treatment group. Treatments are described in Table 1 . Performance is measured by the number of points scored in the “a”/“b”-pressing task. Horizontal lines correspond to the 95% confidence intervals. For corresponding regression results, see Table A.2 in the Online Appendix.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Partial Dependence Comparisons (Example) Notes . This figure shows the difference in partial dependence for the features age and one of our measures of altruism between the RTR Feedback scheme and the Bonus Loss scheme (i.e., the incentive scheme with the highest point estimate in the first experiment) as well as between the Social PfP scheme and the Bonus Loss scheme. The altruism item is z scored. The construction of the plots is described in detail at the end of Section 3 . See Figures A.5 and A.6 in the Online Appendix for further partial dependence plots.",
+        "correlation": []
+    }
+}

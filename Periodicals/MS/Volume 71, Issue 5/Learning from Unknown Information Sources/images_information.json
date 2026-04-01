@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Illustration of Uncertainty-Induced Insensitivity and Uncertainty Aversion in a CEU Model",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Simple Priors with Simple and Uncertain Information Notes. The left panel of this figure illustrates what underreaction, pessimism, and confirmation bias each predict about the comparisons between belief updating with simple and uncertain information. Neutral news refers to any report whose (midpoint) accuracy is 50%. Good (bad) news is a good (bad) report that is nonneutral news. The right panel compares the mean CEs of simple bets conditional on simple, compound, and ambiguous information in the experiment. Each group of bars corresponds to a combination of prior and information. For example, “odds=30%, accu=70%” in the upper right graph represents tasks where the prior is 30% and the information is good news with 70% (midpoint) accuracy. Error bars represent 95% confidence intervals.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Reactions to Forecast Revisions Notes. This figure shows the average size-adjusted returns from one trading day before the forecast announcement to one trading day, one month, and two months after the forecast announcement, normalized by the average three-month returns. The left and right panels plot reactions to upward and downward forecast revisions, respectively. Error bars represent standard errors calculated using the delta method.",
+        "correlation": []
+    }
+}

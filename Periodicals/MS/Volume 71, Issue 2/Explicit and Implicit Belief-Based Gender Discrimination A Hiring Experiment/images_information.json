@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Screen in the H iring E xperiment Notes. (i) The figure displays a replication of an example screen that an employer would face in the experiment. (ii) The placement (left or right) on the screen of candidates was randomized. (iii) This example corresponds to “gender decision” 𝐺 𝑒 𝑛 𝐾 Gen K faced by employers. (iv) The gendered icons shown in the figure were identical for all CVs of the respective gender.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Ultimate Hiring Choices in Complex and Gender Decisions Notes. (i) Panel (a) reports the propensity to hire the male candidate in the two complex decisions. (ii) Panel (b) reports the propensity to hire the male candidate in the two gender decisions. (iii) Error bars show 95% confidence intervals. (iv) The dashed horizontal line indicates the nondiscrimination benchmark, namely, hiring men and women at the same rate.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Ultimate Hiring Choices in Simple Decisions Notes. (i) The figure shows the propensity to hire the more qualified candidate in the four simple decisions, where the gender and certificate of the more qualified candidate vary. (ii) As described in Table 1 , in decisions 𝑆 𝑖 𝑚 𝑓 ⁢ 𝐾 Sim f ⁢ K and 𝑆 𝑖 𝑚 𝑓 ⁢ 𝑊 Sim f ⁢ W the more qualified candidate is female, with a knowledge certificate in the former and a word certificate in the latter; analogously, in decisions 𝑆 𝑖 𝑚 𝑚 ⁢ 𝐾 Sim m ⁢ K and 𝑆 𝑖 𝑚 𝑚 ⁢ 𝑊 Sim m ⁢ W the more qualified candidate is male, with a knowledge certificate in the former and a word certificate in the latter. (iii) In all four decisions, the comparison is between a male and a female candidate. (iv) Error bars show 95% confidence intervals. (v) The dashed horizontal line indicates an equal aggregate propensity to hire both candidates in a particular choice.",
+        "correlation": []
+    }
+}

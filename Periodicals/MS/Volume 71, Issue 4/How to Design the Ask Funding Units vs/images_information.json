@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Instructions of Main Treatments",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Incremental Effects by Outcome Variable and Unit Size Notes. The figure shows the incremental effects when successively moving from a money donation to a unit donation scheme. Info refers to the effect of adding cost-per-unit information to a pure money donation scheme. Frame refers to the effect of framing the ask in terms of physical units instead of money (in addition to providing cost-per-unit information). Grid refers to the effect of restricting the donations to full units of the charitable good (in addition to providing cost-per-unit information and framing the ask in physical units). Total refers to the total effect of using a unit donation instead of a money donation scheme. The estimates are based on simple OLS regressions without covariates (as introduced in Sections 4.1 and 4.2 ). The panels on the left ((a), (c), and (e)) focus on the small unit size, whereas the panels on the right focus on the large unit size. The whiskers represent 95% confidence intervals based on robust standard errors.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Distribution of Donations by Treatment",
+        "correlation": []
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "1": {
+        "description": [
+            "Triangular probability density functions (pdfs) with different modes m.This figure shows the triangular pdf’s used to simulate residual maturity of the one control bond sample with mode m=0.25 years and the four samples of treated bonds with modes m=0.25,1,3, and 10 years while residual maturity x ranges from zero to twenty years (x∈[0,20]) for either sample. The vertical lines mark the cutoff points in the process of building maturity buckets, namely 2, 5, and 10 years (discussed in later sections of the paper)."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Modeling idiosyncratic effects in the term structure of interest rates.To model the term structure we employ Diebold and Li’s (2006) yield-curve specification. The mini table underneath each plot shows the parameter values to create the true underlying term structures as well as the resulting yield levels and yield differences at selected maturities. Figs. 2a and 2b provide graphical illustrations of the resulting yield and differences curves when there is an idiosyncratic short-end or a long-end effect, respectively, from pre- to post-treatment."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "False treatment effects graphically.This figure shows estimated treatment effects when the modeled term structure exhibits heterogeneous idiosyncratic effects along the maturity dimension but there is no true treatment effect present in the data. The specification is ɛyieldit=αi+δt+βDiD1Treated,i×1Post,t+ɛit, where yieldit is the yield-to-maturity of bond i at time t, the αi’s (δt’s) are bond (time) fixed effects, 1Treated,i (1Post,t) is a treatment (event and post-event dates) indicator variable, βDiD the treatment effect, and ɛɛit the error term. The specification is estimated with OLS. The (black) crosses show the 8000 estimated DiD coefficients plotted against their t-statistics across the two idiosyncratic effects, the four modes m of treated bonds, and the 1000 families of sample couplets. The vertical dashed (red) lines mark the values of ±1.653 (two-sided confidence bands using 10%-significance level). The distributions of the corresponding numbers are in Panel A in the table underneath. Panel B (C) shows the DiD coefficient distributions for the idiosyncratic short-end (long-end) effect by mode m. The t-statistics are based on standard errors clustered at the bond level. Panel D shows the distributions of the correlation between residual maturity and the treatment assignment. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Modeling term-structure treatment effects.To model the term structure we employ Diebold and Li’s (2006) specification. The mini table underneath each plot shows the parameter values to create the true underlying term structures as well as the resulting yield levels and yield differences at selected maturities. Figs. 4a and 4b provide graphical illustrations of the resulting yield and differences curves when there is a yield-curve treatment twist and a yield-curve treatment short-end effect, respectively, from pre- to post-treatment."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Garbled treatment effects graphically.Figs. 5a and 5b show true and measured treatment effects on the 1000 families of sample couplets for yield-curve treatment twist and treatment short-end effect, respectively, using OLS to estimate the same specification as in Fig. 3. From left to right, the graphs plot the true treatment effect over maturity, the distributions (box plots) if maturity of the treated bonds is drawn from triangular pdfs with m=0.25 years (purple diamonds) or m=10 years (green squares), and the estimated treatment effects against the t-statistics. The vertical dashed (red) lines in the plots to the far right mark the values of ±1.653 (two-sided confidence bands using 10%-significance level). The t-statistics are based on standard errors clustered at the bond-level. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Illustration of semi-synthetic matching.This illustration is based on a random sample couplet when m=0.25 years for both control and treated bonds. Figs. 6a and 6b provide graphical illustrations for semi-synthetic matching when there is an idiosyncratic yield-curve effect only at the short-end or only at the long-end, respectively. In each plot, given the idiosyncratic yield-curve effects there is either an additional yield-curve treatment twist or a yield-curve treatment effect predominantly at the short-end. The solid (blue) line in each plot shows the change in the estimated control-bond curve from pre- to post treatment using Diebold–Li (2006). The (green) crosses and (red) diamonds in each plot show the changes in the treated bond yields from pre- to post-treatment for a yield-curve treatment twist and predominantly short-end effect, respectively. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

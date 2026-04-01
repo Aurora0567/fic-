@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Percentage of Ads by Progress in the Spell Notes . (a) Ad-initiated searches. (b) Ad-initiated website arrivals.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Average Statistics by Quantiles of Ad-Initiated Searches per Spell",
+        "correlation": []
+    },
+    "3": {
+        "description": "Ad Types Notes . (a) Percentage of searches by ad type. (b) Percentage of transactions by ad type.",
+        "correlation": []
+    }
+}

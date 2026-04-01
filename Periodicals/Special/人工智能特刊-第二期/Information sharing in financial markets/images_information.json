@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Timeline."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Payoff matrix of the date-0 information sharing game."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Information sharing between imperfectly informed investors."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Multiple Ls and Hs."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Publicly shared information."
+        ],
+        "correlation": []
+    }
+}

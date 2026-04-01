@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Interest rates and observable risk.This figure presents a binned scatterplot of the interest rate and the interest rate net of the total g-fee on observable risk while controlling for origination year-month fixed effects. Observable risk is the estimated probability of default based on the credit score, loan-to-value ratio, and debt-to-income ratio as described in Section 2.1.Mortgage Loan Information System (Fannie Mae and Freddie Mac),2016–2017, restricting to fixed rate, 30-year, purchase or no cash-out refinance loans for one-unit, owner-occupied, single-family detached houses and excluding high balance loans exceeding the base conforming loan limit, loans with subordinate financing, loans with a loan-to-value ratio exceeding 80%, and loans where the upfront g-fee deviates from the first table of the g-fee matrix by more than 25 basis points."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Interest rates and observable risk: average and dispersion.This figure shows the 10th percentile, 90th percentile, and average of the spread of the interest rate net of the total g-fee relative to the best available rate for approximate deciles of observable risk. The best available rate is determined by computing the 10th percentile of the interest rate net of the total g-fee for the borrowers in the lowest quartile of observable risk in each week (i.e., observable risk less than 12.5 basis points for the average week). Observable risk is the estimated probability of default based on the credit score, loan-to-value ratio, and debt-to-income ratio as described in Section 2.1.Mortgage Loan Information System (Fannie Mae and Freddie Mac),2016–2017, restricting to fixed rate, 30-year, purchase or no cash-out refinance loans for one-unit, owner-occupied, single-family detached houses and excluding high balance loans exceeding the base conforming loan limit, loans with subordinate financing, loans with a loan-to-value ratio exceeding 80%, and loans where the upfront g-fee deviates from the first table of the g-fee matrix by more than 25 basis points."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Interest rates and default.This figure presents a binned scatterplot of default (multiplied by 100) on the interest rate net of the total g-fee while controlling for origination year-month fixed effects and observable risk, as well as a version that does not control for observable risk. Observable risk is the estimated probability of default based on the credit score, loan-to-value ratio, and debt-to-income ratio as described in Section 2.1.Mortgage Loan Information System (Fannie Mae and Freddie Mac),2016–2017, restricting to fixed rate, 30-year, purchase or no cash-out refinance loans for one-unit, owner-occupied, single-family detached houses and excluding high balance loans exceeding the base conforming loan limit, loans with subordinate financing, loans with a loan-to-value ratio exceeding 80%, and loans where the upfront g-fee deviates from the first table of the g-fee matrix by more than 25 basis points."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Application denials and observable risk.This figure presents a binned scatterplot of the denial rate for mortgages accepted by the GSEs’ automated underwriting systems on observable risk. Observable risk is the estimated probability of default based on the credit score, loan-to-value ratio, and debt-to-income ratio as described in Section 2.1. Observable risk is estimated using the MLIS data.confidential HMDA, 2018, restricting to approved or denied applications accepted by the GSE automated underwriting systems for conventional, 30-year, purchase or no cash-out refinance, first lien loan applications for one-unit, owner-occupied, single-family non-manufactured houses and excluding high balance loans exceeding the base conforming loan limit and loans with a combined loan-to-value ratio exceeding 80%. We also exclude denials due to incomplete applications and insufficient cash at closing."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Interest rates and defaults at the g-fee thresholds.These figures restrict to loans with a loan-to-value (LTV) ratio and credit score such that the credit score is within 10 points of a threshold where the upfront g-fee changes by at least 50 basis points. Fig. 5(a) shows a binned scatterplot of the interest rate on credit score (minus the respective threshold) while controlling for threshold by year-month fixed effects. Fig. 5(b) is similar except that the y-axis corresponds to the default rate.Mortgage Loan Information System (Fannie Mae and Freddie Mac),2016–2017, restricting to fixed rate, 30-year, purchase or no cash-out refinance loans for one-unit, owner-occupied, single-family detached houses and excluding high balance loans exceeding the base conforming loan limit, loans with subordinate financing, loans with a loan-to-value ratio exceeding 80%, loans with debt-to-income ratio up to 43%, and loans where the upfront g-fee deviates from the first table of the g-fee matrix."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "The Effects of Intermediaries.These figures show various features of the model of the baseline model (in which lenders screen the applicant, approve or deny the application, and engage in imperfect competition to determine the interest rate) and the counterfactual (a setting where all applications approved by the GSEs are originated and the interest rate is determined by a zero-profits condition) for various levels of λd. The denial rate is the probability that a consumer’s loan application is rejected. The default rate is the fraction of approved applications that consist of defaulting consumers. The interest rate (IR) for the baseline model, which is reported in basis points, is decomposed as the origination cost (which is the zero-profits interest rate), the information cost (which is the cost associated with the information level ψ), and markups less information cost. See Table 6 for parameters."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Empirical comparison of banks and nonbanks.Fig. 7(a) presents a binned scatterplot of dummy variables indicating whether a loan was sold to the GSEs by a bank or a nonbank on observable risk while controlling for origination year-month fixed effects. These estimates correspond to the respective market shares. Observable risk is the estimated probability of default based on the credit score, loan-to-value ratio, and debt-to-income ratio as described in Section 2.1. Fig. 7(b) presents a binned scatterplot of the interest rate net of the total g-fee on observable risk while controlling for origination year-month fixed effects and splitting by bank and nonbank sellers. Fig. 7(c) presents a binned scatterplot of default (multiplied by 100) on the interest rate net of the total g-fee while controlling for origination year-month fixed effects and observable risk and splitting by bank and nonbank sellers.Mortgage Loan Information System (Fannie Mae and Freddie Mac),2016–2017, restricting to fixed rate, 30-year, purchase or no cash-out refinance loans for one-unit, owner-occupied, single-family detached houses and excluding high balance loans exceeding the base conforming loan limit, loans with subordinate financing, loans with a loan-to-value ratio exceeding 80%, and loans where the upfront g-fee deviates from the first table of the g-fee matrix by more than 25 basis points."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Comparison of heterogeneous ω, k, and ρ.These figures show various features of the version of the model with 2 lenders and heterogeneous loss given default ω (left panels), heterogeneous cost of screening k (middle panels), or heterogeneous funding costs (right panels). The origination market share refers to the share of originated loans associated with a particular lender. The interest rate (IR), which is reported in basis points, is the signal-weighted average interest rate, as described further in Section 4.3. The default rate is the fraction of approved applications that consist of defaulting consumers."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Model emulation of banks and nonbanks.These figures show various features of the version of the model with a bank lender and a nonbank lender. The nonbank lender has higher funding costs ρ and lower loss given default ω. The origination market share refers to the share of originated loans associated with a particular lender. The interest rate (IR), which is reported in basis points, is the signal-weighted average interest rate, as described further in Section 4.3. The default rate is the fraction of approved applications that consist of defaulting consumers."
+        ],
+        "correlation": []
+    }
+}

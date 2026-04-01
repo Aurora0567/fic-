@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Examples of Yelp Ratings Notes. The figures show examples of Yelp ratings for two sample businesses. Yelp displays ratings in the form of stars with half-star increments. The top business has a Yelp rating of 4 stars and the bottom business has a Yelp rating of 4.5 stars.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Example of Yelp Data Notes. This figure shows a sample business listed on Yelp. For each business, I observe the business name (i.e., Bacaro), Yelp business category (i.e., American, Italian, Lounges), address (i.e., 113 N Walnut St, Champaign, IL 61820), price range (i.e., $$$ and $31–60), each reviewer rating and review date (i.e., for example, 5 stars, 1/2/2017).",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Yelp Data Coverage Notes. This map plots Yelp data coverage at the county level. Yelp data are available from 2004 to 2016. The number of businesses is aggregated to the county level to produce the figure. Regions range from darker (counties with higher numbers of businesses on Yelp) to lighter (counties with lower numbers of businesses on Yelp).",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) SBA Loan Data Coverage Notes. This map plots SBA loan data coverage at the county level. SBA loan data are available from 2004 to 2016. The number of SBA 7(a) loans is aggregated to the county level to produce the figure. Regions range from darker (counties with higher numbers of SBA loans) to lighter (counties with lower numbers of SBA loans).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Loan Spread Notes. The figures plot the SBA loan spread as a function of Yelp ratings around each cutoff. Yelp rounds the average ratings of the businesses up and down to the nearest half point based on predetermined cutoffs. On a scale from 1 to 5, the ratings 1.25, 1.75, 2.25, 2.75, 3.25, 3.75, 4.25, and 4.75 are the cutoff points, and the graphs are displayed accordingly. Businesses with average ratings above (below) the cutoffs are assigned Yelp ratings that are rounded up (down) to the nearest half point. Yelp ratings are recentered around their respective cutoffs to zero. For every Yelp rating bin, the dots represent the average SBA loan spread in that bin, calculated as the average loan spread across all loans within the bin. The lines are first order polynomials fitted through the loan spreads on each side of the cutoff. The shaded regions represent the 95% confidence bounds.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Loan Collateral Notes. The figures plot the collateral required for SBA loans as a function of Yelp ratings around each cutoff. Yelp rounds the average ratings of the businesses up and down to the nearest half point based on predetermined cutoffs. On a scale from 1 to 5, the ratings 1.25, 1.75, 2.25, 2.75, 3.25, 3.75, 4.25, and 4.75 are the cutoff points, and the graphs are displayed accordingly. Businesses with average ratings above (below) the cutoffs are assigned Yelp ratings that are rounded up (down) to the nearest half point. Yelp ratings are recentered around their respective cutoffs to zero. For every Yelp rating bin, the dots represent the average collateral required in that bin, which is calculated as the collateral for each loan divided by the respective total loan amount averaged across all loans within the bin. The lines are first order polynomials fitted through the required loan collateral on each side of the cutoff. The shaded regions represent the 95% confidence bounds.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Loan Default Indicator Notes. The figures plot the default indicator as a function of Yelp ratings around each cutoff. Yelp rounds the average ratings of the businesses up and down to the nearest half point based on predetermined cutoffs. On a scale from 1 to 5, the ratings 1.25, 1.75, 2.25, 2.75, 3.25, 3.75, 4.25, and 4.75 are the cutoff points, and the graphs are displayed accordingly. Businesses with average ratings above (below) the cutoffs are assigned Yelp ratings that are rounded up (down) to the nearest half point. Yelp ratings are recentered around their respective cutoffs to zero. For every Yelp rating bin, the dots represent the average probability of default in that bin, which is calculated as the number of loans default over the total number of loans within the bin. The lines are first order polynomials fitted through the probabilities of default on each side of the cutoff. The shaded regions represent the 95% confidence bounds.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Loan Charge-off Amount Notes. The figures plot the SBA loan write-off amount upon default as a function of Yelp ratings around each cutoff. Yelp rounds the average ratings of the businesses up and down to the nearest half point based on predetermined cutoffs. On a scale from 1 to 5, the ratings 1.25, 1.75, 2.25, 2.75, 3.25, 3.75, 4.25, and 4.75 are the cutoff points, and the graphs are displayed accordingly. Businesses with average ratings above (below) the cutoffs are assigned Yelp ratings that are rounded up (down) to the nearest half point. Yelp ratings are recentered around their respective cutoffs to zero. For every Yelp rating bin, the dots represent the average write-off amount in that bin, which is calculated as the write-off amount for each loan divided by the respective total loan amount averaged across all loans within the bin. The lines are first order polynomials fitted through the write-off amounts on each side of the cutoff. The shaded regions represent the 95% confidence bounds.",
+        "correlation": []
+    }
+}

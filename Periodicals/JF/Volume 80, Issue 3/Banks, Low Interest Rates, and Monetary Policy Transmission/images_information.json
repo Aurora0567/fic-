@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "Steady-state nominal rates for loans (red line) and deposits (blue line) as a function of nominal interest rate \n\ni\n$i$\n. The \n\n\n45\n∘\n\n$45^{\\circ }$\n solid black line shows the nominal bond rate \n\ni\n$i$\n and the dotted line shows the inflation rate \n\nπ\n$\\pi$\n. The vertical gray line denotes the threshold \n\n\ni\n¯\n\n$\\bar{i}$\n. Left panel: Changes in \n\nG\n$G$\n. Right panel: Changes in \n\nπ\n$\\pi$\n.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Threshold \n\n\ni\n¯\n\n$\\bar{i}$\n as a function of parameters \n\nρ\n$\\rho$\n, \n\nχ\n$\\chi$\n, \n\nθ\n$\\theta$\n, and \n\nα\n$\\alpha$\n.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Steady-state quantities as a function of nominal interest rate \n\ni\n$i$\n for changes in \n\nG\n$G$\n or \n\nπ\n$\\pi$\n. The vertical gray line denotes \n\n\ni\n¯\n\n$\\bar{i}$\n. In the top right panel, the dotted line “Loans (unconstrained)” denotes loan demand under a zero loan spread.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Welfare as a function of inflation target. Left panel: Steady-state welfare for savers \n\n\nW\ns\n\n$W^s$\n (solid line) and borrowers \n\n\nW\nb\n\n$W^b$\n (dotted line) as a function of \n\nπ\n$\\pi$\n, in deviation from their values at \n\n\nπ\n=\n2\n%\n\n$\\pi =2\\%$\n. Right panel: Aggregate welfare \n\n\n\nλ\ns\n\n\nW\ns\n\n+\n\n(\n1\n−\n\nλ\ns\n\n)\n\n\nW\nb\n\n\n$\\lambda ^s W^s + (1-\\lambda ^s) W^b$\n for different welfare weights on savers \n\n\nλ\ns\n\n$\\lambda ^s$\n.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Short-run versus long-run responses of bank lending and deposits to lower \n\n\nr\n∗\n\n$r^{*}$\n. Path of loans and deposits following a date-0 permanent decrease in \n\n\nr\n∗\n\n$r^*$\n from 4% to 2% due to a 1 percentage point decrease in \n\nG\n$G$\n and a 1 percentage point increase in \n\nβ\n$\\beta$\n, measured in percentage change relative to the initial steady state.",
+        "correlation": []
+    },
+    "6": {
+        "description": "Short-run versus long-run responses of lending to lower \n\n\nr\n∗\n\n$r^{*}$\n varying maturity mismatch. Path of lending following a date-0 permanent decrease in \n\n\nr\n∗\n\n$r^*$\n from 4% to 2%, measured in percentage change relative to the initial steady state.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Short-run versus long-run responses of lending to lower \n\n\nr\n∗\n\n$r^{*}$\n under alternative leverage constraints (4) and (17). Path of lending following a date-0 permanent decrease in \n\n\nr\n∗\n\n$r^*$\n from 4% to 2%, measured in percentage change relative to the initial steady state.",
+        "correlation": []
+    },
+    "8": {
+        "description": "Decomposing the difference between the yields earned on loans and paid on deposits. Left panel: “Loan rate” is loan income divided by total loans. “Deposit rate” is deposit expense divided by total deposits. “Replicating portfolio” is described in the text. The blue area is the difference between the yield on the replicating Treasury portfolio and the deposit yield, and the red area is the difference between the loan yield and the yield on the Treasury portfolio. Sources: Call Reports and Federal Reserve data. Right panel: Model-implied loan spread \n\n\ns\nl\n\n$s^l$\n (red area) and deposit spread \n\n\ns\nd\n\n$s^d$\n (blue area) in response to a 2000 shock to the expected path of bond rates \n\n\nr\nt\n\n$r_t$\n that matches the realized rates from 2000 to 2018.",
+        "correlation": []
+    }
+}

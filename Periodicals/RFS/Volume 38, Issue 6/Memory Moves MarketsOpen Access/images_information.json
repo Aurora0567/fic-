@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Calendar rotations: An example.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Return dynamics and long-run reversal. This figure traces out the return dynamics in response to a memory cue by showing results from 50 separate regressions. The dependent variable in each regression is the cumulative return over a different return window, ranging from [|$t,t+1$|] to [|$t,t+50$|]. The dots in the figure represent the coefficients on the cue dummy, along with 95% confidence intervals, from each regression. All regressions include the full set of controls from Table 2 and firm-year-quarter fixed effects. Standard errors are clustered by firm and trading day.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Retail order imbalance dynamics. This figure traces out the dynamics of retail order imbalance, constructed using the Barber et al. (2024) algorithm, in response to a memory cue by showing results from 50 separate regressions. The dependent variable in each regression is the average retail order imbalance over a different time window, ranging from [|$t,t+1$|] to [|$t,t+50$|]. The dots in the figure represent the coefficients on the cue dummy, along with 95% confidence intervals, from each regression. All regressions include the full set of controls from Table 3 and firm-year-quarter fixed effects. Standard errors are clustered by firm and trading day.",
+        "correlation": []
+    },
+    "A": {
+        "description": "Retail order imbalance dynamics (odd lots). This figure traces out the dynamics of retail order imbalance, constructed using the Boehmer et al. (2021) algorithm, in response to a memory cue by showing results from 50 separate regressions. The dependent variable in each regression is the average retail order imbalance, constructed using only odd lot trades, over a different time window, ranging from [|$t,t+1$|] to [|$t,t+50$|]. The dots in the figure represent the coefficients on the cue dummy, along with 95% confidence intervals, from each regression. All regressions include the full set of controls from Table 3 and firm-year-quarter fixed effects. Standard errors are clustered by firm and trading day.",
+        "correlation": []
+    }
+}

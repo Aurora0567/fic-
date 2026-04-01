@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "(Color online) Plot of α ( x ) = [ 1 − g ( x ) + ∫ 0 x ( min { g ( y ) , g ( x ) − g ( y ) 1 − g ( y ) } ) d y ] for g ( x ) = e 1.15 ( x − 1 )",
+        "correlation": []
+    }
+}

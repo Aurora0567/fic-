@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Difference in APR Residuals and Number of Loans Across Deciles of Credit Score Notes. This figure presents the difference in APR residuals and number of loans between human- and machine-underwritten loans. Loans in our experiment are divided into deciles of credit score each month. The dashed line depicts the difference in APR residuals between human- and machine-underwritten loans. The solid line represents the difference in the number of loans underwritten by human vs. machine. APR residuals are from a regression of APR on a full set of characteristics, including LTV, loan amount, loan term, discount, DTI, credit score, homeownership, prior bankruptcy, whether the vehicle is used or new, and vehicle age, as well as year-month, dealer, make, and model fixed effects.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Percentage of Loans Funded by Human Underwriters Around LTV of 125% Notes. This figure presents the percentage of loans that are underwritten by humans for a sample spanning loan-to-value (LTV) ratios from 122.5% to 127.5%. The vertical dashed line represents the loan-to-value threshold of 125%. The hollow circles show the percentage of loans underwritten by humans for LTV bins of 0.1%. The fitted lines show the polynomial fit of the average percentage values at corresponding LTV values, and the surrounding areas show the 95% confidence interval.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Loan Profit Across Risk Buckets Notes. The figure presents average loan profit of human- and machine-underwritten loans across buckets of default likelihood. The sample includes loans with LTV between 124.5% and 125%. Loans are grouped into buckets based on their default likelihood (generated from the credit model in Online Appendix A). The dark color bars represent the average profitability of human-underwritten loans, and the light color bars represent the average profitability of machine-underwritten loans.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Difference in Loan Profit Across Dimensions of Customers’ Characteristics Notes. This figure shows the difference in loan profit of machine- vs. human-underwritten loans across two dimensions of customer characteristics: credit score and debt-to-income (DTI). A borrower with a high DTI and a low credit score is riskier than a borrower with a low DTI and a high credit score. The figure shows that the combination of low credit score and high DTI results in a greater loan profit for machine-underwritten loans.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Difference in Loan Profit Across Deciles of Complexity Notes. (a) Forecast errors of the ML model. (b) Forecast errors of a linear model. This figure shows the loan profits of machine- and human-underwritten loans across deciles of complexity. The complexity measure is constructed as described in Section 5.2.2 . The complexity measure in (a) is based on default prediction errors from the machine learning model, and the complexity measure in (b) is based on the linear model. The lines with triangle (square) symbols show the average profit of loans underwritten by humans (machine). The surrounding areas show the 95% confidence interval.",
+        "correlation": []
+    }
+}

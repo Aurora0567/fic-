@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "(Color online) Delivery Schedule and Account Settings Notes . (a) Delivery schedule settings. (b) Account settings.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) SKU, Order, and Delivery Information Notes . (a) SKU display. (b) Itemized order information. (c) Delivery confirmation.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Assortment Count over Time",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Overlapping Assortment Between Two Consecutive Weeks Notes . Overlapping assortment is shaded in a darker color. All 207 SKUs are included. The figure is generated based on pair-wise comparison between two consecutive weeks (i.e., weeks 1 and 2, weeks 2 and 3, and so forth). For example, the corresponding region between week 1 and week 2 is shaded in a darker color if an SKU is available in week 1 and also available in week 2, whereas the region between week 2 and week 3 is shaded in a lighter color if an SKU is available in week 2 but not available in week 3.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Order Size and Scope Distributions Notes . (a) Order size (number of boxed units). (b) Order scope (number of SKUs).",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Baseline Utility vs. Satiation Notes . 1. Organic apple (pounds (lb)). 2. Organic zucchini (lb). 3. Organic navel oranges (lb). 4. Organic grapefruit (lb). 5. Organic kale (bunch). 6. Organic pears (lb). 7. Organic broccoli (1 count (ct)). 8. Organic rainbow carrots (lb). 9. Organic Yukon potatoes (lb). 10. Organic sugar plum tomatoes (1 ct). 11. Organic Valencia oranges (lb). 12. Organic cucumbers (lb). 13. Organic carrots (lb). 14. Organic bacon avocados (1 ct). 15. Organic mandarins (lb). 16. Organic heirloom fingerling potatoes (lb). 17. Organic Fuyu persimmons (1 ct). 18. Organic Cara Cara oranges (1 ct). 19. Organic red seedless grapes (2 lb). 20. Organic romaine (1 ct). 21. Organic honey nut squash (1 ct). 22. Organic baby broccoli (1 ct). 23. Organic grapefruit (1 ct). 24. Organic yellow peaches (lb). 25. Organic plums (lb). 26. Organic mini sweet peppers (0.5 lb). 27. Organic pomegranate (1 ct). 28. Organic Meyer lemons (1 ct). 29. Organic kiwis (lb). 30. Organic heirloom tomatoes (lb). 31. Organic lacinato kale (1 ct). 32. Organic spigarello (bunch). 33. Organic mixed mini heirloom tomatoes (1 ct). 34. Organic yellow zucchini (lb). 35. Organic flowering baby broccoli (0.5 lb). 36. Organic aromatics bundle (1 ct). 37. Organic black kale (bunch). 38. Organic rainbow chard (1 ct). 39. Organic green leaf lettuce (1 ct). 40. Organic red bunched beets (1 ct). 41. Organic curly kale (bunch). 42. Organic yellow squash (1 ct). 43. Organic gold beets (lb). 44. Organic baby Romanesco (2 ct). 45. Organic red leaf lettuce (1 ct). 46. Organic tangelos (lb). 47. Organic blood oranges (lb). 48. Organic yellow potatoes (lb). 49. Organic radish (bunch). 50. Organic cantaloupe (1 ct). 51. Other.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Scattterplots for Total Purchase Quantity per Order Notes . (a) Total quantity per order (in-sample). (b) Total quantity per order (out-of-sample).",
+        "correlation": []
+    },
+    "8": {
+        "description": "Distribution of Average PCVs Note . The bar lines denote the 95% confidence intervals.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Underage Cost ( c u ) and Its Components",
+        "correlation": []
+    },
+    "10": {
+        "description": "Optimal Stockout Probability ( ζ ) Values",
+        "correlation": []
+    },
+    "11": {
+        "description": "Percentage Increase in Optimal Stockout Probability ( ζ ) When Compensation and Indirect Costs Are Excluded from Underage Costs ( c u )",
+        "correlation": []
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "1": {
+        "description": "(Color online) Examples of Pairs of Requests on a 8 × 8 Grid Network Notes . Upward triangles are pickups, and downward triangles are drop-offs. (a) No match and negative value. (b) Match, detour = 0, and value = 4. (c) Match, detour = 6, and value = 1.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Thirty Ride Requests in Manhattan, with Some Requests Dispatched as Solo Rides and Others Dispatched as Matched Rides",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) An ℓ 1 City, with Given Origin O and Destination D i Notes . As we vary D j , we get a different value and detour for the match. The diamonds represent the area where O → D j → D i is the optimal route. The thick lines represent the zero-value line, and the other lines represent points with identical value (panel (a)) and identical detour (panel (b)). (a) Value as a function of D j . (b) Detour as a function of D j .",
+        "correlation": []
+    },
+    "4": {
+        "description": "Synthetic Networks We Simulate Notes . The distance d between two adjacent nodes is always one, and the trips’ origins and destinations are uniformly and independently distributed. (a) grid_08 (8 × 8 grid). (b) grid_08_oneway (8 × 8 grid with one-way streets). (c) grid_16 (16 × 16 grid). (d) Highway (circular network of 80 nodes with shortcuts).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) The Manhattan Road Network Notes . An example of a high-value match ( v = 10 minutes 38 s, r = 2 minutes 13 s) is represented. Both trips are heading south, and their respective fastest paths are drawn in red and blue. The path of the match is in white. The blue trip incurs a detour because it would be faster for them to use the highway by the East River.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Empirical Joint Distributions of Value and Detour in Our Test Networks Given That v > 0 (Positive-Value Matches) Notes . These are generated from 10 million random pairs of trips. The vertical curves show our estimates of E [ r | v ] , the expected detour given each match value. (a) grid_08 . (b) grid_08_oneway . (c) grid_16 . (d) highway . (e) Manhattan . (f) manhattan_uniform .",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Pareto Frontiers of Detour and Value for Various Networks Studied in This Paper Notes . The tree setting is obtained from Proposition 6 in Online Appendix A, whereas the others are evaluated using simulations. (a) grid_08 . (b) grid_08_oneway . (c) grid_16 . (d) highway . (e) Manhattan . (f) tree .",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) The Set S 1 of Feasible Request-Level Value-Detour Ratios as Characterized by Theorem 4",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Relationship Between Value and Detour Ratio in Manhattan with Request-Level Detour Constraints Notes . The color of the curve identifies the maximum request-level detour ratio r ¯ . r ¯ = 100 % is unconstrained.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Pareto Frontiers of Detour and Value with Pickup and Drop-off Costs Notes . In Manhattan , we consider the cases of 0, 2, and 6 minutes of pickup + drop-off time (for an average trip length of 16 minutes). In grid_16 , we consider 0, 1, and 4 time steps of pickup + drop-off time (for an average trip length of 10.6 time steps). All simulations have a maximum allowed individual detour ratio of 50%. (a) grid_16 c p + c d E [ d ( O , D ) ] = 0 % . (b) grid_16 c p + c d E [ d ( O , D ) ] = 9.5 % . (c) grid_16 c p + c d E [ d ( O , D ) ] = 37.5 % . (d) Manhattan c p + c d E [ d ( O , D ) ] = 0 % . (e) Manhattan c p + c d E [ d ( O , D ) ] = 12.5 % . (f) Manhattan c p + c d E [ d ( O , D ) ] = 37.5 % .",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Pareto Frontiers in the 8 × 8 Grid Under Two Pairs of Scenarios: n = 12 and n = 24 with All Customers Being Shared Basic Customers and n = 15 and n = 30 with 40.4% of the Customers Being Shared Premium Customers Note . The Pareto frontiers for n = 15 and n = 30 , respectively, dominate the ones for n = 12 and n = 24 , despite the fact that 40.4% of the customers in the former curves are constrained not to have detours.",
+        "correlation": []
+    }
+}

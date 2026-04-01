@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Total Number of Words: Individual Level Note. This figure shows kernel density plots for the number of words spoken at individual level, for subjects assigned to gender-homogenous ( n = 916) and mixed teams ( n = 452).",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Gender Gap in Number of Words by Problem: Individual Level Notes. This figure is derived from an OLS regression of Equation (3) . The figure displays problem-specific gender gaps ̂ 𝜃 𝑝 θ ^ p for 𝑝 = 1 , … , 1 0 p = 1 , … , 10 (dots), together with 95% confidence intervals. For comparison, the figure also displays ̂ 𝛽 𝑝 β ^ p for 𝑝 = 2 , … , 1 0 p = 2 , … , 10 (problem fixed effects for males in all-male teams). The problem fixed effects for women in all-female teams are derived from an equivalent regression that uses an indicator for males (plus corresponding interactions) instead of an indicator for females. The estimations use all 1,386 × 10 = 13,860 observations.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Gender Gap in Team Communication: Share of Words Notes. This figure uses the raw data and displays gender gaps in team communication by team gender composition and cognitive skills, together with 95% confidence intervals. The left panel shows shares in the total number of words at the team level spoken by women and men, separately for gender-homogenous and gender-mixed teams. The right panel differentiates between subjects of above-median (“high-skilled”) and below-median (“low-skilled”) cognitive skills in terms of A-level GPA. The sample consists of all 1,386 subjects.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "The time series of currency option implied volatilities. Lines plot the time series of the implied volatility quotes across a grid of five delta and five maturities for yen options in panel A and pound options in panel B.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The time series of currency option implied volatility term structure and skew. The implied volatility term structure in panel A is constructed as the implied volatility difference between 12-month and 1-month contracts at 50 delta. The implied volatility skew in panel B is constructed as the implied volatility difference between 90-delta and 10-delta put at 3-month maturity. Within each panel, the solid line represents yen options and the dash-dotted line represents pound options. The dotted line represents the zero benchmark.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The average term structure of historical implied volatility variance estimators. The five lines in each panel represent five put delta: 10 (solid line), 25 (dashed line), 50 (dash-dotted line), 75 (circle dotted line), and 90 (dotted line).",
+        "correlation": []
+    },
+    "4": {
+        "description": "The time-series variation of historical return and implied volatility variance estimators. Panel A plots the time series of the historical currency forward return variance estimators at 3-month maturity. Panel B plots the time series of the implied volatility variance estimator at 3-month maturity and 50 delta. In each panel, the solid line represents the estimators for yen and the dash-dotted line represents the estimators for pound.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Average portfolio weights for risk-targeting portfolios. Lines in each panel plot the average portfolio weight variation across put delta for a risk-targeting portfolio across five option maturities: 1 month (solid lines), 3 months (dashed lines), 6 months (dash-dotted lines), 9 months (circle-solid lines), and 12 months (dotted lines).",
+        "correlation": []
+    },
+    "6": {
+        "description": "Time series of market price of risk estimates. In each panel, the solid line represents the market price of risk estimates for yen options, the dash-dotted line represents pound options, and the dotted line represents as a zero benchmark.",
+        "correlation": []
+    },
+    "7": {
+        "description": "Mean absolute pricing errors on the currency option implied volatility surface. The regression residuals on the options time decay are divided by BSSiSt,i2It,i to convert the errors into the implied volatility space, represented in volatility percentage points.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Comparison of Historical Apportionment Methods and Pareto-Optimal Solutions Obtained from the Biobjective Optimization (BOO) Formulation Trading Off the Webster and Maximum Underage Objectives Notes. The different points labeled BOO result from different weightings of w v and w y for the two objectives. The y -axis measures the average maximum deviation from the Webster pairwise optimality conditions (i.e., the value of y in ( 4 )), and the x -axis shows the average maximum underage (the value of v in ( 4 )). Averages are taken over the 1920–2020 censuses.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Webster vs. Maximum Underage Pareto Curves for (a) 1930, (b) 2010, and (c) 2020",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Averages of 100 Simulation Replications, Using Distributions Around States’ 2020 Census Populations",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Comparison Between the Webster and Absolute Bias Objectives, Averaged over the 1920–2020 Censuses",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Huntington–Hill–Based Comparison of Historical Apportionment Methods and Pareto-Optimal Solutions Obtained from the Biobjective Optimization Formulation Note. For each method, the y -axis measures the average maximum deviation from the Huntington–Hill pairwise optimality conditions (i.e., the value of y in ( 26 )), and the x -axis is the average maximum underage (the value of v in ( 26 )).",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Huntington–Hill vs. Maximum Underage Pareto Curves for (a) 2000 and (b) 2020",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Comparison Between the Huntington–Hill and Absolute Bias Objectives, Averaged over the 1920–2020 Censuses",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Comparison Between the Maximum Underage and (Absolute) Bias Objectives, Averaged over the 1920–2020 Censuses",
+        "correlation": []
+    }
+}

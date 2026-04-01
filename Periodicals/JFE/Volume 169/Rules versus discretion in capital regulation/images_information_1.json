@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Regulator’s commitment and impulse responses to i.i.d.  shocks. Notes: , and the other parameters follow Table 1. Ramsey-MP represents Ramsey minus Markov-perfect."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Regulator’s commitment and impulse responses to persistent  shocks. Notes: , and the other parameters follow Table 1. Ramsey-MP represents Ramsey minus Markov-perfect."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Laissez-faire impulse responses to  shocks. Notes:  in the upper panel and  in the lower panel. The other parameters follow Table 1. MP-LF represents Markov-perfect minus laissez-faire."
+        ],
+        "correlation": []
+    }
+}

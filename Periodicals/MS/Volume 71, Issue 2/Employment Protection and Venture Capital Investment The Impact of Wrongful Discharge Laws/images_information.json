@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Number of States That Adopted Wrongful Discharge Laws Over Time Notes. This figure shows the number of states that have adopted the good faith, implied contract, and public policy exceptions to the employment-at-will doctrine over the 1970–2003 period. The vertical reference line is 1980, the starting year of our sample.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) VC Activities in the United States Over Time Notes. This figure shows the number and dollar amount of VC investment deals in the United States during 1970–2003. Amounts of VC deals are in constant year 2000 dollars. The vertical reference line is 1980, the starting year of our sample.",
+        "correlation": []
+    },
+    "3": {
+        "description": "VC Activities Across States Note. This figure shows the frequency of venture capital investment deals in 50 U.S. states during 1980–2003.",
+        "correlation": []
+    }
+}

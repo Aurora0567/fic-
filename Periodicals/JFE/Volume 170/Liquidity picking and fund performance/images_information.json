@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": [
+            "Proportion of funds with changing stock trading location per yearThis figure shows the proportion of global mutual funds each year that change the trading location for at least one stock in their portfolio between the stock’s domestic trading venue and the US where the ADR is listed. The sample contains funds from 35 countries and firms from 40 countries that cross-list in the United States."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Distribution of security liquidity picking measure (SLP)This figure shows the distributions of security liquidity picking (SLP) of global mutual funds from 35 countries and cross-listed firms in the United States from 40 countries. The sample period is 2001 to 2021 for each fund, it’s security liquidity measure is averaged over the entire sample period."
+        ],
+        "correlation": []
+    }
+}

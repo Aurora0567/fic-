@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) An Example of Sponsored Products on Amazon",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Comparison Between DWO -Based and Fluid -Based Policies Notes . (a) Total fairness-adjusted value. (b) Standard deviation of FV. (c) Unfilled click-throughs.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) The 0.1 Quantiles and Medians and 0.9 Quantiles in 30 Sample Paths over Time of Click-Numbers of an Ad with LF = 1, and CP = 100 Notes. (a) Fluid . (b) Fluid-R . (c) Fluid-I-R . (d) Fluid-E-R . (e) DWO .",
+        "correlation": []
+    }
+}

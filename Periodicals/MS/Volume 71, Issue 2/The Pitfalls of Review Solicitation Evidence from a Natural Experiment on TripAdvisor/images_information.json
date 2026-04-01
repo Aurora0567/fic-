@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Sample Solicited Review on TripAdvisor",
+        "correlation": []
+    },
+    "2": {
+        "description": "Number of Hotels That Started to Participate in Review Solicitation over Time",
+        "correlation": []
+    },
+    "3": {
+        "description": "Proportion of Solicited Reviews on TripAdvisor over Time (Only 554 Participating Hotels)",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Difference in the Topic Proportions (Organic − Solicited)",
+        "correlation": []
+    }
+}

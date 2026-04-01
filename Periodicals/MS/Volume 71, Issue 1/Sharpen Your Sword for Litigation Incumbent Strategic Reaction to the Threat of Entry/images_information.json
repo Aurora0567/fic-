@@ -1,0 +1,34 @@
+{
+    "1": {
+        "description": "(Color online) Number of NDAs by FDA Approval Year",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Number of Patents per NDA at FDA Drug Approval by Approval Year",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Number of Paragraph IV Challenges per Year",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Average Time to First Generic Entry, by year of NDA Approval, Distinguishing Between NCE Drugs and Reformulations",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Timing of First Paragraph IV Challenges and Patent Additions to the Orange Book by Year Notes. The histogram in panel (a) depicts the distribution of first Paragraph IV challenges over time and relative to a drug’s FDA approval year (year 0). The histogram in panel (b) reports the distribution of the patents branded manufacturers list in the Orange Book over time. In this histogram, the zero denotes the year in which a drug was approved by the FDA.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Paragraph IV Challenges Around the Time of a Molecule Patent Expiration Date Notes. This histogram depicts the distribution of Paragraph IV challenges before and after the expiration of a branded manufacturer’s molecule patent (year 0). We follow the approach by Gupta (2023) and consider a drug’s molecule patent to be the earliest patent filed.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Event Study of Pharmaceutical Firm Patent Reaction to Paragraph IV Challenges Notes. This figure shows how the number of patents added to the Orange Book in a given year changes after a Paragraph IV challenge. To generate this graph, we modified Equation (1) in the main text by substituting the 𝑃 𝑜 𝑠 𝑡 𝑃 𝑎 𝑟 𝑎 𝐼 𝑉 𝑗 𝑘 𝑡 PostParaIV jkt indicator with binary variables for each of the pretreatment and posttreatment years. In panel (a), we report the coefficients for these variables when the dependent variable is the number of patents listed in the Orange Book. In panel (b), we use the share of continuation patents listed in the Orange Book as the dependent variable. The vertical lines represent 95% confidence intervals. The coefficient for the year immediately before a Paragraph IV challenge is set to zero and displayed without a confidence interval because it is our baseline year.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Similarity Between a Branded Manufacturer’s Patents and the Initial Complaint It Filed in Response to a Paragraph IV Challenge Notes. To produce this figure, we implemented the same machine learning algorithm as the one used to produce the dependent variable of column (1) of Table 3 , this time comparing the text similarity of a branded manufacturer’s patents (that is, title, abstract, and claims) with the text of the initial complaint filed by the branded manufacturer in response to a Paragraph IV challenge. We distinguish between patents listed in the Orange Book before and after a Paragraph IV challenge, restricting the sample to drugs for which branded manufacturers listed patents before and after a Paragraph IV challenge. Data on initial complaints are available from the Paragraph IV Report data set at paragraphfour.com . We report the coefficients from estimating a regression (displayed in Online Table A.8) in which the dependent variable is the similarity score for a given patent–complaint pair as a function of an indicator variable identifying whether a patent is listed after a Paragraph IV challenge. We control for branded manufacturer and drug fixed effects. In panel (a), we report the coefficients for the whole sample of patents. In panel (b), we restrict the sample to continuation patents. The squares represent the coefficient magnitudes, whereas the solid lines the 95% confidence intervals. The coefficient for the After PIV indicator corresponds to 𝑏 𝑒 𝑡 𝑎 0 + 𝑏 𝑒 𝑡 𝑎 1 beta 0 + beta 1 . The variance was computed as 𝑣 𝑎 𝑟 ⁡ ( 𝑏 𝑒 𝑡 𝑎 0 + 𝑏 𝑒 𝑡 𝑎 1 ) = 𝑣 𝑎 𝑟 ⁡ ( 𝑏 𝑒 𝑡 𝑎 0 ) + 𝑣 𝑎 𝑟 ⁡ ( 𝑏 𝑒 𝑡 𝑎 1 ) + 2 ⁢ 𝑐 ⁢ 𝑜 ⁢ 𝑣 ⁡ ( 𝑏 𝑒 𝑡 𝑎 0 , 𝑏 𝑒 𝑡 𝑎 1 ) var ⁡ ( beta 0 + beta 1 ) = var ⁡ ( beta 0 ) + var ⁡ ( beta 1 ) + 2 ⁢ c ⁢ o ⁢ v ⁡ ( beta 0 , beta 1 ) .",
+        "correlation": []
+    }
+}

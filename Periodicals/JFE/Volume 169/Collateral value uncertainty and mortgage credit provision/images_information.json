@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Stylized Facts about Price Dispersion Estimates.Notes: Panel (a) plots zipcode dispersion in 2020 against zipcode dispersion in 2010. Panel (b) shows the price dispersion difference between black-dominant zipcodes (black population share greater than 50%) and non-black dominant zipcodes (black population share less than 50%) conditional on income, as well as the price dispersion difference between high-income zipcodes and low-income zipcodes conditional on race. High and low income zipcodes are defined as above and below yearly median level, respectively. To obtain the values, we regress zipcode price dispersion on dummy variables for a zipcode being black-dominant, and whether the zipcode has below-median income; the figure shows the estimated coefficients and confidence intervals on these dummy variables. The sample includes annual zip level observations from 2000 to 2020. Zipcode demographic information is obtained from the 2008–2012 American Community Survey."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Price Dispersion and Appraisals.Notes: Panel (a) of this figure shows a binned scatter plot, where the y-variable is Appraisal-to-Price distance, defined as |ai−pi|pi. In panel (b), the y-variable is the appraisal deviation, defined as the product of the appraisal gap, and a dummy for under-appraisal, |ai−pi|pi1(ai<pi). In panel (c), the y-variable is the average over-appraisal percentage conditional on over-appraisal. In all panels, the x-variable is zipcode price dispersion. We divide all loans into 50 buckets based on zipcode house price dispersion. The sample includes loan level observations from 2000 to 2020. Appraisal values are obtained from the Corelogic LLMA data."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Home Purchase - Mortgage Origination Diagram ."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "County Level House Price Dispersion and Credit Access.Notes: This figure shows the correlation between county level house price dispersion and various credit access outcomes. The y-variable in panels (a) and (b) are residualized county-level mortgage rejection rates and county-level rates of rejection due to collateral-related reasons, respectively, obtained from the HMDA data. We take the residuals of regressions of county-level rejection rates, or rates of rejection due to collateral-related reasons on county average log house price, credit score, and year fixed effects. In panel (c), the y-variable is the average county-level LTP residual from a regression of county average LTP on county-level house prices. The y-variable is obtained from the Corelogic LLMA data, and values are in percentage points. The underlying samples in all three panels include annual county observations from 2000 to 2017."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Property Level Mortgage Menu by House Price Dispersion.Notes: This figure shows the mortgage price menu (rate-LTP pair) by zip-level house price dispersion. The y-values are interest rate residuals from a regression of mortgage rates on borrower FICO, FICO-squared, DTI, DTI-squared conforming or jumbo indicator, and origination month fixed effects. The dots represent the average mortgage rate in each LTP bucket. The shaded area indicates a 95% confidence interval. The sample includes loan level observations of conventional loans in the Corelogic LLMA from 2000 to 2020."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Cross-Sectional Heterogeneity.Notes: This figure presents how rejection rate, down payment, and mortgage rate would change if the house’s price dispersion decreased to be equal to the bottom decile of price dispersion in our dataset. The x-axis are five equal-sized zipcode median income buckets, where zipcode median income is obtained from 2008–2012 American Community Survey. The y-variable is the impact on mortgage rejection rate in Panel (a), the impact on LTP in Panel (b), and the impact on interest rate in Panel (c). To obtain these values, we calculate the difference between a house’s price dispersion and the bottom decile of price dispersion, and then multiply it respectively by the estimated effect of price dispersion on mortgage rejection (column 4 of Table 3), by the estimated effect on LTP (column 6 of Table 5), and by the estimated effect on mortgage rate (column 4 of Table 4). We find the average values in each zipcode income quintile."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Model Fit.Notes: Panel (a) shows estimated appraisal standard deviations σa on the y-axis, and estimated idiosyncratic price dispersion σ on the x-axis. Panel (b) shows the distribution of appraisal-over-price ratios a, in the data and the fitted model, for the 5th σ-decile (that is, counties with values of σ between the 40th and 50th percentiles). Panel (c) shows transaction failure probabilities in the data and in the fitted model. Panel (d) shows ApprDevi, which is defined as piunderEap−1∣under, in the data and in the fitted model. Panel (e) shows average values of lfinal from the model, along with a line with slope equal to the lfinal-to-σ regression coefficient we use as a target moment, normalized to have mean equal to the model-predicted loan-to-price ratio."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Decomposition of Channels.Notes: Panel (a), (b), and (c) respectively decompose the effect of price dispersion on interest rates, mortgage rejection rates, and loan-to-price ratios, into components attributable to the collateral recovery channel, and the appraisal channel. In all panels, the y-axis is the change in the outcome variable when sigma increases by 1. Note that the units differ from those in our reduced-form results, which standardize sigma: to convert the results in this figure to be comparable to the reduced-form results, all numbers should be multiplied by the standard deviation of sigma, which is 0.11. To calculate the effect of the collateral recovery channel, we shut off the effect of the appraisal channel by setting the appraisal standard deviation parameter to a constant across σ-deciles, but allowing the interest rate menu to vary across σ-deciles. Analogously, to calculate the effect of the appraisal risk channel, we shut off the collateral recovery channel, by assuming the rate menu does not vary across σ-deciles, allowing only appraisal standard deviations to vary. In Panel (c), we further decompose the appraisal risk channel into an ex-ante effect, which measures how target loan size l varies with interest rate buckets, due to buyers’ precautionary decisions to decrease loan size; and an ex-post effect, which measures how the gap lfinal−l changes with σ, which measures how realized under-appraisals limit loan size. Note that, in both panels (a) and (b), the y-axes are not the same in the collateral recovery and appraisal risk panels."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Price Dispersion and Compensating Variation in Prices.Notes: This figure presents the “compensating variation” in prices needed to offset the costs of price dispersion; that is, in each σ-decile, we show how much prices would have to decrease, in order for consumers to attain the same expected utility as in the first σ-decile. Error bars show 95% confidence intervals, calculated from 200 bootstrap moment samples, as we describe in Appendix H.2.1."
+        ],
+        "correlation": []
+    }
+}

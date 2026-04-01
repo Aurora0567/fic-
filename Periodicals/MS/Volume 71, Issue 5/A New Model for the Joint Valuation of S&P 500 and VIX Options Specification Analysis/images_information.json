@@ -1,0 +1,54 @@
+{
+    "1": {
+        "description": "(Color online) Time Series Plots of S&P 500 Options Data from April 4, 2007, to December 27, 2017, in Monthly Frequency Notes. (a) and (b) Number of contracts for different days-to-maturity and moneyness bins, respectively. (c) and (d) VIX implied volatility (IV) slope along with the term structure and the moneyness dimension, respectively. Moneyness is defined as the strike to future price ratio, K / F . Days-to-maturity ( DTM ) is in the number of actual days. The implied volatilities are calculated using the Black-Scholes formula.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Time Series Plots of VIX Options Data from April 4, 2007, to December 27, 2017, in Monthly Frequency Notes. (a) and (b) Number of contracts for different days-to-maturity and moneyness bins, respectively. (c) and (d) VIX implied volatility (IV) slope along with the term structure and the moneyness dimension, respectively. Moneyness is defined as the strike to future price ratio, K / F . Days-to-maturity ( DTM ) is in the number of actual days. The implied volatilities are calculated using the Black-Scholes formula.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Scatter Plots of the S&P 500 at-the-Money Implied Volatility (SPX ATM IV) Against VIX IV Characteristics Notes. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to one for both types of options. The time series characteristics are standardized by removing the mean and scaling to unit variance.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Scatter Plots of the S&P 500 Skew (SPX Skew) Against VIX IV Characteristics Notes. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to one for both types of options. The time series characteristics are standardized by removing the mean and scaling to unit variance.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Scatter Plots of IV Skew Against ATM IV During In- and Out-of-Sample Notes. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to 1 for both types of options. The in-sample period is from April 4, 2007, to April 1, 2015, and the out-of-sample period is from April 2, 2015, to December 27, 2017.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Effects of Z and U on the VIX Options Characteristics Notes. The effect of either risk factor is measured via the change of the characteristics stemming from increases and decreases in factor by 50% relative to the current estimate value. The solid (dotted) lines correspond to the effect of Z ( U ), and the shaded area indicates the variation of IV characteristics (ATM IV and skew) over time. The vertical dotted line in each panel splits the full sample into in-sample and out-of-sample periods. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to 1 for both types of options. The in-sample period is from April 4, 2007, to April 1, 2015, and the out-of-sample period is from April 2, 2015, to December 27, 2017.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Model-Implied Fit to the S&P 500 Option Characteristics Notes. The dashed lines correspond to the market observed characteristics, and the dotted lines refer to the fit by the 4F-ICJ model. The shaded part of the graph represents the out-of-sample period. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to 1 for both types of options. The in-sample period is from April 4, 2007, to April 1, 2015, and the out-of-sample period is from April 2, 2015, to December 27, 2017.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Model-Implied Fit to the VIX Option Characteristics Notes. The dashed lines correspond to the market observed characteristics, and the dotted lines refer to the fit by the 4F-ICJ model. The shaded part of the graph represents the out-of-sample period. IV skew is defined as the difference between the IVs of deep out-of-the-money (OTM) call and OTM put options. Specifically, VIX skew equals deep OTM call IV minus deep OTM put IV, whereas SPX skew equals deep OTM put IV minus deep OTM call IV. For S&P 500 options, short-term (long-term) options are those with days to maturity <45 (>270) days, and deep OTM call (put) options have moneyness, K / F , >1.03 (<0.9). For VIX options, short-term (long-term) options are those with days to maturity <45 (>120) days, and deep OTM call (put) options have moneyness >1.8 (<0.8). ATM options have moneyness close to 1 for both types of options. The in-sample period is from April 4, 2007, to April 1, 2015, and the out-of-sample period is from April 2, 2015, to December 27, 2017.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Impacts of Z and U on S&P 500 Implied Volatility Smirk Notes. The simulated IV smirk is calculated based on the 4F-ICJ model with parameter estimates in Table 4 . The solid lines are the mean value of IVs computed by using the mean levels of the risk factors. Dotted (dashed) lines are computed by increasing (decreasing) the corresponding factor by 50% and fixing other risk factors.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Difference Between the Filtered State Processes of the 4F-ICJ and 3FU-CJ Models for (1) Using Both S&P 500 and VIX Options and (2) Using S&P 500 Options Only Notes. The solid lines correspond to the result from the 4F-ICJ model, and dotted lines refer to the result from the 3FU-CJ model. The shaded part of the graph represents the out-of-sample period. The in-sample period is from April 4, 2007, to April 1, 2015, and the out-of-sample period is from April 2, 2015, to December 27, 2017.",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Impacts of Z and U on VIX Implied Volatility Smirk Notes. The simulated IV smirk is calculated based on the 4F-ICJ model with parameter estimates in Table 4 . The solid lines are the mean value of IVs computed by using the mean levels of the risk factors. Dotted (dashed) lines are computed by increasing (decreasing) the corresponding factor by 50% and fixing other risk factors.",
+        "correlation": []
+    },
+    "12": {
+        "description": "(Color online) Impacts of η 1 on Options Implied Volatility Smirk Notes. The simulated IV smirk is calculated based on the 4F-ICJ model with parameter estimates in Table 4 . The solid lines are IVs computed by using the estimated value of η 1 . Dotted (dashed) lines are computed by increasing (decreasing) η 1 by 50% and fixing parameters.",
+        "correlation": []
+    },
+    "13": {
+        "description": "(Color online) Impacts of ρ 2 on VIX Options Implied Volatility Smirk Notes. (a) and (b) Simulated IV smirk is calculated based on the 4F-ICJ model with parameter estimates in Table 4 . The solid lines are IVs computed by setting ρ 2 at zero. Dotted (dashed) lines are computed by setting ρ 2 at 0.9 (−0.9). (c) Scatter plot of market VVIX log returns against VIX log returns. (d) Result from the Monte Carlo simulation. Specifically, I simulate the dynamics of states based on Equations (1) –( 5 ) for 500 days. For each day, I generate a range of 30-day VIX options with fixed strikes ( 0 . 8 ≤ 𝐾 / 𝐹 ≤ 1 . 2 0.8 ≤ K / F ≤ 1.2 ) based on the simulated states and estimated parameters of the 4F-ICJ model in Table 4 . Next, I calculate the VIX index based on Equation (11) and VVIX index based on Equation (24) . Finally, I calculate the correlation between VIX log-returns and VVIX log-returns, denoted by c o r r corr . To get the distribution of simulated correlation, I repeat the simulation for 1,000 times.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Benchmark Model Solutions Notes. The solid curves and dashed curves depict the policies in the good and the bad state, respectively. The liquidation boundaries are ( w ¯ G , w ¯ B ) = ( − 0.85 , − 0.44 ) . The cutoff points for binding collateral constraints are ( w ^ G , w ^ B ) = ( − 0.44 , − 0.05 ) . The payout boundaries are ( w ¯ G , w ¯ B ) = ( 0.05 , 0.12 ) . The mean values of the key variables are reported here.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Alternative Model Without VCU Notes. The solid curves represent the solutions of the alternative model without VCU. The dashed curves depict the policies of the benchmark model. The liquidation boundaries for the alternative model are ( w ¯ G , w ¯ B ) = ( − 0.63 , − 0.39 ) . The cutoff points for binding collateral constraints are ( w ^ G , w ^ B ) = ( − 0.33 , − 0.09 ) , below which the collateral constraints are binding. The payout boundaries are ( w ¯ G , w ¯ B ) = ( 0.10 , 0.11 ) . The mean values of key variables are reported here.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Effects of Volatility and PUD Ratios Notes. Panels (a) through (d) compare optimal utilization and hedging policies in the high (solid) vs. low (dashed) volatility cases using the benchmark model. Panels (e) through (h) compare optimal utilization and hedging policies in the high (solid) vs. low (dashed) PUD ratio cases using the benchmark model.",
+        "correlation": []
+    }
+}

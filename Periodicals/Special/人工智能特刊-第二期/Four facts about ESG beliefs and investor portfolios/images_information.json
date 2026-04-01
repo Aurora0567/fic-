@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "ESG questions in GMSU-Vanguard survey. Figure shows the three questions on ESG investing in the GMSU-Vanguard survey."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Holdings of ESG Funds Broken Down by Expected Excess Return. Panel A shows the fraction of respondents who hold at least one ESG-focused fund in their portfolio (y-axis) broken down by the survey-elicited expected returns of an ESG portfolio over the market over a 10-year horizon (annualized). Panel B uses the same breakdown on the x-axis, but instead plots the average portfolio share invested in ESG-focused funds. This figure plots the unconditional relationship. We compute the ESG portfolio share as the share of risky assets that are allocated to ESG funds. Numbers at the top of the bars report the number of observations and the error bars report the 95% confidence intervals. Standard errors are clustered at the respondent level. Appendix Figure B.4 shows binscatter plots with controls for investor characteristics."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Portfolio Shares in ESG Funds by Expected Excess Return and Motivation for ESG Investing. Figure construction follows Panel (b) of Fig. 2, but additionally breaks down the data by the stated motivation for investing in ESG funds separately in each panel. Note that we compute the ESG portfolio share as the share of risky assets that are allocated to ESG funds. Appendix Figure B.3 shows a version where we compute the ESG portfolio share based on investments in equities. Numbers at the top of the bars report the number of observations and the error bars report the 95% confidence intervals."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Holdings of ESG Funds by Expected Excess Return and Motivation for ESG Investing. Figure construction follows that of the panel (a) of Fig. 2 but additionally breaks down the data by the stated motivation for ESG investment separately in each panel. Numbers at the top of the bars report the number of observations, and the error bars demonstrate the 95% confidence intervals."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Time Series - ESG & Market Beliefs. Figure reports the time series of the average beliefs from the GMSU-Vanguard survey. The left panel visualizes the 10-year annualized expected excess return of ESG investment (i.e., the difference between the expected returns on ESG investments and the market). The right panel decomposes the expected excess returns into ESG and stock beliefs. The shaded areas represent the 95% confidence interval."
+        ],
+        "correlation": []
+    }
+}

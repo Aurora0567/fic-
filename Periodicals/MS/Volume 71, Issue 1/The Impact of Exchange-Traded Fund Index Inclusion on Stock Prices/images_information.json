@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) UI for the 𝐴 ⁢ 2 ⁢ 𝐶 𝑠 ℎ 𝑜 𝑟 𝑡 A ⁢ 2 ⁢ C short Treatment Notes. The interfaces for other treatments are similar. A boxed “X” appears beside the subject’s own orders. By clicking it, she can cancel the order. Her own trades are marked by “S” if she sold and by “B” if she bought. The AP bot posts asks and bids for asset D (the ETF ) using the current best bids and asks of the underlying assets, here a unit of A and two units of C .",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Prices and Order Imbalance for ABC Treatment Session 3 Notes. The top (bottom) panel presents asset prices (order imbalances in Equation (3) with d = 0.99) for assets A , B , C , and the ETF . Each tick corresponds to four seconds, and each dashed vertical line denotes the start of a trading period. In the top panel, the horizontal dashed lines represent the expected values of the assets: 200, 80, and 60 for the ETF , A , and B or C , respectively.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Prices and Order Imbalance for A2C Treatment Session 4 Notes. The top (bottom) panel presents prices (order imbalances in Equation (3) ) for assets A , B , C , and the ETF . Each tick corresponds to four seconds, and each dashed vertical line denotes the start of a trading period. In the top panel, the horizontal dashed lines represent the expected values of the assets, at 200, 80 and 60 for the ETF , A , and B or C , respectively.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Mean Difference in (Left) Price and (Right) Order Imbalance for Assets B and C by Trading Period and Treatment Across All Sessions Note. Each session includes seven periods, and mean differences over its five sessions are shown separately for each of the three treatments, ABC , A2C and A2C short .",
+        "correlation": []
+    },
+    "5": {
+        "description": "Subject’s Risky Portfolio Imbalance Notes. The risky portfolio imbalance is computed as | 2 ⁢ 𝐴 − 𝐵 − 𝐶 | 𝐴 + 𝐵 + 𝐶 + 3 ⁢ 𝐷 | 2 ⁢ A − B − C | A + B + C + 3 ⁢ D , where the letters refer to the median final asset holdings. For the empirical cumulative distribution function (CDF), each observation represents a subject. Type I players (left) start with an imbalance of 4/5, whereas type II players (right) start with an imbalance of 4/7. These values are represented by vertical dashed lines. We classify subjects as with ETF holdings (black, 56 in total) and without ETF holdings (gray, 126 in total).",
+        "correlation": []
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Subjective memory bias. This figure displays mean values of subjects’ recollection of experienced positive investment outcomes (left-hand side) and negative investment outcomes (right-hand side) from experiment 1. The bars represent the mean values by treatment. Error bars indicate 95% confidence intervals.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Subjective beliefs. This figure displays the average subjective posterior that the stock is the good stock, as a function of the correct objective Bayesian probability. The sample is limited to subjects who invested in the stock (first choice) in experiment 1. If subjective estimates were Bayesian, they would line up on the 45|$ {}^{\\circ} $| line. The left panel presents subjective beliefs from the Immediate condition, and the right panel presents subjective beliefs from the Delay condition. Subjects’ probability estimates for each level of the objectively correct Bayesian posterior are shown on solid lines for subjects with a high memory bias, and on dashed lines for subjects with a low memory bias. High memory bias is a dummy variable equal to 1 if the subject has a memory bias that is larger than the mean memory bias in its treatment condition. Low memory bias is a dummy variable equal to 1 if the subject has a memory bias that is smaller than the mean memory bias in its treatment condition. Error bars represent 95% confidence intervals.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Suboptimal reinvestment. This figure displays the fraction of subjects reinvesting in their previously chosen stock after observing the investment outcomes although this was a suboptimal choice from a Bayesian perspective in experiment 1. The bars represent the fractions by treatment. Error bars represent 95% confidence intervals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Overconfidence: Suboptimal betting. This figure displays suboptimal betting by subjects in experiment 3. It shows the average points bet on the optimality of their investment choices by subjects despite having made a suboptimal choice, because they invested in the stock with the lower probability of being the good stock (“suboptimal betting”). The bars represent the mean values by treatment. Error bars indicate 95% confidence intervals.",
+        "correlation": []
+    }
+}

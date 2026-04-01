@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Distribution of Cyberattacks (Collected from Dark Web Forums from 2019 to 2021)",
+        "correlation": []
+    },
+    "2": {
+        "description": "Blockchain Forensics Analysis of the Operations of the DarkSide Ransomware Gang Note . Wallet addresses and attack information were collected from dark web forums in 2021.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Conti Leaked Chat in Russian (Collected from Several Online Sources in 2022)",
+        "correlation": []
+    },
+    "4": {
+        "description": "Worldwide Ransomware Attacks (2,690 Attacks Carried out by 43 Unique Ransomware Gangs Collected from Dark Web Forums from 2019 to 2021) Note . The color tone captures the intensity where light (dark) blue is a country with a high (low) number of attacks; rounded log numbers follow main targets for improved accessibility.",
+        "correlation": []
+    },
+    "5": {
+        "description": "This Figure Depicts a Taxonomy for Crypto-Related Cybercrimes, Including Several Types of Blackmail, Hacks, and Frauds Source. Compiled from chainabuse.com in January 2024. Notes. Node size is based on the percentage of total reports in that category. Node color captures both group and intensity (largest node by reports within that category).",
+        "correlation": []
+    }
+}

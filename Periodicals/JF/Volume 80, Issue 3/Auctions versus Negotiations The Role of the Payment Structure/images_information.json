@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "Revenue comparison-Negotiations versus competition: The figure plots the revenue differences \n\n\n\nΠ\n\nn\ne\ng\n\n\n\n(\n0\n)\n\n−\n\nΠ\n\nc\no\nm\np\n\n\n\n$\\Pi _{neg}(0)-\\Pi _{comp}$\n when negotiations are efficient (solid line), and \n\n\n\nΠ\n\nn\ne\ng\n\n\n\n(\n\n\nθ\n∼\n\n*\n\n)\n\n−\n\nΠ\n\nc\no\nm\np\n\n\n\n$\\Pi _{neg}(\\protect \\widetilde{ \\protect \\theta }^{\\ast })-\\Pi _{comp}$\n when the seller sets an optimal reserve price (dashed line) as a function of \n\n\n\nβ\nY\n\n/\n\nβ\nN\n\n\n$\\protect \\beta _{Y}/\\protect \\beta _{N}$\n for an example with uniformly distributed \n\nθ\n$\\protect \\theta$\n. The left panel illustrates a case with \n\n\n\nα\nY\n\n/\n\nα\nN\n\n>\n1\n/\nG\n\n$\\protect \\alpha _{Y}/\\protect \\alpha _{N}>1/G$\n, and the right panel one with \n\n\n\nα\nY\n\n/\n\nα\nN\n\n<\n1\n/\nG\n\n$\\protect \\alpha _{Y}/\\protect \\alpha _{N}<1/G$\n, varying \n\n\nβ\nY\n\n$\\protect \\beta _{Y}$\n while holding \n\n\nβ\nN\n\n$\\protect \\beta _{N}$\n constant.",
+        "correlation": []
+    }
+}

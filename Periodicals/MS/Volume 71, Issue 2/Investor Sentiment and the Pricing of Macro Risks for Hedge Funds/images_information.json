@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Investor Sentiment and Next-Month Returns of Hedge Fund Indices Notes. The figure plots the monthly time series of the BW sentiment index and the subsequent month returns of various hedge fund indices. The BW sentiment index is constructed as the first principal component of five sentiment proxies, including the closed-end fund discount, the number and average of the first-day returns on IPOs, the dividend premium, and the equity share in new issues. Hedge fund indices are obtained from HFRI and encompass the fund weighted composite index (FWCI), the aggregate indices of equity hedge funds (EH), the event-driven funds (ED), the global macro funds (M), the relative value funds (RV), the emerging market funds (EM), and a composite index for the fund of funds (FOF). Correlations between the BW sentiment index and the excess returns of the indices in the following month are reported. The sample period is from January 1997 to December 2018.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Investor Sentiments and Excess Returns of Beta-Sorted Hedge Fund Portfolios Notes. The figure plots the excess returns of beta-sorted hedge fund portfolios following high- and low-sentiment periods. High- and low-sentiment months are classified based on the median level of the BW sentiment index. Individual hedge funds are sorted into 10 decile portfolios using betas concerning each of the 10 macroeconomic risk measures. (a) Excess returns of portfolios sorted on the composite score, which is computed as the average value of 10 macro-risk beta rankings. (b) Excess returns of the average portfolio across the 10 macro-risk-beta-sorted portfolios. HML represents the high-minus-low portfolio. The macro-risk betas are estimated using a 24-month rolling window with a minimum observation requirement of 18 months. The figure shows the excess returns of these beta-sorted fund portfolios after high- and low-sentiment periods, as well as the difference between the two. The sample period is from January 1997 to December 2018.",
+        "correlation": []
+    }
+}

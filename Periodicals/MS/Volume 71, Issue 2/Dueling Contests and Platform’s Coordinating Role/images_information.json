@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Winning Probability of a Solver with Contest Abilities ( γ ( z ) , z ) If He Chooses to Enter Contest 1 (Left Panel) or Contest 2 (Right Panel)",
+        "correlation": []
+    },
+    "2": {
+        "description": "Equilibrium Entry per Contest",
+        "correlation": []
+    },
+    "3": {
+        "description": "The Shape of γ ( a 2 ; δ , ϕ ) for the Ali–Mikhail–Haq Copula of Example 3",
+        "correlation": []
+    }
+}

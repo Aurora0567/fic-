@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Distribution of Corporate Headquarters by State Notes. This figure plots the distribution of corporate headquarters by state in the United States. The distribution percentage is calculated as the number of corporate headquarters in the state divided by the total number of corporates in our data set. (a) Distribution percentage in 1994, which is the beginning of our sample period. (b) Distribution percentage in 2017, which is the end of our sample period.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Propensity Score Matching Results Notes. This figure plots the distribution of zip codes’ propensity scores on the likelihood of having relocation events before and after matching. The treated group refers to zip codes with at least one relocation event in year t , and the control group refers to zip codes without any relocations in year t . The propensity score is estimated with Probit regressions, controlling for macroeconomic and sociodemographic factors and year and CBSA fixed effects, as well as an additional proxy for state level corporate income tax change.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Average Growth Rate in Local Housing Price Centered at Corporate Headquarters Relocation Events Notes. This figure provides univariate comparison of the average growth rate in local housing price for zip codes with a corporate headquarters relocation and those without any corporate headquarters relocation. (a) and (b) Housing price in zip codes with and without HQ relocation events, respectively, after controlling for macroeconomic and sociodemographic factors and removing the time trends and geographic fixed effects. Error bars indicate 99% confidence intervals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Average Growth Rate in Local Housing Price Centered at Relocation Announcement Times Notes. This figure provides univariate comparison of the average growth rate in local housing price for zip codes with a corporate headquarters relocation, after removing the time trends and geographic fixed effects. Error bars indicate 90% confidence intervals.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Permutation Test Results Notes. This figure presents the distribution of the pseudo treatment effects from the permutation test results on the impact of corporate relocation on local housing price. We first randomly assign each relocation to the district-year observations and estimate the pseudo treatment effect using Equation (1) and then repeat the process for 500 times.",
+        "correlation": []
+    }
+}

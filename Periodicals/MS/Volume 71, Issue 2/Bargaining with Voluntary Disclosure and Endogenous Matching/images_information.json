@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "(Color online) Possible Disclosure Equilibria in the ( 𝛼 ℎ , 𝑑 ) ( α h , d ) Parameter Space Notes . Each line in the figure represents the threshold disclosure cost for which the given disclosure equilibrium is valid. The arrow associated with each line indicates the region of validity for the equilibrium. In this figure, we have assumed that, as in the experiment, 𝜋 𝑙 = 1 6 π l = 16 and 𝜋 ℎ = 2 0 π h = 20 . The gray-shaded region in each plot indicates the area where “high type only discloses” is the unique disclosure equilibrium.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Summary Statistics and Equilibria of Bargaining Outcomes: Part 1 Notes . “( X , Y )” represents the types of players, 𝑋 , 𝑌 ∈ { 𝐻 , 𝐿 } X , Y ∈ { H , L } , where the first element represents the uninformed player’s type, whereas the second element represents the informed player’s type. The number after the “:” is the pie size given the bargaining pair’s types.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Disclosure Statistics: Part 2 Notes . “( X , Y )” represents the types of players, 𝑋 , 𝑌 ∈ { 𝐻 , 𝐿 } X , Y ∈ { H , L } , where the first element represents the uninformed player’s type, whereas the second element represents the informed player’s type. The number after the “:” is the pie size given the bargaining pair’s types. The different bars represent the various disclosure costs employed in the experiment.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Disclosure Statistics: Part 3",
+        "correlation": []
+    }
+}

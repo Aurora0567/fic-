@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Timeline of Events in Game",
+        "correlation": []
+    },
+    "2": {
+        "description": "Empirical Distribution of Player Types, 𝑓 ⁡ ( 𝑞 ) f ⁡ ( q ) Notes. At the beginning of our experiment, subjects were asked to answer 10 math questions. For each 𝑞 = 0 , 1 0 , … , 9 0 , 1 0 0 q = 0 , 10 , … , 90 , 100 , we report the number of subjects who answered q percent of these 10 math questions correctly, by technicality condition (nontechnical and technical).",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) The Equilibrium Predictions Notes. We depict the predictions of Proposition 1 given the parameter values used in our experiment and the distribution of q observed among experimental subjects. Panel (a) illustrates the predictions in the technical condition, where ̅ 𝑞 = 3 7 . 6 % q ¯ = 37.6 % , whereas panel (b) shows the predictions for the nontechnical condition, where ̅ 𝑞 = 8 7 . 9 % q ¯ = 87.9 % . The four dots in each panel represent our choice of parameters in the experiment. The horizontal line represents 𝐶 = V a r ⁡ [ 𝜃 | 𝑦 ] C = Var ⁡ [ θ | y ] . The dotted curved line represents ̅ 𝐶 C ¯ . In the region between this dotted curved line and the horizontal line, coordinated inattention is the unique equilibrium (scenario 1). In the technical disclosure condition (panel (a)), the treatments with 𝜌 = 0 . 8 ρ = 0.8 and 𝐶 ∈ { 1 5 0 , 4 0 0 } C ∈ { 150 , 400 } lie in this region, and in the nontechnical disclosure condition (panel (b)), the treatment with 𝜌 = 0 . 8 ρ = 0.8 and 𝐶 = 4 0 0 C = 400 lies in this region. The solid curved line represents 𝐶 ̅ C ¯ . Below this solid line, the equilibrium is one with coordinated attention (scenario 2). The treatments with 𝜌 = 0 ρ = 0 lie in this region. In the region between the curved lines representing 𝐶 ̅ C ¯ and ̅ 𝐶 C ¯ , both coordinated inattention and coordinated attention can be supported (scenario 3). In the nontechnical disclosure condition, the treatment with 𝜌 = 0 . 8 ρ = 0.8 and 𝐶 = 1 5 0 C = 150 lies in this region.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Propensity to Analyze Disclosure Notes. We report the proportion of times that subjects choose to analyze disclosure. In each panel, we separately consider the treatments where the disclosure has low cost ( 𝐶 = 1 5 0 C = 150 ) and high cost ( 𝐶 = 4 0 0 C = 400 ). We also separate the data based on the level of coordination incentives (none vs. high). In panel (a) (panel (b)), we consider the sessions with technical (nontechnical) disclosure.",
+        "correlation": []
+    }
+}

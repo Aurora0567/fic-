@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Framework timeline. This figure summarizes the conceptual framework presented in Section I.A.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Acquisitions and divestitures over time. This figure shows the frequency distributions of acquisitions and divestitures in my sample over time. Panel A shows acquisition frequencies. Panel B shows divestiture frequencies. Panel C shows the distribution of the time span between acquisition and divestiture in years.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Event timeline. This figure summarizes the event timeline. Numbers refer to days or years relative to one of three main dates: merger announcement/agreement, merger completion, and divestiture decision. The lengths of the respective periods shown below correspond roughly to the average observation in my sample (see Table I).",
+        "correlation": []
+    },
+    "4": {
+        "description": "Efficiency costs. This figure shows plots of average excess returns (industry-adjusted buy-and-hold returns) between an estimated and the actual divestiture announcement date (the sunk cost period). Panel A plots the average excess return across all acquirers that faced a positive acquisition cost shock (\n\n\nΔ\nC\n>\n0\n\n$\\Delta C > 0$\n). Panel B adds a split based on below-median (light blue line) and above-median (dark blue line) relative size of the acquired business. Relative Size is the transaction price of the original acquisition divided by the value of the combined firm. The estimated divestiture announcement date is calculated assuming a scenario in which the acquirer faced no cost shock, holding fixed all other characteristics. The figures normalize the sunk cost period to one and plot relative time (between 0% and 100%) passed between the estimated and actual divestiture announcement dates. Please refer to Section V.D for additional details.",
+        "correlation": []
+    }
+}

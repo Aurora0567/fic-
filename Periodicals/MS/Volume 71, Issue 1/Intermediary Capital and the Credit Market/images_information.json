@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Aggregate Demand for Intermediary Capital Notes. The graph illustrates the aggregate demand for intermediary capital in an economy with three issuer types with equal population mass of m = 1 3 , two equiprobable aggregate states, investment I = 1, and a uniform capital requirement of e ¯ = 25 % . The green type is a good (positive NPV), safe, bank-dependent borrower with project cash flows C = ( 1.05 , 1.05 ) . The yellow type is a good, risky borrower that has access to direct funding from regular investors and generates project cash flows C = ( 1.8 , 0.6 ) . The red type is a bad (negative NPV), risky borrower with project cash flows C = ( 1.5 , 0.4 ) . The three issuer types’ total returns on intermediary capital are indicated by the green, yellow, and red lines. Because we assume equal mass and a uniform capital requirement, each type demands the same amount of equity at the respective total return on intermediary capital; that is, the horizontal length of each line is 0.25/3.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Equilibrium Price and Quantity of Capital Notes. The graph extends Figure 1 by adding an inverse supply function. The supply of intermediary capital is given by S − 1 ( E ) = c ′ ( E ) = 50 ( max { E − E I , 0 } ) 2 . The equilibrium quantity E ∗ and price r E ∗ are indicated by the blue circle. The marginally funded borrower type is the green type. The incremental surplus that borrowers obtain above and beyond the surplus attainable from public market finance is illustrated by the orange-shaded area. The gray-shaded area measures the surplus accruing to intermediaries’ initial equity holders.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Intermediary Capital Supply Notes. The graph illustrates how equilibrium outcomes are affected by an increase or decrease in inside capital E I relative to the baseline level considered in Figure 2 . We consider changes of magnitude Δ = 0.125 .",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Capital Ratio Requirements Notes. Panels (a) through (d) illustrate the effects of increases in capital ratio requirements. Panel (a) replicates the economy illustrated in Figure 2 , where all borrower types are subject to a ratio requirement of e ¯ = 0.25 . Panels (b) through (d) consider gradual increases in capital ratio requirements, up to a level of e ¯ = 0.55 in panel (d).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Changes in Public Market Development Notes. The figure illustrates the effect of public market development that enables access to competitive investors for productive borrowers (yellow and green types). The panels of the figure build on our previous benchmark parameterization shown in Figure 2 , subject to the following adjustments: the green type now has cash flows C = ( 1.28 , 1.28 ) , the general capital requirement is e ¯ = 30 % , and E I = 0.05.",
+        "correlation": []
+    }
+}

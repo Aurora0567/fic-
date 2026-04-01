@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Coding of Observations as Laterals and Matched Nonmovers",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Predicted Pay Grade by Years Since Transfer: Lateral vs. Nonlateral Notes . Coefficients were calculated from Model 1 in Online Appendix 3. The figure was drawn using the Margins command. The lateral moves occur between years 0 and 1. CI, confidence interval.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Predicted Pay by Years Since Transfer: Lateral vs. Nonlateral Notes . Coefficients were calculated from Model 2 in Online Appendix 3. The figure was drawn using the Margins command. The lateral moves occur between year 0 and year 1. CI, confidence interval.",
+        "correlation": []
+    }
+}

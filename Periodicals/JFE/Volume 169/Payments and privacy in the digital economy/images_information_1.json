@@ -1,0 +1,20 @@
+{
+    "1": {
+        "description": [
+            "Equilibrium Map with D-money in (α,λ)-space. Parameter values are: pH=6, pL=2.5, θ=5, q=0.11. The y-axis is truncated at λ¯=0.8. Since qθ<1, λ̲=0. Labels indicate (i) the type of contract menu offered by the lender conditional on sellers choosing offline distribution, and (ii) the equilibrium outcome (Online, Offline, No Loan). For example, the label “S-Online” indicates that the lender offers a separating contract under offline distribution, and sellers choose to distribute online in equilibrium."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Equilibrium Map with P-money in (α,λ)-space. Parameter values are: pH=6, pL=2.5, θ=5, q=0.11. The y-axis is truncated at λ¯=0.8. Since qθ<1, λ̲=0. Labels indicate (i) the type of contract menu offered by the lender conditional on sellers choosing offline distribution, and (ii) the equilibrium outcome (Online, Offline, No Loan). For example, the label “S-Online” indicates that the lender offers a separating contract under offline distribution, and sellers choose to distribute online in equilibrium."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "This figure shows how the planner’s optimal choice M∗ depends on parameters. The areas with hashed lines represent D-money, the light gray areas represent P-money, and the dark gray areas represent C-money. In Panel A (LHS), the parameter values are: pH=6, pL=2.5, θ=5, q=0.11. In Panel B (RHS), the parameter values are: pH=6, pL=2.5, q=0.11, α=0.5."
+        ],
+        "correlation": []
+    }
+}

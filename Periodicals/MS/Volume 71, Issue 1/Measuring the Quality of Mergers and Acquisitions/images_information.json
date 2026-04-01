@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Number of Acquisitions and IRI Notes . This figure plots the number of announced mergers and acquisitions and the yearly cross-sectional average IRI over the 1980–2018 sample period. IRI is defined in the appendix.",
+        "correlation": []
+    },
+    "2": {
+        "description": "IRI and Changes in Acquirer ROE and Net Operating Margin After Acquisition Notes . This figure plots the mean Change in acquirer ROE (%) and Change in acquirer net operating margin (%) over the three years after the acquisition for all completed transactions (labeled All) as well as for completed transactions in the highest quartile of implied ROE improvement (labeled High IRI) and in the bottom three quartiles (labeled Low IRI). All variables are defined in the appendix and Table A.2 in the Online Appendix. (a) Mean change in acquirer ROE after acquisition. (b) Mean change in acquirer net operating margin after acquisition.",
+        "correlation": []
+    }
+}

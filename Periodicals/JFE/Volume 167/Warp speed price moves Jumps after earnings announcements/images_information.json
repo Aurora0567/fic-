@@ -1,0 +1,50 @@
+{
+    "1": {
+        "description": [
+            "Apple’s third-quarter 2020 earnings announcement on 07/30/2020.Note. The figure shows the post-announcement price (left y-axis) and cumulative transaction count in 1,000s (right y-axis) for Apple’s third-quarter 2020 earnings announcement, which was released at 4:30 pm on 07/30/2020. In Panel A, we plot the data from the first 60 s since the announcement, whereas Panel B zooms further in on the first 100 ms since the announcement."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Trading volume and bid–ask spread in the after-hours market.Note. In Panel A, we show the cross-sectional sample average trading volume (measured by transaction counts) for each five-second interval in a one-hour window centered around the earnings announcement, which occurs at time 0. In Panel B, we report the associated median bid–ask spread (in basis points), which is computed as Spreadbps=10000×(ask−bid)/midquote, where midquote=(bid+ask)/2. As a control sample, for each announcement we select a random non-announcement date without replacement and calculate trading volume and Spreadbps on the corresponding time interval. The modal announcement time across companies is 4:05 pm. Hence, the exchange typically closes five minutes prior to an announcement (highlighted by a circle on the x-axis)."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Pre-averaged realized variance and bipower variation.Note. We show point estimates of the pre-averaged realized variance and pre-averaged bipower variation, converted to an annualized standard deviation. The axis label shows which estimator is plotted. In parenthesis, we further indicate for which part of the day high-frequency data are employed to calculate the estimate."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Distribution of the estimated jump proportion.Note. This figure shows kernel smoothed densities of the proportion of quadratic return variation from the jump component, which is estimated by: Jump proportion = 1 - Bipower variation/Realized variance. The latter are computed without pre-averaging if sampling at a 5-minute frequency (5 m) or with pre-averaging if sampling at the tick-by-tick frequency (rest). θ controls the size of the pre-averaging horizon kn=⌊θn⌋ for calculating pre-averaged returns. n is the number of tick-by-tick data. The sample is split into days without earnings announcements (in Panel A) and with earnings announcements (in Panel B)."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Jump frequency and post-announcement return against standardized earnings surprise.Note. We sort our earnings announcements by the value of the standardized unexpected earnings, zEPS, and form decile portfolios from lowest to highest values of the earnings surprise. In Panel A, we then plot the corresponding announcement jump frequency implied by our noise-robust jump test (averaged within decile). In Panel B, we report the one-minute post-announcement return (averaged within decile). The median value of zEPS within each decile is plotted against the right-hand y-axis."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Cumulative return from trading strategy.Note. The figure shows the cumulative return from a trading strategy that employs the standardized earnings surprise to predict the one-minute post-announcement return: r1m,itEA=a+b1zEPS,it++b2zEPS,it−+ϵit. A long (short) position in the stock is entered if the predicted return is greater (smaller) than 0.5% (−0.5%) and held until 6:30 pm. The sample average return and test statistic for testing that the mean return is zero, based on robust standard errors, is reported in parenthesis. “Trade” employs the transaction price, “Midquote” the midquote, and “BBO” the best bid and offer. “+Xs” enforces a latency delay of X seconds before entrance."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Cumulative returns from trading strategy.Note. The figure shows the cumulative return in percent from a trading strategy that employs the standardized earnings surprise to predict the one-minute post-announcement return: r1m,itEA=a+b1zEPS,it++b2zEPS,it−+ϵit. A long (short) position in the stock is entered if the predicted excess return is greater (smaller) than 0.5% (−0.5%). The cumulative return is based on closing out the position after a fixed number of tick updates. “Trade” employs the transaction price, “Midquote” the midquote, and “BBO” the best bid and offer."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "One-minute return distribution.Note. The box plots in the left panel show the one-minute return distribution of (i) non-announcing firms (NAFs) on common non-announcement days (no EA), (ii) NAFs outside the industry of the announcing firm (AF), NAF(IP = 0), and (iii) NAFs within the industry of the AF, NAF(IP = 1). The cross measures the median, the box is the interquartile range, and the whisker marks the 0.10 (lower) and 0.90 (upper) percentile. While (i) is based on days when none of our firms are announcing, (ii) and (iii) are based on days with at least one announcement. We construct (i) by taking for each announcement of an AF a common non-announcement day at random and measuring the stock price movement of the AF over the one-minute window aligned with its associated announcement time. In Panel B, we add the one-minute post-announcement return distribution of the AFs in our sample."
+        ],
+        "correlation": []
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Operating Leverage and Earnings Usefulness Note. The figure describes our expectations for the relation between degree of operating leverage, earnings properties, and earnings usefulness, as discussed in Section 2 .",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Degree of Operating Leverage over Time Notes. (a) DOL_Lev . (b) DOL_NS . The figure describes the evolution of the degree of operating leverage, measured with the mean and median of DOL_Lev (a) and DOL_NS (b) during our sample period.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Path Analysis and Earnings Informativeness Notes. The figure describes the results from estimating recursive structural equations as in Section 4.2.3 . The effect of the degree of operating leverage on the informativeness of earnings through the channel of earnings manipulation and earnings volatility is estimated by multiplying the coefficient describing the relation between the degree of operating leverage and either the incentive to aggressively recognize revenues or earnings volatility with the coefficient describing the relation between these constructs and the informativeness of earnings. The degree of operating leverage: •Decreases the informativeness of earnings through the incentive to recognize revenues aggressively. The coefficient is −0.001, and it is statistically significant at the 1% level ( p < 0.01). •Decreases the informativeness of earnings through earnings volatility. The coefficient is −0.029, and it is statistically significant at the 1% level ( p < 0.01). •Decreases the informativeness of earnings through other channels. The coefficient is −0.025, and it is statistically significant at the 1% level ( p < 0.01). * p < 0.10; ** p < 0.05; *** p < 0.01.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Path Analysis and Earnings Value Relevance Notes. The figure describes the results from estimating recursive structural equations as in Section 4.2.3 . The effect of the degree of operating leverage on the value relevance of earnings through the channel of earnings manipulation and earnings volatility is estimated by multiplying the coefficient describing the relation between the degree of operating leverage and either the incentive to aggressively recognize revenues or earnings volatility with the coefficient describing the relation between these constructs and the value relevance of earnings. The degree of operating leverage: •Decreases the value relevance of earnings through the incentive to recognize revenues aggressively. The coefficient is −0.001, and it is statistically significant at the 5% level ( p = 0.029). •Decreases the value relevance of earnings through earnings volatility. The coefficient is –0.014, and it is statistically significant at the 1% level ( p < 0.01). •Decreases the informativeness of earnings through other channels. The coefficient is −0.016, and it is statistically significant at the 10% level ( p = 0.082). * p < 0.10; ** p < 0.05; *** p < 0.01.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Cost Structure and the Granting of PNTR to China 𝐷 𝑂 𝐿 𝑖 , 𝑡 = 2 0 1 1 ∑ 𝑡 = 1 9 9 1 𝛽 𝑡 𝑁 𝑇 𝑅 𝐺 𝑎 𝑝 𝑖 𝑛 𝑑 · 𝑃 𝑒 𝑟 𝑖 𝑜 𝑑 𝑡 + ∑ ⁢ 𝛾 𝐶 𝑜 𝑛 𝑡 𝑟 𝑜 𝑙 𝑠 𝑖 , 𝑡 + 𝜂 𝑖 𝑛 𝑑 + 𝜃 𝑡 + 𝜖 𝑖 , 𝑡 . DOL i , t = ∑ t = 1991 2011 β t NTRGap ind · Period t + ∑ ⁢ γ Controls i , t + η ind + θ t + ϵ i , t . Notes. (a) DOL_Lev . (b) DOL_NS . This figure plots estimated treatment effects for each period with 90% confidence intervals and robust standard errors. Panel (a) defines DOL as DOL_Lev , the degree of operating leverage calculated using the levels approach; panel (b) defines DOL as DOL_NS , the degree of operating leverage calculated using the elasticities approach. NTRGap is the difference between the non-NTR rates to which tariffs would have risen if annual renewal had failed and the NTR tariff rates that were locked in by PNTR. Period collects a set of indicator variables identifying different time periods. The model controls for the same variables included in Equation (2) and defined in Appendix A .",
+        "correlation": []
+    }
+}

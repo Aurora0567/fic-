@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Extract of the menu of contracts offered by HSBC in January 2023.Source: HSBC website."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Average number of advertised mortgage products for BtL, FtB and Remortgage .Moneyfacts and Bank of England’s calculations."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Distribution of price elasticity for the discrete choice regression for the full population."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Distribution of WTP for LTV for the full population."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Interest rate decomposition by LTV."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Data and social planner simulation distribution of the equilibrium interest rate and LTV distribution."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Social planner distribution of the equilibrium interest rate and LTV distribution with two different approaches for the fixed costs."
+        ],
+        "correlation": []
+    }
+}

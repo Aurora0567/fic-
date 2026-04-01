@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "(Color online) Main Summary Note. We plot the ordinary least squares (OLS) regression coefficients from the main event regression specification on the top two graphs, reported in Table 4 , across time for the total meeting count (top) and email count (bottom) for the full sample of 102 firms.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Interdepartment and Intradepartment Communication Notes. We plot the OLS regression coefficients for the ratio of interdepartmental to intradepartmental meetings (top). Below we plot the OLS regression coefficients for interdepartmental communication (bottom left) and intradepartmental communication (bottom right). These results are reported in Table 5 for 89 firms with available data. The CEO turnover occurs in period 0. We use the period before the transition, period −1, as the base period. These results include firm-level fixed effects and standard errors clustered at the firm level.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Hierarchy Summary (Firm-Level Data) Notes. We plot the OLS regression coefficients for the ratio of vertical to horizontal meeting count at the top. Then below, we plot the OLS regression coefficients for vertical communication (bottom left) and horizontal communication (bottom right). These results are reported in Table 5 for 88 firms with available data. The CEO turnover occurs in period 0. We use the period before the transition, period −1, as the base period. These results include firm-level fixed effects and standard errors clustered at the firm level.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Heterogeneity Based on HQ vs. Subsidiary Location Notes. This figure shows the difference between CHQ-level communication and subsidiary-level communication for all 102 firms. The mapping is based on whether the employee is based in the same city as the corporate headquarters or in a different city. We also examine the interaction term and find the effect is only significant in period 4. We run a joint F-test on periods 3, 4, and 5 to show that the effect is significant during this period but driven by period 4.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Heterogeneity Across CEO Transitions with More vs. Less Uncertainty Notes. (a) Top management team turnover. Sixty-seven firms experience corresponding TMT turnover during the period from the month of the CEO turnover until three months after the CEO turnover (source: BoardEx). We calculate higher turnover (red line) as the top quintile of TMT turnover rates; the blue line represents the remaining firms. Results are for meetings only. Oth., other; Turn., turnover; quin., quintile. (b) Board turnover. Fifty-four firms experience corresponding board member turnover during the period from the month of the CEO turnover until three months after the CEO turnover (source: BoardEx). We calculate higher turnover (red line) as the top quintile of board turnover rates; the blue line represents the remaining firms. Results are for meetings only. (c) Internal vs. external CEO replacement. Fifty-one firms hire a CEO internally, meaning the individual becoming CEO already worked at the firm (source: BoardEx). The red line represents the firms that experienced an internal replacement, and the blue line represents external replacement. Results are for meetings only.",
+        "correlation": []
+    }
+}

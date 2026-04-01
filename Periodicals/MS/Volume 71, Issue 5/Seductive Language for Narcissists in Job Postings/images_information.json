@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Experiment 1—Graph of Responses to Match of Job to Own Talents, Skills, and Competencies Notes. See Section 4 for a discussion of Experiment 1. Two hundred forty-eight participants rate the extent to which a job matches their talents, skills, and competencies on a 100-point scale, with the endpoints labeled “very little” (1) and “very much” (100). The ideal candidate description is manipulated between participants and presents either the Rule-Follower or Rule-Bender profile (see Appendix B ). Responses are reported by quartiles of the 16-item Narcissism Personality Inventory scale developed by Ames et al. (2006) . Higher values indicate greater narcissistic tendencies.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Graph of Responses to Comparative Questions by Narcissism Quartile—Experiment 2 Notes. See Section 5 for a discussion of Experiment 2. Questions are answered on a 100-point response scale and responses are coded so that 1 represents the Rule-Follower job description and 100 represents the Rule-Bender job description with the midpoint labeled as “No difference.” Question 1: Which job opportunity is the best match for your personality? Question 2: Which job opportunity do you find most interesting? Question 3: Which job opportunity are you most likely to pursue? Question 4: Which job opportunity would draw upon your talents, skills, and competencies to the greatest extent?",
+        "correlation": []
+    },
+    "3": {
+        "description": "Graph of Responses to Descriptor Pairs—Experiment 3 Notes. See Section 6 for a discussion of Experiment 3. Participants make choices between six pairs of terms to include in a job posting. The pairs are comprised of the Rule-Follower vs. Rule-Bender terms shown in Appendix B . Participants respond on a sliding scale with the left endpoint containing one of the six terms and the right endpoint containing the matched term. The midpoint of the scale is labeled “Indifferent.” The order of the six pairs is randomized, and the appearance of a descriptor is randomized to appear on the left or right endpoint. Responses take on a value of 1 to 100 and are coded so that lower (higher) values indicate a preference for the Rule-Follower (Rule-Bender) terms.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Graph of Responses to Descriptor Pairs—Experiment 4 Notes. See Section 7 for a discussion of Experiment 4. This figure displays mean recruiter preferences on a 101-point scale for words consistent with either Rule-Follower (0 on the scale) or Rule-Bender (100 on the scale), with the midpoint of 50 labeled as “Indifferent.” Financial statement purpose is manipulated within participants with a stated purpose of either monitoring or valuation. The descriptor pairs are comprised of the Rule-Follower vs. Rule-Bender terms shown in Appendix B .",
+        "correlation": []
+    }
+}

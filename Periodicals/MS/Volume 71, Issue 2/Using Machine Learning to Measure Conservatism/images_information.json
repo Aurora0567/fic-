@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Structure of the Neural Network Notes. Neural network used to estimate the full model ( Equation (1) ). Circles represent perceptrons and rectangles represent embedded neural networks. Thick arrows are vectors and thin arrows are scalars. All four functions of Equation (1) are estimated by embedded networks. The ones that capture functions f and d are described in Figure 2(a) , and the ones that capture functions g and g + c are described in Figure 2(b) .",
+        "correlation": []
+    },
+    "2": {
+        "description": "Structure of the Embedded Neural Networks Notes. (a) 𝑓 ⁡ ( . ) f ⁡ ( . ) and 𝑑 ⁡ ( . ) d ⁡ ( . ) . (b) 𝑔 ⁡ ( . ) g ⁡ ( . ) and 𝑔 ⁡ ( . ) g ⁡ ( . ) + 𝑐 ⁡ ( . ) c ⁡ ( . ) . For functions 𝑓 ⁡ ( . ) f ⁡ ( . ) and 𝑑 ⁡ ( . ) d ⁡ ( . ) , the activation function of the output layer is linear (not constrained). For functions 𝑔 ⁡ ( . ) g ⁡ ( . ) and 𝑔 ⁡ ( . ) + 𝑐 ⁡ ( . ) g ⁡ ( . ) + c ⁡ ( . ) , the positivity constraint is imposed by using an exponential activation function. All intermediate layer perceptrons use the hyperbolic tangent activation function.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Plots of the C Score Coefficients over Time Using Yearly Regressions Notes. (a) Replication. (b) Full sample. (a) uses sample restrictions used in Khan and Watts (2009) , and (b) uses our full sample.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Distribution of the Measures Notes. (a) C scores. (b) G scores. (c) G + C scores. This figure plots the densities of the different C score, G score, and G + C score measures. Each subplot plots the measure of a given model without time fixed effects (black line) and its equivalent model that includes time fixed effects (gray line).",
+        "correlation": []
+    },
+    "5": {
+        "description": "Time Series of the Measures Averaged Each Year Note. Dotted lines indicate breaks identified following Bai and Perron (2003) .",
+        "correlation": []
+    }
+}

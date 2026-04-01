@@ -1,0 +1,68 @@
+{
+    "1": {
+        "description": [
+            "Switches as a percentage of total outstanding loans. Notes: See text for details. A loan is classified as a switch if it is (i) a new loan, and (ii) from a bank with which the firm has had no relationship in the past year."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Average spread between loans for new and existing relationships. Notes: See text for details. At each time since loan origination, the dot represents the point estimate of γi from (1), and the bars represent the associated 90% confidence interval."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Distributions of the endogenous state variables across models. Notes: Panels (a) and (b) plot the partial distributions for total beginning-of-period net worth (n+z) and relationships (s), respectively. Average net worth for each model is presented in Table 3. The average relationship intensity, represented by the black line in panel (b), is common across all our relationship models by construction. Panel (c) plots the average relationship intensity with a one standard deviation band conditional on each level of net worth in the baseline model."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Steady state loan pricing policies. Notes: Panel (a) plots the first and second moments of the pricing policies (expressed as annualized percentage point spreads over the average interest rate) conditional on a given level of net worth over the distribution of banks in the baseline model. Variation in pricing at each level of n comes from dispersion in s and z. Panels (b) and (c) plot sample pricing policy functions over the distribution of net worth and relationships: spreads are zero by definition in the competitive case. Panels (b) and (c) each fix z=0, the median level, and s or n at the 25th percentile from."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Complementarity of financial and relationship capital. Notes: This figure plots a numerical approximation to the slope of the bank value function with respect to net worth with z fixed at the median level in the baseline model. The color at each point represents the marginal value of net worth at that point, with shading governed by the color bar to the right of the figure."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Average bank life cycle across model variants. Notes: For each version of the model, we simulate paths of T=40 periods for N=10,000 entrant banks with initial states n=0, s=0, and z drawn from the ergodic distribution Γ¯(z). Each plot presents averages of the indicated metrics across the N banks for each date t=1,…,T."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Differences in spreads from switching relative to non-switching loans. Notes: This figure plots the differences in spreads between switching and non-switching loans for several model variants and in the data. For detailed descriptions of the construction of this figure, see Section 2.2.2 for the data and Section 5.2 for the model."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Capital buffers and relationships. Notes: This figure represents the distribution of capital buffers across economies. Each is depicted as a probability mass function with 50 bins between the minimum, χ=8%, and 20% (the share of banks with buffers above 20% in negligible in each model). The legend includes the share of banks for whom the capital requirement actually binds. The capital buffer is defined as the ratio of book equity to book assets, gq(x)gℓ′(x)−q¯dgd′(x)gq(x)gℓ′(x). The data refers to the total capital ratio reported in form FR Y-9C (BHCA7205), averaged across the four quarters of 2019."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Aggregate shock to bank net worth. Notes: This figure plots percent deviations (panels (b), (c), (d), and (e)) or percentage point differences (panels (a) and (f)) from steady state. The aggregate shock reduces each bank’s net worth by 25% at date 1."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Aggregate shock to cost of funding. Notes: This figure plots percent deviations (panels (b), (c), (d), and (e)) or percentage point differences (panels (a) and (f)) from steady state. The aggregate shock raises the cost of funding r¯annd from 2% to 4% at date 1, returning to 2% with persistence 0.5."
+        ],
+        "correlation": []
+    },
+    "11": {
+        "description": [
+            "Aggregate shock to loan demand. Notes: This figure plots percent deviations (panels (b), (c), (d), and (e)) or percentage point differences (panels (a) and (f)) from steady state. The aggregate shock lowers TFP by 1% at date 1, recovering with persistence 0.5."
+        ],
+        "correlation": []
+    }
+}

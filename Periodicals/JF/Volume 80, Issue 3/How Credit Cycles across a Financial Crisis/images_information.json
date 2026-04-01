@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Behavior of spreads, credit, and GDP. This figure plots the behavior of credit spreads, GDP, and the quantity of credit around crises, with date 0 as the JST mod. date associated with the 40 JST crises. GDP is expressed as the percentage fall from year t−6$t-6$, after demeaning by the growth rate in GDP for country-i$i$. Credit is the three-year growth in credit-to-GDP, demeaned by the country-i$i$ growth rate and normalized by the standard deviation of credit growth for the country. Spreads are normalized by dividing by the unconditional mean consistent with our normalization in the main text and plotted as deviations from the country-i$i$ mean. See the text for further details. The dashed lines indicate 95% confidence bands.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Spreads and GDP around crises. Spread changes and GDP declines around JST mod. crises.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Spreads and fundamental spreads. This figure plots the path of spreads and fundamental spreads in the years surrounding a JST mod. crisis. The paths are formed by running regressions with dummies at various dates. “Fundamental spreads” are computed as the predicted value from a regression of spreads on fundamentals including two lags of GDP growth and the change in credit.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Conditional crisis probabilities. We plot the cumulative probability of a crisis at each horizon when we condition on credit market conditions. H⁢i⁢g⁢h⁢F⁢r⁢o⁢t⁢hi,t${HighFroth}_{i,t}$ is a dummy equal to 1 if abnormal credit spreads (the residual of spreads regressed on two lags of GDP and credit growth) over the last five years have been below their median. H⁢i⁢g⁢h⁢C⁢r⁢e⁢d⁢i⁢ti,t${HighCredit}_{i,t}$ is a dummy equal to 1 if credit growth over the past three years has been high. We compare the future probability of a crisis when credit markets appear “frothy” (H⁢i⁢g⁢h⁢F⁢r⁢o⁢t⁢hi,t${HighFroth}_{i,t}$ and H⁢i⁢g⁢h⁢C⁢r⁢e⁢d⁢i⁢ti,t${HighCredit}_{i,t}$ both equal 1) to when they are not (both equal to zero). In the bottom panel, we compare this to only cases where credit is high. See text for more details. Results are from a Logit model with country fixed effects with standard errors double-clustered by year and country.",
+        "correlation": []
+    }
+}

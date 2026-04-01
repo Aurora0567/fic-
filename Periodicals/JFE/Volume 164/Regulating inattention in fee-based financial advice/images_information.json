@@ -1,0 +1,8 @@
+{
+    "1": {
+        "description": [
+            "Estimated drop frequency following FOFA events.Panel A is the predicted cumulative frequency of dropping advice prior to the indicated month since an advice anniversary (month zero), computed as the marginal probabilities from Table 4 coefficient estimates for Eq. (1) without the individual characteristic variables. ‘Base’ is anniversaries with no FOFA event. ‘FDS’ is anniversaries with a Fee Disclosure Statement (Panel A: base + FDS effect. Panel B: marginal effect of FDS). ‘Opt-in’ is anniversaries with a second FDS and an Opt-in notice (Panel A: base + FDS + Opt-in. Panel B: marginal effect of Opt-in)."
+        ],
+        "correlation": []
+    }
+}

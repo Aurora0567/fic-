@@ -1,0 +1,44 @@
+{
+    "1": {
+        "description": [
+            "Distribution of VaRConstrainth,t and DistAboveVaRConstrainth,t. This figure illustrates the time series of the median (solid line) and 25th-75th percentile interquartile range (shaded area) of VaRConstrainth,t (Panel A) and DistAboveVaRConstrainth,t (Panel B) for the pre-crisis period up to February 2020."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Hedge fund U.S. Treasury exposures. This figure presents the times series of aggregate long and short UST exposures from January 2013 to September 2020 for all hedge funds and hedge funds separated into broad strategies: macro, relative value, credit, multi-strategy, and all other strategies. March 2020 is shaded gray."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "U.S. Treasury arbitrage spreads and interest rates in March 2020. Panels A, B, and C show the cash-futures basis and on-the-run/off-the-run spreads in basis points from January 2013 to September 2020 (Panel A), from January to March 2020 (Panel B), and for March 2020 (Panel C). Panel D shows the 10-year Treasury yield (left y-axis in %), federal funds rate (left y-axis in %), and S&P 500 Index (right y-axis) in March 2020. March 2020 is shaded gray in Panel A. In Panels B, C, and D, the vertical dashed lines denote the inception of the crisis (March 9) and the trading dates on which the Federal Reserve bond purchases were announced (March 16 and 23)."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Hedge fund returns and cash held for liquidity management. This figure presents the times series of returns and unencumbered cash and cash equivalents from January 2013 to September 2020 for UST trading hedge funds. The figure on the left shows the monthly mean returns, net-of-fees. The figure on the right shows aggregate holdings of unencumbered cash and cash equivalents (FreeCashEq). March 2020 is shaded gray."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Daily UST bilateral repo lending by the top 10 G-SIB dealers in 2020. The figure presents the aggregate bilateral UST reverse repo (repo lending) to asset managers during 2020 by 10 G-SIB dealers, including Bank of America, Barclays, Citi, Credit Suisse, Deutsche Bank, Goldman Sachs, J.P. Morgan, Morgan Stanley, UBS, and Wells Fargo. March 2020 is shaded gray."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Empirical strategy for analyzing hedge fund-creditor bilateral repo data. This figure illustrates the identification strategy we use to analyze the hedge fund-creditor bilateral repo data to test whether dealers constrained by enhanced regulation cut repo lending to their hedge fund clients. The figure depicts an example bilateral repo lending network with eight nodes: four dealers (A, B, C, and D) and four hedge funds (1, 2, 3, and 4). The amount of repo lending from dealer p to hedge fund h at time t, HF_Crdtr_Credith,p,t, determines the strength of the link (edge) between that hedge fund-dealer pair. All hedge funds in this analysis borrow simultaneously from at least two dealers allowing for the use of hedge fund-time fixed effects. In this sample network, two dealers A and B (nodes in orange) are subject to enhanced regulation, while two dealers C and D (nodes in blue) are not. Hedge funds 2 and 3 both borrow from at least one dealer subject to enhanced regulation and at least one that is not."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "UST cash-futures basis trader versus other UST trader hedge funds. This figure presents the times series of UST exposure, repo exposures, and leverage from January 2013 to September 2020 for hedge funds predominantly engaged in the UST cash-futures basis trade (left) and other UST trading hedge funds (right). Both sets of funds are hedge funds with gross UST exposure of at least $1 million on average over the last three months of 2019. The subfigures in the first row show aggregate long and short UST exposures. The second row shows the aggregate repo and reverse repo exposures. The third row shows aggregate gross and net assets under management. March 2020 is shaded gray."
+        ],
+        "correlation": []
+    }
+}

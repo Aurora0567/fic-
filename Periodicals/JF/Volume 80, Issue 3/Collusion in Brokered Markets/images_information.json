@@ -1,0 +1,30 @@
+{
+    "1": {
+        "description": "The prices supporting the highest sustainable-profit equilibrium. The solid red line is the price that agents charge to sellers, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid green line is the price that agents charge to buyers, \n\n\np\nB\n★\n\n$p^{\\star }_B$\n. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n3\n\n$v_{B}= 3$\n, \n\n\n\nv\nS\n\n=\n5\n\n$v_{S}= 5$\n, \n\n\n\nκ\nB\n\n=\n\n1\n5\n\n\n$\\kappa _B= \\frac{1}{5}$\n, and \n\n\n\nκ\nS\n\n=\n\n1\n6\n\n\n$\\kappa _S= \\frac{1}{6}$\n.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Automaton representation of the equilibrium we consider. Labeled nodes are phases; unlabeled nodes are intermediate phases, which represent the branching of transitions based on behavior in the later steps of the game.",
+        "correlation": []
+    },
+    "3": {
+        "description": "The prices supporting the highest-profit exclusion equilibrium. As in Figure 1, the solid red line is the price agents charge to sellers in the cooperation phase, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid green line is the price agents charge to buyers, \n\n\np\nB\n★\n\n$p^{\\star }_B$\n, in the highest-profit exclusion equilibrium. The solid red line also indicates the price that agents charge to sellers in the equilibrium of Theorem 1, \n\n\nq\nS\n★\n\n$q^{\\star }_S$\n, while the dashed green line is the price that agents charge to buyers in the equilibrium of Theorem 1, \n\n\nq\nB\n★\n\n$q^{\\star }_B$\n. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n3\n\n$v_{B}= 3$\n, \n\n\n\nv\nS\n\n=\n5\n\n$v_{S}= 5$\n, \n\n\n\nκ\nB\n\n=\n\n1\n5\n\n\n$\\kappa _B= \\frac{1}{5}$\n, and \n\n\n\nκ\nS\n\n=\n\n1\n6\n\n\n$\\kappa _S= \\frac{1}{6}$\n.",
+        "correlation": []
+    },
+    "4": {
+        "description": "The prices supporting the highest sustainable-profit equilibrium when a rebate ban is present. The solid red line is the seller price, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid green line is the buyer price, \n\n\np\nB\n★\n\n$p^{\\star }_B$\n; The concentration \n\n\nα\n∼\n\n$\\tilde{\\alpha }$\n is the market concentration \n\n\n\n(\n1\n−\nδ\n)\n\n\nκ\nB\n\n\nκ\nS\n\n\n\nv\nS\n\n\n\nv\nS\n\n+\n\n(\n1\n−\n\nκ\nS\n\n)\n\n\nv\nB\n\n\n\n\n$(1-\\delta)\\kappa _B\\kappa _S\\frac{v_{S}}{v_{S}+ (1-\\kappa _S)v_{B}}$\n, as given in Theorem 3. The green dashed line is the buyer price when no rebate ban is present; the seller price is invariant to the presence of a rebate ban. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n3\n\n$v_{B}= 3$\n, \n\n\n\nv\nS\n\n=\n5\n\n$v_{S}= 5$\n, \n\n\n\nκ\nB\n\n=\n\n1\n5\n\n\n$\\kappa _B= \\frac{1}{5}$\n, and \n\n\n\nκ\nS\n\n=\n\n1\n6\n\n\n$\\kappa _S= \\frac{1}{6}$\n.",
+        "correlation": []
+    },
+    "5": {
+        "description": "The prices supporting the highest sustainable-profit equilibrium when agency fees are allowed. The solid red line is the seller price, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid green line is the buyer price. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n1\n\n$v_{B}= 1$\n, \n\n\n\nv\nS\n\n=\n10\n\n$v_{S}= 10$\n, \n\n\n\nκ\nB\n\n=\n\n1\n4\n\n\n$\\kappa _B= \\frac{1}{4}$\n, \n\n\n\nκ\nS\n\n=\n\n1\n5\n\n\n$\\kappa _S= \\frac{1}{5}$\n, and \n\n\nc\n=\n1\n\n$c = 1$\n.",
+        "correlation": []
+    },
+    "6": {
+        "description": "The prices supporting the highest sustainable-profit equilibrium when seller-proficient agents work with buyers. The solid red line is the seller price, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid blue line is the buyer price, \n\n\np\nB\n★\n\n$p^{\\star }_B$\n. The dashed green line is the buyer price when agency fees are allowed; the seller price is identical in both cases. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n1\n\n$v_{B}= 1$\n, \n\n\n\nv\nS\n\n=\n10\n\n$v_{S}= 10$\n, \n\n\n\nκ\nB\n\n=\n\n1\n4\n\n\n$\\kappa _B= \\frac{1}{4}$\n, \n\n\n\nκ\nS\n\n=\n\n1\n5\n\n\n$\\kappa _S= \\frac{1}{5}$\n, and \n\n\nc\n=\n1\n\n$c = 1$\n.",
+        "correlation": []
+    },
+    "7": {
+        "description": "The prices supporting the highest sustainable-profit equilibrium when seller-proficient agents work with buyers. The solid orange line is the seller price, \n\n\np\nS\n★\n\n$p^{\\star }_S$\n, and the solid blue line is the buyer price, \n\n\np\nB\n★\n\n$p^{\\star }_B$\n. The dashed green line is the buyer price when agency fees are allowed; the dashed red line is the seller price when agency fees are allowed. Here, \n\n\nδ\n=\n\n3\n4\n\n\n$\\delta = \\frac{3}{4}$\n, \n\n\n\nv\nB\n\n=\n1\n\n$v_{B}= 1$\n, \n\n\n\nv\nS\n\n=\n10\n\n$v_{S}= 10$\n, \n\n\n\nκ\nB\n\n=\n\n1\n4\n\n\n$\\kappa _B= \\frac{1}{4}$\n, \n\n\n\nκ\nS\n\n=\n\n1\n5\n\n\n$\\kappa _S= \\frac{1}{5}$\n, and \n\n\nc\n=\n1\n\n$c = 1$\n.",
+        "correlation": []
+    }
+}

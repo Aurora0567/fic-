@@ -1,0 +1,74 @@
+{
+    "1": {
+        "description": [
+            "Common support of worker characteristics in the main and the learning samples.This figure shows the distributions of the predicted wages for workers in the learning sample (dashed line) and the main sample (solid line). For both samples, the predictions are obtained from wage regressions estimated on the main sample using as explanatory variables the worker characteristics included in the ML algorithm. These are age, gender, an indicator for immigrant status, residence municipality, a mobility indicator equal to one for workers employed in a county different from the county of birth, education level (basic, high school, vocational, or university), education subject (no specialization, law, business and economics, health and medicine, natural sciences, teaching, engineering, social sciences, services, or other specializations), labor market experience (measured as years since graduation), tenure at the current firm, number of firms and number of two-digit industries where an individual previously worked, total number of unemployment days since 1992 (when the unemployment data starts in LISA), years of experience in each occupation, years of experience in each 2-digit industry, and years of experience in each decile of the distribution of firms’ number of employees or total assets. The figure shows that the support of the two distributions almost perfectly overlaps."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Importance of workers’ features in the random forest algorithm.The graph plots the maximum explanatory power of all the workers’ features used in the random forest algorithm. Features are listed on the horizontal axis, and the importance of each feature — defined as in Robnik-Šikonja (2004) and Robnik-Šikonja and Savicky (2020) — measures its discriminatory power in the correct classification of the instances. Some features are aggregated under a single label: “Exp. Occupation” aggregates the years of experience in each occupation, “Exp. Industry” those in each industry, “Exp. TA” those in firms with given total assets, and “Exp. Size” those in firms with given number of employees. “Edu. Type” aggregates features related to education specialization. “Tenure” is the years of employment in the current firm, “Municipality” codes the worker’s residence, “Female” and “Experience” are the worker’s gender and years of experience, “N. Industries” and “N. Firms” the number of industries and firms where a worker was employed, “Unemp. days” the number of unemployment days. “Military”, “Immigrant” and “Lives where born” are dummy variables indicating whether the worker performed military service, is an immigrant and lives in his/her birthplace, respectively."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Distribution of mismatches and workers by occupation classes.The top graph shows the percentage of mismatches in each occupation class in the main sample. A mismatch occurs when an employee’s observed job differs from the job predicted by the estimated allocation rule. The bottom graph shows the percentage of workers by occupation classes in the main sample. Occupation classes are defined as follows: (1) managers, (2) professionals, (3) technicians and clerks, (4) skilled manual workers, (5) machine operators and assemblers, and (6) elementary occupations."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Worker-level job allocation quality (eJAQ) by labor market experience.This figure shows the binned scatter plot of an indicator for being assigned to the job predicted by the ML algorithm (eJAQ) against years of labor market experience."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Response of earnings to employer and occupation switches.The figure shows the coefficient estimates and the 95% confidence intervals of two distinct event studies: the first compares changes of log labor earnings from 2 years before to 1 year after a switch from an occupation (and an employer) with eJAQ=0 to one with eJAQ=1, relative to the changes occurring around switches across two occupations with eJAQ=0; the second compares changes of log labor earnings from 2 years before to 1 year after a switch from an occupation with eJAQ=1 to occupations with eJAQ=0, relative to switches across two occupations with eJAQ=1."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Distribution of match quality.The top graph shows the kernel density estimate of JAQ for firms in the main sample (solid line) and in the learning sample (dashed line). The bottom graph presents the corresponding kernel density estimates for pJAQ."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Accounting for changes in employee-level match quality (eJAQ).The top graph shows the number of well matched employees (eJAQi,t=1) who become mismatched in the subsequent year (eJAQi,t+1=0), while the bottom graph shows the number of mismatched employees who become well matched in the subsequent year. In each of the two graphs, the four bars respectively refer to employees who (i) keep their jobs in the same firm; (ii) switch to a new job within the same firm; (iii) switch to a new firm while retaining the same job; (iv) switch to a new job and a new firm."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Accounting for changes in firm-level match quality.The figure shows a variance decomposition of year-to-year changes in JAQ, ΔJAQ, decomposed into six components: the variance of changes due to employees remaining with the same firm who retain their job (A); the variance of changes due to employees remaining with the same firm who switch to different jobs (B); changes in JAQ due to employee turnover (C); and the three corresponding covariances. The light gray area indicates the total variance of ΔJAQ."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Correlation between productivity and job allocation quality.The figure shows binned scatter plots of productivity, as measured by log value added per employee, against job allocation quality, as measured by JAQ in the left charts and by pJAQ in the right charts, in each case controlling for year and industry fixed effects. The two top charts refer to the main sample and the two bottom ones to the learning sample. The regression lines are shown together with the respective 95% confidence intervals (shaded area). The points shown in the graphs represent the residuals of the partial regression plots and are computed as follows: residuals are first split into 20 equal-sized bins on the horizontal axis; points in a bin are represented with a unique point, with coordinates given by the average of the coordinates of the points in that bin. The regression line shown fits the residuals and not the binned points."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Addressing the circularity issue.Panel (a) shows partial regression plots of placebo productivity on JAQ in the left-hand chart and pJAQ on the right-hand chart, controlling for a constant. Placebo productivity is a noise variable obtained by randomly reshuffling the original log value added per employee across firms. Panel (b) shows partial regression plots of productivity, as measured by log value added per employee, against job allocation quality, as measured by JAQR in the left-hand chart and by pJAQR in the right-hand chart. JAQR and pJAQR are measures of job allocation quality and workers’ suitability to their actual job respectively obtained by estimating a ML algorithm on a 10% randomly chosen sample of firms, controlling for year and industry fixed effects. All the regression lines are shown together with the respective 95% confidence intervals (shaded area). The points shown in the two graphs represent the residuals of the partial regression plots and are computed as follows: residuals are first split into 20 equal-sized bins on the horizontal axis; each point in the figure represents the points in a bin, and its coordinates are determined by the average coordinates of the points in that bin. The regression line shown is fitted on the residuals and not on binned points."
+        ],
+        "correlation": []
+    },
+    "11": {
+        "description": [
+            "Monte Carlo distribution of JAQR coefficient in productivity regressions.Each panel in the figure plots the Monte Carlo distribution of the coefficients estimated regressing log value added per employee (top panel) and log sales per employee (bottom panel) on JAQR (left column) or pJAQR (right column), controlling for 2-digit industry and year fixed effects. The Monte Carlo simulation is performed by training our ML algorithm on 150 randomly drawn learning samples, estimating JAQR and pJAQR from each of them, and finally estimating the corresponding 150 above-described regressions. The vertical line in each graph indicates the JAQ and pJAQ coefficient estimated in the corresponding productivity regression, where JAQ and pJAQ are obtained using the top decile of the firms’ productivity distribution as learning sample, while the p-value in each graph is the probability of observing a higher value under the relevant Monte Carlo distribution."
+        ],
+        "correlation": []
+    },
+    "12": {
+        "description": [
+            "Response of rank-and-file workers’ JAQ to positive (left) or negative (right) managerial turnover events.The figure shows the behavior of the JAQ of rank-and-file workers around managerial turnover events, respectively associated with a persistent increase in the JAQ of the relevant firm’s management (left panel) and with a persistent decrease in the JAQ of the relevant firm’s management (right panel). The event study coefficients are estimated using the method proposed by Callaway and Sant’Anna (2021)."
+        ],
+        "correlation": []
+    }
+}

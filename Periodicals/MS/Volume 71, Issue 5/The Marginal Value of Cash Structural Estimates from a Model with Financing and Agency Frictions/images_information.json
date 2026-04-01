@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Comparative Statics Notes. This figure shows comparative statics of the model. In each panel, we solve and simulate the model 100 times. Each simulated sample has 5,000 firms and 26 periods. One simulation corresponds to a different value of the parameter on the horizontal axis, with the other parameters fixed at their baseline values reported in Table 2 . In each simulation, we compute the average value of the moment in question in the simulated sample.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Histogram of the Marginal Values of Cash Notes. The figure presents the normalized histograms of the gross MVC ( λ u ), deductions in MVC that are due to bonus ( λ b ) and diversion ( λ s ), and net MVC ( λ f ), which are computed based on the estimated model for 15,247 firm-year observations in our sample between 1992 and 2017. Variables are winsorized at the 2.5th and 97.5th percentiles. The means and standard deviations of the marginal values of cash are also reported in the corresponding plots.",
+        "correlation": []
+    }
+}

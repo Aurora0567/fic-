@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "(Color online) Example Glassdoor Review Note. This figure provides an example of a Glassdoor review retrieved on March 12, 2021, from glassdoor.com.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Deal Sample Overview Notes. This figure presents the number of deals per quarter in the main LBO sample that we include in our analysis, which are PitchBook deals matched to Glassdoor that occur between 2010 and 2016 and comprise vanilla, public-to-private, and corporate divestiture LBOs. The figure also shows three other deal types: management buyouts, growth equity deals, and M&As.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Event Study of Effects of LBOs on Dimensions of Employee Satisfaction: All Deals and High-Leverage Deals Notes. This figure presents differences-in-differences event studies of the effect of LBOs on four dimensions of employee satisfaction. Under each panel, we plot event studies using all deals (left) and high-leverage deals (right). The unit of observation is a review, and we present separate coefficients for 8 quarters before and 12 quarters after the buyout. The regression is fully saturated, including dummies for all quarters around the buyout. We omit quarter −1 (the quarter before the buyout). All models include company and industry–quarter fixed effects. Standard errors are clustered at the company level.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Event Study of Effects of LBOs on Number/Share of Reviews by Employment Status Notes. This figure presents differences-in-differences event studies of the effect of LBOs on number/share of reviews by employment status. The unit of observation is a company-quarter, and we present separate coefficients for 8 quarters before and 12 quarters after the buyout. The regression is fully saturated, including dummies for all quarters around the buyout. We omit quarter −1 (the quarter before the buyout). All models include company and industry–quarter fixed effects. Standard errors are clustered at the company level.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Investor Return and Changes in Employee Satisfaction Notes. The figure presents bin-scatter plots of the changes in residualized average quarterly ratings of employees on the deal-level gross-of-fee returns in the LBO-SPI matched sample. The rating category is indicated at the top of each column. Returns are measured as either the deal’s IRR (top row), TVM (middle), or PME (bottom) as indicated by the x -axis title. PMEs are computed against the style and target firm’s industry sector of the Russell 2000 index. The returns are transformed by taking the natural log of one plus the return value for IRR and 0.1 plus value for multiples before taking the average within the respective return quantile.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Investor Return and Changes in Employee Pay Notes. The figure presents bin-scatter plots of the changes in residualized average quarterly pay of employees on the deal-level gross-of-fee returns in the LBO-SPI matched sample. The pay category is indicated at the top of each column. Returns are measured as either the deal’s IRR (top row), TVM (middle), or PME (bottom) as indicated by the x -axis title. PMEs are computed against the style and target firm’s industry sector of the Russell 2000 index. The returns are transformed by taking the natural log of one plus the return value for IRR and 0.1 plus value for multiples before taking the average within the respective return quantile.",
+        "correlation": []
+    }
+}

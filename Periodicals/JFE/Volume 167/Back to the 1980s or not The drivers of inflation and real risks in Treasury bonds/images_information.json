@@ -1,0 +1,62 @@
+{
+    "1": {
+        "description": [
+            "Rolling nominal and real bond-stock betas.Note: This figure shows betas from regressing quarterly ten-year Treasury bond excess returns onto quarterly US equity excess returns over five-year rolling windows for the period 1979.Q4-2023.Q4. Quarterly excess returns are in excess of three-month T-bills. Prior to 1999, I replace US Treasury Inflation-Protected (TIPS) returns with UK ten-year linker returns. Bond excess returns are computed from changes in yields. Zero-coupon yield curves are from Gürkaynak et al., 2007, Gürkaynak et al., 2010 and the Bank of England. Vertical lines indicate 2001.Q2 and the start of the pandemic 2020.Q1."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Local projections for inflation, output gap, and fed funds rate.This figure shows quarterly regressions of the form ɛzt+h=a0,h+a1,hyt+a2,hyt−1+ɛt+h and plots the regression coefficient a1,h on the y-axis against horizon h on the x-axis in the model vs. the data. Panel A uses the output gap on the left-hand side and GDP deflator inflation on the right-hand side, i.e. zt=xt and yt=πt. Panel B uses the output gap on the left-hand side and the fed funds rate on the right-hand side, i.e. zt=xt and yt=it. Panel C uses the fed funds rate on the left-hand side and inflation on the right-hand side, i.e. zt=it and yt=πt. Black dashed lines show the regression coefficients in the data. Thin dashed lines show 95% confidence intervals for the data coefficients based on Newey–West standard errors with h lags. Blue solid lines show the corresponding model regression coefficients averaged across 100 independent simulations of length 1000. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Model Campbell-Shiller predictability by inflation expectations.This figure shows the model Campbell-Shiller bond excess return predictability regression coefficient b from a regression of the form ɛxrn,t→t+4$=a+byn,t$−y1,t$+ɛt using quarterly overlapping observations and n=40 quarters in the model and in the data. On the x-axis is the parameter determining the adaptiveness of inflation expectations, ζ, which determines the backward-looking component of the PC through (22) in the model. All other parameters are as in Table 1. The data coefficient is shown as a black dashed line with 90% confidence intervals based on Newey–West standard errors with 4 lags. The blue solid line shows the model coefficient at each parameter value. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Counterfactual bond-stock betas.This figure shows model-implied nominal and real bond betas while changing parameter groups one at a time. Panel A sets all parameters to the 1979.Q4-2001.Q1 calibration unless stated otherwise. It reports bond betas while setting the following parameters to their averages of the 1979.Q4-2001.Q1 and 2001.Q2-2019.Q4 calibrations: “Shocks” (σx, σπ, and σi), “MP All” (ρi, γx and γπ), “MP Inertia” (ρi), “MP Output/Inflation Weights” (γx and γπ), and “Inflation Expectations” (ζ). Panel B does the reverse exercise, holding all parameter values constant at the 2001.Q2-2019.Q4 baseline."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Model macroeconomic impulse responses.This figure shows model impulse responses for the output gap (%,), inflation (ann %), nominal policy rate (ann. %), and real one-quarter interest rate (ann. %). The impulse in the left column is a one-percentage-point demand shock, in the middle column is a one-percentage-point Phillips curve or supply shock, and in the right column is a one-percentage-point monetary policy shock. Impulse responses for the 1979.Q4-2001.Q1 calibration are shown in black, while the impulse responses for the 2001.Q2-2019.Q4 calibration are shown in red dashed. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Model asset price impulse responses.This figure shows model impulse responses for the stock dividend yield, 10-year zero-coupon nominal bond yield, and 10-year zero-coupon real bond yield (all in ann. %). The 1979.Q4-2001.Q1 calibration is shown with black solid lines and the 2001.Q2-2019.Q4 calibration is shown with red dashed lines. The impulse in the left column is a one-percentage-point demand shock, in the middle column is a one-percentage-point Phillips curve or supply shock, and in the right column is a one-percentage-point monetary policy shock. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Nominal bond betas by prevalent vs. realized shocks.This figure shows model-implied nominal bond betas (solid) and the betas of risk-neutral nominal bond returns with respect to the stock market (dashed) across prevalent and realized shock distributions. The leftmost bars set all parameter values to the 1979.Q4-2001.Q1 calibration. The middle bars change both the realized and prevalent shock volatilities to the 2001.Q2-2019.Q4 values, i.e. the equilibrium is recomputed at the 2001.Q2-2019.Q4 shock volatilities. The rightmost bars change only the realized but not the prevalent shock volatilities to their 2001.Q2-2019.Q4 values, i.e. equilibrium asset prices are not recomputed and only the simulated shocks drawn from the 2001.Q2-2019.Q4 distribution."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Model-implied nominal bond-stock beta vs. 1980s bond-stock beta.Note: This figure shows model ten-year nominal bond-stock betas (blue circles) against the standard deviation of supply shocks σπ on the x-axis and the MP inflation weight γπ on the y-axis while holding the monetary policy inertia coefficient constant at ρi=0.54 (Panel A) and ρi=0.80 (Panel B), respectively. All other parameters are set to their values in the 2000s calibration in Table 1. The orange plane indicates the empirical ten-year nominal bond-stock beta for the 1979.Q4-2001.Q1 subperiod. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Timeline of post-pandemic inflation and monetary policy.Note: This figure shows CPI headline inflation for all urban consumers (CPIAUCSL) over the past twelve months (ann, %) and the effective federal funds rate (DFF, ann, %) for the sample 01/01/2018 through 31/12/2023. Monthly data is from the St. Louis Fred. A vertical line indicates March 11, 2020 (Covid)."
+        ],
+        "correlation": []
+    },
+    "10": {
+        "description": [
+            "Post-pandemic bond-stock betas from daily data.Note: Panel A shows betas from regressing daily ten-year nominal and TIPS bond log returns onto daily US S&P 500 log returns over 120-trading day backward-looking rolling windows for the sample 01/01/2018 through 31/12/2023. Daily log bond returns are computed from zero-coupon yield curves, available from Gürkaynak et al., 2007, Gürkaynak et al., 2010. A vertical line indicates March 11, 2020 (Covid). 90% confidence intervals based on heteroskedasticity robust standard errors are shown in dashed. Panel B shows the difference between the nominal and real (TIPS) bond-stock beta with 90% confidence intervals based on Huber-White heteroskedasticity robust standard errors."
+        ],
+        "correlation": []
+    }
+}

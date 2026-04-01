@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Timing of independent and dependent variables in the U.S. market return forecasting regression. This figure shows how the independent variables, mktnm(t,j)⁠, in the U.S. return forecasting regression mktt=α+∑j=14βjmktnm(t,j)+ϵt progress as the dependent variable moves forward. Notice mktnm(t,j) is the jth most recent newsy month strictly before month t.",
+        "correlation": []
+    },
+    "2": {
+        "description": "The expected stock market returns and the 1-month Treasury rates. The blue line (exp_ret) of this figure plots the expected stock market return as in method 6 of Table 4. The dashed red line (rf) is the 1-month Treasury rates. The unit is percent per month.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Continuation vs. reversal strength across decades. This figure plots the strength of the continuation arm of the return, represented by β1 in Table A1 against the strength of the reversal, represented by β1+β2⁠. Each decade in the CRSP history is represented by a point. The blue line is fitted across the points.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Predictive power of earnings in period 0E on earnings in future periods. This figure is an example of the predictive power of the earnings announced in period 0E on earnings in future periods, namely the regression loadings of these future earnings on 0E earnings. The “E” periods represent the early half of the earnings cycle and are newsy. The “L” periods represent the late half of the earnings cycle and are non-newsy. Time progresses from left to right for eight periods to period 4E. The blue circles represent the actual predictive power across the forecasted periods, following a step function from left to right. The red circles represent the predictive power in investors’ belief. The green bars show their differences, representing investors’ forecasting errors.",
+        "correlation": []
+    },
+    "5": {
+        "description": "Loadings of E(arly) and L(ate) period earnings on past earnings shocks. The left panel of this figure is an example of the loadings of the earnings announced in period 0E on past earnings shocks. The “E” periods represent the early half of the earnings cycle and are newsy. The “L” periods represent the late half of the earnings cycle and are non-newsy. From left to right, time moves backward for eight periods to period –4E. The blue circles represent the actual earnings’ loadings across past periods. The red circles represent expected earnings’ loadings across past periods. Complementing the left panel, the right panel of this figure shows the loadings of the earnings announced in period 0L on past earnings shocks.",
+        "correlation": []
+    }
+}

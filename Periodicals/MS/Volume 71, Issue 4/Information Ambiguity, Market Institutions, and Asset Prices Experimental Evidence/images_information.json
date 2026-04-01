@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "(Color online) Cumulative Distribution Functions of the Ambiguity Measure for Each Treatment Notes . The x -axis is the value of the ambiguity measure AM , and the y -axis is the cumulative probability of observing AM values less than the x -axis value. The blue solid line is for treatment I, the red line with the plus marker is for treatment C, and the yellow dashed line is for treatment DA.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Mean Predictions for the Expected Variance of Ambiguous Signals and Mean Implied Weights Assigned to the Ambiguous Signal in Treatments I, C, and DA According to Whether the Signal Was Good or Bad News Notes . The yellow (light) bar is good news, and the navy (dark) bar is bad news. The x -axis reports on the whole sample as well as subsamples of ambiguity-averse, ambiguity-neutral, and ambiguity-seeking subjects. The y -axis is the variance expectation in the top panel and the implied weight allocated to the ambiguous signals in the bottom panel for each treatment group. The green error bars show 95% confidence intervals.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Treatment DA Mean Variance Prediction for Ambiguous Signals of the Whole Sample, the Subsample of Ambiguity-Averse, Ambiguity-Neutral, and Ambiguity-Seeking Subjects in the Left Panel, the Mean Implied Weight Assigned to the Ambiguous Signal in the Right Panel Notes . The top panel demonstrates the scenario in which subjects submit more bid offers, and the bottom panel demonstrates the scenario in which subjects submit more ask offers. The yellow (light) bar is good news, and the navy (dark) bar is bad news. The green error bars show 95% confidence intervals.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) The Cumulative Distribution Function of the RD(F) in Each Scenario in Treatment I (Top Panel), Treatment C (Middle Panel), and Treatment DA (Bottom Panel) Note . The purple dashed line with triangle marker is the RD(F) for scenario 4 (ambiguous signals), the blue solid line is the RD(F) for scenario 1, the red line with plus marker is the RD(F) for scenario 2, and the yellow dashed line is the RD(F) for scenario 3.",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Treatment DAS Mean Variance Prediction for Ambiguous Signals of the Whole Sample, the Subsample of Ambiguity-Averse, Ambiguity-Neutral, and Ambiguity-Seeking Subjects in the Left Panel and the Mean Implied Weight Assigned to the Ambiguous Signal in the Right Panel Notes . The top panel demonstrates the aggregation of whole market, the middle panel demonstrates the scenario in which subjects submit more bid offers, and the bottom panel demonstrates the scenario in which subjects submit more ask offers. The yellow (light) bar is good news, and the navy (dark) bar is bad news. The green error bars show 95% confidence intervals.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) The Cumulative Distribution Function of the RD in Each Scenario Notes . The x -axis is the value of RD, and the y -axis is the probability. The purple dashed line with triangle marker is the RD for scenario 4 (ambiguous signals), the blue solid line is the RD for scenario 1, the red line with plus marker is the RD for scenario 2, and the yellow dashed line is the RD for scenario 3.",
+        "correlation": []
+    }
+}

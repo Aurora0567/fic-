@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Model Response."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Model Response: No Discretionary Adjustment."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Model: Turnover as a Function of Institutional Ownership, Low and High-Volatility Equilibrium."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Financial Development Index and Foreign Investor Responses.This figure plots each country/area’s financial development index (FDI) from IMF against the regression coefficients of Gvol×FOR×Logsize in equation (Eq. (10)). FDI index is a relative ranking of countries on the depth, access, and efficiency of their financial institutions and financial markets. The financial institutions Index (FII) is a component of FDI that measures domestic institutions depth (including banks, pension funds, mutual funds, and insurance sector), access and efficiency. The regression is done for each individual developed economy and emerging market groups (Americas, Europe, and Asia-Pacific)."
+        ],
+        "correlation": []
+    }
+}

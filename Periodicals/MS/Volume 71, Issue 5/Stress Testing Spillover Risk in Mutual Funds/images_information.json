@@ -1,0 +1,70 @@
+{
+    "1": {
+        "description": "(Color online) Spillover Loss Ratio for Different Values of Flow-to-Performance Ratio When Funds Follow a Pecking Order Liquidation Strategy Both in the Absence of First Movers (Dashed Line) and if All Investors Are First Movers (Solid Line) Notes . For each asset, we apply a shock equal to −5% price change times its relative volatility. We use asset holdings data from Q1 2020.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Spectral Radius of Systemicness Matrix and Spillover Loss Ratio Notes . The left panel shows the spectral radius of the systemicness matrix for different values of flow-to-performance sensitivity and different years. The right panel shows the spillover loss ratio for different values of flow-to-performance sensitivity and different years. Flow-to-performance sensitivity is assumed constant across funds; data refer to the first quarter of each year.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Historical Spillover Loss Ratio and the Contribution of First Movers Notes. The left panel shows the spillover loss ratio over time for different values of flow-to-performance sensitivity with/without first movers. The right panel illustrates the proportion of the spillover loss ratio attributable to the presence of first movers.",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Historical Share of First Movers, Spectral Radius of the Systemicness Matrix, and Market Share of US Mutual Funds Notes. The left panel plots the proportion of assets held by institutional fund share classes (our proxy for first movers) over time. The right panel plots the spectral radius of the matrix C = ( a tot / a m ) · M L M ⊤ A over time. The bottom panel plots the size of the U.S. mutual fund industry relative to the whole U.S. financial sector over time. The systemicness matrix is defined as ( a m / a tot ) C B . Therefore, differences in the magnitudes of the spectral radius of C and that of the systemicness matrix are due to the relative size of the mutual fund industry a m / a tot and to the flow-to-performance sensitivity matrix B (set as a multiple of the identity matrix in all examples in the paper).",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Spillover Losses When 90% of First Movers Are Concentrated in Half of the Funds and 10% on the Other Half (Solid Line) and When First Movers Are Evenly Distributed Across Funds (Dashed Line) Notes . In the left panel, the exogenous shock applied to each asset equal is equal to a price change of −5% multiplied by its relative volatility specified in Table 3 . In the right panel, flow-to-performance sensitivity is set to 55%, and the exogenous shock to each asset is obtained by multiplying the price change on the x -axis by each asset’s relative volatility. We use fund holdings data from Q4 2019.",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with/without First Movers Notes . Flow-to-performance sensitivity is set equal to 60%. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "7": {
+        "description": "(Color online) Change in Spillover Losses When Each Fund Type Is Isolated from Other Fund Types with and without First Movers Notes . For each fund type, the bar with horizontal lines shows the increase in spillover losses caused by first movers if funds of this type are isolated from others. The bar with diagonal lines and the dotted one show the increase in spillover losses if these funds are connected to the rest of the system—respectively, with and without first movers—relative to the case in which they have no portfolio commonality with other funds and there are no first movers in the system. We set the flow-to-performance sensitivity to 55%. We apply initial shocks to all assets equal to −5% of their respective realized relative volatilities. We consider portfolio holdings in the fourth quarter (left plot) of 2019 and first quarter (right plot) of 2020.",
+        "correlation": []
+    },
+    "8": {
+        "description": "(Color online) Fund Returns for Different Values of Fund-to-Performance Sensitivity Notes . The exogenous shock to convertible, corporate, and municipal bonds equals to a price change of −20% multiplied by the realized volatility of each asset. We use asset holdings data from Q4 2019.",
+        "correlation": []
+    },
+    "9": {
+        "description": "(Color online) Spillover Loss Ratio for Different Values of Flow-to-Performance Sensitivity and Different Subsets of Mutual Funds Notes . Each panel shows the spillover loss ratio for different subsets of mutual funds: equity funds (ED, EF), fixed income funds (I, IC, IF), government bond funds (IG), municipal bond funds (IU), and other funds (M, O). We apply initial shocks of −5% times the corresponding realized assets’ relative volatilities. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "10": {
+        "description": "(Color online) Spillover Loss Ratio for Different Values of Flow-to-Performance Sensitivity Notes . The left panel shows the sum of the SLRs for the subsets of mutual funds detailed in Figure 9 weighted by their respective initial exogenous losses. The right panel shows the SLR of the whole system of mutual funds. We apply initial shocks of −5% times the corresponding realized assets’ relative volatilities. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "11": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with/without First Movers under the Variation of the Model Sketched in Section 5.1 Notes . Flow-to-performance sensitivity is set to 60%. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "12": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Caps on the Amount of Redemptions Notes . Flow-to-performance sensitivity is set equal to 55%. We examine three levels of redemption caps with the most restrictive cap set at 25%, resulting in the suspension of redemptions once the share of redeemed shares surpasses 25%. Conversely, the least restrictive cap is set at 100%, representing the baseline scenario in which redemptions are allowed to continue without interruption. We use asset holdings from Q4 2019.",
+        "correlation": []
+    },
+    "13": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with/without First Movers with Heterogeneous Flow-to-Performance Sensitivities Notes . Left panel: we assign sensitivities b e q ≔ 0.419 for equity, government fixed income, and mixed funds and b corp ≔ 0.859 for other fund types based on the Goldstein et al. (2017) estimates for equity and corporate bond funds. Right panel: funds’ sensitivities are based on a linear interpolation between a fund entirely invested in stocks with sensitivity b eq and one fully invested in corporate bonds with sensitivity b corp . We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "14": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with/without First Movers Notes . Institution-oriented funds have no first movers but larger flow-to-performance sensitivity. We use asset holdings data from each year’s first quarter. See Section 5.4 for the details.",
+        "correlation": []
+    },
+    "15": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with the Optimal Swing-Pricing Rule, with a Swing-Pricing Adjustment Capped at 2%, and without Swing Pricing Notes . Flow-to-performance sensitivity is set equal to 60%. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    },
+    "16": {
+        "description": "(Color online) Spillover Losses When First Movers Are Concentrated in Half of the Funds (Solid Line) and When First Movers Are Evenly Distributed Across Funds (Dashed Line) Notes . In the left panel, the exogenous shock applied to each asset is equal to a price change of −5% multiplied by its relative volatility specified in Table 3 . In the right panel, flow-to-performance sensitivity is set to 50%, and the exogenous shock to each asset is obtained by multiplying the price change on the x -axis by each asset’s relative volatility. We use asset holdings data from Q4 2019.",
+        "correlation": []
+    },
+    "17": {
+        "description": "(Color online) Spillover Losses (in Trillions of Dollars) for Different Initial Exogenous Shocks with/without First Movers When Funds Deplete Their Cash Buffers First Before Liquidating Other Assets Notes . Flow-to-performance sensitivity is set to 60%. We use asset holdings data from each year’s first quarter.",
+        "correlation": []
+    }
+}

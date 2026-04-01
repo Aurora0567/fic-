@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "Number of DMMs by Basket Around the Implementation of the New SLP Rules Notes. This figure charts the number of DMMs present in each of the four baskets of stocks in the pre-SLP period (April 1–June 3, 2013) and post-SLP period (June 3–July 31, 2013). We refer readers to the Internet Appendix for basket composition details. We note that in the pre-SLP period, seven DMMs were active as CAC 40 index constituents; in the post-SLP period, a new DMM joined the SLP program. Data on the number of DMMs per basket come from AMF.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Trader Account Types Note. This figure illustrates the trader account types used in this paper and obtained from the BEDOFIH database.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Quoted and Effective Half-Spreads Around the New SLP Rules Notes. This figure shows the weekly moving average of the market-wide residuals of quoted (see Equation (1) ) and effective (see Equation (2) ) half-spreads in bps after controlling for stock and market volatilities, market capitalization, trading volume, and the inverse of the stock price. The solid black (gray) line shows the spread dynamics for stocks that belong to the CAC 40 (DAX 30). For readability, we subtract the pre-SLP average (April 1–June 3, 2013) from both time series. The horizontal dashed lines represent the pre-SLP and post-SLP averages of the half-spreads. The vertical dashed and dotted lines represent the announcement and implementation dates of the new SLP rules, respectively. The period under consideration ranges from April 1, 2013, until July 31, 2013. The sample comprises 36 stocks traded on NYSE Euronext Paris that belong to the CAC 40 index and 30 stocks that belong to the DAX 30 index. Data for the French and German stocks come from the BEDOFIH and TRTH databases, respectively.",
+        "correlation": []
+    }
+}

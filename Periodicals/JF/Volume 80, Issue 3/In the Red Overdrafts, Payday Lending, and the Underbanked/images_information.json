@@ -1,0 +1,18 @@
+{
+    "1": {
+        "description": "Illustrative example of high-to-low transaction reordering. The figure illustrates the mechanics of high-to-low transaction reordering for a consumer who begins the month with $400 in her checking account. Early in the day, her electric bill is deducted via automatic payment. During the day, she buys groceries. At the end of the day, her landlord deposits her rent check. Her bank charges a $35 fee per overdraft. Under chronological transaction ordering, she would incur only one overdraft for her rent payment. Under high-to-low transaction reordering, she incurs an overdraft for every transaction.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Bank overdraft activity in response to high-to-low reordering bans. The figure plots the coefficients of the bank \n\n×\n$\\times$\n quarter-level difference-in-differences analysis around high-to-low reordering bans. In Panel A, the outcome variable is the growth in overdraft-related revenue proxied by deposit account service charges. In Panel B, the outcome variable is the balance of overdrafts proxied by all other loans. Bank and quarter fixed effects are included. The 90% confidence intervals are given based on standard errors clustered at the bank and quarter level.",
+        "correlation": []
+    },
+    "3": {
+        "description": "Household demand for payday loans and installment loans in response to high-to-low reordering bans. The figure plots the coefficients of the zip code \n\n×\n$\\times$\n quarter-level difference-in-differences analysis around high-to-low reordering bans. In Panel A, the outcome variable is the dollar amount of payday loans disbursed per payday borrower. In Panel B, the outcome variable is the dollar amount of installment loans disbursed per low-income installment borrower. The sample is restricted to zip codes with below-median income. Neighborhood \n\n×\n$\\times$\n quarter fixed effects are included. The 95% confidence intervals are given based on standard errors clustered at the neighborhood level.",
+        "correlation": []
+    },
+    "4": {
+        "description": "Bank branch closures in response to high-to-low reordering bans. The figure plots the coefficients of the zip code \n\n×\n$\\times$\n year \n\n×\n$\\times$\n bank-level difference-in-differences analysis around high-to-low reordering bans. The outcome variable is a dummy variable that takes a value of one if the bank exits the zip code in the year, and zero otherwise. In Panel A, we examine the full set of zip codes. In Panel B, we subset to zip codes in which the high-to-low-reordering-banned bank has two or fewer branches. Zip code \n\n×\n$\\times$\n year and bank \n\n×\n$\\times$\n zip code fixed effects are included. The 95% confidence intervals are given based on standard errors clustered at the bank and year level.",
+        "correlation": []
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "1": {
+        "description": "(Color online) Plot of Average ALG Average OPT × 100 on the y Axis with log ( k ) on the x Axis Notes. For each value on the x axis, the ratio on the y axis is the average value of ALG over 1,000 instances divided by the average value of OPT over (the same) 1,000 instances. The standard deviation is represented using bars around each data point and becomes negligible for log ( k ) ≥ 6 . We did not observe any qualitative change in the plot if the y axis is changed to the average of the ratio ALG OPT as opposed to the ratio of the average values of ALG and OPT.",
+        "correlation": []
+    }
+}

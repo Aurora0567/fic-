@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": [
+            "Dynamics in capital commitments across investor and fund classes.This figure plots the percentage of capital commitments to top VC funds (Panel A) and nontop VC funds (Panel B) from different sources (columns) using Preqin data on U.S. VC funds closed from 1999 to 2006. Each dot shows the average of the fund-level portions of commitments from the source in question to funds raised by top VCs (Panel A) or nontop VCs (Panel B). The leftmost plot shows the average portion of commitments from public LPs; the center plot shows non-public LPs that are not FoF; and the rightmost plot shows FoFs. The vertical dashed line denotes the 2002q4 FOIA shock. The 12-month periods consider fund close dates and span from Q4 of one year to Q3 of the subsequent year, matching the timing of the FOIA shock. The lines present simple linear trends."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Performance of public LPs’ VC and FoF commitments versus a reinvestment counterfactual.This chart examines the performance of public LPs’ VC and FoF commitments for the 2003–2006 post-FOIA shock period. We compare the performance of public LPs’ actual commitments (right column) with the performance of a counterfactual portfolio (left column) constructed by assuming that all public LPs naively reinvested in all the funds raised by VC and FoF managers with whom they had invested in the 1990–2002 period. For example, this counterfactual portfolio assumes that the University of California would have invested in the Sequoia XI fund because the University of California had invested in Sequoia X. Actual investments are sourced from Preqin, and commitment-weighted performance data is calculated using MSCI-Burgiss. The three intermediate columns decompose the performance difference between the actual investments and the reinvestment counterfactual by reporting the performance impact of incrementally converting the reinvestment counterfactual to the actual investments. The top VC reallocations bar marks the performance effect of replacing the top VC commitments in the reinvestment counterfactual with the actual top VC commitments made. The nontop VC reallocations bar marks the additional effect of changing the other VC commitments to the actual investments. The FoF reallocations bar marks the additional effect of replacing the reinvestment-counterfactual FoF commitments with the actual commitments."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Information protected by LPA confidentiality clauses.This figure provides reports changes in limited partner agreements (LPAs) in response to the disclosure requirements. Panel A presents data on 39 VC fund LPAs from 1999–2006. Panel B shows data from 14 LPAs composed of pairs of pre- and post-FOIA shock LPAs from the seven VC firms. Marked confidential refers to LPAs marked as confidential, LP discrimination means specific LPs get (or could get) less information, Protected platform means information is only available in temporary online form, Explicit protection means disclosure is explicitly prohibited, and Implicit protection means disclosure is not explicitly allowed. The x-axis shows the percentage of LPAs offering a particular protection, with triangles (circles) marking the frequency of a protection before (after) to the FOIA shock."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "FOIA amendments across states after the disclosure lawsuits.This map indicates the states that passed amendments to their FOIAs between 2003 and 2012. These amendments exclude certain information regarding PE investments of public entities from state-level open records acts. Section IA.3 of Online Appendix contains the text and dates of the amendments. Yellow denotes states passing FOIA amendments exempting portfolio company information from disclosure and blue denotes states passing FOIA amendments exempting both fund-level return information and portfolio company information. Map was created with mapchart.net. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

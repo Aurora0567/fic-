@@ -1,0 +1,26 @@
+{
+    "1": {
+        "description": "Income Statement of a Client Firm",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Structure of the Federated Blockchain",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) MPC Transaction Verification on a Federated Blockchain",
+        "correlation": []
+    },
+    "4": {
+        "description": "(Color online) Auditing Transactions with a Federated Blockchain",
+        "correlation": []
+    },
+    "5": {
+        "description": "(Color online) Equilibrium Adoption of Blockchains and Market Share: Heterogenous Auditors and Clients Notes. This figure shows how the model’s equilibria vary with parameters. (a) Regions with different equilibria for varying blockchain adoption cost γ and client’s misstatement incentive γ . (b) Market share of auditor A 1 under the different equilibria. The values of other parameters are 𝐾 = 5 , 𝐾 𝑝 ⁢ 𝑟 = 5 , 𝜇 = 1 , 𝛿 = 1 , 𝜆 = 1 , 𝑎 1 = 0 . 0 5 , 𝑎 2 = 0 . 1 0 , 𝑏 = 0 , 𝑐 1 = 1 , 𝑐 2 = 0 . 0 2 , 𝑑 = 1 5 K = 5 , K p ⁢ r = 5 , μ = 1 , δ = 1 , λ = 1 , a 1 = 0.05 , a 2 = 0.10 , b = 0 , c 1 = 1 , c 2 = 0.02 , d = 15 .",
+        "correlation": []
+    },
+    "6": {
+        "description": "(Color online) Endogenous Choice of Transaction Partners and Blockchain Adoption Notes. This figure shows how blockchain equilibrium adoption and the ex ante client’s expected utility and social utility functions depend on the fraction of private transactions ( m ). 𝑐 1 = 4 c 1 = 4 and the other parameters are the same as in Figure 5 .",
+        "correlation": []
+    }
+}

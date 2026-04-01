@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "(Color online) Fraction of Zombie Borrowers: Step-by-Step Definition Adjustments Notes. This figure depicts the impact of every adjustment made to the original OECD definition on the fraction of zombie borrowers. The solid line with circles shows the fraction of zombie borrowers identified by the OECD definition. The long-dashed line with squared shows the impact of accounting for recurrent financial income. The short-dashed line with diamonds shows the impact of accounting for recurrent financial income and adding back depreciation and amortization. The solid line with triangles shows the fraction of zombie borrowers identified after introducing all adjustments. The sample includes yearly data of firms borrowing from more than one bank between 2004 and 2018.",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Share of Zombie Firms in Belgium Notes. This figure plots the evolution of the fraction of (i) zombie borrowers (solid line with circles); (ii) capital sunk in zombie borrowers (long-dashed line with squares); (iii) labor force sunk in zombie borrowers (solid line with diamonds); and (iv) bank credit granted to zombie borrowers (short-dashed line with triangles). Capital is proxied by fixed tangible assets. Labor is proxied by FTEs. The sample includes yearly data of firms borrowing from more than one bank between 2004 and 2018.",
+        "correlation": []
+    }
+}

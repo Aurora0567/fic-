@@ -1,0 +1,22 @@
+{
+    "1": {
+        "description": "Timeline of baseline model",
+        "correlation": []
+    },
+    "2": {
+        "description": "The equilibrium exit probability  η∗  and the level of short-term debt  γ",
+        "correlation": []
+    },
+    "3": {
+        "description": "Managerial incentives  c^  as a function of the level of short-term debt  γ",
+        "correlation": []
+    },
+    "4": {
+        "description": "Sequence of events: Model with voice",
+        "correlation": []
+    },
+    "5": {
+        "description": "Voice incentives as a function of the level of short-term debt",
+        "correlation": []
+    }
+}

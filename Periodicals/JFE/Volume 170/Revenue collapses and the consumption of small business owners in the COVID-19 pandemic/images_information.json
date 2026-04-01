@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Average business and household outcomes.Notes: This figure shows the average monthly dollar levels of business revenues, expenses, profits, and household consumption from September 2019 to September 2021. The dotted vertical lines mark two key points: the month of the national emergency declaration (March 9th, 2020) and one year after the national emergency. The blue horizontal lines represent the average levels of these outcomes during the six months prior to the national emergency. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Average percent change in business and owner outcomes relative to 2019.Notes: This figure shows the average monthly percent change in business revenues, expenses, profits, and household consumption from September 2019 to September 2021. The dotted vertical lines indicate two key points: the month of the national emergency declaration (March 9th, 2020) and one year after the declaration. Outcomes are normalized based on the centered 3-month average from the previous year, with changes defined as percent deviations from their averages between September 2019 and March 2020 (i.e., the six months prior to the national emergency)."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Average changes in business revenues in 2020 by subgroup.Notes: This figure shows the average monthly percent change in business revenues, expenses, profits, and household consumption from September 2019 to September 2021. The dotted vertical lines indicate two key points: the month of the national emergency declaration (March 9th, 2020) and one year after the declaration. Outcomes are normalized based on the centered 3-month average from the previous year, with changes defined as percent deviations from their averages between September 2019 and March 2020 (i.e., the six months prior to the national emergency). Panel A plots monthly changes in revenues for essential and non-essential businesses; Panel B for small and large businesses; Panel C by employer and non-employer firms; and panel D by low vs. high liquidity firms. Essential industry categorization based on the advisory list provided by the Department of Homeland Security (HLS). “Small” (“Large”) firms includes those with lower (higher) than median annual sales in 2019 within its NAICS 4-digit sub-industry. A firm is considered to be an employer firm if a business had payroll expenses for at least 6 months in 2019. Low (high) liquidity sample includes firms with lower (higher) than the first (third) quartile of cash buffer days within its sub-industry."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Business survival.Notes: This figure shows the number of business survival by month. This sample includes 1.8mil businesses that were active in 2019 and have an open account for at least one month in 2020. Exit is defined as the closure of a business checking account or inactivity until the end of the sample period. If a business has two business checking accounts, both accounts must be closed to be coded as exit."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Share of states with NPI policies in effect.Notes: This figure shows the share of states that have respective NPIs enacted over time. The dotted vertical lines indicate the month of the national emergency declaration (March 2020). For example, panel A shows that more than 80% of the states in our sample imposed shelter-in-place restrictions five weeks into the national emergency. “Nonessential”, “Public venue”, “Religious gathering”, and “School” refer to closures or restrictions on the said activities. The numbers in parenthesis for “Gathering limit” restrictions refer to gathering limits (e.g., a limit of 10 people).State-level NPI data are obtained from Keystone Strategy and U.S. Department of Health and Human Services."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "County-level infections per capita.Notes: This figure displays county-level infections per 1000 residents for three counties representing low, medium, and high-risk areas for disease growth, determined by terciles of cumulative infection rates. Counties with cumulative infection rates below the first tercile (1.01) are classified as “low-risk”; those between the first and third terciles (up to 2.94) are “medium-risk”; and counties above the third tercile are classified as “high-risk”. The counties illustrated have the highest cumulative infections per 1000 residents within each risk category. Panel A plots new cases, using the left axis, for example, counties with low (Glenn, CA) and medium (Nowata, OK) caseloads, while the right axis represents the high-risk county (New York, NY). Panel B plots cumulative cases per 1000 residents. County-level population estimates are based on total population data as of July 1, 2019. The dotted vertical lines indicate two key points: the month of the national emergency declaration (March 9th, 2020) and one year after the declaration.Population data from the U.S. Census Bureau and coronavirus data from The New York Times, based on reports from state and local health agencies."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Average changes in business revenues and owners’ consumption by industry performance.Notes: This figure shows average monthly changes in business revenues (blue) and owners’ consumption (red) for businesses in the most and the least affected industries. Outcomes are normalized based on the centered 3-month average from the previous year, with changes defined as percent deviations from their averages between September 2019 and March 2020 (i.e., the six months prior to the national emergency). The dotted vertical lines indicate two key points: the month of the national emergency declaration (March 9th, 2020) and one year after the declaration. Solid lines show the average change in outcomes for the top 5% best performing (i.e., least affected) NAICS 4-digit industries in terms of their average drop in revenues since the onset of the national emergency, and dashed lines show the average change in outcomes for the bottom 5% worst performing industries. For this analysis, we restrict the sample to industries with at least 100 businesses. The least affected industries include beer, wine, and liquor stores; nursing care facilities; funeral homes and cemeteries; toilet preparation and detergent manufacturing; and chemical product manufacturing firms. The most affected industries include vending machine operators, taxi or limo services, consumer goods rentals, travel/tour agencies, and drinking places. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Median business and owner’s checking account balances from January.Notes: This figure shows median end-of-month business (blue) and owner’s personal (red) checking account balances. Panel A shows the median dollar levels of account balances, and Panel B shows the median percent change in account balances since September 2019. For panel A, the owner’s personal checking account balances use the left axis, and business checking account balances use the right axis. Green lines indicate the months when Economic Impact Payments and Paycheck Protection Program funds were disbursed. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Median changes in checking account balance by industry performance.Notes: This figure shows median changes in the end-of-month business (blue) and owner’s personal (red) checking account balances from September 2019 by industry performance. Solid lines show the top 10% of best-performing NAICS 4-digit industries in terms of their average drop in revenues since the onset of the national emergency, and dashed lines show the average change in outcomes for the bottom 10% of worst-performing industries. For this analysis, we restrict the sample to industries with at least 100 businesses. Green lines indicate the months when Economic Impact Payments and Paycheck Protection Program funds were disbursed. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of this article.)"
+        ],
+        "correlation": []
+    }
+}

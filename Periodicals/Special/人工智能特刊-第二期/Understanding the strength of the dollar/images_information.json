@@ -1,0 +1,56 @@
+{
+    "1": {
+        "description": [
+            "Trend Decomposition of Dollar AFE IndexNotes: The top panel presents the nominal level of the dollar AFE index with December 2001 indexed to 100. The dollar AFE index is a trade-weighted basket comprising the euro, the Canadian dollar, the Japanese yen, the British pound, the Swiss franc and the Swedish kroner. The bottom panel presents the contribution of each block of economic primitives to the percent change in the dollar AFE index over the four sub-periods of our analysis. The total change within a sub-period is marked by a black dot."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Decomposition of Savings and Issuances Contribution to Dollar AFE Index By RegionsNotes: This figure presents the contribution of the savings and issuances from specific currency regions to the dollar AFE index over the four sub-periods of our analysis."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Dollar AFE Index Appreciation MechanismsNotes: This figure presents the various mechanisms captured by our framework that jointly explain movements in the dollar AFE index. In each panel, we plot changes in the dollar computed within our model (y-axis) against changes in various data inputs (x-axis). The top-left panel presents dollar appreciation explained by changes in the U.S. short-term interest rate. The top-right panel presents dollar appreciation explained by shifts in U.S. investor demand towards AFE financial assets, and the bottom-left panel presents dollar appreciation explained by shifts in AFE investor demand towards U.S. financial assets. The y-axis is in percentage points."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Contribution of Bank Loans to Dollar AFE Index 2010–2021Notes: This figure presents the contribution of individual countries’ bank flows to changes in the dollar AFE index from 2010 to 2021. The y-axis values are in percentage points. Each bar represents the contribution of changes to a given country’s net external loan position to the dollar AFE index over the 2010 to 2021 period. The countries explicitly shown are the ones with the largest contributions over the sample period. The “ROW” bar captures the aggregate impact of banking sectors of countries not explicitly shown."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Contribution of Bank Loans to Dollar AFE Index By YearNotes: This figure presents the contribution of individual countries’ bank flows to changes in the dollar AFE index year-by-year over the period 2010 to 2021. The y-axis values are in percent."
+        ],
+        "correlation": []
+    },
+    "6": {
+        "description": [
+            "Trend Decomposition of AFE Index for Different Demand ElasticitiesNotes: This figure shows the robustness of our decomposition to variation in estimates of asset demand elasticities. The top panel presents the decomposition of the change in the dollar AFE index in each sub-period across the different parameterizations for demand elasticities. The “Baseline” specification re-iterates the results shown in Fig. 1. The six alternative parameterizations scale the demand elasticities in all asset classes up and down as shown in the bottom panel."
+        ],
+        "correlation": []
+    },
+    "7": {
+        "description": [
+            "Variance Decomposition of the Dollar Factor for Different Demand ElasticitiesNotes: This figure shows the robustness of our decomposition of the variance of the dollar factor to variation in estimates of asset demand elasticities. Each panel shows how the share of explained variation changes as we systematically increase the demand elasticities. The “Baseline” specification re-iterates the results shown in Table 2. The six alternative parameterizations scale the demand elasticities in all asset classes up and down as shown in the bottom panel."
+        ],
+        "correlation": []
+    },
+    "8": {
+        "description": [
+            "Decomposition of Covariance with the Dollar Factor for Different Demand ElasticitiesNotes: This figure shows the robustness of our decomposition of the average covariance of the seven major currencies in our sample with the dollar factor to variation in estimates of asset demand elasticities. Each panel shows how the share of explained covariance changes as we systematically increase the demand elasticities. The “Baseline” specification re-iterates the results shown in Table 3. The six alternative parameterizations scale the demand elasticities in all asset classes up and down as shown in the bottom panel."
+        ],
+        "correlation": []
+    },
+    "9": {
+        "description": [
+            "Change in Dollar AFE Index in Counterfactual ScenariosNotes: This figure presents changes in the value of the dollar AFE index under two counterfactual scenarios using end-of-sample data and estimates from 2021. The top panel presents the changes in the dollar AFE index as each country unilaterally liquidates their dollar asset holdings. The bottom panel presents changes in the dollar AFE index given a shift in global demand curves scaled to what was observed globally from 2002 and 2007."
+        ],
+        "correlation": []
+    }
+}

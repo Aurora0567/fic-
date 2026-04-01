@@ -1,0 +1,32 @@
+{
+    "1": {
+        "description": [
+            "Block Trading Cost Decomposition for Dealer Block Sell.The figure illustrates the decomposition of block initiator costs in a scenario where a dealer sells a block of bonds to the initiator (Dealer Block Sell) at price PB at time tblock. The block trade price is higher than the pre-trade equilibrium value PPRE at time tPRE. The post-trade equilibrium value (PPOST) at tPOST is higher than the pre-trade equilibrium value. The dealer offsets the block position by purchasing bonds at a weighted-average price POFF from receiving investors at time toffset. In Figure A, block initiator costs of 20 bp are decomposed into a temporary price impact component (15 bp) and a permanent price impact component (5 bp). In Figure B, block initiator costs of 20 bp are further decomposed into dealer spread (10 bp) and receiver spread (5 bp), and a permanent price impact component (5 bp). For a Dealer Block Buy scenario, where the dealer buys a block of bonds from the initiator and sells them to receivers, the decomposition would be analogous except in reverse. Figure C illustrates receiver spreads before and after block report for a block with large information effects. In this example, block initiator costs are 20 bp and permanent price impact is 7.5 bp. Prior to block report, the dealer buys from receiving investors at price POFF-BEF earning a spread of 17.5 bp. Following block report, the dealer buys from receivers at a higher price of POFF-AFT earning a lower spread of 10 bp. Receivers offsetting prior to block report lose 5 bp and receivers offsetting following block report earn a 2.5 bp spread."
+        ],
+        "correlation": []
+    },
+    "2": {
+        "description": [
+            "Block Trading Activity 2002–2021.The figures show block trading statistics over the July 2002 to November 2021 sample period. Figure A shows block trading volume as a proportion of total volume. A block trade is a dealer's sale or purchase with a customer in a single transaction with a par value of at least $15 million (blue solid), $20 million (long red dash), and $30 million (short green dash). Figure B shows block trading volume for blocks of at least $15 million as a share of total volume, distinguished between investment-grade bonds (blue solid line) and high-yield bonds (long red dash). Figure C shows the percentage of block trades that are prearranged, defined as those offset in a single trade within 15 min."
+        ],
+        "correlation": []
+    },
+    "3": {
+        "description": [
+            "Block Trading Costs, by Ex-Post Permanent Price Impact.The figure shows average block trading cost measures across deciles based on ex-post permanent price impact, where decile 1 represents the blocks with the lowest price impact and decile 10 represents blocks with the highest price impact. These measures are derived from the full sample of 205,104 block trades of at least $15 million. Figure A reports receiver spreads, Figure B reports dealer spreads, and Figure C reports initiator costs. Figure D reports receiver savings using two methods: the imputed cost from the block trading cost model (in blue), and the hypothetical cost to initiate derived from TRACE trades executed on the same side of the market after the block trade (in orange). Savings computations are described in detail in Section 4.4."
+        ],
+        "correlation": []
+    },
+    "4": {
+        "description": [
+            "Receiver and Dealer Spreads Surrounding Information Events.The figure presents average receiver and dealers spreads surrounding information events. We identify two types of negative events: negative earnings surprises (actual earnings 5 % below the median analyst forecast) and credit rating downgrades, as well as two positive events: positive earnings surprises (actual earnings 5 % above the median analyst forecast) and credit rating upgrades. For each event, we retain blocks in the five trading days prior to the announcement (days −5 to −1). Panels A and B display receiver spreads, while Panels C and D show dealer spreads. For negative news (Panels A and C), the spreads correspond to Dealer Block Buys, and for positive news (Panels B and D), they correspond to Dealer Block Sells. The sample includes 869 negative earnings surprises, 697 downgrades, 1182 positive earnings surprises, and 178 upgrades. For context, we compare these spreads to the full sample of Dealer Block Buys and Sells, as reported in Table IV."
+        ],
+        "correlation": []
+    },
+    "5": {
+        "description": [
+            "Dealer Inventory Surrounding the Block Trades.This figure reports the distribution of the signed end-of-day cumulated inventory (reported in millions) of the block dealer in the block bond over the window ten days prior to the block trade date (time 0) and ten days subsequent to the date (day 10). The distribution is based on the full sample of 205,104 block trades of at least $15 million. Blue lines represent Dealer Block Buys and orange lines represent Dealer Block Sells. Reported are the mean (solid line), median (dashed line) and 25th and 75th percentiles (round dot lines) of the distribution."
+        ],
+        "correlation": []
+    }
+}

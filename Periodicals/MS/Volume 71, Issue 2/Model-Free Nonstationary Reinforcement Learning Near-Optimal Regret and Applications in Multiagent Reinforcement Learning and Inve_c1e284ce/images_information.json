@@ -1,0 +1,10 @@
+{
+    "1": {
+        "description": "Structure of the Double-Restart Q-UCB Algorithm",
+        "correlation": []
+    },
+    "2": {
+        "description": "(Color online) Cumulative Rewards of the Five Algorithms Under Abrupt Variations and Gradual Variations, as Well as Their Time Usage Notes. (a) Abrupt variations. (b) Gradual variations. (c) Time usage. Shaded areas denote the standard deviations of rewards. Note that RestartQ-UCB significantly outperforms Q-Learning UCB and Epsilon-Greedy, and matches LSVI-UCB-Restart while being much more time-efficient. Double-Restart Q-UCB achieves slightly lower rewards than RestartQ-UCB and LSVI-UCB-Restart because of the additional challenge of unknown-variation budgets, but it still significantly outperforms the two stationary baselines.",
+        "correlation": []
+    }
+}

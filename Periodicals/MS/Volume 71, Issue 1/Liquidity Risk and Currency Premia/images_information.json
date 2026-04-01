@@ -1,0 +1,14 @@
+{
+    "1": {
+        "description": "(Color online) Realized vs. Predicted Excess Return Notes . These figures plot the actual vs. model implied annualized (×252) mean currency excess return for eight factor models of the form 𝑟 ⁢ 𝑝 𝑗 = 𝛼 + 𝛿 𝐟 + 𝜀 r ⁢ p j = α + δ f + ε , where f may contain both traditional and liquidity-based risk factors. The test assets are 36 currency portfolios that are constructed based on eleven common FX trading strategies. The model specifications are given in the titles of every subplot. RMSE , root-mean-square error; R 2 , coefficient of determination; Sh 2 , annualized squared Sharpe ratio associated with the tangency portfolio implied by each model. The sample covers the period from February 21, 1995, to September 30, 2022.",
+        "correlation": []
+    },
+    "2": {
+        "description": "Liquidity Risk Factors and Currency Pricing Kernel Notes. The two bar plots on the left show the difference in the Wald test statistic J t between a model ( without liquidity) including only the dollar and carry factor and a model ( with liquidity) that additionally includes either the systematic (i.e., 𝑆 𝐼 𝑅 - 𝛽 2 SIR - β 2 ) or currency-specific liquidity risk (i.e., 𝐴 𝐼 𝑅 - 𝛽 4 AIR - β 4 ) factor, respectively. The two bar plots on the right show the difference between the annualized squared Sharpe ratio (i.e., Sh 2 ) associated with the tangency portfolio across models with and without liquidity factors. The estimates across the four plots are based on pruning the sample at different start dates (horizontal axis). The first estimate is based on the full sample that covers the period from February 21, 1995, to September 30, 2022. The horizontal dotted lines mark the bootstrapped critical values at the 5% and 95% confidence level, respectively. We use a block bootstrap procedure inspired by Harvey and Liu (2021) that imposes the null hypothesis that the liquidity factors (i.e., 𝑆 𝐼 𝑅 - 𝛽 2 SIR - β 2 and 𝐴 𝐼 𝑅 - 𝛽 4 AIR - β 4 ) are priced by the dollar and carry factor. We draw blocks of 22 days to preserve the serial correlation in portfolio returns. To account for the pruning of the sample we use half of the resampled time indices at each simulation.",
+        "correlation": []
+    },
+    "3": {
+        "description": "(Color online) Cross-Sectional Correlation of Moving Average Weights Notes . This figure plots the rolling window cross-sectional correlation coefficient between the portfolio weights of CAR and 𝑆 𝐼 𝑅 - 𝛽 2 SIR - β 2 or 𝐴 𝐼 𝑅 - 𝛽 4 AIR - β 4 based on 22-day (solid black line) and 1,008-day (dashed gray line) moving averages, respectively. The sample covers the period from February 21, 1995, to September 30, 2022.",
+        "correlation": []
+    }
+}
